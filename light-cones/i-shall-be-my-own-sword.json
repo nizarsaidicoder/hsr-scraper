@@ -1,0 +1,58 @@
+{
+    "id": "8afe00bb-300f-5826-a3f7-6d85fa38b214",
+    "updatedAt": "2023-12-25T17:02:33.009Z",
+    "createdAt": "2023-09-29T13:29:08.635Z",
+    "coneId": 100,
+    "name": "I Shall Be My Own Sword",
+    "slug": "i-shall-be-my-own-sword",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e63f53f91b03c784c9b8c05a2e0f8b64/bf8e1/83_sm.png",
+                            "srcSet": "/static/e63f53f91b03c784c9b8c05a2e0f8b64/914ee/83_sm.png 32w,\n/static/e63f53f91b03c784c9b8c05a2e0f8b64/1c9ce/83_sm.png 64w,\n/static/e63f53f91b03c784c9b8c05a2e0f8b64/bf8e1/83_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/e63f53f91b03c784c9b8c05a2e0f8b64/ef6ff/83_sm.webp 32w,\n/static/e63f53f91b03c784c9b8c05a2e0f8b64/8257c/83_sm.webp 64w,\n/static/e63f53f91b03c784c9b8c05a2e0f8b64/6766a/83_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "October 11th, 2023",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "52",
+            "value_level_max": "1164"
+        },
+        "atk": {
+            "value_level_1": "26",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "With This Evening Jade",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's CRIT DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20/23/26/29/32%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When an ally gets attacked or loses HP, the wearer gains 1 stack of Eclipse, up to a max of \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stack(s). Each stack of Eclipse increases the DMG of the wearer's next attack by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14/16.5/19/21.5/24%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stack(s) are reached, additionally enables the attack to ignore \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12/14/16/18/20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the enemy's DEF. This effect will be removed after the wearer uses an attack.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

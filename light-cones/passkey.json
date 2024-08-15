@@ -1,0 +1,58 @@
+{
+    "id": "c888cb83-9cea-5d8a-bd20-5206d469a8a0",
+    "updatedAt": "2023-04-25T18:43:52.220Z",
+    "createdAt": "2023-01-27T13:20:29.959Z",
+    "coneId": 27,
+    "name": "Passkey",
+    "slug": "passkey",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/8f6c733c02d32be5562688947d036213/bf8e1/27_sm.png",
+                            "srcSet": "/static/8f6c733c02d32be5562688947d036213/914ee/27_sm.png 32w,\n/static/8f6c733c02d32be5562688947d036213/1c9ce/27_sm.png 64w,\n/static/8f6c733c02d32be5562688947d036213/bf8e1/27_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/8f6c733c02d32be5562688947d036213/ef6ff/27_sm.webp 32w,\n/static/8f6c733c02d32be5562688947d036213/8257c/27_sm.webp 64w,\n/static/8f6c733c02d32be5562688947d036213/6766a/27_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "33",
+            "value_level_max": "740"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Epiphany",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After the wearer uses their Skill, additionally regenerates \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8/9\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/10/11/12 \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"Energy. This effect can only be triggered \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time per turn.\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

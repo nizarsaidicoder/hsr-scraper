@@ -1,0 +1,529 @@
+{
+    "id": "55e24214-16c4-52b4-8ec7-000051b945a6",
+    "updatedAt": "August 12th, 2024",
+    "createdAt": "2023-08-16T08:50:56.379Z",
+    "unitId": 38,
+    "name": "Topaz & Numby",
+    "slug": "topaz",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/0ab4d7f7d2a2e2afc7c5979531904fe1/e9a79/38_sm.png",
+                            "srcSet": "/static/0ab4d7f7d2a2e2afc7c5979531904fe1/f31ef/38_sm.png 40w,\n/static/0ab4d7f7d2a2e2afc7c5979531904fe1/1f8a1/38_sm.png 80w,\n/static/0ab4d7f7d2a2e2afc7c5979531904fe1/e9a79/38_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/0ab4d7f7d2a2e2afc7c5979531904fe1/e73fe/38_sm.webp 40w,\n/static/0ab4d7f7d2a2e2afc7c5979531904fe1/61ca6/38_sm.webp 80w,\n/static/0ab4d7f7d2a2e2afc7c5979531904fe1/60b4d/38_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/49efbfd03350589ed96eb762d768ebbc/c9885/topaz.png",
+                            "srcSet": "/static/49efbfd03350589ed96eb762d768ebbc/2aab7/topaz.png 94w,\n/static/49efbfd03350589ed96eb762d768ebbc/0a986/topaz.png 187w,\n/static/49efbfd03350589ed96eb762d768ebbc/c9885/topaz.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/49efbfd03350589ed96eb762d768ebbc/84550/topaz.webp 94w,\n/static/49efbfd03350589ed96eb762d768ebbc/34f80/topaz.webp 187w,\n/static/49efbfd03350589ed96eb762d768ebbc/b26e2/topaz.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/747ff59c7c844f6d2dfbb3a46a98e532/3c5dc/38_full.png",
+                            "srcSet": "/static/747ff59c7c844f6d2dfbb3a46a98e532/ca8fd/38_full.png 200w,\n/static/747ff59c7c844f6d2dfbb3a46a98e532/de50c/38_full.png 400w,\n/static/747ff59c7c844f6d2dfbb3a46a98e532/3c5dc/38_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/747ff59c7c844f6d2dfbb3a46a98e532/213b2/38_full.webp 200w,\n/static/747ff59c7c844f6d2dfbb3a46a98e532/413c5/38_full.webp 400w,\n/static/747ff59c7c844f6d2dfbb3a46a98e532/cf6d0/38_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Topaz is the Leader of the Special Debts Picket Team and high-level manager of the Strategic Investment Department under the Interastral Peace Corporation. A member of the \\\"Ten Stonehearts\\\" at a young age, Topaz's foundational expertise is \\\"debt retrieval.\\\" Her partner, the Warp Trotter \\\"Numby,\\\" is also capable of keenly perceiving where \\\"riches\\\" are located, ensuring that jobs based in security, debt collection, and actuarial varieties are of no great \\nchallenge. At presently they are traveling the cosmos together, seeking all manner of liability disputes that might be affecting the stable progression of the IPC's businesses.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Body - CRIT DMG = CRIT Rate\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Both CRIT RATE and CRIT DMG are viable options for Topaz's body armour. Which is better will depend on which gives you a better CRIT ratio - use the one that does.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Feet - SPD = ATK%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD or ATK can be best for Topaz depending on the team you're running with her and your build. Just running SPD boots on top of Topaz's base Speed of 110 allows her to hit the standard breakpoint of 134 meaning all other speed sub-stats and bonuses are wasted. If you are able to hit 134 without the use of Speed boots then you can run ATK% instead for a huge damage increase. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The most common time this happens is when running Topaz with Asta as Asta grants an immense amount of Speed - so much that Topaz no longer needs any of her own to reach not only 134 speed but even 161 speed. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you can reach your desired breakpoint without SPD boots go with ATK if you want to play it safe or you can't use SPD boots.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar Sphere - ATK% = FIRE DMG %\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK% and FIRE DMG% offer similar damage boosts for Topaz. In solo situations without many party buffs ATK% is slightly ahead but with heavy team buffs from Asta or Tingyun FIRE DMG% pulls slightly ahead. Use the one with the better sub-stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Link Rope - ATK%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK% Rope is the only viable option.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for sub-stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"CRIT RATE & CRIT DMG:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" CRIT RATE and CRIT DMG are Topaz\u2019s best damage scaling stats - shoot for the standard 1% CRIT RATE per 2% CRIT DMG. Topaz can afford to be a little below the usual CRIT RATE ratio thanks to her ultimate granting CRIT DMG - especially when using her signature as it also gives CRIT DMG not shown on the character sheet\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"ATK%:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Topaz has no bonuses to ATK% in her kit so compared to other characters ATK% is comparatively far more valuable to her. Stacking it on SUB stats or Main stat pieces is a good damage increase and should not be neglected after getting a suitable CRIT ratio.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"DMG%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Generic and elemental DMG % isn\u2019t bad on Topaz but she already gets a massive amount of it for free from her Kit, the best relic sets: and Light Cones. A standard maxed-out Topaz fighting a fire-weak enemy with her signature gets 92% without using a FIRE DMG% Orb so getting more than this suffers from diminishing returns:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"22.4% Traces\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"10% Fire Set Bonus\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"15% Bonus Ability Vs Fire\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"30% Signature\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"15% Salsotto\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Speed:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Speed isn\u2019t bad on Topaz but most of her damage comes from Numby - and because Numby\u2019s speed is fixed and her allies have the ability to advance Numby\u2019s action it isn\u2019t as strong as it is on other characters. Speed still provides damage and quality of life though and thanks to her high base speed value it is a waste not to hit the standard breakpoints.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "relicsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Pioneer Diver of Dead Waters\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"New best in slot for Topaz - as long as she uses her Skill, she can keep the double CRIT buff 100% of the time.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The Ashblazing Grand Duke\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The set is made for Topaz and was her best in the slot until Pioneer was released. Still, if you're playing Topaz as an SP-neutral character, weaving her Basic into the rotation, this set will perform better.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firesmith of Lava-Forging + The Ashblazing Grand Duke\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you're still farming the new Ashblazing set, you can combine it with Firesmith and it will still yield better results than the old combinations.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firesmith of Lava-Forging + Musketeer of Wild Wheat\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The best 'old meta' pick for Topaz, but sadly with the release of Ashblazing it's getting outperformed badly.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Musketeer of Wild Wheat\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The 4-piece Musket is a good, accessible, alternative compared to the mix-and-match set which is difficult to acquire. The Atk% is perfect for Topaz but the SPD is not always needed and sometimes goes on to be wasted unless pursuing a Speed breakpoint higher than 134 Speed which will affect this sets performance overall.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firesmith of Lava-Forging\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Suffers from the same problems as the 4-piece Musket but offers less damage potential and is harder to farm making it a small downgrade overall.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[],\"nodeType\":\"hr\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Inert Salsotto\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"By far Topaz's best planar set thanks to the CRIT RATE and generic damage boosts to her entire Kit's damage from the follow-up attack multiplier.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firmament Frontline: Glamoth\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Works great on Topaz if you can reach the Speed breakpoints.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Space Sealing Station\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Falls slightly behind Inert Salsotto for Topaz and makes achieving a good CRIT ratio a lot more difficult. As your gear improves and you run Topaz with supports this set also falls even further behind because of diminishing returns. Still her 2nd best option for now though.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "111201",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "111202",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "111203",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "111204",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "111207",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Sub DPS",
+    "affiliation": "Interastral Peace Corporation",
+    "rarity": "5",
+    "element": "Fire",
+    "path": "Hunt",
+    "stats": {
+        "hp_base": 126.72,
+        "def_base": 56.1,
+        "atk_base": 84.48,
+        "speed_base": 110
+    },
+    "ascensionMaterials": {
+        "mats_1": "silvermane-badge",
+        "mats_2": "silvermane-insignia",
+        "mats_3": "searing-steel-blade",
+        "mats_4": "silvermane-medal"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "38",
+            "name": "Topaz",
+            "upgrade1Name": "Future Market",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When enemies afflicted with Proof of Debt receive follow-up attacks, they will enter the Debtor state. This can take effect only once within a single action. The Debtor state increases the CRIT DMG of follow-up attacks inflicted on the target enemies by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", stacking up to 2 time(s). When Proof of Debt is removed, the Debtor state is also removed.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": " Bona Fide Acquisition",
+            "upgrade2Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After Numby takes action and launches an attack, Topaz regenerates \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Energy.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "upgrade3Name": "Seize the Big and Free the Small",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Agile Operation",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Numby's turn begins, Topaz's action is Advanced Forward by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": " Inflationary Demand",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Incentive Mechanism",
+            "upgrade6Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Numby's attack count during the Windfall Bonanza! state increases by 1, and its Fire RES PEN increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" when it attacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "asta",
+            "notes": "Most universal and comfortable support for Topaz with great synergy thanks to her usual skill point hungry kit being fueled by Topaz's low or positive skill point rotations. Thanks to her team-wide Speed and ATK buff Asta is absolutely one of the best choices in both hyper carry and double damage compositions. To take full advantage of Asta's speed buff in endgame assuming you can keep close to 100% uptime on her ultimate consider running your Topaz at either 110 speed (base) or 150 speed (max speed) to achieve the most effective memory of chaos speed breakpoints."
+        },
+        {
+            "character": "tingyun",
+            "notes": "Best solo support for Topaz offering huge damage buffs, energy and extreme synergy with her Benediction buff adding Lightning damage to each Topaz AND Numby attack massively multiplying Topaz's damage. Tingyun's only downside is that outside of Hypercarry teams you will have to buff either Topaz or the other follow-up attacker you decide to bring. In these scenarios, she can lose ground compared to team-wide buffers or debuffers."
+        },
+        {
+            "character": "pela",
+            "notes": "Pela offers good damage multipliers for Topaz in the form of her Defence shred but due to Topaz's lack of self buffs in her own kit falls behind Harmony buffers in terms of raw damage multipliers for Topaz and her teams."
+        },
+        {
+            "character": "silver-wolf",
+            "notes": "Similar to Pela falls short of the potential of Harmony buffers like Tingyun and Asta but makes up for that somewhat with her ability to not only shred Defence but also apply Fire weakness to enemies. This will allow Topaz to make use of her extra Fire damage trace at all times giving Silver Wolf some extra synergy compared to other options. When running Silver Wolf consider carefully that you will be running two dedicated single-target characters though so having a plan for AoE fight scenarios is advised."
+        },
+        {
+            "character": "dr-ratio",
+            "notes": "Currently he's the best Follow-Up focused damage dealer and he fits perfectly with Topaz. Topaz provides great buffs to him, while Dr. Ratio can constantly advance forward Numby."
+        },
+        {
+            "character": "jing-yuan",
+            "notes": "One of the best follow-up attackers available to Topaz. Thanks to the majority of Jing's damage being follow-up, it allows him to take advantage of Topaz's debuffing capabilities. He also solves Topaz's lack of AoE damage, being capable of easily mowing down all trash monsters isolating only the elite for Topaz and himself to quickly dispatch. As an additional synergy, Jing Yuan and Topaz both share the best two supports of Asta and Tingyun - Asta especially is great as she can support both of them at the same time."
+        },
+        {
+            "character": "kafka",
+            "notes": "Kafka is actually a really good partner for Topaz because compared to all other Follow-up characters, her FU attacks tied to the Talent are consistent and happen once per action. This translates to a lot of Numby attacks which increases Topaz damage output."
+        },
+        {
+            "character": "clara",
+            "notes": "Clara is capable of launching the most follow-up attacks per action of any damage-based character in the game giving her the highest potential synergy with Topaz and Numby, and putting her at the top of the list when considering Topaz's best partners for double damage teams. Similar to Jing Yuan she also completely solves Topaz's lack of AoE damage easily isolating only the elite enemies that Topaz has no issues with. The only thing holding Clara back from being completely broken with Topaz is the requirement that she needs to be hit in order to trigger her follow-up attacks. In endgame depending on the enemy type the amount of follow-up attacks you can expect will vary dramatically making this team a little inconsistent but when it does work it's absolutely one of the best."
+        },
+        {
+            "character": "fu-xuan",
+            "notes": "Strongest damage-focused sustaining option for Topaz teams, providing multiple Defense layers while also supplying the entire team with much-needed CRIT RATE. The strength of Fu Xuan lies in supporting double damage Topaz teams as both the damage dealers benefit from her CRIT RATE boost. On top of this her main downside of being skill point unfriendly is mitigated by Topaz's rotations."
+        },
+        {
+            "character": "luocha",
+            "notes": "The strongest healing unit for any follow-up based team thanks to his field triggering off of every attack including follow-up attacks. Each time Numby hits an enemy the entire team will be healed meaning while it's active there is very little chance you will ever die thanks to how often Numby hits."
+        },
+        {
+            "character": "march-7th",
+            "notes": "A unit that has a lot of trouble solo sustaining endgame teams limiting her use but worth mentioning as she is currently the only support that can launch frequent follow-up attacks without Eidolons. If you can find a way to solo sustain with March or want to run a double sustain team thanks to her follow-ups she can supply Topaz and Numby with a lot of bonus action advancements."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When Topaz uses Basic ATK to deal DMG, it will be considered as a follow-up attack.",
+            "name": "Overdraft"
+        },
+        {
+            "req": "A4",
+            "desc": "Increases Topaz and Numby's DMG dealt to enemy targets with Fire Weakness by <b>15%</b>.",
+            "name": "Financial Turmoil"
+        },
+        {
+            "req": "A6",
+            "desc": "After Numby uses an attack while in the Windfall Bonanza! state, Topaz additionally regenerates <b>10</b> Energy.",
+            "name": "Stonks Market"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Topaz is a unique hybrid of a secondary damage dealer and dedicated support for units with follow-up attacks (emphasis on support).\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" She is capable of significantly increasing the follow-up damage a single enemy can receive indefinitely, with the increase to damage being a separate multiplier in most instances, resulting in an even larger increase. She also contributes fairly decent direct and Toughness damage of her own, and can use SP with a high degree of flexibility, even being able to be fully SP positive. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Her biggest downside is that she is exclusively single-target focused and can struggle in even 2 target scenarios.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Her personal damage output also relies on enemies getting hit by follow-ups, limiting her usefulness as a secondary damage dealer for non follow-up centric units.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a tax collector for the IPC, Topaz doesn\u2019t exactly make the best first impression, after all, tax evasion is an obligation (for legal reasons this is a joke). \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"As a playable unit, Topaz is also somewhat intriguing.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" She is our first dedicated support character for the follow-up mechanic, meaning by design she is already slotting herself into a very specific type of gameplay and with very specific teammates.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"I will mention immediately that Topaz is not a particularly flashy character, nor is she really a character that is able to work out of the box as well as other hypercarries - at least as of the initial time of writing this\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"She is primarily a support character.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Outside of her great single-target damage, she also doesn\u2019t tend to contribute as much as other units do for double or triple carry setups that don't rely on follow-up attacks - she really is tailor-made for teams with dedicated characters that can abuse her debuff. Within those follow-up teams, Topaz can elevate both her own and her teammates' damage output quite considerably, and is likely to become a mainstay for units like Jing Yuan, Clara, and maybe even Himeko too. Just know immediately that outside of those specific setups, you should not expect Topaz to be replacing any units you are likely already utilizing in other teams.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"With that out of the way, let\u2019s discuss what makes Topaz good in her specific teams.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Topaz\u2019s Skill is the most important tool in her kit. It will deal follow-up damage up to 150% of Topaz\u2019s ATK to a single enemy target, and additionally inflict them with a debuff called \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Proof of Debt\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", which increases the damage they take from follow-up attacks by up to 50% at max Trace level. This 50% is in most cases a separate multiplier, meaning it takes effect after everything else has been calculated and will result in a significantly higher increase to damage than you may expect. Damage amps like this are incredibly rare and are extremely potent. The Proof of Debt debuff itself lasts indefinitely until either the target enemy is defeated or Topaz uses this Skill on another foe. If no enemy has Proof of Debt when an ally\u2019s turn begins or when they act, Proof of Debt will be randomly applied to one of the remaining enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Her Talent is her pet Trotter, Numby.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Numby is very similar to Jing Yuan\u2019s Lightning-Lord in that it is a summoned entity with its own SPD value and turn order, and will disappear if the summoner is downed in combat. On Numby\u2019s turn, it will deal damage up to 150% of Topaz\u2019s ATK to a single enemy that has been afflicted with Proof of Debt. Numby\u2019s SPD is 80 by default, making it fairly slow to act, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"but whenever enemies afflicted with Proof of Debt receive an ally\u2019s follow-up attack, Numby will have its action Advanced Forward by 50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", resulting in it getting to act far more frequently than you may initially be led to believe. Note, this Advance Forward cannot be triggered on Numby\u2019s own turn, so this effect \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"relies\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" on your team being able to use follow-ups.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Topaz\u2019s Ultimate buffs Numby for 2 turns. Numby enters the Windfall Bonanza! State, exclamation mark included, and its damage multiplier increases by up to 150%. It also benefits from an additional 25% CRIT DMG. Similar to Clara\u2019s Ultimate, Topaz\u2019s Ultimate temporarily lessens the restrictions on her Talent\u2019s Advance Forward activation; while Windfall Bonanza! is active, when enemies with Proof of Debt are hit by ally Basic ATKs, Skills, or Ultimates, Numby will have its action Advanced Forward by 50% as well. This means it\u2019s very easy to have Numby acting nearly back to back during its Enhanced state, as you temporarily do not need to rely on exclusively follow-up attacks to trigger the Advance Forward.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Her Bonus Ability Traces improve her performance quite considerably.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Her A2 Bonus Ability will transform her Basic ATK into a follow-up attack, meaning it will now also benefit from Proof of Debt\u2019s damage amp, as well as accelerating Numby\u2019s next attack with the Advance Forward. Her A4 will grant her and Numby 15% increased DMG against all enemies with a Fire Weakness, and her A6 will regenerate an additional 10 Energy for herself when Numby attacks under Windfall Bonanza!, effectively reducing the amount of Energy she needs to use her Ultimate again.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Eidolons are not necessary for Topaz, and while they\u2019re not really that bad at all, they\u2019re also not really worth chasing extra copies of Topaz to get. E1 is good value if you\u2019re really adamant about going for Eidolons, as it can increase the CRIT DMG of follow-ups against Proof of Debt debuffed enemies by 25%, stacking up to 2 times.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The gameplay plan becomes fairly simple\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": afflict the primary enemy target, usually a Boss or Elite, with the Proof of Debt debuff, and then pelt them with as many follow-up attacks as possible to get Numby to sic \u2018em as often as possible. Rather surprisingly, this is in fact as easy as it sounds as far as Topaz herself is concerned. Her Skill counts as a follow-up attack, and with her first Bonus Ability, her Basic ATK also functions as a follow-up attack, so every time Topaz acts, it\u2019s going to be Advancing Forward Numby\u2019s turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This Advance Forward mechanic is the reason why Topaz benefits greatly from allies with follow-up attacks in their kit as wel\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"l, as it can even further increase the number of times Numby will attack, creating a sort of feedback loop wherein Topaz buffs the ally follow-up attacks and gets increased personal damage output in the process. Even with the more infrequent follow-ups like from Jing Yuan\u2019s Lightning-Lord, the difference in Topaz\u2019s personal damage output is quite noticeable.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She can use SP however you need once an enemy is afflicted with Proof of Debt; using Skill will consume 1 SP but will give greater damage, Energy gain, and Toughness damage, but using Basic ATK will deal only slightly less of each while recovering 1 SP instead. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Since both count as follow-up attacks, Numby is always benefitting.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Numby itself is also doing good Toughness damage every time it attacks, meaning together with Topaz, the amount of Toughness damage being dealt to a single foe is actually really quite high. It is not uncommon to be breaking extremely frequently with Topaz in the party as long as the enemy is Fire weak.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"As mentioned early on, Topaz is exclusively single-target focused, as is tradition for Hunt characters. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"With the climate of the game being extremely focused on Blast and AoE scenarios, this is quite a heavy limitation to be faced with, and is somewhat circumvented by pairing her with her intended follow-up heavy teammates, as their follow-ups are all AoE. This way, Topaz can safely mark the main Elite or Boss and have the ally follow-up attacks clear the field of trash adds. Attempting to utilise Topaz as a secondary damage source in teams without follow-ups, or as a solo hypercarry, will result in subpar performance compared to other damage dealers who can attack more than one target at the same time.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Topaz is meant for follow-up teams, buffing other characters who also have follow-up attacks.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" By herself, Topaz is not comparable to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"most \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"other dedicated damage dealers, to say nothing of the likes of Imbibitor Lunae or Jingliu. She does not have the types of intrinsic stat boosts or damage amps that many of those sorts of characters have, and so becomes incredibly reliant on having definitively good gear and Relics. Since many of her teams involve 2 damage dealers and a sustain option, it limits her access to buffs making good gear even more important, potentially even raising the quality requirement from good to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"great\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Do not make the mistake of seeing the Hunt symbol and thinking she is comparable to the likes of Seele.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Topaz is a support first, damage dealer second.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" If you do not already have the follow-up characters that work well with her, you should not reasonably expect her to perform to her best. If you are banking on getting Clara, or to a lesser extent Himeko, from the Regular Warp or its 300 pull guarantee, or are waiting for a Jing Yuan rerun to occur to guarantee him, then Topaz is a very solid investment, as those teams will likely have Topaz remain as a staple choice indefinitely from this point on. If you already have these characters, then you\u2019re set to benefit greatly from Topaz.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"none\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of that applies to you, then really you should be asking yourself for what reason you\u2019re pulling for Topaz. If it\u2019s just because you like her character, design, or aesthetic, then hey, I get it, you do you. But if your reasoning is because of some hypothetical future characters that \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"might\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" benefit from what Topaz offers, then that may not be a compelling enough reason, especially if that decision involves a conversation about real-life spending. As the Trailblazer themselves say, \u2018When there is the chance to make a choice, make one that you know you won\u2019t regret\u2019.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For the rest of us who have teams ready for her, Topaz herself \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"is\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" likely to continue to improve over time, especially seeing as she has a very rare and powerful debuff, but as was said with Kafka, the character\u2019s strength must be evaluated based on what they can do \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"now\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". If something changes and Topaz gets verifiably better, you can trust me to keep this review updated.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Oh and she powercreeps Simulated Universe. Small chance to obtain a whole damn Curio after defeating enemies with her Technique active? Sheeesh.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best-in-Slot support option for follow-up teams, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rare powerful damage multiplier that is likely to only improve over time, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Huge amounts of Toughness damage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Very SP flexible and efficient, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Great personal damage, especially when paired with follow-up chars, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Numby.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Worse than other existing support options for non follow-up teams, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Personal damage output suffers tremendously without follow-up chars, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Exclusively single-target damage which limits potency in AoE, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely heavy investment required in both Traces and Relics.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2800 - 3000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800 - 900+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2100 - 2800+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"80% - 90%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"150% - 170%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Base Speed (H\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"yperspeed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Sparkle/Bronya) /\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 (Recommended) / 143 / 160\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Sam Slade",
+        "kr": " \ubc29\uc2dc\uc6b0 (Bang Siu)",
+        "jpn": "\u5357\u689d\u611b\u4e43 (Nanj\u014d Yoshino)",
+        "cn": "\u9646\u654f\u60a6 (Mace)"
+    },
+    "ratings": {
+        "moc": "9",
+        "moc_special": "9",
+        "pure": "8",
+        "pure_special": "8",
+        "apo": "10",
+        "apo_special": "10"
+    },
+    "energyUltimate": "130",
+    "conesNew": [
+        {
+            "cone": "worrisome-blissful",
+            "super": "1",
+            "percent": "118.89%",
+            "notes": "Best in Slot for Topaz. Gives her everything she needs and also further amplifies the damage done by her allies."
+        },
+        {
+            "cone": "swordplay",
+            "super": "5",
+            "percent": "111.19%",
+            "notes": "Assumes full access to all 5 stacks throughout the entire duration of the fight. In fights where target swapping is required this Cone performance can be reduced substantially."
+        },
+        {
+            "cone": "only-silence-remains",
+            "super": "5",
+            "percent": "104.17%",
+            "notes": "Assumes the fight is limited to 2 or fewer enemies at all times. In fights where more than two enemies are present for any portion of it, this Cone performance will drop."
+        },
+        {
+            "cone": "cruising-in-the-stellar-sea",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes the on-kill ATK% boost can be maintained 66% of the time in the fight and only considers the base CRIT RATE % in these calculations not the additional CRIT on low life. In fights where the ATK% buff cannot be maintained the performance of this Cone will reduce."
+        },
+        {
+            "cone": "final-victor",
+            "super": "5",
+            "percent": "99.11%",
+            "notes": "Thanks to Numby, the uptime on the CRIT DMG buff is decent and Topaz can fully make use of the Cone if you're lacking other options."
+        },
+        {
+            "cone": "return-to-darkness",
+            "super": "5",
+            "percent": "93.00%",
+            "notes": ""
+        },
+        {
+            "cone": "cruising-in-the-stellar-sea",
+            "super": "5",
+            "percent": "88.01%",
+            "notes": "Assumes the on-kill ATK% boost uptime is 0% and only considers the base CRIT RATE % in these calculations not the additional CRIT on low life."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "",
+                    "value": "100.71%",
+                    "comment": "100% uptime",
+                    "notes": null
+                },
+                {
+                    "relic": "The Ashblazing Grand Duke",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Firesmith of Lava-Forging",
+                    "relic_2": "The Ashblazing Grand Duke",
+                    "value": "96.79%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": "92.42%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Firesmith of Lava-Forging",
+                    "relic_2": "",
+                    "value": "88.98%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Duran, Dynasty of Running Wolves",
+                    "value": "106.96%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "100.00%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "98.73%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "97.92%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "95.66%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "time-waits-for-no-one",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "ATK"
+                },
+                {
+                    "stat": "Fire DMG"
+                }
+            ],
+            "comments": "CRIT RATE and CRIT DMG are Topaz\u2019s best damage scaling stats - shoot for the standard 1% CRIT RATE per 2% CRIT DMG. Topaz can afford to be a little below the usual CRIT RATE ratio thanks to her Ultimate granting CRIT DMG and especially when using her signature as it also gives CRIT DMG not shown on the character sheet.",
+            "substats": "SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Skill >= Talent > Ultimate > Basic",
+            "traces_priority": "Overdraft (A2) > Stonks Market (A6) > Financial Turmoil (A4)",
+            "name": "DPS Build"
+        }
+    ],
+    "videos": [
+        {
+            "video": "z-fFW49Upnk"
+        },
+        {
+            "video": "ThhPKB5uCYg"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Best Clara & Topaz Team",
+            "member_1": "topaz",
+            "member_2": "tingyun",
+            "member_3": "fu-xuan",
+            "member_4": "clara"
+        },
+        {
+            "name": "Best Jing Yuan & Topaz Team",
+            "member_1": "topaz",
+            "member_2": "jing-yuan",
+            "member_3": "asta",
+            "member_4": "fu-xuan"
+        },
+        {
+            "name": "Best Kafka & Topaz Team",
+            "member_1": "topaz",
+            "member_2": "kafka",
+            "member_3": "asta",
+            "member_4": "fu-xuan"
+        },
+        {
+            "name": "Best Topaz carry Team",
+            "member_1": "topaz",
+            "member_2": "bronya",
+            "member_3": "tingyun",
+            "member_4": "fu-xuan"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "dmg_fire",
+            "value": 22.4
+        },
+        "traceStat2": {
+            "stat": "crit_rate",
+            "value": 12
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "October 27th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "FuA",
+        "Debuff"
+    ]
+}

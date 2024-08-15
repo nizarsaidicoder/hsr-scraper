@@ -1,0 +1,58 @@
+{
+    "id": "2dc28151-97a9-5bb0-959a-8c647ddc9179",
+    "updatedAt": "2023-05-07T10:15:25.439Z",
+    "createdAt": "2023-04-25T18:43:51.996Z",
+    "coneId": 85,
+    "name": "Mediation",
+    "slug": "mediation",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/9c38eb9c3de403a0826ecab8f8e7dfbc/bf8e1/85.png",
+                            "srcSet": "/static/9c38eb9c3de403a0826ecab8f8e7dfbc/914ee/85.png 32w,\n/static/9c38eb9c3de403a0826ecab8f8e7dfbc/1c9ce/85.png 64w,\n/static/9c38eb9c3de403a0826ecab8f8e7dfbc/bf8e1/85.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/9c38eb9c3de403a0826ecab8f8e7dfbc/ef6ff/85.webp 32w,\n/static/9c38eb9c3de403a0826ecab8f8e7dfbc/8257c/85.webp 64w,\n/static/9c38eb9c3de403a0826ecab8f8e7dfbc/6766a/85.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "14",
+            "value_level_max": "317"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Family",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Upon battle entry, all allies receive \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/14/16/18/20\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" increased SPD for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "id": "7a8745f3-cbec-583e-bb1d-dfd3afa886e2",
+    "updatedAt": "2023-08-28T07:22:49.282Z",
+    "createdAt": "2023-08-18T13:48:29.879Z",
+    "coneId": 90,
+    "name": "Brighter Than the Sun",
+    "slug": "brighter-than-the-sun",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/24606ed585e2102ab53c83ab85e850f0/bf8e1/81_sm.png",
+                            "srcSet": "/static/24606ed585e2102ab53c83ab85e850f0/914ee/81_sm.png 32w,\n/static/24606ed585e2102ab53c83ab85e850f0/1c9ce/81_sm.png 64w,\n/static/24606ed585e2102ab53c83ab85e850f0/bf8e1/81_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/24606ed585e2102ab53c83ab85e850f0/ef6ff/81_sm.webp 32w,\n/static/24606ed585e2102ab53c83ab85e850f0/8257c/81_sm.webp 64w,\n/static/24606ed585e2102ab53c83ab85e850f0/6766a/81_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "August 30th, 2023",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "48",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "28",
+            "value_level_max": "635"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Defiant Till Death",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's CRIT Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"18\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/21/24/27/30\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When the wearer uses their Basic ATK, they will gain 1 stack of Dragon's Call for 2 turns. Each stack of Dragon's Call increases the wearer's ATK by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"18\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/21/24/27/30\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" and Energy Regeneration Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"6\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/7/8/9/10\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". Dragon's Call can be stacked up to 2 times.\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

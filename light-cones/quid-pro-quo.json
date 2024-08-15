@@ -1,0 +1,59 @@
+{
+    "id": "2af0ca6a-d9bb-5e6f-a9aa-44c092e2d113",
+    "updatedAt": "2023-04-27T13:53:11.985Z",
+    "createdAt": "2023-04-25T18:43:52.997Z",
+    "coneId": 62,
+    "name": "Quid Pro Quo",
+    "slug": "quid-pro-quo",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/373e5fe59648f1d8ed873494912e3ccf/bf8e1/62.png",
+                            "srcSet": "/static/373e5fe59648f1d8ed873494912e3ccf/914ee/62.png 32w,\n/static/373e5fe59648f1d8ed873494912e3ccf/1c9ce/62.png 64w,\n/static/373e5fe59648f1d8ed873494912e3ccf/bf8e1/62.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/373e5fe59648f1d8ed873494912e3ccf/ef6ff/62.webp 32w,\n/static/373e5fe59648f1d8ed873494912e3ccf/8257c/62.webp 64w,\n/static/373e5fe59648f1d8ed873494912e3ccf/6766a/62.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Forgotten Hall Store",
+        "Echo of War"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Abundance",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "19",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Enjoy With Rapture",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At the start of the wearer's turn, regenerates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8/10/12/14\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy for a randomly chosen ally (excluding the wearer) whose current Energy is lower than \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

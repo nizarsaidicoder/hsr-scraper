@@ -1,0 +1,408 @@
+{
+    "id": "5930c332-f2e9-5dbe-9d7c-34b2c976f981",
+    "updatedAt": "August 3rd, 2024",
+    "createdAt": "2024-01-25T07:52:19.288Z",
+    "unitId": 51,
+    "name": "Gallagher",
+    "slug": "gallagher",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#483828",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/014e5fd9e1557e4dbef87ae673e12116/60b4d/51_sm.webp",
+                            "srcSet": "/static/014e5fd9e1557e4dbef87ae673e12116/e73fe/51_sm.webp 40w,\n/static/014e5fd9e1557e4dbef87ae673e12116/61ca6/51_sm.webp 80w,\n/static/014e5fd9e1557e4dbef87ae673e12116/60b4d/51_sm.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/a4d89c986b1b7b499d88b6fe8a84aaa4/b26e2/51_card.webp",
+                            "srcSet": "/static/a4d89c986b1b7b499d88b6fe8a84aaa4/84550/51_card.webp 94w,\n/static/a4d89c986b1b7b499d88b6fe8a84aaa4/34f80/51_card.webp 187w,\n/static/a4d89c986b1b7b499d88b6fe8a84aaa4/b26e2/51_card.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#282828",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/7f9fce0eccac66a56a9281f99dea1dd5/67ded/gallagher_full.webp",
+                            "srcSet": "/static/7f9fce0eccac66a56a9281f99dea1dd5/22bfc/gallagher_full.webp 256w,\n/static/7f9fce0eccac66a56a9281f99dea1dd5/d689f/gallagher_full.webp 512w,\n/static/7f9fce0eccac66a56a9281f99dea1dd5/67ded/gallagher_full.webp 1024w",
+                            "sizes": "(min-width: 1024px) 1024px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 1024,
+                    "height": 1024
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A security officer of the Bloodhound Family at Penacony. He is also a slovenly and indolent mixologist. Though unorganized in apparel and casual in how he makes his drinks, he is always courteous toward guests but keeps his vigilance about him. He seems to be a character with a complicated past, yet never actively mentions any details.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Body - Healing Output \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Feet - Speed\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar Sphere - HP% > DEF%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Both work honestly. Pick one with better sub-stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Link Rope - Energy Recharge% > HP%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "150001",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "150008",
+            "energy_gen": "20",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "150002",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "150003",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "150004",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "150007",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Healer",
+    "affiliation": null,
+    "rarity": "4",
+    "element": "Fire",
+    "path": "Abundance",
+    "stats": {
+        "hp_base": 177.6,
+        "def_base": 60,
+        "atk_base": 72,
+        "speed_base": 98
+    },
+    "ascensionMaterials": {
+        "mats_1": "dream-collection-component",
+        "mats_2": "dream-flow-valve",
+        "mats_3": "raging-heart",
+        "mats_4": "dream-making-engine"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "51",
+            "name": "Gallagher",
+            "upgrade1Name": "Salty Dog",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Gallagher enters the battle, regenerates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy and increases Effect RES by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Lion's Tail",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When using the Skill, removes \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" debuff(s) from a target ally. At the same time, increases their Effect RES by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Corpse Reviver",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Last Word",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extends the duration of the Besotted state inflicted by Gallagher's Ultimate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Death in the Afternoon",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Blood and Sand",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases Gallagher's Break Effect by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" and Weakness Break Efficiency by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Increases this unit's Outgoing Healing by an amount equal to <b>50%</b> of Break Effect, up to a maximum Outgoing Healing increase of <b>75%</b>.",
+            "name": "Novel Concoction"
+        },
+        {
+            "req": "A4",
+            "desc": "After using the Ultimate, immediately Advances Forward this unit's Action by <b>100%</b>.",
+            "name": "Organic Yeast"
+        },
+        {
+            "req": "A6",
+            "desc": "When Gallagher uses Nectar Blitz to attack Besotted enemies, the HP Restore effect of his Talent will also apply to other allies for this time.",
+            "name": "Bottoms Up"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gallagher is a unique offensive healer, applying a debuff to enemies through\u00a0his Ultimate that allows allies to heal by attacking them. His healing output trades stat scaling for very high base values, giving him far more build freedom and variety. He also increases the Break DMG that enemies receive and will receive bonuses to his Outgoing Healing by building Break Effect. He is the first sustain unit to be able to apply debuffs to enemies naturally, and has great debuff synergy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Definitely not traumatised security man Gallagher is here to offer you a cold soda. Should you choose to accept, you\u2019re gonna have a pretty solid healer on your hands who doubles as a fairly good breaker. He\u2019s got some intriguing mechanics similar to what Luocha provides, and is actually quite likely to fly under the radar as an unexpectedly competent character.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gallagher\u2019s main thing is that all of his healing is purely flat; there is no scaling component present, meaning any healing listed in his abilities is what you get, though it will still be affected by Outgoing Healing Boosts. This may initially seem like a heavy downside to have for a character designed primarily for healing, but he has ways of circumventing the lack of explicit scaling, and the far more interesting benefit of this is that Gallagher gets to build pretty much however he wants to and his healing will not suffer as a result.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"His Skill targets a single ally and heals them for up to 1600 HP. Yep, that\u2019s it. But hey, 1600 HP is not a small amount, it\u2019s pretty frequently around 50% Max HP for DPS characters, and keep in mind that this is before any bonuses to Outgoing Healing, so this actually becomes a very potent heal once you\u2019ve got some even lacklustre relics. The downside is that it doesn\u2019t do anything else, meaning you won\u2019t get any additional healing over time or a cleanse.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gallagher\u2019s Ultimate hits all enemies on the field, inflicting the Besotted debuff on them and dealing up to 150% ATK to enemies hit. This debuff is not tied to Effect Hit Rate and will always be applied, making it very consistent. This Ultimate will also Enhance Gallagher\u2019s next Basic ATK to Nectar Blitz.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Both the Enhanced Basic and the Besotted state are tied to his Talent. The Besotted state will increase the Break DMG that afflicted enemies will receive by up to 12%, and any time a Besotted enemy is attacked by an ally, the attacker will have their HP restored by up to 640 HP. The Enhanced Basic Nectar Blitz will deal up to 250% ATK to a single enemy and reduces their ATK by up to 15% for 2 turns, scaling with Basic ATK Trace level.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"You can see how Besotted is very similar in function to what Luocha\u2019s Abyss Flower provides, healing allies for simply attacking foes. It\u2019s a little less forgiving than Luocha, since Luocha has virtually no effort maintaining his Abyss Flower field due to the emergency healing passive on his Skill, and Gallagher actually has a slightly higher Energy cost on his Ultimate of 110. Additionally, since this healing is tied to a debuff, it puts the onus on Gallagher to be fast enough to keep up with enemies\u2019 SPD, as overly fast enemies will shed the Besotted state quite quickly.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The tradeoff for this is that Besotted also has the offensive component of the increased Break DMG received. This is the first of its kind in Star Rail, as Break is notorious for being unaffected by anything besides the Break Effect stat. For the setups that excel in Break, this can turn already obscene Break damage into actual nuclear detonations \u2014 Luka absolutely sends his regards. Beyond the obvious synergies with specific Break characters, this also serves as a strong situational boost to the team\u2019s damage at no extra cost or effort.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It\u2019s important to note as well that Nectar Blitz deals a whopping 90 Toughness damage by default, equivalent to most single-target Ultimates. Combining with the AoE 60 Toughness damage from his Ultimate, Gallagher can very quickly deal 150 Toughness to a single enemy, which is just unheard of for a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"sustain unit\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to be doing. Oh and the ATK reduction debuff Nectar Blitz applies is also exempt from the Effect Hit Rate checks, so it\u2019s also guaranteed, and a 15% reduction is nothing to scoff at, as it can very significantly reduce the overall incoming damage to the team in certain scenarios.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The ironic downside of this is that if you Break the enemy with Gallagher\u2019s Ultimate as a means of delaying their Action, they\u2019ll end up recovering quicker than you\u2019d like and you\u2019ll get less time to take advantage of the Besotted state; to counteract this, if you\u2019re going to be using Gallagher\u2019s Ultimate to Break a powerful enemy and stop their Action, make sure to do it \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"after\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" their turn has already started so that you do not lose as much uptime on his Besotted state. You may have to take a hit first but it\u2019s the far better option than being stuck without Besotted for some turns.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gallagher\u2019s Bonus Traces are quite important for him to gain access to, as their effects are highly potent. His A2 will increase his own Outgoing Healing Boost by an amount equal to 50% of his Break Effect, up to a maximum bonus of 75% Outgoing Healing. This means he\u2019ll max this out at 150% Break Effect. Since his healing is completely flat, you can almost consider this to be the scaling component being re-added. Since calculating Outgoing Healing is really easy when there\u2019s only flat additional values in play, this is an as-listed multiplier to his healing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This ends up making his otherwise slightly uncomfortable healing over time from Besotted actually quite powerful and competitive; if you have the maximum bonus from his A2 and you also have an Outgoing Healing Boost chest piece equipped, Gallagher\u2019s healing is more than doubled, and he can reach values criminally close to Luocha\u2019s Abyss Flower. The downside remains that Besotted will only heal the attacker and doesn\u2019t have an AoE healing component like Abyss Flower.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Of course, as mentioned before, Gallagher deals an astounding amount of Toughness damage all by himself, and the Besotted state with his A2 is now more than enough to sustain the team almost on its own, meaning Gallagher will also be using Basic ATK often to add onto the Toughness damage. Incentivising building Break Effect on him will have the additional result of making the Break he gets dealing a huge chunk of upfront damage \u2014 Fire is not the most amazing Break in the game as its ensuing Burn Damage over Time is not as impressive as other Breaks, but its immediate damage is among the highest, being joint first place with Physical Bleed\u2019s initial proc.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gallagher\u2019s A4 makes it so that he gets a 100% Action Advance upon using his Ultimate, meaning it is now his turn again. This is a ridiculously powerful tool to have available for the sustain unit in a team, since it means he can eke out extra actions where his SPD would simply not allow for ordinarily. When used carefully, this will also greatly alleviate the SPD needs of Gallagher and will allow him to keep up with foes much more easily, thus reducing the potential downtime of the now potent Besotted state. Since his Ultimate also grants him Nectar Blitz, this can allow for a very fast near on-demand 150 Toughness damage, making it quite good as a means to quickly Break a foe before a dangerous move.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Do keep in mind, however, that Gallagher still requires a lot of SPD stats, as his Ultimate\u2019s cost is 110 and both forms of his Basic ATK only restore 20 Energy, meaning you will not be able to keep up with enemies in the endgame if your Gallagher is relying exclusively on this Bonus Trace to meet SPD thresholds.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Finally, Gallagher\u2019s A6 will allow the Nectar Blitz he uses against Besotted enemies to apply the healing effect of his Talent to all allies for this attack, meaning he now has a potent AoE heal that he gets to use quite literally immediately after using his Ultimate to inflict the Besotted state on enemies. Coupled with his A4\u2019s 100% Action Advance, Gallagher now has a pretty good party-wide emergency heal available to him.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a 4-star character, it is likely to get Gallagher\u2019s Eidolons over time. They are not at all required for him to excel, but they do provide very notable benefits to what he was already doing well. E1 will immediately regenerate 20 Energy upon entering combat and will additionally increase Gallagher\u2019s Effect RES by a very impressive 50%. E2 will allow his Skill to cleanse a debuff from the targeted ally and will also increase their Effect RES by 30% for 2 turns. E4 extends the duration of the Besotted state by 1 turn, for a new maximum duration of 3 turns, and finally, E6 will increase Gallagher\u2019s Break Effect \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"and\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Break \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"Efficiency\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" by 20% each.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"He is quite a formidable character. To be providing as much healing as he can do while still having great offensive utility is currently quite rare, especially so for a 4-star character. Additionally, because of his debuffing capabilities, he makes for a fantastic pairing with characters who rely on having enemies affected by them, such as Dr. Ratio and Acheron, and he even helps offset the requirement for a Relic set like Pioneer Diver of Dead Waters.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"He may not be quite as easy or intuitive to use as someone like Luocha or Lynx, but he\u2019s undeniably strong, and he\u2019s here to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"fight.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Man really showed up and said, \u2018I\u2019m a healer, but\u2026\u2019\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Competitive and consistent healing output, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Contributes absurd levels of Toughness damage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Enhances team\u2019s Break DMG, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deceptively fast due to A4 leading to easier uptime on his Ultimate, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Provides up to 2 debuffs for allies to make use of, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Scales very well with Eidolons. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Needs a very high amount of Break Effect for maximum healing comfort, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Passive healing is tied to a debuff that fast-acting enemies may shake off quickly, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Requires high investment to make full use of his hybrid kit. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4300 - 4700+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 (Recommended) / 143 / 160\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Break Effect%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60% (no more than 150%)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Erik Braa",
+        "kr": "\ubc15\uc0c1\ud6c8 (Park Sang-Hoon)",
+        "jpn": "\u4e09\u4e0a\u54f2 (Mikami Satohshi)",
+        "cn": "\u9a6c\u8bed\u975e (Ma Yufei)"
+    },
+    "ratings": {
+        "moc": "10",
+        "moc_special": "9",
+        "pure": "10",
+        "pure_special": "9",
+        "apo": "11",
+        "apo_special": "10"
+    },
+    "energyUltimate": "110",
+    "conesNew": [
+        {
+            "cone": "quid-pro-quo",
+            "super": "5",
+            "percent": "-",
+            "notes": "Will randomly regenerate 16 energy to allies every time Gallagher takes a turn, and Gallagher has an Ultimate that can help him reach his turns more often."
+        },
+        {
+            "cone": "night-of-fright",
+            "super": "1",
+            "percent": "-",
+            "notes": "Offers exceptional base stats, energy regeneration, and team-wide buffs. Most importantly this Cone offers an additional healing mechanic outside of the kit of the healer it is equipped to allow more flexible healing and the opportunity to keep your allies alive. All these factors combined make it one of Gallagher's top options, accelerating his rotation through Energy Regeneration and giving him a new way to heal."
+        },
+        {
+            "cone": "multiplication",
+            "super": "5",
+            "percent": "-",
+            "notes": "Advances the wearer's Action forward 20% every Basic ATK allowing for more frequent healing and ultimates but most importantly more skill point generation."
+        },
+        {
+            "cone": "post-op-conversation",
+            "super": "5",
+            "percent": "-",
+            "notes": "Allows for more Ultimate activations, and Gallagher's Ultimate is always useful for the emergency healing, and the extra skill pt."
+        },
+        {
+            "cone": "what-is-real",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers Gallagher a tremendous amount of Break Effect and a nice personal healing bonus all but guaranteeing he'll keep himself alive. Does not offer much in the way of team support though."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Thief of Shooting Meteor",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Passerby of Wandering Cloud",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Thief of Shooting Meteor",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Forge of the Kalpagni Lantern",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Talia: Kingdom of Banditry",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Sprightly Vonwacq",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "echoes-of-the-coffin",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Outgoing Healing"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "comments": "Executing Gallagher's rotation faster will yield higher uptime of his Besotted state debuff on enemies fueling his main healing source his talent. Gaining as much Speed as possible is essential but after that Break Effect is Gallagher's only other way to scale his kit thanks to his bonus ability that converts it into Healing Output%. After gaining max Speed and as much Break Effect% as possible invest into defenses.",
+            "substats": "SPD (as much as possible) > Break Effect % (up to 150%) > Effect RES% > HP% = DEF%",
+            "skill_priority": "Talent > Skill > Basic > Ultimate",
+            "traces_priority": "Novel Concoction (A2) > Bottoms Up (A6) > Organic Yeast (A4)",
+            "name": "Pure Healer"
+        }
+    ],
+    "videos": [
+        {
+            "video": "jPDSDsxDFVs"
+        }
+    ],
+    "teams": null,
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "Effect RES",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "Break Effect",
+            "value": 13.3
+        },
+        "traceStat3": {
+            "stat": "HP",
+            "value": 18
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Sustain",
+    "releaseDate": "March 27th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "Break",
+        "Debuff",
+        "ADV",
+        "SP+"
+    ]
+}

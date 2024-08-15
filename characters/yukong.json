@@ -1,0 +1,412 @@
+{
+    "id": "e718bcfd-4243-58c9-9ea2-c2a60601629d",
+    "updatedAt": "July 13th, 2024",
+    "createdAt": "2023-05-11T08:26:01.972Z",
+    "unitId": 32,
+    "name": "Yukong",
+    "slug": "yukong",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#383838",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/f64318898539865f4a119bb65074bf3d/e9a79/32_sm.png",
+                            "srcSet": "/static/f64318898539865f4a119bb65074bf3d/f31ef/32_sm.png 40w,\n/static/f64318898539865f4a119bb65074bf3d/1f8a1/32_sm.png 80w,\n/static/f64318898539865f4a119bb65074bf3d/e9a79/32_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/f64318898539865f4a119bb65074bf3d/e73fe/32_sm.webp 40w,\n/static/f64318898539865f4a119bb65074bf3d/61ca6/32_sm.webp 80w,\n/static/f64318898539865f4a119bb65074bf3d/60b4d/32_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/8e868d9dd5fabb2e8f693f909200d7e6/c9885/1207.png",
+                            "srcSet": "/static/8e868d9dd5fabb2e8f693f909200d7e6/2aab7/1207.png 94w,\n/static/8e868d9dd5fabb2e8f693f909200d7e6/0a986/1207.png 187w,\n/static/8e868d9dd5fabb2e8f693f909200d7e6/c9885/1207.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/8e868d9dd5fabb2e8f693f909200d7e6/84550/1207.webp 94w,\n/static/8e868d9dd5fabb2e8f693f909200d7e6/34f80/1207.webp 187w,\n/static/8e868d9dd5fabb2e8f693f909200d7e6/b26e2/1207.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/2e12841a3cf37202ac046bcf6951b60d/3c5dc/32_full.png",
+                            "srcSet": "/static/2e12841a3cf37202ac046bcf6951b60d/ca8fd/32_full.png 200w,\n/static/2e12841a3cf37202ac046bcf6951b60d/de50c/32_full.png 400w,\n/static/2e12841a3cf37202ac046bcf6951b60d/3c5dc/32_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/2e12841a3cf37202ac046bcf6951b60d/213b2/32_full.webp 200w,\n/static/2e12841a3cf37202ac046bcf6951b60d/413c5/32_full.webp 400w,\n/static/2e12841a3cf37202ac046bcf6951b60d/cf6d0/32_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Head of the Sky-Faring Commission on the Xianzhou Luofu. Yukong was a seasoned pilot and a deadshot. Since heading up the commission, she's been buried under mountains of paperwork.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "120701",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "120702",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "120703",
+            "energy_gen": "5",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "120704",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "120707",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Support",
+    "affiliation": "Xianzhou Luofu",
+    "rarity": "4",
+    "element": "Imaginary",
+    "path": "Harmony",
+    "stats": {
+        "hp_base": 124.8,
+        "def_base": 51,
+        "atk_base": 81.6,
+        "speed_base": 107
+    },
+    "ascensionMaterials": {
+        "mats_1": "artifex-module",
+        "mats_2": "artifex-cogwheel",
+        "mats_3": "golden-crown-of-the-past-shadow",
+        "mats_4": "artifex-gyreheart"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "32",
+            "name": "Yukong",
+            "upgrade1Name": "Aerial Marshal",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At the start of battle, increases the SPD of all allies by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Skyward Command",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When any ally's current energy is equal to its energy limit, Yukong regenerates an additional \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" energy. This effect can only be triggered once for each ally. The trigger count is reset after Yukong casts her Ultimate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Torrential Fusillade",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Zephyrean Echoes",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When \\\"Roaring Bowstrings\\\" is active, Yukong deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" more DMG to enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "August Deadshot",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" up to a maximum of Lv. 15.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Bowstring Thunderclap",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When Yukong uses her Ultimate, she immediately gains \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" stack(s) of \\\"Roaring Bowstrings.\\\"\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Yukong can resist 1 debuff application for 1 time. This effect can be triggered again in 2 turn(s).",
+            "name": "Archerion"
+        },
+        {
+            "req": "A4",
+            "desc": "When Yukong is on the field, Imaginary DMG dealt by all allies increases by 12%.",
+            "name": "Bowmaster"
+        },
+        {
+            "req": "A6",
+            "desc": "When Roaring Bowstrings is active, Yukong regenerates 2 additional Energy every time an ally takes action.",
+            "name": "Majestas"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Yukong is a support with extraordinarily powerful buffs and breaking utility, but is definitely one of the most challenging units to use thus far. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"She requires more effort to use than the other Harmony characters, substantially so in fact, but she can assuredly be worth the effort\u2014\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"if\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" you\u2019re willing to work for it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I\u2019ll start with Yukong\u2019s Talent, because it\u2019s something of an outlier as far as expected support Talents. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Every other turn, Yukong\u2019s Basic attack gets Enhanced, dealing up to an additional 80% of her ATK at max Trace level, as well as increasing the Toughness damage by 100%!\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" A Basic attack dealing damage potentially equal to 180% of a character\u2019s ATK while still restoring a Skill Point is already exceptional, but the fact it deals twice as much Toughness damage as well is just insane. Yukong can end up contributing a huge amount of Toughness damage thanks to this one Talent, and because it actually has a decent multiplier, she can contribute pretty decent team damage as well.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her primary method of buffing is through her Skill. Using it gives Yukong 2 stacks of Roaring Bowstrings, increasing the ATK of all allies by up to 80% at max Trace level, while stacks persist. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"She loses 1 stack on every ally turn after hers.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This buff can be compounded further thanks to her Ultimate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yukong\u2019s Ultimate targets a single enemy, and deals a very respectable amount of damage, up to 380% of her ATK at max Trace level. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"At the same time, if Roaring Bowstrings is still active, it will add up to 28% Crit Rate and 65% Crit DMG to the effects of Roaring Bowstrings at max Trace level\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Both of these effects combined means Yukong can provide 80% ATK, 28% Crit Rate and 65% Crit DMG \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"all by herself.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"This also has a remarkably high damage multiplier for a support, and since these buffs are all active \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"before\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" the Ultimate\u2019s damage comes out, said Ultimate benefits fully from all of these fantastic effects.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"However, you may have already noticed a glaring issue in that the very powerful Roaring Bowstrings effects will dissipate before your third ally turn, meaning one of your characters will never be affected by it.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Ever. But it\u2019s okay, you can do some pre-planning to make sure that Yukong is always acting immediately before your main damage dealer, and that way they\u2019ll always be able to make use of her buffs, right? Ah but what if there are fluctuating SPD values due to various buffs and debuffs that many units and enemies have?\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Well, this is where problems arise\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". You can definitely plan a team in advance and expect that Yukong\u2019s buffs will always affect the correct allies, but \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"realistically there are inevitably going to be extenuating circumstances that interfere with that plan\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Allies may fall in and out of ideal turn order due to many different things, and it falls to the player to make the most out of whatever hand you\u2019re dealt.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you\u2019re using characters that naturally alter their SPD or have mechanics like turn advance, such as Sushang or a Wind damage dealer using the Eagle of Twilight Line relic set, this is not that big of a concern actually, because even if a desync occurs, they will naturally realign themselves over time anyway. It\u2019s a little more problematic if a desync occurs with characters that have set SPD values, but again, it\u2019s not insurmountable.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The way you can work around this is by paying attention to the specific wording of Yukong\u2019s Skill; every ally \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"turn\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" will consume a stack, meaning any and all Extra Actions can be freely used as long as 1 stack of Roaring Bowstrings persists\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This includes ally Ultimates, so especially if the majority of a character\u2019s power is concentrated into their Ultimate, they can still benefit fully from Yukong\u2019s buffs even if a turn desync occurs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Keeping track of all of these aspects of Yukong\u2019s kit is incredibly demanding,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" what with managing her powerful buffs efficiently and actually having meaningful uses of her Ultimate, while still trying to find good uses of her equally powerful Talent. It is not an understatement \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"to call her the most difficult-to-play unit to date. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Even Qingque is simple by comparison, but as with our favorite mahjong gremlin, the effort is well worth the output.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yukong\u2019s Bonus Traces are very impactful and have a big effect on her performance. Her A2 allows her to resist 1 debuff once every 2 turns. This means any debuff at all, be it a DoT or a crowd-controlling debuff like Imprisonment, so this can potentially prevent the aforementioned turn desync from occurring from Yukong\u2019s side at least.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her A4 increases all Imaginary DMG dealt by all allies by 12% as long as she\u2019s alive, meaning she\u2019s going to be a good pairing with Imaginary damage dealers like Welt, and this even goes a long way to improving her own personal damage contribution.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The most impactful Bonus Trace is her A6. When Roaring Bowstrings is active, Yukong regenerates 2 additional Energy every time an ally takes action. Note it says \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"action\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and not turn, meaning Extra Actions and Ultimates will also contribute to this Energy regeneration, even Yukong\u2019s own Ultimate usage, and this is actually a very significant amount of Energy coming back to Yukong over the course of a fight.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yukong\u2019s Eidolons are not necessary for her to perform exceptionally at E0, but they are welcome all the same. E2, E4, and especially E6 provide notable quality-of-life improvements, but Yukong\u2019s skill floor unfortunately remains quite high regardless.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"If you\u2019re willing to put in the effort for this silver fox, she\u2019ll perform amazingly both now and well into the future too.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" She has everything you may want from a support and then some, but it\u2019s locked behind layers of nuance and understanding. Can she be a formidable buffer akin to Tingyun and Bronya? Absolutely, but whether or not she\u2019ll reach those heights\u2026 That depends on the skill of the runner.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Top tier damage buffs, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Absurdly high skill ceiling, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Significant Toughness damage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Notable personal damage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Scales extremely well into the end game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Regrettably high skill floor, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely hard to play to her fullest, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Very weak early game,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\" High reliance on A6 for Energy needs.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3700 - 4500+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"700 - 1300+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1-2 Speed slower than sustain\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ENERGY REGEN\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\": 19.44%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Dawn M. Bennett",
+        "kr": "\uc804\uc219\uacbd (Jeon Sook-kyung)",
+        "jpn": "\u51ac\u99ac\u7531\u7f8e (Yumi T\u014dma)",
+        "cn": "\u949f\u53ef (Zhong Ke)"
+    },
+    "ratings": {
+        "moc": "5",
+        "moc_special": "4",
+        "pure": "4",
+        "pure_special": "4",
+        "apo": "5",
+        "apo_special": "4"
+    },
+    "energyUltimate": "130",
+    "conesNew": [
+        {
+            "cone": "planetary-rendezvous",
+            "super": "5",
+            "percent": "-",
+            "notes": "Increases the damage of all units of the same elemental type as the wearer. A good generic damage increase for damage dealers that matches the element of the support but should not be used outside of this scenario. One of the top options for a more damage-focused Yukong."
+        },
+        {
+            "cone": "memories-of-the-past",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers 8 energy per attacking action at S5 making it equivalent to Meshing Cogs but with better base stats and a large amount of Break Effect. Does not have the 8 energy when taking damage compared to its alternative though which makes it less effective at achieving the shortest rotations possible. Allows much faster access to Yukong's Ultimate and is also a top option for damage-focused Yukong."
+        },
+        {
+            "cone": "but-the-battle-isnt-over",
+            "super": "1",
+            "percent": "-",
+            "notes": "Provides Energy Regeneration and a massive damage increase to the character who moves after the wearer uses their skill. In addition to this, every other Ultimate cast will grant the team 1 skill point. An extremely situational Cone on Yukong - if you are Speed tuning Yukong 1 Speed slower than your main DPS and using her skill frequently this Cone can be effective but you won't get the Skill Point on ultimate use as her ultimate is not a buff."
+        },
+        {
+            "cone": "meshing-cogs",
+            "super": "5",
+            "percent": "-",
+            "notes": "A F2P Accessible Cone with poor base stats but which grants the wearer an additional 8 energy per attacking action they perform. Also grants another 8 energy whenever they receive damage from an enemy action. The combination of both energy effects can drastically reduce the required actions per Ultimate for most supports. Allows much faster access to Yukong's Ultimate but lowers her potential damage output substantially due to low base stats."
+        },
+        {
+            "cone": "carve-the-moon-weave-the-clouds",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers one of three random buffs that rotates throughout combat. A fine option when no other alternatives are available but often overshadowed by other more consistent or powerful harmony Cone options."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Longevous Disciple",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Guard of Wuthering Snow",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "memories-of-the-past",
+                    "super": "1"
+                },
+                {
+                    "cone": "meshing-cogs",
+                    "super": "5"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "comments": "Make sure her SPD is tuned between the team so she acts before the DPS. Yukong prefers tank stats in order to survive, so focus on them once you reach the needed SPD breakpoint.",
+            "substats": "SPD > HP = DEF > EFF RES% (30% if using Broken Keel)",
+            "skill_priority": "Skill > Ultimate > Talent = Basic",
+            "traces_priority": "Archerion (A2) > Majestas (A6) > Bowmaster (A4)",
+            "name": "Support"
+        }
+    ],
+    "videos": [
+        {
+            "video": "4lTea-AUxYU"
+        },
+        {
+            "video": "jehwqk371MY"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Hypercarry duo-element",
+            "member_1": "yukong",
+            "member_2": "luocha",
+            "member_3": "seele",
+            "member_4": "silver-wolf"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 10
+        },
+        "traceStat2": {
+            "stat": "dmg_imaginary",
+            "value": 22.4
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 18
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Amplifier",
+    "releaseDate": "June 28th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "Buff"
+    ]
+}

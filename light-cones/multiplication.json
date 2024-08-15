@@ -1,0 +1,58 @@
+{
+    "id": "9c462e5a-e1a1-5315-910e-70bce12b1a22",
+    "updatedAt": "2023-04-26T02:57:45.332Z",
+    "createdAt": "2023-04-25T18:43:52.118Z",
+    "coneId": 81,
+    "name": "Multiplication",
+    "slug": "multiplication",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/5743cab33aad12bca45a7ad245f0f615/bf8e1/81.png",
+                            "srcSet": "/static/5743cab33aad12bca45a7ad245f0f615/914ee/81.png 32w,\n/static/5743cab33aad12bca45a7ad245f0f615/1c9ce/81.png 64w,\n/static/5743cab33aad12bca45a7ad245f0f615/bf8e1/81.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/5743cab33aad12bca45a7ad245f0f615/ef6ff/81.webp 32w,\n/static/5743cab33aad12bca45a7ad245f0f615/8257c/81.webp 64w,\n/static/5743cab33aad12bca45a7ad245f0f615/6766a/81.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Abundance",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "14",
+            "value_level_max": "317"
+        },
+        "def": {
+            "value_level_1": "9",
+            "value_level_max": "198"
+        }
+    },
+    "skillName": "Denizens of Abundance",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After the wearer uses their Basic ATK, their next action will be Advanced Forward by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/14/16/18/20\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

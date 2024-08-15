@@ -1,0 +1,416 @@
+{
+    "id": "a14588ab-5a85-56de-9ad8-27b7ff602daa",
+    "updatedAt": "August 12th, 2024",
+    "createdAt": "2023-01-23T13:30:06.540Z",
+    "unitId": 2,
+    "name": "Trailblazer (Fire)",
+    "slug": "trailblazer-fire",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#484848",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/07525d7cc303828938376541b58c95e2/60b4d/fire_mc_icon.webp",
+                            "srcSet": "/static/07525d7cc303828938376541b58c95e2/e73fe/fire_mc_icon.webp 40w,\n/static/07525d7cc303828938376541b58c95e2/61ca6/fire_mc_icon.webp 80w,\n/static/07525d7cc303828938376541b58c95e2/60b4d/fire_mc_icon.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#282828",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/d4f653e34596a759a673d7b45588ebb6/b26e2/fire_mc_card.webp",
+                            "srcSet": "/static/d4f653e34596a759a673d7b45588ebb6/84550/fire_mc_card.webp 94w,\n/static/d4f653e34596a759a673d7b45588ebb6/34f80/fire_mc_card.webp 187w,\n/static/d4f653e34596a759a673d7b45588ebb6/b26e2/fire_mc_card.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/d39cc42cb02681360d3a91210370e332/3c5dc/2_full.png",
+                            "srcSet": "/static/d39cc42cb02681360d3a91210370e332/ca8fd/2_full.png 200w,\n/static/d39cc42cb02681360d3a91210370e332/de50c/2_full.png 400w,\n/static/d39cc42cb02681360d3a91210370e332/3c5dc/2_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/d39cc42cb02681360d3a91210370e332/213b2/2_full.webp 200w,\n/static/d39cc42cb02681360d3a91210370e332/413c5/2_full.webp 400w,\n/static/d39cc42cb02681360d3a91210370e332/cf6d0/2_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A girl/boy who boarded the Astral Express. They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "800301",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "800308",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "800302",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "800303",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "800304",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "800307",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Shielder",
+    "affiliation": "Astral Express",
+    "rarity": "5",
+    "element": "Fire",
+    "path": "Preservation",
+    "stats": {
+        "hp_base": 168.96,
+        "def_base": 82.5,
+        "atk_base": 81.84,
+        "speed_base": 95
+    },
+    "ascensionMaterials": {
+        "mats_1": "thiefs-instinct",
+        "mats_2": "usurpers-scheme",
+        "mats_3": "enigmatic-ectostella",
+        "mats_4": "conquerors-will"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "2",
+            "name": "Trailblazer (Fire)",
+            "upgrade1Name": "Earth-Shaking Resonance",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When the Trailblazer uses their Basic ATK, additionally deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fire DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the Trailblazer's DEF. When the Trailblazer uses their enhanced Basic ATK, deal Additional \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Fire DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the Trailblazer's DEF.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Time-Defying Tenacity",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Shield applied to all allies from the Trailblazer's Talent will block extra DMG equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the Trailblazer's DEF plus \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"27\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Trail-Blazing Blueprint",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Nation-Building Oath",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At the start of the battle, immediately gains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stack(s) of Magma Will.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Spirit-Warming Flame",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. +\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. +\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "City-Forging Bulwarks",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After the Trailblazer use enhanced Basic ATK or Ultimate, their DEF increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". Stacks up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s).\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "After using the Skill, the DMG taken by all allies reduces by <b>15%</b> for 1 turn(s).",
+            "name": "The Strong Defend the Weak"
+        },
+        {
+            "req": "A4",
+            "desc": "Using Enhanced Basic ATK restores the Trailblazer's HP by <b>5%</b> of their Max HP.",
+            "name": "Unwavering Gallantry"
+        },
+        {
+            "req": "A6",
+            "desc": "When the Trailblazer is protected by a Shield at the beginning of the turn, increases ATK by <b>15%</b> and regenerates <b>5</b> Energy until the action is over.",
+            "name": "Action Beats Overthinking"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Preservation version of the Trailblazer deals decent damage for a defensive unit and quite significant Toughness damage as well. They also offer small but consistent party-wide shields at no additional cost. They are able to circumvent enemy lock-ons and unfavourable targeting through their Skill, taunting enemies and provoking them into attacking only the Trailblazer. Later on, they are able to provide teamwide damage reduction that can significantly reduce damage from hard hitting enemy and Boss AoE attacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Following the very epic events on Jarilo-VI, the players gain access to the Preservation flavour of the Trailblazer. This is a unit that attempts to consolidate defensive utility with damage and Toughness damage. Compared to the Destruction variant, this ends up being significantly more successful, and is a version of the Trailblazer that still sees quite widespread use even now when far more (and far more powerful) sustain characters exist.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The big draw of the Preservation Trailblazer is their Talent. After using any action, be it a Basic ATK, Skill, or Ultimate, the Trailblazer will apply a shield to all allies for up to 6% of their DEF plus 80, lasting for 2 turns. This is not a large shield by any stretch of the imagination, even at unreasonable DEF values, but the cool part is that it is reapplied by any action, meaning these shields are quite good at dealing with small but frequent sources of damage; even though these shields are unlikely to fully mitigate any attack in the late game, the damage that does end spilling over will be significantly reduced.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Trailblazer also gains stacks of Magma Will whenever they are hit or use their Basic ATK or Skill, stacking up to 8 times. At 4 stacks, their Basic ATK will be Enhanced, becoming a Blast AoE that deals damage to adjacent foes as well. This Enhanced Basic also deals increased Toughness damage to the main target. This attack consumes the 4 stacks of Magma Will and will not add any back.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Trailblazer\u2019s Ultimate deals damage to all enemies on the field, dealing up to 100% ATK plus 150% of the Trailblazer\u2019s DEF. This also automatically Enhances the next Basic ATK at no cost. The upfront damage is certainly nice, but the more impactful aspect of this Ultimate is that it deals 60 Toughness damage to all enemies on the field and also counts towards activating the Talent, meaning it is possible to activate this during the enemy\u2019s turn to refresh the shields in a pinch.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Their Skill assumes a defensive stance, reducing incoming damage by up to 50% and having a 100% base chance to Taunt all enemies for 1 turn. This provoke is how the Trailblazer can circumvent lock-ons and redirect strong damage, so that in the inevitable situation where your Foxian teammates end up taking The World\u2019s damage, you have an opportunity to prevent that from resulting in their death. The base chance is high, but on its own is insufficient to provide a true 100% chance of provoking enemies, especially at higher levels and in later stages of Memory of Chaos.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It is not (always) fatal if you do not land the Taunt, as their A2 Bonus Ability Trace provides a 15% damage reduction for the rest of the team for 1 turn whenever the Trailblazer uses their Skill, meaning even if the enemy cannot be made to attack them specifically, the damage reduction on top of the Talent\u2019s shields will do a great job at protecting the other party members. Their A4 restores 5% Max HP whenever they use an Enhanced Basic, and then A6 provides a very tangible 5 Energy per turn so long as the Trailblazer remains shielded. It also provides a very not-tangible 15% ATK increase.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As is the case with the Trailblazer being the main character, you are going to gain access to all of their Eidolons over time by just playing. Unlike the Destruction variant, these Eidolons are actually quite compelling. E1 makes their Basic ATK and Enhanced Basic have additional DEF% scaling, 25% and 50% respectively. This is ultimately pretty negligible unless you\u2019re building for more of a bruiser type of Preservation Trailblazer, in which case it can actually be a pretty significant increase to their overall damage contribution.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"E4 grants 4 stacks of Magma Will at the start of a fight, but E2 and E6 are the big big ones. E2 increases the value of the Talent\u2019s shields by an extra 2% DEF plus 27, for a new total value of 8% plus 107. While still rather paltry shields compared to the ones that someone like Gepard can provide, you should remember that these are entirely free shields that are refreshed upon every action of the Trailblazer. E6 will increase the Trailblazer\u2019s DEF by 10% for every Enhanced Basic ATK or Ultimate they use, up to 30%, providing yet further bonuses to their kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In the early and mid game, the shields provided by the Preservation Trailblazer are more than enough on their own to completely stifle enemy damage, as the base values are quite high at that point. Later on, however, this starts to be less and less true, as enemy damage starts to climb extraordinarily quickly, enough that if your focus is shielding, you better be damn sure that those shields can endure at least a few attacks before getting broken. Even with the quick reapplication, even singular attacks from non-Elite enemies can easily do in the thousands of damage, far more than the Trailblazer will ever be able to mitigate within reason; for context, you\u2019d need to hit 5-digit DEF values for the shields to be able to exceed 1000, and that\u2019s not happening, even inside the Simulated Universe.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As such, the Preservation Trailblazer is not able to remain the solo sustain unit of a team unless the player is \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"exceptionally\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" brave. Even then, it remains inadvisable in most cases. There are a few enemies who get completely shafted by a Taunt, like Voidranger Tramplers or Malefic Apes, and in cases where they are the main threats of an encounter, Preservation Trailblazer can actually be a suitable stand-in for a proper sustain unit. Do note that in these cases, they are very SP negative, as their Taunt requires they spend Skill Points, so keep this in mind when building a team around their Taunt.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because of the shielding that is generally inadequate on its own in the late game alongside the quite meaningful Toughness damage that the Trailblazer can dish out, they become a competent unit in a double defensive setup, one where you have two units who are typically considered sustains. Their passive shielding complements another sustain character\u2019s healing very well, making it truly very difficult for allies to die when there are two layers of protection. The Toughness damage also helps to alleviate the otherwise colossal damage loss you incur by replacing either another support character or a damage dealer with the Preservation Trailblazer, though this is contingent on the enemy being weak to Fire.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Double defensive comps are almost always suboptimal, but in the event your dedicated sustain unit is incapable of keeping the team alive, the Preservation Trailblazer can readily turn that \u2018maybe\u2019 into a \u2018definitely\u2019 \u2014 and, hey, if your damage dealers already have no issues decimating anything that\u2019s put in front of them, then why \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"not \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"enjoy the extra comfort that Preservation Trailblazer can offer?\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It is an ultimately inescapable fate that the Preservation Trailblazer will see less and less use over time, both for you specifically, and for the general playerbase. Players nowadays have access to stronger, more versatile, and more interesting characters, and team slots are invariably limited to a maximum of four. The days of shoddy sustain units are largely behind us, and with them goes one of the most compelling reasons to use Preservation Trailblazer. Even still, despite all of this the Preservation Trailblazer is still seeing use, and will likely continue to do so until the day all players can get amazing sustain characters entirely for free.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Nowadays especially, Preservation Trailblazer has slotted themselves into the position of a dedicated Breaker due to their aforementioned high Toughness damage. Since there\u2019s no pressure to use their Ultimate for raw damage and it\u2019s unlikely they\u2019re your only sustain unit, it is relatively easy to guarantee that they will be the one Breaking opponents, giving a great way to make up for the damage you\u2019d otherwise be losing by not using a different unit. The role consolidation is very much appreciated, and with Pure Fiction now in the game, the Preservation Trailblazer has another compelling use case.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As with the Destruction Trailblazer, investing a lot into Preservation Trailblazer will definitely see their usefulness and power increase, but there are many characters and there will be many more, and resources are finite, even including new forms of the Trailblazer themselves. Putting your resources into the Preservation Trailblazer definitely won\u2019t be wasted, but just keep in mind what the Trailblazer says: \u2018When you make a choice, make one you know you won\u2019t regret.\u2019\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\u2026 The Ultimate animation will \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"always\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" be top tier, though.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Great support with consistent shielding, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Versatile build paths for the heavily invested, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High Toughness damage for a support, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AoE Taunt ability invalidates some enemies, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Good comfort pick.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Shielding is insufficient on its own in late game, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Difficult to optimise damage without sacrificing defensive utility, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Value drops as the player gains more defensive options, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Cannot Taunt without expending Skill Points, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incompatible with other versions of the Trailblazer.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": null,
+    "voiceActors": {
+        "en": "Rachael Chau | Caleb Yen",
+        "kr": "Kim Ha-ru (\uae40\ud558\ub8e8) | Kim Myung-jun (\uae40\uba85\uc900)",
+        "jpn": "Ishikawa Yui (\u77f3\u5ddd \u7531\u4f9d) | Enoki Junya (\u698e\u6728 \u6df3\u5f25)",
+        "cn": "Chen Tingting (\u9648\u5a77\u5a77) | Qin Juge (\u79e6\u4e14\u6b4c)"
+    },
+    "ratings": {
+        "moc": "5",
+        "moc_special": "5",
+        "pure": "7",
+        "pure_special": "7",
+        "apo": "4",
+        "apo_special": "4"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "moment-of-victory",
+            "super": "1",
+            "percent": "-",
+            "notes": "Provides a huge amount of DEF and a good amount of Effect Hit Rate and increases FMC's chance to be attacked. All these stats are spectacular for FMC's utility, survival, and kit making it the best all-around Cone for their tanking/fire breaking role."
+        },
+        {
+            "cone": "landaus-choice",
+            "super": "5",
+            "percent": "-",
+            "notes": "Provides damage reduction and increased chance to be hit similar to Moment of Victory making it an easier to acquire alternative without quite as many bonuses."
+        },
+        {
+            "cone": "she-already-shut-her-eyes",
+            "super": "1",
+            "percent": "-",
+            "notes": "Depending on the role your FMC is taking this Cone can be more valuable than the taunt provided by Moment of Victory or Landau's choice in keeping your team alive thanks to the close to full heal delivered at the start of every new wave. Specifically solo sustain FMC may prefer this Cone over other tanking alternatives."
+        },
+        {
+            "cone": "day-one-of-my-new-life",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers defense and damage resistance to your entire team. A great option if you have no or want an alternative to taunting lightcones."
+        },
+        {
+            "cone": "we-are-wildfire",
+            "super": "5",
+            "percent": "-",
+            "notes": "F2P alternative to Day One Of My New Life that offers a similar effect to your teams but with a duration and much lesser effects."
+        },
+        {
+            "cone": "destinys-threads-forewoven",
+            "super": "5",
+            "percent": "-",
+            "notes": "Provides no DEF but can provide an immense damage increase to FMC. However the requirement in order to reach the maximum bonus of 48% at S5 is 4000 DEF which can be quite challenging to achieve."
+        },
+        {
+            "cone": "trend-of-the-universal-market",
+            "super": "5",
+            "percent": "-",
+            "notes": "Provides a reasonable amount of defence and an additional damage component to FMC's arsenal that can allow them to contribute more damage to battles at the cost of team utility like taunting Cones."
+        },
+        {
+            "cone": "amber",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers DEF% for FMC. Should only be used until an alternative can be acquired."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Knight of Purity Palace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Knight of Purity Palace",
+                    "relic_2": "Messenger Traversing Hackerspace",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "moment-of-victory",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "DEF%"
+                },
+                {
+                    "stat": "Fire DMG"
+                }
+            ],
+            "comments": "This build focuses on Taunting and team utility while still trying to obtain decent Shield capacity.",
+            "substats": "Effect RES until 30% (if running Broken Keel) > Speed > DEF% > HP% > Effect Hit Rate",
+            "skill_priority": "Ultimate > Talent > Basic > Skill",
+            "traces_priority": "The Strong Defend the Weak > Action Beats Overthinking > Unwavering Gallantry",
+            "name": "Tanking"
+        }
+    ],
+    "videos": [
+        {
+            "video": "JPWnalIpEfo"
+        }
+    ],
+    "teams": [
+        {
+            "name": "F2P Team (turtle)",
+            "member_1": "trailblazer-fire",
+            "member_2": "natasha",
+            "member_3": "march-7th",
+            "member_4": "dan-heng"
+        },
+        {
+            "name": "F2P Team",
+            "member_1": "trailblazer-fire",
+            "member_2": "natasha",
+            "member_3": "serval",
+            "member_4": "dan-heng"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "def",
+            "value": 35
+        },
+        "traceStat2": {
+            "stat": "atk",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "Break",
+        "Debuff"
+    ]
+}

@@ -1,0 +1,425 @@
+{
+    "id": "b5cbd599-92f0-54b5-afee-e73886fd6c77",
+    "updatedAt": "June 27th, 2024",
+    "createdAt": "2023-01-26T09:03:21.465Z",
+    "unitId": 25,
+    "name": "Tingyun",
+    "slug": "tingyun",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/03bcec36a01c78f33767b7098f6fa1f0/e9a79/25_sm.png",
+                            "srcSet": "/static/03bcec36a01c78f33767b7098f6fa1f0/f31ef/25_sm.png 40w,\n/static/03bcec36a01c78f33767b7098f6fa1f0/1f8a1/25_sm.png 80w,\n/static/03bcec36a01c78f33767b7098f6fa1f0/e9a79/25_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/03bcec36a01c78f33767b7098f6fa1f0/e73fe/25_sm.webp 40w,\n/static/03bcec36a01c78f33767b7098f6fa1f0/61ca6/25_sm.webp 80w,\n/static/03bcec36a01c78f33767b7098f6fa1f0/60b4d/25_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b85651f49ebbab337ebb27c6ddf2067e/c9885/1202.png",
+                            "srcSet": "/static/b85651f49ebbab337ebb27c6ddf2067e/2aab7/1202.png 94w,\n/static/b85651f49ebbab337ebb27c6ddf2067e/0a986/1202.png 187w,\n/static/b85651f49ebbab337ebb27c6ddf2067e/c9885/1202.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/b85651f49ebbab337ebb27c6ddf2067e/84550/1202.webp 94w,\n/static/b85651f49ebbab337ebb27c6ddf2067e/34f80/1202.webp 187w,\n/static/b85651f49ebbab337ebb27c6ddf2067e/b26e2/1202.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/fa18172a868f8fe5268af86ae17f34cb/3c5dc/25_full.png",
+                            "srcSet": "/static/fa18172a868f8fe5268af86ae17f34cb/ca8fd/25_full.png 200w,\n/static/fa18172a868f8fe5268af86ae17f34cb/de50c/25_full.png 400w,\n/static/fa18172a868f8fe5268af86ae17f34cb/3c5dc/25_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/fa18172a868f8fe5268af86ae17f34cb/213b2/25_full.webp 200w,\n/static/fa18172a868f8fe5268af86ae17f34cb/413c5/25_full.webp 400w,\n/static/fa18172a868f8fe5268af86ae17f34cb/cf6d0/25_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A silver-tongued Foxian girl, Tingyun is the Head Representative of the Whistling Flames, a merchant guild officially approved by the Sky-Faring Commission. She has such a way with words that often leaves her audience eagerly waiting for more of her captivating tales. As a result of her supervision, the Xianzhou trade fairs are now known throughout the galaxy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\\"Try one's best to avoid conflict when possible, and persuade those who can be persuaded\\\" \u2014 that's Tingyun's motto.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "120201",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "120202",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "120203",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "120204",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "120207",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Support",
+    "affiliation": "Xianzhou Luofu",
+    "rarity": "4",
+    "element": "Lightning",
+    "path": "Harmony",
+    "stats": {
+        "hp_base": 115.2,
+        "def_base": 54,
+        "atk_base": 72,
+        "speed_base": 112
+    },
+    "ascensionMaterials": {
+        "mats_1": "immortal-scionette",
+        "mats_2": "immortal-aeroblossom",
+        "mats_3": "lightning-crown-of-the-past-shadow",
+        "mats_4": "immortal-lumintwig"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "25",
+            "name": "Tingyun",
+            "upgrade1Name": "Windfall of Lucky Springs",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After using their Ultimate, the ally with Benediction gains a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" increase in SPD for 1 turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Gainfully Gives, Givingly Gains",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The ally with Benediction regenerates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy after defeating an enemy. This effect can only be triggered once per turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Halcyon Bequest",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. +\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. +\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Jovial Versatility",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The DMG multiplier provided by Benediction increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Sauntering Coquette",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Peace Brings Wealth to All",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Ultimate regenerates \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" more Energy for the target ally.\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Tingyun's SPD increases by <b>20%</b> for <b>1</b> turn after using Skill.",
+            "name": "Nourished Joviality"
+        },
+        {
+            "req": "A4",
+            "desc": "Basic ATK DMG increases by <b>40%</b>.",
+            "name": "Knell Subdual"
+        },
+        {
+            "req": "A6",
+            "desc": "Tingyun immediately regenerates <b>5</b> Energy at the start of her turn.",
+            "name": "Jubilant Passage"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Tingyun is arguably the best 4-star support character in the game. She is able to boost a single ally\u2019s ATK and DMG significantly while also providing a large influx of Energy to said ally with her Ultimate. She is able to elevate damage dealers in hypercarry comps to impressive levels while remaining largely SP-positive. She is a staple support character and it is highly recommended that every player pursue her acquisition.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This honestly might be the shortest review of the bunch because Tingyun is really rather cut and dry; she\u2019s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"just that good.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" If you don\u2019t have her, get her. If you have her and you\u2019re not using her, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"what are you doing??\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Tingyun\u2019s Skill selects a single ally to buff with Benediction, increasing their ATK by up to 50%. This ATK increase cannot be more than 25% of Tingyun\u2019s own ATK, so she does want some of that stat to better buff allies. Benediction is also unique in that it allows the buffed ally to deal additional Lightning DMG equal to 40% of the buffed ally\u2019s ATK. Benediction lasts for 3 turns.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"What this additional Lightning damage essentially does is provide a raw DMG \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"multiplier\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" increase to the buffed ally. I often say how rare certain damage boosts are, be it RES PEN or DEF Shred, but this one thing is actually the rarest. Raw increases to DMG multipliers is the single biggest increase to damage you can get because it\u2019s completely undiluted \u2014 in fact it makes any other boosts you get \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"better\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Tingyun being able to provide a boost of this calibre with a push of a button and have it last for 3 turns is immaculate. Not only this, but because it\u2019s tied to turn count rather than action count, anything that counts as an Extra Action will not deplete Benediction in any way, making things like Seele\u2019s Resurgence, ally follow-up attacks, or even just any Ultimates highly efficient.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Tingyun\u2019s Ultimate restores 50 Energy for a target ally and increases their DMG by up to 50% for 2 turns. While it has a steeper than average Energy cost of 130, the ability to grant any ally you choose 50 flat Energy is exceptional. For many characters who rely on their Ultimates, Tingyun is an invaluable addition that allows them to have higher uptime on their big hitting setups. Even for characters who do not rely on their Ultimates, 50 Energy is 50 Energy; it\u2019s always appreciated.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Tingyun\u2019s Talent also interacts with Benediction, causing an additional instance of DMG equal to 60% of the buffed ally\u2019s ATK whenever Tingyun uses her Basic ATK. This means Tingyun can also contribute some non-negligible damage in between reapplying her Skill\u2019s Benediction. It\u2019s not likely to be making a huge difference, but it can assist in defeating trash adds.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Bonus Ability Traces are incredibly important to her gameplay. A2 increases her SPD by 20% for 1 turn after using her Skill, A4 increases Basic ATK DMG by 40%, and A6 will regenerate 5 Energy immediately at the start of each of her turns.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because of Tingyun\u2019s kit, the single most important stat to maximising her effectiveness is SPD. All the SPD in the world, because the faster Tingyun is, the faster she gets Energy back, and thus the faster she can give Energy back to your damage dealer. A 20% SPD boost for free after using Skill is very much appreciated, especially due to Tingyun\u2019s extraordinarily high base SPD of 112. Taking more turns before your damage dealers also means more opportunities to take advantage of the free Energy being given from A6. It is easily the most important stat for her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Eidolons are not a necessity for Tingyun, but there is a strong argument to be made for obtaining them at your convenience. They are all largely self-explanatory and as powerful as they say. E6 in particular is incredibly useful as it causes her Ultimate\u2019s Energy restore to go from 50 to 60. It may initially seem like a meagre increase, but you would be stunned at how big of a difference this makes in practice.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For as long as damage dealers need Energy for their Ultimates, Tingyun will continue to be a dominant support character.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incredibly powerful buffs to ATK, DMG, and even raw multipliers, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can be played very SP positive, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Invaluable Energy restoration Ultimate, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Scales very well with Eidolons.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Works best in a hypercarry setup as all her buffs are single-target only.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3000 - 3500+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"900 - 1100+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\": 2400 - 2600+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 / 143 (Recommended) / 160+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ENERGY REGEN\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\": 19.44%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Laci Morgan",
+        "kr": "",
+        "jpn": "Y\u016bki Takada (\u9ad8\u7530 \u6182\u5e0c)",
+        "cn": "Li Jiang (\u848b\u4e3d)"
+    },
+    "ratings": {
+        "moc": "9",
+        "moc_special": "8",
+        "pure": "9",
+        "pure_special": "8",
+        "apo": "8",
+        "apo_special": "7"
+    },
+    "energyUltimate": "130",
+    "conesNew": [
+        {
+            "cone": "dance-dance-dance",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a 24% action advance for the entire team when the user activates their ultimate. It is not recommended for characters that rely on specific speed tuning in relation to the rest of the team but is excellent for all other characters. A good option for Tingyun and a popular choice as she starts most endgame content with her ultimate active."
+        },
+        {
+            "cone": "meshing-cogs",
+            "super": "5",
+            "percent": "-",
+            "notes": "A F2P Accessible Cone with poor base stats but which grants the wearer an additional 8 energy per attacking action they perform. Also grants another 8 energy whenever they receive damage from an enemy action. The combination of both energy effects can drastically reduce the required actions per ultimate for most supports. Allows Tingyun to execute a 3-action rotation in most cases. "
+        },
+        {
+            "cone": "memories-of-the-past",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers 8 energy per attacking action at S5 making it equivalent to Meshing Cogs but with better base stats and a large amount of Break Effect. Does not have the 8 energy when taking damage compared to its alternative though which makes it less effective at achieving the shortest rotations possible. Can allow Tingyun to execute a 3 action rotation but not as popular or consistent as Meshing Cogs without the damage taken energy bonus."
+        },
+        {
+            "cone": "carve-the-moon-weave-the-clouds",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers one of three random buffs that rotates throughout combat. A fine option when no other alternatives are available but often overshadowed by other more consistent or powerful harmony lightcone options."
+        },
+        {
+            "cone": "planetary-rendezvous",
+            "super": "5",
+            "percent": "-",
+            "notes": "Increases the damage of all units of the same elemental type as the wearer. A good generic damage increase for damage dealers that match the element of the support but should not be used outside of this scenario."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Guard of Wuthering Snow",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Watchmaker, Master of Dream Machinations",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "but-the-battle-isnt-over",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "ATK%"
+                },
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "ATK%"
+                },
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "comments": "Focusing on Speed is very important as you want Tingyun to generate SP as often as possible. Defensive stats should be preferred on a lower level Tingyun to ensure her survivability.",
+            "substats": "SPD (Until Breakpoint) = ATK% (Until Recommended) > HP = DEF > EFF RES% (30% if using Broken Keel)",
+            "skill_priority": "Skill > Ultimate > Talent > Basic",
+            "traces_priority": "Jubilant Passage (A6) > Nourished Joviality (A2) > Knell Subdual (A4)",
+            "name": "Support"
+        }
+    ],
+    "videos": [
+        {
+            "video": "XXWR3vml6Zw"
+        },
+        {
+            "video": "GAoIu-EPx6I"
+        }
+    ],
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "tingyun",
+            "member_2": "natasha",
+            "member_3": "trailblazer-fire",
+            "member_4": "dan-heng"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "def",
+            "value": 22.5
+        },
+        "traceStat3": {
+            "stat": "lightningDmg",
+            "value": 8
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Amplifier",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "Buff",
+        "Energy"
+    ]
+}

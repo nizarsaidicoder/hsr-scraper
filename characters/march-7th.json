@@ -1,0 +1,417 @@
+{
+    "id": "2ae8b2d1-c798-5fd2-a0cf-d785c0a246f6",
+    "updatedAt": "August 12th, 2024",
+    "createdAt": "2023-01-23T15:02:24.168Z",
+    "unitId": 3,
+    "name": "March 7th",
+    "slug": "march-7th",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/63e84a0b75c737e0499f63f57b48c4d9/e9a79/3_sm.png",
+                            "srcSet": "/static/63e84a0b75c737e0499f63f57b48c4d9/f31ef/3_sm.png 40w,\n/static/63e84a0b75c737e0499f63f57b48c4d9/1f8a1/3_sm.png 80w,\n/static/63e84a0b75c737e0499f63f57b48c4d9/e9a79/3_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/63e84a0b75c737e0499f63f57b48c4d9/e73fe/3_sm.webp 40w,\n/static/63e84a0b75c737e0499f63f57b48c4d9/61ca6/3_sm.webp 80w,\n/static/63e84a0b75c737e0499f63f57b48c4d9/60b4d/3_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/cbedcf848398c7ef8b46be33e117453f/c9885/1001.png",
+                            "srcSet": "/static/cbedcf848398c7ef8b46be33e117453f/2aab7/1001.png 94w,\n/static/cbedcf848398c7ef8b46be33e117453f/0a986/1001.png 187w,\n/static/cbedcf848398c7ef8b46be33e117453f/c9885/1001.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/cbedcf848398c7ef8b46be33e117453f/84550/1001.webp 94w,\n/static/cbedcf848398c7ef8b46be33e117453f/34f80/1001.webp 187w,\n/static/cbedcf848398c7ef8b46be33e117453f/b26e2/1001.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/66dfd6e26da58c08aa94315dbb288c5c/3c5dc/3_full.png",
+                            "srcSet": "/static/66dfd6e26da58c08aa94315dbb288c5c/ca8fd/3_full.png 200w,\n/static/66dfd6e26da58c08aa94315dbb288c5c/de50c/3_full.png 400w,\n/static/66dfd6e26da58c08aa94315dbb288c5c/3c5dc/3_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/66dfd6e26da58c08aa94315dbb288c5c/213b2/3_full.webp 200w,\n/static/66dfd6e26da58c08aa94315dbb288c5c/413c5/3_full.webp 400w,\n/static/66dfd6e26da58c08aa94315dbb288c5c/cf6d0/3_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A spirited, quirky young girl who is into all the things girls her age should be interested in, for example, taking photos. She was awakened from a piece of drifting eternal ice only to find out that she knows nothing about herself or her past. While initially in low spirits due to her lack of identity, she decided to name herself after the date she came into this new life.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"And thus, on that day March 7th was born.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "100101",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "100102",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "100103",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "100104",
+            "energy_gen": "10",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "100107",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Shielder",
+    "affiliation": "Astral Express",
+    "rarity": "4",
+    "element": "Ice",
+    "path": "Preservation",
+    "stats": {
+        "hp_base": 144,
+        "def_base": 78,
+        "atk_base": 69.6,
+        "speed_base": 101
+    },
+    "ascensionMaterials": {
+        "mats_1": "thiefs-instinct",
+        "mats_2": "usurpers-scheme",
+        "mats_3": "horn-of-snow",
+        "mats_4": "conquerors-will"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "3",
+            "name": "March 7th",
+            "upgrade1Name": "Memory of You",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Every time March 7th's Ultimate Freezes a target, she regenerates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Memory of It ",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Upon entering battle, grants a Shield equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"24%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of March 7th's DEF plus \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"320\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to the ally with the lowest HP percentage, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Memory of Everything",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. +\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. +\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Never Forfeit Again",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Talent's Counter effect can be triggered \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" more time in each turn. The DMG dealt by Counter increases by an amount that is equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of March 7th's DEF.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Never Forget Again",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. +\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Talent Lv. +\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Just Like This, Always...",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Allies under the protection of the Shield granted by the Skill restores HP equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of their Max HP plus \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"106\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" at the beginning of each turn.\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Skill removes 1 debuff from an ally.",
+            "name": "Purify"
+        },
+        {
+            "req": "A4",
+            "desc": "The duration of the Shield generated from her Skill is extended for <b>1</b> turn(s).",
+            "name": "Reinforce"
+        },
+        {
+            "req": "A6",
+            "desc": "Increases Ultimate's base chance to Freeze enemies by <b>15%</b>.",
+            "name": "Ice Spell"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"March 7th is introduced as a shielder and counter-attacker, and remains competent at this role until the mid game. Beyond this, she finds a unique and potentially powerful niche as an AoE Freeze support, able to afflict enemies with Crowd Control and provide defensive utility by proxy. She has a strong enmity increasing effect on her Skills shield, and has the ability to cleanse allies upon applying said shield.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As the poster-woman of the game, March 7th is introduced to us quite early and fills the role of sustain unit until players are introduced to Natasha a little later on. She was very competent at this role at the beginning, but over time has become less desirable in this specific facet. She is still good, but her team comps are more specialised these days and usually lean into her rather potent Freezing capability.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"March\u2019s Skill gives a single ally a shield for 57% of March\u2019s DEF plus 760 for 3 turns. If the ally\u2019s health is above 30% of their max, they will greatly draw enemies\u2019 aggro onto themselves. This is actually a really powerful single target shield, being even more than what Gepard\u2019s Ultimate provides in terms of raw multiplier.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This is more or less where the positives end for this Skill. While the shield is powerful, it costs a Skill Point, and teams are usually centred around the sustain unit being an SP generator for the more powerful damage dealers and supports to use on \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"their\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" important skills. The increased aggro ends up being a double-edged sword quite often, as it will result in the shield getting broken more quickly on average, leading to needing a quicker reapplication of said shield. The fact that it lasts for 3 turns at base is often a non-factor when enemies are capable of dealing many strong targeted hits in a short period.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It\u2019s often more efficient for March to target herself with her Skill and attempt to draw enemies\u2019 attention away from the squishier targets in the party, though how successful this ends up being is entirely at the whim of the random number generator. Tingyun users will know what I\u2019m talking about. This is also more efficient from a shield standpoint, since shields essentially just give a health buffer to allies; shields take damage based on the shielded ally\u2019s DEF, meaning that particularly frail allies will actually get comparatively less value out of shields than high DEF allies, so someone that you are naturally inclined to build DEF on like March herself will have a \u2018stronger shield\u2019, technically.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"March\u2019s Talent is dependent on shielded allies. When a shielded ally is attacked, March will immediately counter the attacking enemy with a follow-up attack, dealing up to 100% ATK, and this can happen 2 times between March\u2019s turns. How very disappointing that this counter does not have any natural DEF scaling to it. In fact, none of March\u2019s offensive abilities have anything to do with her DEF. Considering later sustain options like Lynx or Fu Xuan have HP scaling and so even their Basic ATK has HP scaling instead of ATK scaling, it makes March look even more like a product of the early landscape of the game. The most positive thing to say about this Talent is that each counter contributes 10 Energy towards March\u2019s Ultimate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Speaking of which, March\u2019s Ultimate is actually very much worth your attention. She deals 150% ATK to all enemies on the field, and there is a 50% base chance for them to be Frozen for 1 turn. This is invaluable\u2026 when the Freeze actually lands. A 50% base chance is nothing short of \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"pitiful\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", especially since it makes all subsequent Effect Hit Rate scale off of this base value. It is entirely on purpose though, as Freeze is one of the most debilitating Crowd Control effects in the game, and having even somewhat consistent application of it can result in making encounters complete jokes.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Ultimate also has a fairly average Energy cost of 120, meaning it is not too difficult to have this up quite frequently, especially if March herself is getting attacked, something that is similarly not too challenging to orchestrate thanks to her Skill\u2019s aggro increase. Freeze can completely invalidate certain enemies if you use it tactically, and this utility can help offset the lack of a solid sustain unit\u2019s kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Major Traces are rather straightforward. A2 will allow the application of her Shield to also cleanse 1 debuff from allies, allowing March to retain some useful utility in her back pocket should the need arise. A4 will extend the duration of the Shield to 4 turns, something that as mentioned prior will very rarely come up unless you are denying the enemy any turns at all due to Freeze, at which point this loops back around into being largely useless again.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A6 is where the money is. It increases the Ultimate\u2019s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"base \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"chance to Freeze enemies by 15%, for a new base chance of 65%. This is a small but extremely significant bump to the likelihood of Freezing enemies, as this makes all Effect Hit Rate stats worth substantially more. This does have the consequence of making March\u2019s powerful Freeze focused build inaccessible until much later on into the game, but it acts as a nice transition into said build, as around that point March\u2019s solo sustain capabilities take a nosedive.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"March\u2019s Eidolons are not super impactful barring the first one. E1 will regenerate 6 Energy for March every time she Freezes a target with her Ultimate. This greatly improves the uptime on March\u2019s Ultimate and depending on investment level and luck, can result in March keeping enemies near permanently Frozen, often completely eliminating any risk they might have posed. If seeking to actively use March as a Freeze support, this Eidolon should absolutely be on your radar. E4 can also provide more Energy via more counters but is less impactful than E1 for pure Energy gains.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"E6 seems tantalising but you have to really think about how much healing 4% of a character\u2019s Max HP per turn is. If you thought \u2018that doesn\u2019t really seem like that much\u2019, you\u2019re correct! It\u2019s near meaningless and does not do anywhere near enough to offset March\u2019s weaknesses.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because of how March\u2019s kit interacts with itself, she is a very SP intensive sustain unit, and even when played as a Freeze support she is quite greedy with SP, wanting to use more to get her Ultimate back faster. As a result of this, March\u2019s team comps are usually highly specialised so as to accommodate the increased SP consumption that she has. This leads to more obvious choices like Jingliu or Blade who do not consume much SP at all, but those characters have far better team setups that do \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"not\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" include March 7th. There\u2019s also the rather glaring question of \u2018why inflict enemies with Crowd Control if you can just kill them?\u2019 and to that I say \u2018no, you\u2019re right, actually\u2019.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Death is the ultimate Crowd Control. What\u2019s already dead cannot harm you (no, the kamikaze enemies don\u2019t count, don\u2019t be a pedant). As with Preservation Trailblazer, many of the same concerns and criteria arise with March 7th, namely that by including her in your team, you are attempting to lose \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"less\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"; if you\u2019re bringing March along for either reason, sustain or Freeze, your team is likely already in dire straits, and so this is simply a way of buying yourself more time to hopefully kill the enemy before they kill you.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For players concerned with optimisation, it\u2019s a safe bet to say that, at least as of the time of writing this, there is never a situation in which March 7th is a more optimal teammate choice over someone else. Enemies very rarely lose the battle of attrition, and even when they do, you\u2019re unlikely to come out unscathed either. In scenarios like Memory of Chaos where you have both a cycle limit as well as the requirement to have everyone be alive at the end, March may be able to facilitate the latter, but won\u2019t do much of anything about expediting enemy expirations, even if invested very well.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"However if she is well invested, she\u2019s also rarely a terrible choice, so it\u2019s difficult to fault the player whichever way they choose to go. March\u2019s kit makes her quite versatile and depending on the exact level of investment, she can easily pivot from one gameplan to the other; combat going well and don\u2019t need to shield? Enjoy endlessly Freezing the enemy while restoring SP; things getting a bit grim? You have her shield to fall back on.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"There is also some potential in future for March to become a key component of DoT teams due to how Freeze interacts with that mechanic. Freeze will make an enemy skip their turn and will Action Advance their next turn greatly, thus increasing the number of turns they take within a given time. This also makes the enemy take DoT twice in quick succession, so if the DoT is able to be reapplied quickly, the addition of Freeze can actually increase the rate of DoT damage quite significantly. This is more hypothetical right now as the only really powerful DoT teams revolve entirely around Kafka, and without a dedicated DoT support, there isn\u2019t really a team slot for March at present. But it \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"could\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" happen.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Otherwise, dedicated Crowd Control doesn\u2019t really have a place at the moment. Until such a time comes about, March 7th is a \u2018lose less\u2019 unit who can find surprising use in many scenarios, even if she is ultimately almost always fated to be replaced by stronger and more precisely picked teammates. Still, she is someone you may wish to have ready to go as there are really very few easily accessible Ice units, and she \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"really\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" ruins Ice weak enemies\u2019 days.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Strong single target shield, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Source of semi-consistent AoE Freeze, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Versatile teammate that can pivot to fill different roles mid combat, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has a cleanse on her Skill, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can increase aggro with her Shield.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Cannot solo sustain, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aggro increase is not a guarantee, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Loses tremendous value against Freeze immune foes, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Never the optimal choice, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Requires SP for her shield, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can quickly become an SP black hole if on the back foot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3000+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1800 - 2200+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (EHR build)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2800 - 3400+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (no freeze build)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 (Recommended) / 143 / 160\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ENERGY REGEN\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\": 19.44%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"EFFECT HIT RATE: \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"64% - 92%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (recommended) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0% \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"(if no freeze build)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Skyler Davenport",
+        "kr": "Jung Hye-Won (\uc815\ud61c\uc6d0)",
+        "jpn": "Yui Ogura (\u5c0f\u5009\u552f)",
+        "cn": "Nu\u00f2 Y\u01ce (\u8bfa\u4e9a)"
+    },
+    "ratings": {
+        "moc": "5",
+        "moc_special": "5",
+        "pure": "5",
+        "pure_special": "5",
+        "apo": "4",
+        "apo_special": "4"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "moment-of-victory",
+            "super": "1",
+            "percent": "-",
+            "notes": "Provides a huge amount of DEF and a good amount of Effect Hit Rate but increases March's own chance to be attacked. When using March as a Tank or solo sustain this can be beneficial but when playing her with units that want to be hit themself like Clara this can be detrimental. "
+        },
+        {
+            "cone": "she-already-shut-her-eyes",
+            "super": "1",
+            "percent": "-",
+            "notes": "Depending on the role your March is taking this Cone can be more valuable than all other Cones in keeping your team alive thanks to the close to full heal delivered at the start of every new wave. Specifically, solo sustain March may prefer this Cone over other alternatives."
+        },
+        {
+            "cone": "landaus-choice",
+            "super": "5",
+            "percent": "-",
+            "notes": "Provides damage reduction and increased chance to be hit which can be invaluable for March 7th when acting as a solo sustain or tank but detrimental when paired with other allies like Clara who rely on getting hit."
+        },
+        {
+            "cone": "day-one-of-my-new-life",
+            "super": "5",
+            "percent": "-",
+            "notes": "Provides a reasonable amount of DEF and boosts the damage reduction of all teammates making this Cone the best all-around choice for March that is useful in almost all scenarios without interfering with any of her synergies."
+        },
+        {
+            "cone": "we-are-wildfire",
+            "super": "5",
+            "percent": "-",
+            "notes": "More accessible and F2P option that Day One Of My New Life but offers less damage mitigation and no DEF% boost for March on top of wearing off after 5 turns making it strictly worse."
+        },
+        {
+            "cone": "trend-of-the-universal-market",
+            "super": "5",
+            "percent": "-",
+            "notes": "Provides a reasonable amount of defense and an additional damage component to March's arsenal that can allow her to contribute more damage to battles at the cost of team utility like taunting Cones"
+        },
+        {
+            "cone": "amber",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers DEF% for March at the very start of your accounts progression but should only be used until an alternative can be acquired."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Knight of Purity Palace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Knight of Purity Palace",
+                    "relic_2": "Messenger Traversing Hackerspace",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Belobog of the Architects",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "day-one-of-my-new-life",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Effect Hit Rate"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "comments": "This build focuses on creating the strongest Shields possible and some Effect Hit Rate to land the Freeze.",
+            "substats": "Effect Hit Rate (Until 64% OR skip if no Freeze build) = SPD (Breakpoint) > DEF% > HP% = Effect RES",
+            "skill_priority": "Skill > Ultimate = Talent = Basic",
+            "traces_priority": "Purify (A2) > Ice Spell (A6) > Reinforce (A4)",
+            "name": "Shielding"
+        }
+    ],
+    "videos": [
+        {
+            "video": "IDoQ3kYLB_E"
+        }
+    ],
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "march-7th",
+            "member_2": "natasha",
+            "member_3": "serval",
+            "member_4": "dan-heng"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "iceDmg",
+            "value": 22.4
+        },
+        "traceStat2": {
+            "stat": "def",
+            "value": 22.5
+        },
+        "traceStat3": {
+            "stat": "effectRes",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Sustain",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": null
+}

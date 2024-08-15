@@ -1,0 +1,455 @@
+{
+    "id": "8caa58a6-3775-5f15-bdd5-d1065714ffe8",
+    "updatedAt": "June 27th, 2024",
+    "createdAt": "2023-01-26T09:20:39.504Z",
+    "unitId": 27,
+    "name": "Sushang",
+    "slug": "sushang",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/fb77ae92a3803222046cc60021e7c62d/e9a79/27_sm.png",
+                            "srcSet": "/static/fb77ae92a3803222046cc60021e7c62d/f31ef/27_sm.png 40w,\n/static/fb77ae92a3803222046cc60021e7c62d/1f8a1/27_sm.png 80w,\n/static/fb77ae92a3803222046cc60021e7c62d/e9a79/27_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/fb77ae92a3803222046cc60021e7c62d/e73fe/27_sm.webp 40w,\n/static/fb77ae92a3803222046cc60021e7c62d/61ca6/27_sm.webp 80w,\n/static/fb77ae92a3803222046cc60021e7c62d/60b4d/27_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/feedcd896cee4288044dbf9c315ca2f9/c9885/1206.png",
+                            "srcSet": "/static/feedcd896cee4288044dbf9c315ca2f9/2aab7/1206.png 94w,\n/static/feedcd896cee4288044dbf9c315ca2f9/0a986/1206.png 187w,\n/static/feedcd896cee4288044dbf9c315ca2f9/c9885/1206.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/feedcd896cee4288044dbf9c315ca2f9/84550/1206.webp 94w,\n/static/feedcd896cee4288044dbf9c315ca2f9/34f80/1206.webp 187w,\n/static/feedcd896cee4288044dbf9c315ca2f9/b26e2/1206.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b6f5ff92c1a26b3502d65edf9a037869/3c5dc/27_full.png",
+                            "srcSet": "/static/b6f5ff92c1a26b3502d65edf9a037869/ca8fd/27_full.png 200w,\n/static/b6f5ff92c1a26b3502d65edf9a037869/de50c/27_full.png 400w,\n/static/b6f5ff92c1a26b3502d65edf9a037869/3c5dc/27_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/b6f5ff92c1a26b3502d65edf9a037869/213b2/27_full.webp 200w,\n/static/b6f5ff92c1a26b3502d65edf9a037869/413c5/27_full.webp 400w,\n/static/b6f5ff92c1a26b3502d65edf9a037869/cf6d0/27_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A naive and enthusiastic newcomer to the Cloud Knights who wields a greatsword. She yearns for the historic legends of the Cloud Knights, and is eager to become such a legendary figure herself. As such, Sushang firmly believes in the philosophies \\\"be eager to help those in need,\\\" \\\"do one good deed a day and reflect on oneself three times a day,\\\" leading her to busy days full of helping others.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "120601",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "120602",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "120603",
+            "energy_gen": "5",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "120604",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "120607",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Xianzhou Luofu",
+    "rarity": "4",
+    "element": "Physical",
+    "path": "Hunt",
+    "stats": {
+        "hp_base": 124.8,
+        "def_base": 57,
+        "atk_base": 76.8,
+        "speed_base": 107
+    },
+    "ascensionMaterials": {
+        "mats_1": "artifex-module",
+        "mats_2": "artifex-cogwheel",
+        "mats_3": "broken-teeth-of-iron-wolf",
+        "mats_4": "artifex-gyreheart"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "27",
+            "name": "Sushang",
+            "upgrade1Name": "Cut With Ease",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After using Skill against a Weakness Broken enemy, regenerates\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Skill Point.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Refine in Toil",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After triggering Sword Stance, the DMG taken by Sushang is reduced by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for 1 turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Rise From Fame",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Cleave With Heart",
+            "upgrade4Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Sushang's Break Effect increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "upgrade5Name": "Prevail via Taixu",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Dwell Like Water",
+            "upgrade6Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Talent's SPD Boost is stackable and can stack up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" times. Additionally, after entering battle, Sushang immediately gains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stack of her Talent's SPD Boost.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When current HP percentage is 50% or lower, reduces the chance of being attacked by enemies.",
+            "name": "Guileless"
+        },
+        {
+            "req": "A4",
+            "desc": "For every Sword Stance triggered, the DMG dealt by Sword Stance increases by <b>2.5%</b>. Stacks up to 10 time(s).",
+            "name": "Riposte"
+        },
+        {
+            "req": "A6",
+            "desc": "After using Basic ATK or Skill, if there are enemies on the field with Weakness Break, Sushang's action is Advanced Forward by <b>15%</b>.",
+            "name": "Vanquisher"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sushang is a competent single-target damage dealer with a focus on attacking Broken enemies and having Weakness Broken enemies on the field. She is able to fully Action Advance herself with her Ultimate and excels at putting on the pressure against Broken enemies. Both her damage potential and speed rely on having enemies in this state, so it is important to facilitate this with her teammates.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sushang feels like she\u2019s on the cusp of greatness, now more than ever with Ruan Mei\u2019s existence in the game. Being so focused around Breaking and abusing Weakness Broken foes, she only really needs a little bit more to come her way for her to become a highly dangerous boss killing machine.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sushang\u2019s Skill deals up to 210% ATK to a single enemy and has a 33% fixed chance to trigger Sword Stance on the final hit, dealing an additional 100% ATK. This bonus damage is guaranteed on Broken enemies. This is already a strong start with her Skill dealing potentially 310% ATK with nothing else. Sushang\u2019s Ultimate deals 320% ATK to a single enemy and immediately Advances her forward by 100%, meaning it is her turn now. She also gets a 30% ATK increase for 2 turns, and her Skill has 2 extra chances at triggering Sword Stance, with the extra procs being at 50% of the original damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This means that Sushang\u2019s Ultimate boosts her Skill significantly. The extra ATK aside, having 2 extra procs of Sword Stance at 50% means she\u2019s essentially getting a full power bonus hit, meaning that if all 3 Sword Stances activate, Sushang\u2019s Skill is doing 410% ATK to a single enemy. Once again, keep in mind that against a Broken enemy Sword Stance is guaranteed to proc, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"including\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" the bonus ones from her Ultimate. With the Ultimate having an average Energy cost of 120, this will be up fairly often. The addition of having a 100% Action Advance inherent to the Ultimate is also very powerful as you can make Sushang take back-to-back turns, maximising the damage you can deal against Broken foe.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sushang\u2019s Talent gives her a 20% SPD boost for 2 turns when an enemy on the field has their Weakness Broken. Sushang\u2019s base SPD is above average but a little on the lower end for Hunt units at 107, meaning her Talent will be granting her just about 21 SPD. This is still a pretty substantial increase to SPD and can possibly allow for her to run ATK Boots without worrying about SPD too much.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Now, let\u2019s talk about the obvious issue with this kit; it has far too much reliance on having enemies be Broken. Pretty much all of what Sushang has to offer is contingent on that one big asterisk. Depending on what you\u2019re against, this may not be too much of a challenge, but even against simple Elites, the frequency at which you will be Breaking enemies will drop dramatically, especially if the Elite is not a summoner type. Boss enemies have even greater Toughness bars meaning it can take even longer to Break them.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This may naturally incentivize the player to build for more Break Effect on Sushang, and the issue with that is that you kinda\u2026 can\u2019t, really. Let me elaborate by way of a comparison; Xueyi is a Break unit that directly benefits from building Break Effect thanks to a passive that grants an equivalent amount of DMG%, and even \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"she\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" can\u2019t afford to go all out on Break Effect because of diminishing returns and the desire for CRIT stats. Now imagine that but without the DMG conversion passive and exclusively single-target, and you\u2019ve got Sushang. Yeah\u2026 it\u2019s not ideal, especially since Xueyi also benefits from merely dealing Toughness Damage, while Sushang only gets her benefits upon an enemy getting fully Broken.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sushang is a very momentum-driven character; she thrives when enemies \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"are\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Broken, and the goal is to make the most out of those situations before they recover. This is especially amplified by Sushang\u2019s A6 Bonus Ability Trace, which Action Advances her forward by 15% after using a Basic ATK or Skill if there\u2019s even a single Broken enemy on the field. This makes Sushang a deceptively speedy character, and both accentuates and exacerbates all of the aforementioned things in her kit. A2 also gives some nice DMG to Sword Stance every time it\u2019s triggered, and A4 exists.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With Eidolons, Sushang becomes noticeably stronger. E1 will refund a Skill Point when using Skill against a Broken enemy, leading to never needing to worry about SP when attacking them. E2 will reduce Sushang\u2019s DMG taken by 20% after a Sword Stance is triggered for 1 turn, offering a nice and fairly significant reduction in damage taken. E4 grants Sushang a permanent plus 40% Break Effect which helps in dealing more damage when she is the one Breaking, and finally E6 allows the Talent\u2019s SPD boost to stack up to 2 times, also granting her one stack immediately upon entering combat. This means Sushang can gain almost 43 SPD from just her Talent alone, meaning she almost becomes a mini Seele in terms of raw Actions taken.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ah, but what\u2019s this? A comparison to Seele? Yeah don\u2019t get excited, when I say it\u2019s only in terms of raw Actions taken, I mean it explicitly. What Seele is is an \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"anomaly\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" when it comes to Hunt units because she actually gets better with more enemies around. Sushang, unfortunately, falls into the same category as \u2018every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"other\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Hunt unit besides Seele and maybe Ratio\u2019. Without sufficient help from supports or potentially even a second damage dealer, Sushang will absolutely hate going against multiple opponents. Add in the need for enemies to Broken and you now have a unit virtually glued at the hip to Ruan Mei, and even then it may still not be enough on its own if the enemy isn\u2019t also weak to Ice.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The ramp-up to dealing damage can be excruciatingly long, and with how fast enemies become in the endgame, the window of opportunity to actually deal said damage is exceptionally short, so it\u2019s no surprise that units that simply don\u2019t have that limitation are typically far stronger than Sushang at much less effort \u2014 after all, who cares if the enemy is Broken if they\u2019re \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"already dead?\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (This post made by Seele/Jingliu/JingYuan/Qingque/DHIL/Blade/Kafka\u2026 You get the idea.)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Seriously, it gets almost annoying to have everything lined up perfectly with supports only to go in and hit numbers that make you rethink your life choices. On my way to call the police and report a goddamned robbery. Sushang may be fast but she doesn\u2019t have anything else in her kit to boost her damage like the ridiculous 80% DMG and 20% QUA RES PEN that Seele gets. The need for CRIT stats and ATK while also baiting people into building Break Effect can make for some of the most botched builds in the game; some of the worst builds I\u2019ve ever seen have all been on Sushang.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Having said that, I return to what I said at the very beginning. With Ruan Mei existing now, break-focused builds and units have new life breathed into them. Now that we\u2019re at this juncture, my prediction is that we only need one more unit that can facilitate the Break playstyle for someone like Sushang to absolutely pop off. Mark my words, it\u2019ll happen.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In any case, Sushang is still a competent character in her own right, and someone players are likely to have access to. Especially if you are lacking coverage for Physical enemies and don\u2019t have the likes of Argenti, Clara, or even Luka, then Sushang should be someone you consider building.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Oppressive rush-down when facing Broken enemies, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deceptively speedy character, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High base Ability multipliers, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Scales well with Eidolons.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Damage and speed falter if enemies are not being Broken frequently, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Purely single-target, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Subject to RNG if enemies are not Broken, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Potentially SP hungry without Eidolons, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Doesn\u2019t yet have the optimal teammates for her playstyle.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800 - 1000+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1900 - 2700+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60% - 70%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120% - 140%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Base Speed (H\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"yperspeed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Sparkle/Bronya) /\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 (Recommended) / 143 / 160\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"BREAK EFFECT: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0% - 120%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Anjali Kunapanen",
+        "kr": "Park Si-yoon (\ubc15\uc2dc\uc724)",
+        "jpn": "Fukuen Misato (\u798f\u5713\u7f8e\u91cc)",
+        "cn": "Chen Tingting (\u9648\u5a77\u5a77)"
+    },
+    "ratings": {
+        "moc": "5",
+        "moc_special": "5",
+        "pure": "4",
+        "pure_special": "4",
+        "apo": "8",
+        "apo_special": "7"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "swordplay",
+            "super": "5",
+            "percent": "114.51%",
+            "notes": "Assumes full access to all 5 stacks throughout the entire duration of the fight. In fights where target swapping is required this Cone performance can be reduced substantially."
+        },
+        {
+            "cone": "in-the-night",
+            "super": "1",
+            "percent": "112.77%",
+            "notes": "Calcs contain some reallocation of ATK%, CRIT RATE and CRIT DMG% to SPD in order to achieve 4-6 stacks of the bonus. Each character is configured to reach the Speed breakpoint that grants them the most damage with this Cone. under the simulation conditions. With better relics and teams that grant more Speed this lightcones performance will improve comparatively."
+        },
+        {
+            "cone": "only-silence-remains",
+            "super": "5",
+            "percent": "103.55%",
+            "notes": "Assumes the fight is limited to 2 or fewer enemies at all times. In fights where more than two enemies are present for any portion of it, this Cone performance will drop."
+        },
+        {
+            "cone": "cruising-in-the-stellar-sea",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes the on-kill ATK% boost can be maintained 66% of the time in the fight and that enemies are at 50% of their life for half the fight. In fights where the ATK% buff cannot be maintained the performance of this Cone will reduce."
+        },
+        {
+            "cone": "sleep-like-the-dead",
+            "super": "5",
+            "percent": "99.06%",
+            "notes": "-"
+        },
+        {
+            "cone": "return-to-darkness",
+            "super": "5",
+            "percent": "96.11%",
+            "notes": "-"
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Champion of Streetwise Boxing",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "Champion of Streetwise Boxing",
+                    "value": "97.55%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Champion of Streetwise Boxing",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "95.36%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "99.43%",
+                    "comment": "160 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "95.95%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "92.64%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "92.63%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "in-the-night",
+                    "super": "1"
+                },
+                {
+                    "cone": "swordplay",
+                    "super": "5"
+                },
+                {
+                    "cone": "sleep-like-the-dead",
+                    "super": "1"
+                },
+                {
+                    "cone": "swordplay",
+                    "super": "1"
+                },
+                {
+                    "cone": "cruising-in-the-stellar-sea",
+                    "super": "5"
+                },
+                {
+                    "cone": "only-silence-remains",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                },
+                {
+                    "stat": "Break Effect"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Physical DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "This is your typical DPS build that focuses on the holy trifecta - ATK, Crit Rate, and Crit DMG. For every 1% of Crit try to have 2% of Crit DMG.",
+            "substats": "SPD (breakpoint) > BREAK EFFECT% (If Break Build) >= CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Skill > Ultimate > Talent > Basic",
+            "traces_priority": "Riposte > Vanquisher > Guileless",
+            "name": "General DPS"
+        }
+    ],
+    "videos": null,
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "sushang",
+            "member_2": "natasha",
+            "member_3": "trailblazer-fire",
+            "member_4": "serval"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "hp",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "def",
+            "value": 12.5
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "Break",
+        "ADV"
+    ]
+}

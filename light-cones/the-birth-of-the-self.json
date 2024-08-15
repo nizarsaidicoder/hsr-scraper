@@ -1,0 +1,58 @@
+{
+    "id": "2ff0b289-482a-54df-a384-735183fb12a0",
+    "updatedAt": "2023-04-25T18:45:23.830Z",
+    "createdAt": "2023-01-27T13:51:40.455Z",
+    "coneId": 35,
+    "name": "The Birth of the Self",
+    "slug": "the-birth-of-the-self",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/a2317fe2cad2b22fd1066b449efabafe/bf8e1/35_sm_1_.png",
+                            "srcSet": "/static/a2317fe2cad2b22fd1066b449efabafe/914ee/35_sm_1_.png 32w,\n/static/a2317fe2cad2b22fd1066b449efabafe/1c9ce/35_sm_1_.png 64w,\n/static/a2317fe2cad2b22fd1066b449efabafe/bf8e1/35_sm_1_.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/a2317fe2cad2b22fd1066b449efabafe/ef6ff/35_sm_1_.webp 32w,\n/static/a2317fe2cad2b22fd1066b449efabafe/8257c/35_sm_1_.webp 64w,\n/static/a2317fe2cad2b22fd1066b449efabafe/6766a/35_sm_1_.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "The Maiden in the Painting",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases DMG dealt by the wearer's follow-up attacks by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"24/30/36/42/48%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". If the current HP of the target enemy is below \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of their Max HP, increases DMG dealt by follow-up attacks by an extra \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"24/30/36/42/48%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

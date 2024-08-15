@@ -1,0 +1,428 @@
+{
+    "id": "4eb308fa-4d83-5a5d-a394-b72a6cb80171",
+    "updatedAt": "June 27th, 2024",
+    "createdAt": "2023-01-24T17:36:42.478Z",
+    "unitId": 6,
+    "name": "Welt",
+    "slug": "welt",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b24ce106a4a283e6cf1a077413fbf9d0/e9a79/6_sm.png",
+                            "srcSet": "/static/b24ce106a4a283e6cf1a077413fbf9d0/f31ef/6_sm.png 40w,\n/static/b24ce106a4a283e6cf1a077413fbf9d0/1f8a1/6_sm.png 80w,\n/static/b24ce106a4a283e6cf1a077413fbf9d0/e9a79/6_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/b24ce106a4a283e6cf1a077413fbf9d0/e73fe/6_sm.webp 40w,\n/static/b24ce106a4a283e6cf1a077413fbf9d0/61ca6/6_sm.webp 80w,\n/static/b24ce106a4a283e6cf1a077413fbf9d0/60b4d/6_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/716e4c85a980f8879b7f8196956099b1/c9885/1004.png",
+                            "srcSet": "/static/716e4c85a980f8879b7f8196956099b1/2aab7/1004.png 94w,\n/static/716e4c85a980f8879b7f8196956099b1/0a986/1004.png 187w,\n/static/716e4c85a980f8879b7f8196956099b1/c9885/1004.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/716e4c85a980f8879b7f8196956099b1/84550/1004.webp 94w,\n/static/716e4c85a980f8879b7f8196956099b1/34f80/1004.webp 187w,\n/static/716e4c85a980f8879b7f8196956099b1/b26e2/1004.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/1011c44a635593aa22a41b18519b1e36/3c5dc/6_full.png",
+                            "srcSet": "/static/1011c44a635593aa22a41b18519b1e36/ca8fd/6_full.png 200w,\n/static/1011c44a635593aa22a41b18519b1e36/de50c/6_full.png 400w,\n/static/1011c44a635593aa22a41b18519b1e36/3c5dc/6_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/1011c44a635593aa22a41b18519b1e36/213b2/6_full.webp 200w,\n/static/1011c44a635593aa22a41b18519b1e36/413c5/6_full.webp 400w,\n/static/1011c44a635593aa22a41b18519b1e36/cf6d0/6_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The wise and sophisticated former Anti-Entropy Sovereign who inherits the name of the world \u2014 Welt. He has saved Earth from annihilation time and time again. After the calamity ended, the heavy burden ordained by fate to Welt had been removed for a time, and he became an animation storyboard artist. However, after the conspiracy with St. Fountain came to a close, Welt had no choice but to venture with the initiator of the incident to the other side of the space portal.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perhaps even he didn't expect the new journey and companions that awaited him.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "100401",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "100402",
+            "energy_gen": "10",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "100403",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "100404",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "100407",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Sub DPS",
+    "affiliation": "Astral Express",
+    "rarity": "5",
+    "element": "Imaginary",
+    "path": "Nihility",
+    "stats": {
+        "hp_base": 153.12,
+        "def_base": 69.3,
+        "atk_base": 84.48,
+        "speed_base": 102
+    },
+    "ascensionMaterials": {
+        "mats_1": "silvermane-badge",
+        "mats_2": "silvermane-insignia",
+        "mats_3": "golden-crown-of-the-past-shadow",
+        "mats_4": "silvermane-medal"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "6",
+            "name": "Welt",
+            "upgrade1Name": "Legacy of Honor ",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Welt uses his Ultimate, his abilities are enhanced. The next \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" time(s) he uses his Basic ATK or Skill, deals Additional DMG to the target equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of his Basic ATK's DMG multiplier or \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"80%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of his Skill's DMG multiplier respectively.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Conflux of Stars",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When his Talent is triggered, Welt regenerates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Prayer of Peace",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Appellation of Justice ",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Base chance for Skill to inflict SPD Reduction increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"35%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Power of Kindness",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Prospect of Glory",
+            "upgrade6Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When using Skill, deals DMG for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" extra time to a random enemy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When using Ultimate, there is a 100% base chance to increase the DMG received by the targets by <b>12%</b> for 2 turn(s).",
+            "name": "Retribution"
+        },
+        {
+            "req": "A4",
+            "desc": "Using Welt's Ultimate additionally regenerates <b>10</b> Energy.",
+            "name": "Judgment"
+        },
+        {
+            "req": "A6",
+            "desc": "Deals <b>20%</b> more DMG to enemies inflicted with Weakness Break.",
+            "name": "Punishment"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Welt is a potent debuffing and damaging unit. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"He consolidates strong offence with strong defence and is still a competent unit to this day. He excels at slowing enemies to a crawl with his Skill\u2019s Slow and his Ultimate\u2019s forced Imprisonment proc, and his Talent allows him to deal good damage against Slowed targets. Welt is rarely ever the most optimal teammate, but he is almost never a bad one.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Welt has aged relatively well since the start of the game, I\u2019d say. While he\u2019s no longer the only Imaginary unit in the game, his kit still provides him much value even now, being a part of many of the most fun and safe teams in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Welt\u2019s Skill is a Bounce ability, dealing up to 72% ATK to a target enemy and then 72% ATK 2 more times to a random enemy each hit. Each hit has a 75% base chance to apply Slow, reducing the enemy\u2019s SPD by 10% for 2 turns. Initially seeming like a rather weak Skill, its true power relies on the effects of his Talent.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Welt\u2019s Talent will deal additional Imaginary DMG whenever he hits an enemy that is already Slowed, dealing up to an additional 60% ATK per hit. This functions as a multiplier increase, greatly increasing his overall damage output, and the reason he deals more damage than one would initially expect.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Combining his Skill with his Talent makes his Skill go from dealing a meagre 216% ATK in total to dealing 396% ATK instead, an amount more similar to some characters\u2019 Ultimates. With this being on the Skill, it\u2019s easy to maintain this amount of damage over the course of a fight, as well as maintaining the Slow required to activate the Talent. With his Skill also being a Bounce ability, it also deals vastly increased Toughness damage, and the extra hits offset the lowered base chance to apply the Slow, since you just have more hits to try and apply it with.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Welt\u2019s Ultimate deals 150% ATK to all enemies and has a 100% base chance to Imprison enemies hit for 1 turn. Imprisoned enemies have their action delayed by up to 40% and have their SPD reduced by 10%. Combined with the Slow from his Skill, Welt can absolutely send his enemies to the Shadow Realm. Forced Imprisonment is extremely powerful as a defensive tool, not only because it delays enemies\u2019 actions by a significant margin but also because it\u2019s a control effect.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you use Welt\u2019s Ultimate after an Elite or Boss has started acting and you land the Imprisonment, their turn will just instantly end, because Imprisonment \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"is a control effect\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". It quite literally says that affected units are unable to take action.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"What this means is that Welt can just deny Elites and Bosses their Extra Actions they usually take, removing much of the danger they normally pose. Malefic Ape charging up an attack on someone? Denied. True Sting wanting to start charging his big AoE? Don\u2019t think so, buddy. Ebondeer about to teamwipe you with his AoE upswing? \u2018I\u2019m about to ruin this man\u2019s whole career.\u2019\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It\u2019s a very underrated aspect of Welt\u2019s kit, and it\u2019s this kind of role consolidation that makes him an exceptional generalist character. It also expands his possible roles further into being a more supportive secondary damage dealer for the likes of Dr. Ratio or even Imbibitor Lunae, especially since the Imprisonment from Welt\u2019s Ultimate will facilitate the full 4-piece set effect of the Wastelander of Banditry Relic Set, something that the other two damage dealers are not capable of doing themselves, ordinarily.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This is accentuated further by Welt\u2019s Bonus Ability Traces. A2 in particular adds on functionality onto the Ultimate by giving it a 100% base chance to inflict a 12% DMG vulnerability to enemies hit for 2 turns. This vulnerability is applied before the actual damage from the Ultimate lands meaning you can immediately benefit from it. This also gives Welt an extra debuff to apply to enemies for the purpose of Dr. Ratio\u2019s follow-up chance, as well as for any other effects that rely on debuff count to function.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A4 allows for more frequent Ultimates from Welt by refunding 10 Energy whenever he uses his Ultimate, and A6 gives Welt a 20% DMG bonus against enemies that are Weakness Broken. Since Welt has an easy-to-access delay buster in his kit, he can extend the Break duration of enemies by just not letting them have a turn, meaning he can really take advantage of this free extra DMG. This is especially true with Ruan Mei in the party, and this way Welt not only gets to deal highly competent damage but also gets to greatly reduce the overall incoming damage to the team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a standard 5-star, it is not unlikely to get Eidolons for Welt over time. He definitely doesn\u2019t need them to be competitive, but they do offer some nice bonuses. E2 in particular can offer an additional source of consistent Energy and may result in shifting how long it takes to get his Ultimate, further expanding on both his offensive and supportive capabilities.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Welt\u2019s got plenty of different team comps he can fit in due to his diverse nature. His damage is still good enough that you want to be putting him in a team where he can actively use SP for his Skill, and even then, you\u2019d want to be using his Skill anyway for its Slow debuff. You can even opt for an Energy Regeneration Rate Link Rope on him to get even more Ultimates, but do know that you are sacrificing a very significant amount of damage by doing so, and the most significant Energy gains are still from using his Skill. So long as you can solve any potential SP issues, Welt works well as a hypercarry, a secondary dps, a support, or some combination of all of those.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"He struggles a bit more in AoE content due to his Skill\u2019s Bounce, but his Ultimate can still hit everything on the field quite easily. He can do it all, and he\u2019s still got plenty of value to offer. The only limitation is the player\u2019s imagination.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extraordinary role flexibility, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Competitive damage and utility, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Great defensive utility with frequent Slows and Imprisonments, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Scales well with continued investment, Great in all content.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Slowing enemies may not be an optimal choice for your team or the content, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bounce Skill is unreliable in AoE, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rather high investment floor comparatively.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800 - 1000+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2200 - 2600+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50% - 60%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100% - 120%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 (Recommended) / 143 / 160\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"EFFECT HIT RATE:  \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50% - 67%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Corey Landis",
+        "kr": "\ud55c\uc2e0",
+        "jpn": "Hosoya Yoshimasa (\u7d30\u8c37\u4f73\u6b63)",
+        "cn": "Bo Peng (\u5f6d\u535a)"
+    },
+    "ratings": {
+        "moc": "6",
+        "moc_special": "6",
+        "pure": "6",
+        "pure_special": "6",
+        "apo": "6",
+        "apo_special": "6"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "incessant-rain",
+            "super": "1",
+            "percent": "110.98%",
+            "notes": "Helps with EHR requirements and Crit Rate. Aether Code is not great for Welt's personal DMG but can increase team DMG."
+        },
+        {
+            "cone": "good-night-and-sleep-well",
+            "super": "5",
+            "percent": "101.56%",
+            "notes": "Needs another debuffer in the team to consistently get 3 stacks."
+        },
+        {
+            "cone": "in-the-name-of-the-world",
+            "super": "1",
+            "percent": "100%",
+            "notes": "Gives Welt more consistency on slow application from Skill."
+        },
+        {
+            "cone": "its-showtime",
+            "super": "5",
+            "percent": "91.14%",
+            "notes": ""
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "100% uptime",
+                    "notes": null
+                },
+                {
+                    "relic": "Wastelander of Banditry Desert",
+                    "relic_2": "",
+                    "value": "99.44%",
+                    "comment": "100% uptime",
+                    "notes": null
+                },
+                {
+                    "relic": "Wastelander of Banditry Desert",
+                    "relic_2": "",
+                    "value": "93.11%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "92.58%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Pan-Cosmic Commercial Enterprise",
+                    "value": "101.11%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "100.04%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "100%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "98.59%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "97.69%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "good-night-and-sleep-well",
+                    "super": "5"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "Effect Hit Rate"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Imaginary DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "After the Effect Res changes, going full DPS on Welt is the best way to play him - so build him like any other DPS, but try to get some EHR in there.",
+            "substats": "SPD (breakpoint) = EHR% (Until recommended) > CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Skill > Talent > Ultimate > Basic",
+            "traces_priority": "Retribution (A2) > Judgment (A4) > Punishment (A6)",
+            "name": "Full DPS"
+        }
+    ],
+    "videos": [
+        {
+            "video": "izBUYWPAL0U"
+        }
+    ],
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "welt",
+            "member_2": "natasha",
+            "member_3": "trailblazer-fire",
+            "member_4": "dan-heng"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "imaginaryDmg",
+            "value": 14.4
+        },
+        "traceStat2": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat3": {
+            "stat": "effectRes",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "Debuff",
+        "Delay"
+    ]
+}

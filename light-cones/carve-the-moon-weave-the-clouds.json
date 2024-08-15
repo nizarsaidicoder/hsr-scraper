@@ -1,0 +1,58 @@
+{
+    "id": "88ca7be9-65a6-566f-a051-92cd8b97b5ad",
+    "updatedAt": "2023-04-25T18:43:51.646Z",
+    "createdAt": "2023-02-17T08:37:53.850Z",
+    "coneId": 52,
+    "name": "Carve the Moon, Weave the Clouds",
+    "slug": "carve-the-moon-weave-the-clouds",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/3a56d3253b7fa6a34b8a47ef83dc75d0/bf8e1/52_sm.png",
+                            "srcSet": "/static/3a56d3253b7fa6a34b8a47ef83dc75d0/914ee/52_sm.png 32w,\n/static/3a56d3253b7fa6a34b8a47ef83dc75d0/1c9ce/52_sm.png 64w,\n/static/3a56d3253b7fa6a34b8a47ef83dc75d0/bf8e1/52_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/3a56d3253b7fa6a34b8a47ef83dc75d0/ef6ff/52_sm.webp 32w,\n/static/3a56d3253b7fa6a34b8a47ef83dc75d0/8257c/52_sm.webp 64w,\n/static/3a56d3253b7fa6a34b8a47ef83dc75d0/6766a/52_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Nameless Glory"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Secret",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"At the start of the battle and whenever the wearer's turn begins, one of the following effects is applied randomly: All allies' ATK increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/12.5/15/17.5/20\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", all allies' CRIT DMG increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"12\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/15/18/21/24\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", or all allies' Energy Regeneration Rate increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"6\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/7.5/9/10.5/12\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". The applied effect cannot be identical to the last effect applied, and will replace the previous effect. The applied effect will be removed when the wearer has been knocked down. Effects of the similar type cannot be stacked.\\n\\n\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"\\n\\n\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

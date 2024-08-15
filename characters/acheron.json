@@ -1,0 +1,441 @@
+{
+    "id": "a4b5814b-ef9d-5996-9b68-6c09ba0e6e2c",
+    "updatedAt": "August 12th, 2024",
+    "createdAt": "2024-01-24T07:22:07.518Z",
+    "unitId": 49,
+    "name": "Acheron",
+    "slug": "acheron",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f82838",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/dfb18cf34a31662aa1393c25266ed749/e9a79/47_sm.png",
+                            "srcSet": "/static/dfb18cf34a31662aa1393c25266ed749/f31ef/47_sm.png 40w,\n/static/dfb18cf34a31662aa1393c25266ed749/1f8a1/47_sm.png 80w,\n/static/dfb18cf34a31662aa1393c25266ed749/e9a79/47_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/dfb18cf34a31662aa1393c25266ed749/e73fe/47_sm.webp 40w,\n/static/dfb18cf34a31662aa1393c25266ed749/61ca6/47_sm.webp 80w,\n/static/dfb18cf34a31662aa1393c25266ed749/60b4d/47_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#282828",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/958329d59d77eb7605e4d01cee5122f0/b26e2/acheron_card.webp",
+                            "srcSet": "/static/958329d59d77eb7605e4d01cee5122f0/84550/acheron_card.webp 94w,\n/static/958329d59d77eb7605e4d01cee5122f0/34f80/acheron_card.webp 187w,\n/static/958329d59d77eb7605e4d01cee5122f0/b26e2/acheron_card.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#282828",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/1f79fb5988de1afb4d4cad2fbff2c434/67ded/acheron_full.webp",
+                            "srcSet": "/static/1f79fb5988de1afb4d4cad2fbff2c434/22bfc/acheron_full.webp 256w,\n/static/1f79fb5988de1afb4d4cad2fbff2c434/d689f/acheron_full.webp 512w,\n/static/1f79fb5988de1afb4d4cad2fbff2c434/67ded/acheron_full.webp 1024w",
+                            "sizes": "(min-width: 1024px) 1024px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 1024,
+                    "height": 1024
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A drifter claiming to be a Galaxy Ranger. Her true name is unknown, and she walks the cosmos alone, carrying with her a long sword. Though aloof and taciturn, her blade flicks out like lashing lightning. And yet, she always strikes with her scabbard, never drawing the sword free. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Body - CRIT DMG = CRIT Rate\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Both main stats work and which is better depends on the crit ratio you can achieve. Aim to maintain a ratio of 1% CRIT RATE per 2% CRIT DMG with a good stat line in endgame being 80% CRIT RATE and 160% CRIT DMG to start with. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Feet - ATK% > Speed\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Most of Acheron's damage comes from her Ultimate which unlike other characters can be fuelled by her team. The result of this is Acheron's own Speed is less important to her compared to other characters making ATK% boots more than viable on her. Acheron can still generate her own ultimate energy so Speed isn't useless making it a matter of player preference \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"unless 160-Speed Sparkle is being used in which ATK% boots are always correct. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar Sphere - ATK% > Lightning DMG\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Acheron gains 90% DMG for free from her kit and many of her top Cone options including her signature have yet more DMG% making ATK% a better option in many cases for her on Planar Sphere. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Link Rope - ATK%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for sub-stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"SPEED\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": When playing Acheron lower speed values are viable as she gains a large portion of her damage from her ultimate which her team plays a substantial part in activating. For general-purpose gameplay base Speed or 134 Speed is recommended unless playing with 160 Speed Sparkle in which base Speed is always recommended. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"CRIT RATE & CRIT DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Similar to most Hit Based damage dealers Acheron scales incredibly well on CRIT. Aim to maintain a ratio of 1% CRIT RATE per 2% CRIT DMG with a good stat line in endgame being 80% CRIT RATE and 160% CRIT DMG to start with. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"ATK% & DMG%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Acheron gains a tremendous amount of DMG% for free from her kit (90% from her Bonus ability) and top Light Cone options (72% from S5 Goodnight Sleep Well or 48% from her Signature). Because of this ATK% is comparatively more powerful than usual for her and outstrips DMG% making it a high priority after securing a strong CRIT Ratio. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for Speed breakpoints\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"101 Speed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (Max Ult DMG/160 Sparkle Teams) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 Speed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (General Purpose) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "relicsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Pioneer Diver of Dead Waters\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"4P Pioneer is by far the best set for Acheron and by a large margin. She can easily activate the standard 2P and 4P bonuses as all of her teams are focused on debuffing the enemy as much and frequently as possible. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Acheron also consistently applies a debuff herself with her Ultimate which she gains access to every 1 - 2 actions she takes in her most optimal team compositions meaning the 4P bonus is doubled almost all the time. When using her signature or other debuffing Light Cone the doubling bonus of the 4P bonus is always active without question. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Band of Sizzling Thunder\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"2nd best set for Acheron but substantially behind 4P Pioneer. Can be used if it's all you have or you have a set with excellent sub-stats. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Musketeer of Wild Wheat\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Easy to access alternative to 4P Lightning and 4P Pioneer but is behind both of them in performance. The passive Speed bonus is nice if you're struggling for Speed sub-stats but can be wasted if you already have your Speed breakpoint covered without the need for it or are using Sparkle. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[],\"nodeType\":\"hr\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Izumo Gensei and Takama Divine Realm \",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Requires the equipped character to have another teammate of the same path on their team in order to be competitive. Acheron herself has this requirement already and as such Izumo's bonus can be activated for free. That bonus also happens to be the strongest for Acheron by a large margin making it her clear best in slot with no downside or concessions needed. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Space Sealing Station\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Similar in performance to Glamoth and another good generic alternative for Acheron. Pulls slightly ahead of 135-Speed Glamoth thanks to the fact Acheron scales better with ATK% than DMG% in most team compositions. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firmament Frontline: Glamoth\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A reasonable option with similar power to Space Sealing Station for Acheron assuming she can achieve at least 135 speed. If playing Acheron with 160-Speed sparkle this set should be avoided. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Inert Salsotto\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Falls behind alternatives despite having a large bonus to Ultimate damage alongside CRIT RATE as Acheron already has huge access to DMG% from her kit and Light Cone options making ATK% more desirable in most cases. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Rutilant Arena\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Worse bonuses than Salsotto with all the same downsides. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "140001",
+            "energy_gen": "",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "140002",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "140003",
+            "energy_gen": "",
+            "break_primary": "15",
+            "break_secondary": "15"
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "140004",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "140007",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Galaxy Ranger",
+    "rarity": "5",
+    "element": "Lightning",
+    "path": "Nihility",
+    "stats": {
+        "hp_base": 153.12,
+        "def_base": 59.4,
+        "atk_base": 95.04,
+        "speed_base": 101
+    },
+    "ascensionMaterials": {
+        "mats_1": "dream-collection-component",
+        "mats_2": "dream-flow-valve",
+        "mats_3": "shape-shifters-lightning-staff",
+        "mats_4": "dream-making-engine"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "49",
+            "name": "Acheron",
+            "upgrade1Name": "Silenced Sky Spake Sooth",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT Rate increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"18%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" when dealing DMG to debuffed enemies. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Mute Thunder in Still Tempest",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The number of Nihility characters required for the Trace \\\"The Abyss\\\" to achieve its highest possible effect is reduced by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When this unit's turn starts, gains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" point of Slashed Dream and inflicts \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stack of Crimson Knot on the enemy with the most Crimson Knot stacks. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Frost Bites in Death",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Shrined Fire for Mirrored Soul",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When enemy targets enter combat, makes them Vulnerable to the Ultimate DMG, increasing the amount of DMG they take from the Ultimate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Strewn Souls on Erased Earths",
+            "upgrade5Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Skill Lv. \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"+2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"+2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", up to a maximum of Lv. 15. \",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "upgrade6Name": "Apocalypse, the Emancipator",
+            "upgrade6Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the All-Type RES PEN for the Ultimate DMG dealt by Acheron by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". The DMG dealt by Basic ATK and Skill will also be considered as Ultimate DMG and can reduce enemy toughness regardless of Weakness Types. When Weakness is broken, triggers the Lightning Weakness Break effect. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When battle starts, immediately gains <b>5</b> point(s) of Slashed Dream and applies <b>5</b> stack(s) of Crimson Knot to a random enemy. When Slashed Dream reaches its upper limit, for every point of Slashed Dream that exceeds the limit, gains <b>1</b> stack of Quadrivalent Ascendance. Increases the maximum stackable count for Quadrivalent Ascendance to <b>3</b>.",
+            "name": "Red Oni"
+        },
+        {
+            "req": "A4",
+            "desc": "When there are 1 or 2 Nihility characters other than Acheron in the team, the DMG dealt by Acheron's Basic ATK, Skill, and Ultimate increases to <b>115%</b> or <b>160%</b> of the original DMG respectively.",
+            "name": "The Abyss"
+        },
+        {
+            "req": "A6",
+            "desc": "When the Rainblade from Acheron's Ultimate hits enemy targets with Crimson Knot, her DMG increases by <b>30%</b>, stacking up to <b>3</b> time(s) and lasting for <b>3</b> turn(s). And when Stygian Resurge triggers, additionally deals DMG for <b>6</b> times. Each time deals Lightning DMG equal to <b>25%</b> of Acheron's ATK to a single random enemy and is viewed as part of the Ultimate DMG.",
+            "name": "Thunder Core"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Acheron is an extraordinarily powerful DPS character, rivaling even Jingliu.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" She has a unique Ultimate which works on a stack-based system instead of the usual Energy mechanic. Stacks are gained whenever Acheron uses her Skill or when allies apply debuffs on enemies. Acheron also boasts some of the absolute highest self-buffing capabilities, with the only requirement being to have two other Nihility units alongside her. She also reduces enemies\u2019 All-Type RES during her Ultimate and even reduces their Toughness regardless of type. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"All of this together makes Acheron an absurdly potent and near-universally applicable DPS.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Definitely not Raiden Mei\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" made quite the entrance in the early story of Penacony, and now we finally get a glimpse at what she\u2019s capable of. Spoiler: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"It\u2019s a lot.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Let there be no doubt in anyone\u2019s mind that Acheron is inarguably vying for the top DPS spot. She is literally just Lightning Jingliu, and this might be one of the most cut-and-dry DPS reviews in a while.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"I will actually lead off by saying that Acheron is a very challenging unit to play properly\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". It takes a lot of attention to detail to make the most out of her kit, and even though her \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"damage ceiling is pretty much the new highest in the game, it does not necessarily come easily.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" If you do not take the time to learn her kit and how it works, you should not expect her to perform to her best. She\u2019s very worth the effort, but it has to be said either way. You have been warned.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Ultimate is the most intriguing part of her kit, but we actually need to talk about her Talent first so that it makes sense. Yeah I know, but this is the way it is sometimes. The first part of Acheron\u2019s Talent states that her Ultimate can be used upon reaching 9 points of Slashed Dream, and the Talent additionally reduces all enemies All-Type RES by up to 20% during Acheron\u2019s Ultimate. 1 point of Slashed Dream can be obtained by Acheron herself through her Skill and through allies applying debuffs on enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The next part of her Talent involves stacking Crimson Knot on enemies. Whenever allies apply debuffs on enemies, in addition to incrementing Slashed Dream, they will also inflict 1 stack of Crimson Knot. If multiple enemies are debuffed, only 1 point of Slashed Dream will be gained by Acheron, and the enemy with the highest number of Crimson Knot stacks will get an additional one. Whenever an enemy target leaves the field or is defeated while Acheron is alive, their Crimson Knot stacks will be transferred to the enemy with the highest number of Crimson Knot stacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Crimson Knot is important for Acheron\u2019s Ultimate. Upon using Acheron\u2019s Ultimate, she will draw her blade and enter a targeting mode similar to what Destruction Trailblazer does in their Ultimate. She can unleash 3 giant slashes, being able to switch targets in between attacks, followed by an automatic finisher slash at the end called Stygian Resurge. Each of her 3 targeted Rainblades will remove up to 3 Crimson Knot stacks from the targeted enemy, increasing the damage the slash deals based on the stacks removed.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This totals out to be up to 372% ATK to a single enemy, and 300% ATK to all other enemies. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This is an extreme amount of AoE damage all on its own, and it\u2019s not even the final form of the Ultimate yet\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". The finisher slash will remove all Crimson Knots and Crimson Knot cannot be reapplied during the Ultimate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The majority of the damage from the Ultimate actually stems from the AoE portion. The way it works is that the AoE portion deals damage based on how many stacks of Crimson Knot are removed by the targeted slashes. You have the ability to change your target during this Ultimate, so it is imperative that you target enemies with at least 3 Crimson Knot stacks on them for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"each and every slash\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" or you will not get the full amount of listed damage. The Ultimate will straight up show you above the enemies\u2019 heads how many Crimson Knot stacks they have, but if you are really unsure, then genuinely you can just put her on Auto for the duration of the Ultimate and it will handle it for you. Her Auto AI is surprisingly good.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Acheron\u2019s Skill will give her 1 point of Slashed Dream on use and deals damage in a Blast AoE, up to 160% ATK to the main foe and 60% ATK to adjacent targets. This assists her in getting her points of Slashed Dream but is too slow to rely on getting her Ultimate quickly without having debuffing teammates.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Interestingly enough, her Technique is actually worth talking about. She attacks the enemy and instantly defeats them if they\u2019re a normal enemy.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Yes, this works in the Simulated Universe too. If they\u2019re worthy enough to survive the immediate death, Acheron will deal 200% ATK to all enemies on the field, depleting Toughness regardless of Weakness Types, and will gain 1 stack of Quadrivalent Ascendance. This status will immediately refund 1 point of Slashed Dream after Acheron\u2019s Ultimate ends and stacks 1 Crimson Knot on a single random enemy, serving as a head start towards her next Ultimate. This triggers on \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"every subsequent wave as well\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", meaning she gets free points and stacks every time more enemies come up.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This AoE damage and free stacking will actually occur on every subsequent enemy wave too, meaning Acheron always has a leg up on her foes. You can also just spam it freely to look cool because it only consumes the Technique Point if you actually hit an enemy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Already it looks very impressive, but you may be wondering how likely you are to be doing good damage if you need to rely on having debuffing teammates instead of the usual Harmony characters like Ruan Mei, Tingyun, or Sparkle. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This is where Acheron\u2019s Bonus Traces come in to elevate Acheron to a new and ridiculous height.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Acheron\u2019s A2 makes it so that when entering battle, Acheron will immediately start with 5 points of Slashed Dream and will apply 5 stacks of Crimson Knot to a random enemy. This greatly speeds up the process of getting her first Ultimate. In addition to this, when Slashed Dream reaches its cap of 9, excess points of Slashed Dream will be stored in stacks of Quadrivalent Ascendance, up to a new max of 3 stacks. When Acheron\u2019s Ultimate ends, these stacks of Quadrivalent Ascendance are consumed to restore the equivalent number of Slashed Dream points. This essentially means that you can overcap on Slashed Dream by 3 points and not lose out on potential damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her A4 provides a bonus to damage dealt when there are other Nihility characters in the team. If there is 1 other Nihility character, Acheron\u2019s Basic, Skill, and Ultimate will \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"deal 115% of the original damage, increased to 160% of the original damage if you have 2 other Nihility characters.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"I want to make this explicitly clear; \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"this is an entirely separate damage multiplier.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This is a damage boost that operates outside the confines of the DMG formula, meaning it is not beholden to diminishing returns, operates as stated, and is applied \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"after everything else has been considered.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This is also the first of its kind, and is an absurd self-buff that rivals and even slightly exceeds what many of the strong Harmony units we have can provide.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This is also for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"any\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Nihility units by the way \u2014 you don\u2019t have to stick to just the classic Pela and Silver Wolf, you can be free to do whatever ridiculous combination you want and it\u2019ll still work extremely well. This also means that as long as the characters you\u2019re considering for her team are Nihility, her teams are among the most flexible in the entire game, letting her essentially act as a pseudo-universal DPS due to her absurd damage numbers, RES ignore, and Toughness ignoring damage.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This remains true in the reverse situation as well; adding Acheron into an already existing Nihility team is completely effortless and requires literally no extra steps.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" You want to do a simple Acheron-centric team with someone like Pela and Welt? Easy-peasy. Perhaps you want to watch the fireworks with Guinaifen and Sampo? No problem at all. Or maybe you\u2019re just cultured and like tall women, and so want to put Acheron with Kafka and Black Swan, and if so, you\u2019re in luck, because \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"It just works\u2122.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The other outstanding benefit of this Bonus Trace is that it means Acheron quite simply doesn\u2019t need or even necessarily \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"want\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" what the Harmony characters provide, meaning they are entirely free to be used by your second team\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". With Acheron in the mix, no longer will you have to carefully weigh up which team you\u2019re going to have to make weaker by not giving Ruan Mei or Bronya, which team won\u2019t have the endless SP of Sparkle, or the Energy gains of Tingyun. This will no longer be a consideration you need to make because it\u2019s all quite simple: you just put them on the team that Acheron \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"isn\u2019t\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" on.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"By restricting the activation of this Talent to only other Nihility units, Acheron frees up the best supports in the game to be used by other characters who need it far more than her, ironically becoming a far less restrictive unit than one might incorrectly assume. Even then, when your restriction is the entirety of a Path that is also notorious for doing whatever it damn well pleases\u2026 Well I just wouldn\u2019t even call that a restriction to be honest.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Finally, Acheron\u2019s A6 just adds to this ridiculousness. When the Rainblade from Acheron\u2019s Ultimate hits enemy targets with Crimson Knot, her DMG increases by 30%, stacking up to 3 times and lasting for 3 turns. When Stygian Resurge ends the Ultimate, she will deal 6 additional instances of 25% ATK damage to a random enemy, and this damage is considered Ultimate damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This means that over the course of her already brutal Ultimate, Acheron also gains a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"90% DMG bonus\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" as well as increasing the final multiplier by 150% ATK. Remember, of course, that all of this is in addition to the Talent\u2019s bonuses of reducing the All-Type RES of enemies by a whole 20% and having all the damage ignore Weakness Types too. Oh, and since the DMG bonus lasts for 3 turns, it\u2019s actually quite possible to have this be up almost indefinitely if the rest of the team can apply debuffs quickly enough for Acheron to regain points of Slashed Dream.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This makes her Ultimate deal pretty impressive damage, comparable to the likes of an Imbibitor Lunae Fulgurant Leap or a fully stacked Lightning-Lord. As soon as there\u2019s 4-5 enemies showing up on the field, this Ultimate starts to run away with it and it becomes quite simply the \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"single most devastating move in the entire game, and it\u2019s not even close. It\u2019s not even \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"remotely\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" close.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I hesitate to even mention her Eidolons because quite frankly I think it\u2019s all whale-bait. Acheron is already basically the best DPS in the game at E0 \u2014 yes it does require some non-free units to really use since Hoyoverse have yet to make any 4-star Nihility units free, but still, it\u2019s a comparatively small price to pay compared to some other top dogs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hear me now, anyone who says that Acheron \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"needs\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Eidolons is both hilariously incorrect and afflicted with downright crippling Skill Issue. None of this is likely to ever be necessary because it\u2019s just a level of power that you\u2019ll literally never get to use. If you are just shilling for your queen, however, I have good news, since all of her Eidolons are pretty good past E1; her first Eidolon is a bit lacklustre given the insanity of her base kit, so it\u2019s mostly a stepping stone for later Eidolons.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I called Acheron \u2018Lightning Jingliu\u2019 at the start of this and hopefully if you made it this far in the review you understand why. She takes a fair bit more to become unfathomably strong when compared to the Blademaster, but her ceiling is very similar. The best part is that Acheron and Jingliu can fully coexist since they want entirely different teams and setups.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Like Jingliu, Acheron sees a remarkably high benefit from getting her Signature Light Cone, but unlike Jingliu, Acheron doesn\u2019t really have very good 4-star options at this time. You should know that if a Light Cone passive inflicts a debuff, it\u2019ll also grant Acheron 1 point of Slashed Dream, which means she\u2019s more drawn to Cones that can do that. Coupled with the insane amount of damage she gets from her Signature, it makes going for Acheron\u2019s Light Cone quite a compelling choice, especially since it also applies a debuff. Currently this lack of Light Cone options is a really big weakness that Acheron has.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"That said, she doesn\u2019t \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"need\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" her Signature Light Cone to perform extremely well. Acheron has some good 4-star options for Light Cones but they are unfortunately locked behind gacha, and the free Nihility Light Cones are more tailored towards the Damage over Time centric characters like Kafka. Do not fret too much, as even the super free-to-play options are still more than enough for Acheron to decimate everything, but you still want to keep an eye out for a copy of Good Night and Sleep Well, as well as keeping an eye out for any potential future Nihility Light Cones.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Teammate-wise, a Preservation unit holding Trend of the Universal Market is technically the best option for maximum debuff spreading for the sustain choice\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", but it can be a tad unreliable on anyone that isn\u2019t the Preservation Trailblazer, since they can Taunt enemies into attacking them. It\u2019s a very meaningful optimisation, but is not worth running if it costs you overall survivability (such as if you don\u2019t have any other Preservation units and have been neglecting your Preservation Trailblazer). Gallagher is also released in this same patch and is an Abundance unit with debuffing capabilities, so he is going to be the next best choice in this regard if you do not own a copy of Trend of the Universal Market.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Interesting to note as well, if you are lacking a compelling second other Nihility unit to use with her, but you have Sparkle, you \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"can\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" use her and get pretty decent results, but do note that if you choose to do this\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", your Sparkle has to be extremely well built to make up for the severe damage loss you incur by not fully activating Acheron\u2019s A4. If your Acheron is E2, Sparkle becomes her best teammate \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"technically\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", but the damage is such overkill that bosses would need their health tripled or something ridiculous like that. It\u2019s not unconditionally better than just using the second Nihility character, so don\u2019t try and brute force it if you have options, because Sparkle is \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"far\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" better spent on other DPS characters who actually need her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because of Acheron\u2019s universal strengths and versatile team comps, she\u2019s actually a character you may consider going for even if you already have other well-built DPS units \u2014 even if you already own a well-built Jing Yuan and Kafka. Acheron does what she does in a unique and powerful way, and she frees up all of your strong Harmony characters to be used on your second team. She definitely isn\u2019t as plug-and-play as some people would have you believe, you still need to actually invest in her and her teammates, and this can be tricky since another big draw of her Nihility teammates is that they\u2019ll be contributing their own damage to the team. They can\u2019t do that if they\u2019re not geared.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The other thing to consider before pulling is \u2018do I actually even have enough good Nihility units to pair with Acheron?\u2019, because if the answer to that question is no, then you may need to think a little more about this, especially when also factoring in the aforementioned Light Cone woes you may encounter. Pela and Resolution Shines as Pearls of Sweat are pretty much the minimum you\u2019d need for it to be a real recommendation, but if you\u2019re expecting to get those soon, or if you simply don\u2019t mind all that much, then make your own decision.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"You have to remember that this is Acheron in her absolute base version without any specialised teammates, and she\u2019s already rivalling and even exceeding the best DPS characters we have right now\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". It can, quite literally, only go up from here, and that\u2019s somewhat terrifying actually. I mean think about it like this: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"any\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" future Nihility unit has the potential to be paired with Acheron, and anything they provide is going to be passing through that final 1.6x multiplier from Acheron\u2019s A4.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Acheron is a teammate for life, and someone you can count on to be a top contender for a very long time, and if future Nihility units are tailored to her game plan, maybe even longer than that. The last thing I\u2019ll say is to be prepared to grind for her best equipment, because it all adds up \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"a lot\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". If you settle for \u2018good enough\u2019, don\u2019t be surprised when she doesn\u2019t live up to what she\u2019s capable of.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you can meet those requirements, you\u2019ll have bonafide Lightning on your hands. Do you know why they say Lightning rarely strikes twice?\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\u2026 It\u2019s because she usually doesn\u2019t have to.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unparalleled damage output, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deals full damage to both single-targets and in AoE blending the benefits of Erudition and Hunt together, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Possibly the most absurd self-buffs in the game giving a permanent 1.6x separate DMG multiplier with 2 Nihility teammates and 90% DMG for free during her Ultimate,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely versatile team options, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ignores Weakness Types and 20% RES during Ultimate making her highly universal, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Doesn\u2019t want or need the most coveted Harmony supports freeing them up for others to use, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has an instant-kill Technique that also massacres fights that aren\u2019t instantly over, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Will only improve over time. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Needs to be paired with 2 other Nihility characters for maximum effect from her A4 which low-level and free-to-play players may not own yet, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Very limited free Light Cone options and her Signature is a big boost, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Benefits greatly from maximum investment into Levels, Traces, and Relics, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Benefits from frequent debuff application, potentially limiting her optimal sustain choices, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best offensive teammate options outside of Pela are 5-stars.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2800-3000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2900-3200+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"80-90%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"160-180%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"101 or 134+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Allegra Clark",
+        "kr": "\ubc15\uc9c0\uc724 (Park Ji-yoon)",
+        "jpn": "\u6ca2\u57ce\u307f\u3086\u304d (Sawashiro Miyuki)",
+        "cn": "\u83ca\u82b1\u82b1 (Juhuahua)"
+    },
+    "ratings": {
+        "moc": "11",
+        "moc_special": "11",
+        "pure": "9",
+        "pure_special": "9",
+        "apo": "10",
+        "apo_special": "10"
+    },
+    "energyUltimate": null,
+    "conesNew": [
+        {
+            "cone": "along-the-passing-shore",
+            "super": "1",
+            "percent": "124.90%",
+            "notes": "Absolutely obliterates all other Light Cone options offering consistency, rotation acceleration and the most damage by far. Outside of its insane bonuses its primary benefit is the ability to allow Acheron to always gain 2 energy stacks per 1 of her actions compared to other Light Cone options."
+        },
+        {
+            "cone": "incessant-rain",
+            "super": "1",
+            "percent": "107.91%",
+            "notes": "Assumes max debuffs on enemy at all times. The next best option for Acheron also applying a debuff allowing Acheron to gain 2 energy stacks per action similar to her signature but with substantially fewer damage multipliers. This Cone has the advantage of having its debuff improve the rest of the team's damage by a significant amount, further propping it up as her next best option."
+        },
+        {
+            "cone": "good-night-and-sleep-well",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes max debuffs at all times. Best generic non-5 star Light Cone option for Acheron but it comes at the cost of sacrificing some of Acheron's energy stack generation and consistency. This Light Cone does not apply a debuff on hit and so most of the time Acheron will be generating 1 energy stack per action she performs - unless you're able to break an enemy with her skill. The downside of this Light Cone can be made up for somewhat by playing a team with more debuffers to gain the stacks back."
+        },
+        {
+            "cone": "boundless-choreo",
+            "super": "5",
+            "percent": "97.64%",
+            "notes": "Boundless Choreo offers a strong alternative to limited Conmes on Acheron, hovering around the same power level as GNSW with the same downside compared to the limited Cone of not offering a debuff on hit. The advantage of this Cone compared to GNSW is that it requires less ramp-up time, only needing 1 debuff compared to 3 debuffs to unlock its full effect with the only catch being that debuff needs to be a Slow or DEF shred. In certain teams, Boundless Choreo can outperform GNSW thanks to the fact that it provides an abundance of CRIT instead of DMG% but this will depend largely on your gear and the units you end up playing with Acheron."
+        },
+        {
+            "cone": "in-the-name-of-the-world",
+            "super": "1",
+            "percent": "91.86%",
+            "notes": "Has all the same downsides as S5 GNSW but with lesser damage multipliers. Only recommended for those without S5 GNSW or if you have S2+ of this Cone."
+        },
+        {
+            "cone": "resolution-shines-as-pearls-of-sweat",
+            "super": "5",
+            "percent": "89.90%",
+            "notes": "Assumes enemy is eligible for Acheron to apply this Cone's debuff on each of her actions."
+        },
+        {
+            "cone": "fermata",
+            "super": "5",
+            "percent": "85.82%",
+            "notes": "Assumes enemy is Shocked or Wind Sheared at all times. Pure F2P option but significantly behind top options and with a noticeable restriction which will impact your team building."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "100% uptime",
+                    "notes": null
+                },
+                {
+                    "relic": "Band of Sizzling Thunder",
+                    "relic_2": "",
+                    "value": "93.00%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "90.96%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Izumo Gensei and Takama Divine Realm",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "96.21%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "96.21%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "95.82%",
+                    "comment": "135 Speed",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "patience-is-all-you-need",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "ATK%"
+                },
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Lightning DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "Aim to maintain a ratio of 1% CRIT RATE per 2% CRIT DMG with a good stat line in endgame being 80% CRIT RATE and 160% CRIT DMG to start with.",
+            "substats": "SPD (breakpoint if you play 134+ Acheron; with Sparkle, fully ignore Speed) > CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Ultimate > Skill = Talent > Basic",
+            "traces_priority": "The Abyss (A4) > Thunder Core (A6) > Red Oni (A2)",
+            "name": "Default build"
+        }
+    ],
+    "videos": [
+        {
+            "video": "eJ-W-72B9w4"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Team #1",
+            "member_1": "acheron",
+            "member_2": "pela",
+            "member_3": "silver-wolf",
+            "member_4": "aventurine"
+        },
+        {
+            "name": "Team #2",
+            "member_1": "acheron",
+            "member_2": "kafka",
+            "member_3": "black-swan",
+            "member_4": "aventurine"
+        },
+        {
+            "name": "Team #3",
+            "member_1": "acheron",
+            "member_2": "pela",
+            "member_3": "sparkle",
+            "member_4": "aventurine"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "Lightning DMG",
+            "value": 8
+        },
+        "traceStat3": {
+            "stat": "CRIT DMG",
+            "value": 24
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "March 27th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "Debuff"
+    ]
+}

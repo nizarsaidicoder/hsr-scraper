@@ -1,0 +1,58 @@
+{
+    "id": "60cd9262-2633-5f47-a048-36e5a5e1e6dc",
+    "updatedAt": "2023-06-06T07:27:00.001Z",
+    "createdAt": "2023-01-27T13:01:11.949Z",
+    "coneId": 18,
+    "name": "Incessant Rain",
+    "slug": "incessant-rain",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/1c446bb409f3a23b07ff8176f3a14d79/bf8e1/18_sm.png",
+                            "srcSet": "/static/1c446bb409f3a23b07ff8176f3a14d79/914ee/18_sm.png 32w,\n/static/1c446bb409f3a23b07ff8176f3a14d79/1c9ce/18_sm.png 64w,\n/static/1c446bb409f3a23b07ff8176f3a14d79/bf8e1/18_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/1c446bb409f3a23b07ff8176f3a14d79/ef6ff/18_sm.webp 32w,\n/static/1c446bb409f3a23b07ff8176f3a14d79/8257c/18_sm.webp 64w,\n/static/1c446bb409f3a23b07ff8176f3a14d79/6766a/18_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "June 7th, 2023",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "48",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "26",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "21",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Mirage of Reality",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's Effect Hit Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"24\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/28/32/36/40\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When the wearer deals DMG to an enemy with 3 or more debuffs, increases CRIT Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"12\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/14/16/18/20\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". After the wearer uses their Basic ATK, Skill, or Ultimate, there is a \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"100%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" base chance to implant Aether Code on a random target that does not have it yet. Targets with Aether Code receive \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"12\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/14/16/18/20\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" increased DMG for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turn.\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

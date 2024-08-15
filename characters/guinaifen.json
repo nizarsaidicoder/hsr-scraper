@@ -1,0 +1,459 @@
+{
+    "id": "c98991aa-d098-5086-9947-4291e7a5a48c",
+    "updatedAt": "July 30th, 2024",
+    "createdAt": "2023-08-17T06:46:56.944Z",
+    "unitId": 39,
+    "name": "Guinaifen",
+    "slug": "guinaifen",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/07509883d6b64f8a05a31f0b27f5367e/e9a79/39_sm.png",
+                            "srcSet": "/static/07509883d6b64f8a05a31f0b27f5367e/f31ef/39_sm.png 40w,\n/static/07509883d6b64f8a05a31f0b27f5367e/1f8a1/39_sm.png 80w,\n/static/07509883d6b64f8a05a31f0b27f5367e/e9a79/39_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/07509883d6b64f8a05a31f0b27f5367e/e73fe/39_sm.webp 40w,\n/static/07509883d6b64f8a05a31f0b27f5367e/61ca6/39_sm.webp 80w,\n/static/07509883d6b64f8a05a31f0b27f5367e/60b4d/39_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/99bcef57af41280bd70145125883ddeb/c9885/guina.png",
+                            "srcSet": "/static/99bcef57af41280bd70145125883ddeb/2aab7/guina.png 94w,\n/static/99bcef57af41280bd70145125883ddeb/0a986/guina.png 187w,\n/static/99bcef57af41280bd70145125883ddeb/c9885/guina.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/99bcef57af41280bd70145125883ddeb/84550/guina.webp 94w,\n/static/99bcef57af41280bd70145125883ddeb/34f80/guina.webp 187w,\n/static/99bcef57af41280bd70145125883ddeb/b26e2/guina.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/79fb0db28d9a9c09885fd17b6750b182/3c5dc/39_full.png",
+                            "srcSet": "/static/79fb0db28d9a9c09885fd17b6750b182/ca8fd/39_full.png 200w,\n/static/79fb0db28d9a9c09885fd17b6750b182/de50c/39_full.png 400w,\n/static/79fb0db28d9a9c09885fd17b6750b182/3c5dc/39_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/79fb0db28d9a9c09885fd17b6750b182/213b2/39_full.webp 200w,\n/static/79fb0db28d9a9c09885fd17b6750b182/413c5/39_full.webp 400w,\n/static/79fb0db28d9a9c09885fd17b6750b182/cf6d0/39_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A performance artist visiting the Xianzhou Luofu \u2014 in other words, a street performer.\\nShe's chasing a new life on the Luofu when not concerned with food and shelter.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Body - ATK% = EHR%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Depending on the Light Cone you are using EHR% or ATK% can both be best in slot. You must hit 67% EHR to guarantee your Burn will land on all targets so reaching this is the first step to building Guinaifen. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Feet - SPD\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best choice for this slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar Sphere - FIRE DMG % or ATK%%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Both are viable options.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Link Rope - ATK%%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best choice for this slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for sub-stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"ATK% & DMG%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Most of Guinaifen's damage is from her Burn. Stacking these two stats is the primary way to boost her damage. Seek them out wherever you can in equal amounts for the highest overall damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Effect Hit Rate%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": In order to land her Burn against all targets in the game Guinaifen needs 67% Effect Hit Rating total getting this will ensure she plays consistently. If you're playing against low-level enemies or want to gamble you can use less of this stat.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Speed:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" A stat that doesn't boost Guinaifen's damage by much but does increase her consistency and supportive/break capabilities. Guinaifen's Burn only lasts 2 turns and some enemies can move incredibly fast - in order to ensure she can always keep all enemies Burned building some amount of Speed is needed. The breakpoint of 134 is usually sufficient but building more will ensure enemies always remain burned and she breaks more enemy fire toughness.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"HP% & DEF%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Defensive stats are needed on Guinaifen due to her low base stats and without them she is very likely to be 1 shot in endgame frequently. Pick up some HP% and DEF% on your relics or get used to having Guinaifen dye randomly.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Energy Recharge: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Guinaifen's Ultimate doesn't deal a large portion of her overall damage when played solo but does substantially more when used against Fire enemies that have been burned by Break effect or when combined with other Burn-focused characters. Building Energy Recharge is only recommended for those looking to ramp up Guinaifen's Firekiss debuff every so slightly faster or trigger an enemy's Burn or Break effect more frequently outside of these scenarios it results in a damage loss in most cases.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "relicsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Prisoner in Deep Confinement\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best 4-piece set for Guinaifen. You will often run her with Kafka which means, she will be able to activate the full potential of the DEF ignore tied to the new DoT Set.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firesmith of Lava-Forging + Musketeer of Wild Wheat\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best set combination for Guinaifen currently, providing two damage multipliers that multiply her DOT. Close enough to other options that specifically farming for this set if you don't already have it is not recommended though.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Musketeer of Wild Wheat\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Close behind her best set, the Musket 4-piece set offers good damage but also excellent utility thanks to its Speed boost which as a supportive themed character Guinaifen appreciates. Thanks to the utility this set can be preferred even compared to the option above.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firesmith of Lava-Forging + Messenger Traversing Hackerspace\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Identical to Musket in functionality but harder to farm and provides slightly less damage. If you have a good combination of this set already can be used to great effect on Guinaifen.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firesmith of Lava-Forging\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Inferior in damage to all other competitive options for Guinaifen and doesn't offer the Speed utility either. Despite being worse only slightly behind in damage so if you already have the set it is a competitive option but not recommended for specific farming. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[],\"nodeType\":\"hr\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firmament Frontline: Glamoth\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in slot planar set for Guinaifen - you will always build her fast, so she will be able to benefit from the more DMG % bonus with ease.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Pan-Cosmic Commercial Enterprise\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gearing for Pan-Cosmic is harder than alternatives as you'll need to acquire more ATK% sub-stats to make up for trading out damage for Effect Hit Rating by using this set. Only recommended for those who already have this set farmed due to how niche it is.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Space Sealing Station\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Most efficient to farm and gear for Planar set for Guinainfen. Provides a lot of ATK and the secondary Speed requirement is easy to activate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Fleet of the Ageless\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Big damage loss compared to alternatives but provides some much-needed tankiness to make up for Guinaifen's low base stats and also provides a team-wide ATK% boost doubling down on her supportive capabilities. Best choice for more supportive-focused Guinaifens.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "121001",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "121002",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "121003",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "121004",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "121007",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Sub DPS",
+    "affiliation": "Xianzhou Luofu",
+    "rarity": "4",
+    "element": "Fire",
+    "path": "Nihility",
+    "stats": {
+        "hp_base": 120,
+        "def_base": 60,
+        "atk_base": 79.2,
+        "speed_base": 106
+    },
+    "ascensionMaterials": {
+        "mats_1": "artifex-module",
+        "mats_2": "artifex-cogwheel",
+        "mats_3": "searing-steel-blade",
+        "mats_4": "artifex-gyreheart"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "39",
+            "name": "Guinaifen",
+            "upgrade1Name": "Slurping Noodles During Handstand",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Skill is used, there is a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" base chance to reduce the attacked target enemy's Effect RES by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for 2 turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Brushing Teeth While Whistling",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When an enemy target is Burned, Guinaifen's Basic ATK and Skill can increase the DMG multiplier of their Burn status by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Smashing Boulder on Chest",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Blocking Pike with Neck",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Every time the Burn status inflicted by Guinaifen causes DMG, Guinaifen regenerates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Swallowing Sword to Stomach",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Catching Bullet with Hands",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the stackable Firekiss count by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "kafka",
+            "notes": "The most synergistic character with Guinaifen by far, Kafka can trigger Guinaifen's Burn on her own turn with her Skill and Ultimate boosting the value Guinaifen brings to the team substantially and allowing her to stack her Firekiss debuff far more quickly. After Guinaifen reaches E4 Kafka will also substantially boost her Energy Regeneration - each time Kafka activates Guinaifen's Burn it will count toward her E4."
+        },
+        {
+            "character": "All DPS",
+            "notes": "Thanks to Guinaifen's enemy damage taken increased debuff she can be played effectively in any team compositions as a support/debuffer/secondary dps hybrid."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Basic ATK has a <b>80%</b> base chance of inflicting an enemy with a Burn, equivalent to that of Skill.",
+            "name": "High Poles"
+        },
+        {
+            "req": "A4",
+            "desc": "When the battle begins, Guinaifen's action is advanced forward by <b>25%</b>.",
+            "name": "Bladed Hoop"
+        },
+        {
+            "req": "A6",
+            "desc": "Deals <b>20%</b> more DMG to Burned enemies.",
+            "name": "Walking on Knives"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Guinaifen is an unexpectedly great support character.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" She afflicts enemies with a debuff that increases their total damage taken and can stack up to 3 times. She also deals a very impressive amount of damage over time (DoT) and can apply it very easily to many enemies at once. She can even be SP positive in 1 or 2 target scenarios, resulting in a near-universally applicable support character that also contributes very significant damage of her own. The cost of this is a very steep investment requirement, especially when compared to other support options.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Guinaifen, Guinevere, or just Gwen. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"However you choose to call her, her charm is infectious and fiery, and her gameplay is equally explosive. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"As a DoT-based character, you may be led to believe that Gwen is predominantly made for Kafka teams and that she may not see much use elsewhere, but you would be \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"quite\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" mistaken.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Guinaifen\u2019s Talent is the source of her powerful debuff.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" While she is still alive and on the field, there is a 100% base chance to apply the Firekiss debuff to an enemy after they sustain damage from a Burn DoT. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firekiss will increase the damage that the target takes by up to 7%, stacking up to 3 times for a total of 21%.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Being able to inflict a 21% damage vulnerability is very strong. While damage taken is a slightly lesser debuff when compared to the likes of DEF Shred, it has the similar benefit of being very uncommon, meaning it often performs at its listed values due to not suffering from diminishing returns. Welt\u2019s 12% damage vulnerability debuff already gets high praise, and Gwen comes in slamming with 21%. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"What\u2019s more ridiculous is that Firekiss lasts for 3 turns, meaning this debuff is permanently active in practice.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Even better is it\u2019s completely unremovable, so there\u2019s no possible way for enemies to get rid of it outside of its duration running out.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Since her Talent requires a Burn DoT, it\u2019s only fitting that she can also apply one. Guinaifen\u2019s Skill will deal damage in a Blast AoE, up to 120% ATK to the main target and up to 40% to adjacent foes. This Skill has a 100% base chance to Burn all targets hits for 2 turns. Oh and the Burn DoT itself deals up to 218% of Gwen\u2019s ATK per tick.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" That is a very impressive damage multiplier to have in what is supposed to be a support character\u2019s kit.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Having a 100% base chance also means that it\u2019s relatively easy to get enough Effect Hit Rate (EHR) to make this a guaranteed application on even the absolute pinnacle enemies you may encounter.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Guinaifen\u2019s Ultimate deals damage to all enemies on the field, up to 120% ATK at max Trace level. If a target is afflicted with Burn, it will immediately deal damage equal to 92% of the Burn\u2019s original damage. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Yeah, the thing that Kafka does for all DoT effects, Gwen can do that for all Burns.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This significantly improves her already quite impressive personal damage. With this Ultimate having an average Energy cost of 120, this is going to be up pretty often. This also has the added benefit of stacking Firekiss even faster, thus reducing the required ramp-up time.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Guinaifen\u2019s Bonus Ability Traces raise her efficacy quite substantially. Her A2 will grant her Basic ATK an 80% base chance to inflict the same Burn DoT as the one from her Skill. While the base chance is slightly lower than on her Skill, this is what allows Gwen to be SP flexible, as she can range from SP neutral to even SP positive in 1 or 2 target scenarios as the majority of her damage comes from DoT. With this Bonus Ability, Gwen is able to contribute very significant damage while still restoring SP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her A4 will Advance Forward Gwen\u2019s action by 25% at the beginning of the fight, which with a good amount of SPD will usually mean Gwen is one of the first people to act in a fight, if not \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"the\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" first. It\u2019s like having a weaker Vonwacq permanently without actually needing to use Vonwacq (this is the greatest trade deal in the history of trade deals).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gwen\u2019s A6 is particularly potent as it is exactly what Himeko has, causing Gwen to deal 20% increased damage to Burned enemies. This naturally also applies to the DoT effect she applies, and also stacks fully with her own damage vulnerability provided by Firekiss. Interesting to note as well is that Gwen is the first character to get Break Effect Minor Traces, getting a total of 24% Break Effect for free.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Guinaifen absolutely does not need Eidolons to be strong, but as a 4-star character it is entirely possible to eventually get Eidolons for her.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Of particular note is E1 and E6. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"E1 grants Skill a 100% base chance to reduce the attacked enemies\u2019 Effect RES by 10% for 2 turns, and E6 increases the maximum stacks of Firekiss to 4, meaning that by the time you get to this Eidolon level, Firekiss is going to be providing a 30.4% damage vulnerability.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This character is just kind of nuts. While her debuff of damage vulnerability is technically less potent than DEF Shred, the fact that it\u2019s paired with exceptional personal damage more than offsets that difference.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" It\u2019s even got full uptime and is laughably easy to maintain. In fact, Guinaifen\u2019s personal damage output is arguably high enough that you could even \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"reasonably\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" put her into a hypercarry setup and see very impressive results.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"However, the cost of this power is the need for investment, and it is a particularly great need for Guinaifen.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Usually support options like Pela only really need a little bit of one important stat to get going, sometimes not even needing to be at max level. Guinaifen can get by with the bare minimum just like the aforementioned characters, but she won\u2019t be able to compete with them at just that level, as she really wants to be built to deal damage as well.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She reaches a whole new level when you actually invest into her fully, and while this is something that is ultimately a very good investment, it is also something that not everybody can immediately afford to do. In addition to this, since Guinaifen \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"does\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" deal damage and especially because she is likely to be using Basic ATK a lot, she also requires pretty much all of her Traces to be levelled up to the maximum, which is yet more investment compared to her fellow debuffer.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Getting the required amount of EHR without sacrificing too much ATK% is actually quite difficult,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and because of the need for such stats to begin with, Guinaifen can potentially be a little less safe when compared to support options that can afford to go for defensive stats. In practice, this should not be a particularly difficult thing to work around since Tingyun is one of the best supports already and has the same investment requirements and perceived squishiness, and Gwen has higher base stats than Tingyun does. If this is the supposed reason for your Gwen dying, that is most assuredly not the fault of Guinaifen.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Think of her as a long-term investment that will only get better as you get more things for her. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"She\u2019s worth the extra effort, even if it may not be immediately evident.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Strong universally appreciated debuff with permanent uptime, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SP flexible, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High personal damage output especially for a support, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deals damage in the form of DoT raising her consistency, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can force proc all Burn DoT effects on enemies,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Fully SP positive in single-target.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely investment heavy especially for a support, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Damage taken is a weaker debuff than DEF Shred, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Specific stat requirements can leave little room for defensive stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3000+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800 - 900+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2600 - 3000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 / 143 (Recommended)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"EFFECT HIT RATE\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\": 67% \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Morgan Laur\u00e9",
+        "kr": "\uae40\uc218\uc601 (Kim Soo-young)",
+        "jpn": "\u76f4\u7530\u59eb\u5948 (Suguta Hina)",
+        "cn": "\u5c0f\u6562 (Xiaogan)"
+    },
+    "ratings": {
+        "moc": "7",
+        "moc_special": "7",
+        "pure": "7",
+        "pure_special": "7",
+        "apo": "7",
+        "apo_special": "7"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "good-night-and-sleep-well",
+            "super": "5",
+            "percent": "102.28%",
+            "notes": "Assumes 3 debuffs are present at all times on the enemy. Having less debuff at any point during the fight will lower this Cone's performance."
+        },
+        {
+            "cone": "eyes-of-the-prey",
+            "super": "5",
+            "percent": "100%",
+            "notes": "A solid option that makes gearing Guinaifen much easier thanks to the amount of EHR provided by the Cone."
+        },
+        {
+            "cone": "in-the-name-of-the-world",
+            "super": "1",
+            "percent": "97.31%",
+            "notes": "Decent Cone, but the EHR% bonus only applies to Guinaifen Skill, so it may perform in a bit random way. Still, if you already have it leveled up, it's a good choice."
+        },
+        {
+            "cone": "its-showtime",
+            "super": "5",
+            "percent": "92.45%",
+            "notes": "Calcs contain some reallocation of ATK% and SPD if required to hit 80% EHR in order to activate this Cone's main effect."
+        },
+        {
+            "cone": "fermata",
+            "super": "5",
+            "percent": "86.74%",
+            "notes": "Assumes enemy is always debuffed with Wind Shear or Shock. When fighting enemies that are not constantly affected by Shock or Wind Shear this Cone's performance will reduce."
+        },
+        {
+            "cone": "solitary-healing",
+            "super": "5",
+            "percent": "83.00%",
+            "notes": ""
+        },
+        {
+            "cone": "resolution-shines-as-pearls-of-sweat",
+            "super": "5",
+            "percent": "81.10%",
+            "notes": "Sacrifices Guinaife's damage output for more team damage."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Prisoner in Deep Confinement",
+                    "relic_2": "",
+                    "value": "105.50%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Firesmith of Lava-Forging",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Firesmith of Lava-Forging",
+                    "relic_2": "",
+                    "value": "96.98%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "104.12%",
+                    "comment": "160 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "101.48%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Pan-Cosmic Commercial Enterprise",
+                    "value": "100.23%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": "94.84%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "time-waits-for-no-one",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "ATK%"
+                },
+                {
+                    "stat": "Effect Hit Rate"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Fire DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "Stack enough sub-stats to reach 67% Effect Hit Rating and 134 Speed after which stack ATK% as much as possible. While fishing for ATK% ensure your HP and Defence are not neglected and aim for the recommended stat template to ensure Guinaifen isn't constantly getting 1-shot. Break effect can also be good but is more suited to highly specialized Guinaifen builds.",
+            "substats": "EHR (67%) > SPD (breakpoint) > ATK% > HP% = DEF% = Break Effect %",
+            "skill_priority": "Skill = Talent > Ultimate > Basic",
+            "traces_priority": "High Poles (A2) > Walking on Knives (A6) > Bladed Hoop (A4)",
+            "name": "DoT Focus"
+        }
+    ],
+    "videos": [
+        {
+            "video": "uww5kqyNgIc"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Team #1",
+            "member_1": "kafka",
+            "member_2": "guinaifen",
+            "member_3": "tingyun",
+            "member_4": "luocha"
+        },
+        {
+            "name": "Team #2",
+            "member_1": "kafka",
+            "member_2": "guinaifen",
+            "member_3": "asta",
+            "member_4": "luocha"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "dmg_fire",
+            "value": 22.4
+        },
+        "traceStat2": {
+            "stat": "effect_hit",
+            "value": 10
+        },
+        "traceStat3": {
+            "stat": "break",
+            "value": 24
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "October 27th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "DoT",
+        "Debuff"
+    ]
+}

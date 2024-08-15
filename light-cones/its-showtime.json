@@ -1,0 +1,58 @@
+{
+    "id": "3d81ca41-d873-537a-8652-0b86e1a8c5d1",
+    "updatedAt": "2024-02-05T14:06:10.336Z",
+    "createdAt": "2024-02-05T14:06:10.336Z",
+    "coneId": 115,
+    "name": "It's Showtime",
+    "slug": "its-showtime",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/29bec25b188bd9fa16b84d85eebb78dc/bf8e1/115_sm.png",
+                            "srcSet": "/static/29bec25b188bd9fa16b84d85eebb78dc/914ee/115_sm.png 32w,\n/static/29bec25b188bd9fa16b84d85eebb78dc/1c9ce/115_sm.png 64w,\n/static/29bec25b188bd9fa16b84d85eebb78dc/bf8e1/115_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/29bec25b188bd9fa16b84d85eebb78dc/ef6ff/115_sm.webp 32w,\n/static/29bec25b188bd9fa16b84d85eebb78dc/8257c/115_sm.webp 64w,\n/static/29bec25b188bd9fa16b84d85eebb78dc/6766a/115_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Forgotten Hall Store"
+    ],
+    "releaseDate": "February 29th, 2024",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "265"
+        }
+    },
+    "skillName": "Self-Amusement",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When the wearer inflicts a debuff on an enemy, they gain a stack of Trick. Every stack of Trick increases the wearer's DMG dealt by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6/7/8/9/10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for a max of 3 stack(s). This effect lasts for 1 turn(s). When the wearer's Effect Hit Rate is greater than or equal to 80%, increases ATK by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20/24/28/32/36%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "id": "a752d109-ec6b-5c56-9f5a-692e7eea63d6",
+    "updatedAt": "2024-04-16T13:38:36.598Z",
+    "createdAt": "2024-03-17T08:30:14.370Z",
+    "coneId": 118,
+    "name": "Inherently Unjust Destiny",
+    "slug": "inherently-unjust-destiny",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/7d2aacdb7e13518f6ee7e393ba9d701d/6766a/118_sm.webp",
+                            "srcSet": "/static/7d2aacdb7e13518f6ee7e393ba9d701d/ef6ff/118_sm.webp 32w,\n/static/7d2aacdb7e13518f6ee7e393ba9d701d/8257c/118_sm.webp 64w,\n/static/7d2aacdb7e13518f6ee7e393ba9d701d/6766a/118_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "April 17th, 2024",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "661"
+        }
+    },
+    "skillName": "All-In",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's DEF by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"40/46/52/58/64%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"40/46/52/58/64%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", lasting for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turn(s). When the wearer's follow-up attack hits an enemy target, there is a \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"100/115/130/145/160%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" base chance to increase the DMG taken by the attacked enemy target by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10/11.5/13/14.5/16%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", lasting for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turn(s).\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

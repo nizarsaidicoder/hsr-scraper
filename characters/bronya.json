@@ -1,0 +1,415 @@
+{
+    "id": "c09fa8da-fffe-53bb-a529-17240d37b9e5",
+    "updatedAt": "August 12th, 2024",
+    "createdAt": "2023-01-26T08:38:39.429Z",
+    "unitId": 12,
+    "name": "Bronya",
+    "slug": "bronya",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/3c0e87556bcf541135c909a18f87ec6a/e9a79/12_sm.png",
+                            "srcSet": "/static/3c0e87556bcf541135c909a18f87ec6a/f31ef/12_sm.png 40w,\n/static/3c0e87556bcf541135c909a18f87ec6a/1f8a1/12_sm.png 80w,\n/static/3c0e87556bcf541135c909a18f87ec6a/e9a79/12_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/3c0e87556bcf541135c909a18f87ec6a/e73fe/12_sm.webp 40w,\n/static/3c0e87556bcf541135c909a18f87ec6a/61ca6/12_sm.webp 80w,\n/static/3c0e87556bcf541135c909a18f87ec6a/60b4d/12_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/12ef2e4b4421b84d604f028297e5b8ed/c9885/1101.png",
+                            "srcSet": "/static/12ef2e4b4421b84d604f028297e5b8ed/2aab7/1101.png 94w,\n/static/12ef2e4b4421b84d604f028297e5b8ed/0a986/1101.png 187w,\n/static/12ef2e4b4421b84d604f028297e5b8ed/c9885/1101.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/12ef2e4b4421b84d604f028297e5b8ed/84550/1101.webp 94w,\n/static/12ef2e4b4421b84d604f028297e5b8ed/34f80/1101.webp 187w,\n/static/12ef2e4b4421b84d604f028297e5b8ed/b26e2/1101.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/8c261f865fa22aa63036ed6b19976de7/3c5dc/12_full.png",
+                            "srcSet": "/static/8c261f865fa22aa63036ed6b19976de7/ca8fd/12_full.png 200w,\n/static/8c261f865fa22aa63036ed6b19976de7/de50c/12_full.png 400w,\n/static/8c261f865fa22aa63036ed6b19976de7/3c5dc/12_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/8c261f865fa22aa63036ed6b19976de7/213b2/12_full.webp 200w,\n/static/8c261f865fa22aa63036ed6b19976de7/413c5/12_full.webp 400w,\n/static/8c261f865fa22aa63036ed6b19976de7/cf6d0/12_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Heir to the Supreme Guardian of Belobog, she is the young and capable commander of the Silvermane Guards. Bronya received rigorous education from an early age, and possesses the grace and affinity as expected of an heir. However, after witnessing the abysmal conditions in the Underworld, seeds of doubt began growing in Belobog's future leader's mind.\\n\\n\\\"Can all the training I've received really help me lead the people to the lives they want?\\\"\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Only use the 4-piece Hackerspace set\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" on the Wheelchair Bronya build (so when she's super speedy - 161+ -, while the DPS is slow) as in the normal 134-135 Speed tuning variant, the 4-piece bonus might lead to sync issues.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "110101",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "110102",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "110103",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "110104",
+            "energy_gen": "5",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "110107",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Support",
+    "affiliation": "Belobog",
+    "rarity": "5",
+    "element": "Wind",
+    "path": "Harmony",
+    "stats": {
+        "hp_base": 168.96,
+        "def_base": 72.6,
+        "atk_base": 79.2,
+        "speed_base": 99
+    },
+    "ascensionMaterials": {
+        "mats_1": "silvermane-badge",
+        "mats_2": "silvermane-insignia",
+        "mats_3": "storm-eye",
+        "mats_4": "silvermane-medal"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "12",
+            "name": "Bronya",
+            "upgrade1Name": "Hone Your Strength",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Using Bronya's Skill has a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" fixed chance of recovering \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Skill Point. This effect has a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn cooldown.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Quick March",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When using Skill, the target ally's SPD increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" after taking action, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Bombardment",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Take by Surprise",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After an ally uses Basic ATK on an enemy with \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Wind Weakness\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", Bronya immediately launches a follow-up attack on the target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Wind DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"80%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of Bronya's Basic ATK DMG. This effect can only be triggered \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" time per turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Unstoppable",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Piercing Rainbow",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The duration of the DMG Boost effect placed by the Skill on the target ally increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turn(s).\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "The CRIT Rate for Basic ATK increases to <b>100%</b>.",
+            "name": "Command"
+        },
+        {
+            "req": "A4",
+            "desc": "At the start of the battle, all allies' DEF increases by <b>20%</b> for <b>2</b> turn(s).",
+            "name": "Battlefield"
+        },
+        {
+            "req": "A6",
+            "desc": "When Bronya is on the field, all allies deal <b> 10%</b> more DMG.",
+            "name": "Military Might"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bronya is an exceptionally potent Harmony support. She can Advance a single ally's Action by 100%, functionally giving them another turn before their time, and gives them a large DMG boost. She also increases the whole team's ATK and additionally their CRIT DMG based on how much CRIT DMG Bronya herself has. She is a quintessential support character for hypercarry setups where SP consumption is not a concern.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bronya is possibly one of the most complex characters in the game to maximise. Her abilities lend themselves perfectly to boosting the absolute heck out of a single teammate but require her to be perfectly tuned to said teammate's SPD. Add in the potential to shift Bronya herself in the turn order from her Talent and you have the biggest headache in this game. Not even Yukong is as mentally taxing as Bronya is.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because SPD is such an important stat when talking about Bronya, you may think that it is important that you understand what SPD is. It's convoluted, that's for sure, but I can safely say that you do not \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"need \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"to understand SPD at its most fundamental to be able to use Bronya. There are plenty of other theorycrafters, calc people, and content creators who have done the difficult task of compiling what SPD Bronya needs to be at for a given damage dealer SPD, including the most common values.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"All of this is essentially because you want to maximise the value of the 100% Action Advance on Bronya's Skill. She targets a single ally, dispels 1 debuff from them, increases their DMG by up to 66%, and Action Advances them by 100%, meaning it is now their turn once more. The best way for this Skill to be used is literally immediately after your damage dealer has already acted \u2014 and I do mean \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"immediately\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". That little number you see on character portraits in the turn order? Yeah, Bronya should be immediately after your current damage dealer's turn and that number should ideally be as close to 1 as possible.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This is what has lead to colloquial descriptions of Bronya playstyles such as 'Slow Bronya' in which she is SPD tuned to have 1 fewer point of SPD compared to the DPS (so if your DPS has 134 SPD, Bronya should have 133 or so), or 'Hyper Bronya' in which Bronya goes plus ultra on her SPD stat to around the 170s or even higher if that's even possible, and you just relentlessly Action Advance your preferably low SPD damage dealer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This gets even more interesting with Bronya's Talent. After using her Basic ATK, Bronya's own Action will be Advanced Forward by up to 30%. You get more turn per turn, essentially. This is also how Bronya can 'fix' her spot in the turn order by quite literally just shifting herself up until she's where she needs to be. This leads to other various forms of 'alternating' playstyles, in which Bronya alternates between Skill and Basic ATK to keep herself and her damage dealer aligned.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It's... a lot, I know. However, I will say that you can definitely get a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"feel\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for all of this by just playing her over time, especially under unfavourable circumstances. Bronya's Talent and Skill can fix a lot of unsavoury situations during combat, and there's really no need to strictly adhere to one SPD value or Bronya playstyle unless you're trying to be fully, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"maximally\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", optimal. Again, there are plenty of resources online for figuring all of this out, as well as calculators to find your optimal speeds.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bronya's Ultimate increases the ATK of all allies by up to 55%, and increases their CRIT DMG by up to 16% of Bronya's CRIT DMG plus 20% for 2 turns. This can result in a very powerful CRIT buff for your damage dealers, especially if Bronya is built for a lot of CRIT DMG. At an average cost of 120 Energy, this can be up fairly frequently, potentially having full uptime with the proper Light Cones and maybe some luck here and there. CRIT buffs are extremely powerful because they're usually quite rare, and now factoring in her Skill as well, Bronya is capable of providing ATK%, DMG%, and CDMG% to your damage dealer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Amusingly enough, the single strongest thing she has is the Action Advance \u2014 more turns equals more damage. It's probably the simplest part of her whole kit. The only issue with this is the exorbitant SP costs attempting to maintain frequent Skill usages. This is where the alternating playstyles come in, but these playstyles have inexorable damage losses associated with them compared to just spamming her Skill. Maintaining good SP economy is paramount to seeing success with Bronya over extended fights. I specify extended because if you just kill the enemies fast enough that you don't run out of SP, well then you no longer really have a problem there.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bronya's Bonus Traces don't really change anything besides providing nice passive bonuses. A2 increases the CRIT chance of her Basic ATK to 100%, A4 provides a 20% DEF boost for 2 turns upon entering combat, and A6 provides a permanent 10% DMG buff for as long as Bronya is alive and on the field.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Eidolons are something that players may get over time due to her being a standard 5-star character. They are all quite impressive, meaning Bronya scales even better with Eidolons. E1 is a great starting point since it gives her Skill a 50% fixed chance of refunding a Skill Point on use, with a 1 turn cooldown. This greatly alleviates the SP concerns from spamming her Skill and is so valuable that many players opt to use their 300 standard pull guarantee on a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"second copy\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of Bronya just for this. That decision is ultimately up to the player, but it is verifiably good.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because of Bronya's Skill's 1 turn duration, the DMG boost actually doesn't catch a fair few things from certain damage dealers, making the pair rather incompatible. The biggest ones to note are follow-up attackers like Topaz, Dr. Ratio, and especially Jing Yuan, characters where the vast majority of their damage comes \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"outside \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"of their turn. This is why E6 Bronya is the dream, as E6 extends the duration of the DMG buff from 1 turn to 2 turns, meaning everyone gets to benefit from it unconditionally.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"That's essentially the crux of Bronya. If a damage dealer can benefit \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"fully\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" from her, she is near automatically the strongest support for them, but as soon as that stops being true, suddenly other support options can start to be more appealing. Especially with the investment requirement constantly changing if you wish to use her with different DPS characters, plus the knowledge check of SPD as a whole, even if Bronya objectively results in the best outcome for a team, you may just opt not to use her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This is because Bronya has a lot more competition these days, mostly from Ruan Mei. Ruan Mei also provides ridiculous buffs but they are teamwide and completely effortless by comparison to Bronya's. As much as there would need to be another support character with Action Advance to directly challenge Bronya's throne, Ruan Mei's team influence is honestly not very far off from Bronya's, and Ruan Mei also provides much appreciated defensive utility with her increased Breaking and Break Extensions. There's nothing stopping you from playing them both together though as long as you have the SP to sustain it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bronya's just great. Even if someone else eventually comes to steal her throne... Well you'll probably just use them both together, hah.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Absurd offensive buffs, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"100% Action Advance on Skill, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flexible playstyles, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Scales tremendously well with Eidolons.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill's 1 turn buff doesn't work well with some damage dealers, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Overall game knowledge checker with a high floor and high ceiling.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3000 - 4000+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800 - 1100+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1-2 Speed slower than carry / 160+ (0 Speed Carry)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ENERGY REGEN\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\": 19.44%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"175 - 210%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Madeline Reiter",
+        "kr": "\uc774\ubcf4\ud76c",
+        "jpn": "Asumi Kana (\u963f\u6f84\u4f73\u5948)",
+        "cn": "\u8c22\u83b9"
+    },
+    "ratings": {
+        "moc": "8",
+        "moc_special": "8",
+        "pure": "8",
+        "pure_special": "8",
+        "apo": "9",
+        "apo_special": "9"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "but-the-battle-isnt-over",
+            "super": "1",
+            "percent": "-",
+            "notes": "Provides Energy Regeneration and a massive damage increase to the character who moves after the wearer uses their skill. In addition to this, every other ultimate cast will grant the team 1 Skill Point. An exceptional Cone for Bronya as she can guarantee the damage bonus is always on the right target and the skill points are very much useful."
+        },
+        {
+            "cone": "past-and-future",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers an enormous damage boost to the character who moves after the wearer uses their skill. Grants Bronya slightly more damage boosting than her signature but at the cost of Energy Recharge and free skill points but it is accessible for F2P."
+        },
+        {
+            "cone": "planetary-rendezvous",
+            "super": "5",
+            "percent": "-",
+            "notes": "Increases the damage of all units of the same elemental type as the wearer. A good generic damage increase for damage dealers that match the element of the support but should not be used outside of this scenario."
+        },
+        {
+            "cone": "dance-dance-dance",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a 24% action advance for the entire team when the user activates their ultimate. Not recommended for characters that rely on specific Speed tuning in relation to the rest of the team but is excellent for all other characters. Only recommended for max Speed Bronya as the action advance can ruin Speed-synced Bronya's interactions."
+        },
+        {
+            "cone": "carve-the-moon-weave-the-clouds",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers one of three random buffs that rotates throughout combat. A fine option when no other alternatives are available but often overshadowed by other more consistent or powerful harmony Cone options."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Guard of Wuthering Snow",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "but-the-battle-isnt-over",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "comments": "Can be played 2 ways, either Tune her SPD to be 1 below main DPS and spam Skill, or maximize her SPD to alternate between Basics and Skills to remain SP Neutral.",
+            "substats": "SPD (Until breakpoint) > CRIT DMG > HP = DEF > Effect RES% (30% If Keel)",
+            "skill_priority": "Skill > Ultimate > Talent > Basic",
+            "traces_priority": "Command (A2) > Military Might (A6) > Battlefield (A4)",
+            "name": "Hypercarry Support"
+        }
+    ],
+    "videos": [
+        {
+            "video": "n9urIQOAGsI"
+        }
+    ],
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "bronya",
+            "member_2": "natasha",
+            "member_3": "trailblazer-fire",
+            "member_4": "dan-heng"
+        },
+        {
+            "name": "Hypercarry Team",
+            "member_1": "bronya",
+            "member_2": "tingyun",
+            "member_3": "bailu",
+            "member_4": "seele"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "windDmg",
+            "value": 22.4
+        },
+        "traceStat2": {
+            "stat": "critDmg",
+            "value": 24
+        },
+        "traceStat3": {
+            "stat": "effectRes",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "dmg",
+            "value": 10
+        },
+        "traceStatMajor2": {
+            "stat": "def",
+            "value": 20
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Amplifier",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "ADV",
+        "Buff",
+        "SP-"
+    ]
+}

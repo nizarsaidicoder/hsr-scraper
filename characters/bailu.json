@@ -1,0 +1,433 @@
+{
+    "id": "f2ef2f74-764c-5d14-a98c-01aa3c4722cb",
+    "updatedAt": "June 27th, 2024",
+    "createdAt": "2023-01-26T08:58:53.918Z",
+    "unitId": 24,
+    "name": "Bailu",
+    "slug": "bailu",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/d7966d5a139339f40b379cffd4d13cf8/e9a79/24_sm.png",
+                            "srcSet": "/static/d7966d5a139339f40b379cffd4d13cf8/f31ef/24_sm.png 40w,\n/static/d7966d5a139339f40b379cffd4d13cf8/1f8a1/24_sm.png 80w,\n/static/d7966d5a139339f40b379cffd4d13cf8/e9a79/24_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/d7966d5a139339f40b379cffd4d13cf8/e73fe/24_sm.webp 40w,\n/static/d7966d5a139339f40b379cffd4d13cf8/61ca6/24_sm.webp 80w,\n/static/d7966d5a139339f40b379cffd4d13cf8/60b4d/24_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/bf280abd6de1ff954c7767b08c443431/c9885/bailu.png",
+                            "srcSet": "/static/bf280abd6de1ff954c7767b08c443431/2aab7/bailu.png 94w,\n/static/bf280abd6de1ff954c7767b08c443431/0a986/bailu.png 187w,\n/static/bf280abd6de1ff954c7767b08c443431/c9885/bailu.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/bf280abd6de1ff954c7767b08c443431/84550/bailu.webp 94w,\n/static/bf280abd6de1ff954c7767b08c443431/34f80/bailu.webp 187w,\n/static/bf280abd6de1ff954c7767b08c443431/b26e2/bailu.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/932172867d7ad8c7310d8f7dff276f86/3c5dc/24_full.png",
+                            "srcSet": "/static/932172867d7ad8c7310d8f7dff276f86/ca8fd/24_full.png 200w,\n/static/932172867d7ad8c7310d8f7dff276f86/de50c/24_full.png 400w,\n/static/932172867d7ad8c7310d8f7dff276f86/3c5dc/24_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/932172867d7ad8c7310d8f7dff276f86/213b2/24_full.webp 200w,\n/static/932172867d7ad8c7310d8f7dff276f86/413c5/24_full.webp 400w,\n/static/932172867d7ad8c7310d8f7dff276f86/cf6d0/24_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A vivacious young lady of the Vidyadhara race, she is known as the \\\"Healer Lady\\\" due to her expertise in medicine. She often dishes out unorthodox prescriptions such as \\\"Stay well hydrated\\\" and \\\"Get a good night's rest.\\\" Bailu cannot bear to see people suffer, and that's why you'll see her with her eyes shut tightly as she cures ailments.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\\"As long as they're cured, that's all that matters, right?\\\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "121101",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "121102",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "121103",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "121104",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "121107",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Healer",
+    "affiliation": "Xianzhou Luofu",
+    "rarity": "5",
+    "element": "Lightning",
+    "path": "Abundance",
+    "stats": {
+        "hp_base": 179.52,
+        "def_base": 66,
+        "atk_base": 76.56,
+        "speed_base": 98
+    },
+    "ascensionMaterials": {
+        "mats_1": "extinguished-core",
+        "mats_2": "glimmering-core",
+        "mats_3": "lightning-crown-of-the-past-shadow",
+        "mats_4": "squirming-core"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "24",
+            "name": "Bailu",
+            "upgrade1Name": "Ambrosial Aqua",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If the target ally's current HP is equal to their Max HP when Invigoration ends, Bailu additionally regenerates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy for this target.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Sylphic Slumber",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After using her Ultimate, Bailu's Outgoing Healing increases by an additional \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Omniscient Opulence",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Evil Excision",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Every healing provided by Bailu's Skill makes the recipient deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" more DMG for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). This effect can stack up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" time(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Waning Worries",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Drooling Drop of Draconic Divinity",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Bailu can heal allies who received a killing blow \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" more time(s) in a single battle.\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When Bailu heals a target ally above their normal Max HP, the target's Max HP increases by <b>10%</b> for 2 turns.",
+            "name": "Qihuang Analects"
+        },
+        {
+            "req": "A4",
+            "desc": "Invigoration can trigger <b>1</b> more time(s).",
+            "name": "Vidyadhara Ichor Lines"
+        },
+        {
+            "req": "A6",
+            "desc": "Characters with Invigoration receive <b>10%</b> less DMG.",
+            "name": "Aquatic Benediction"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bailu is a competent healing sustain unit on the Path of Abundance. She focuses on automatic reactive healing upon sustaining damage with her Ultimate, providing damage reduction and a maximum health increase for all allies. She is also in possession of a 1-time ally revive, immediately restoring them to life. She has consistent healing for both single-target and AoE, but she crucially has no way of cleansing debuffs at all, setting her apart from other Abundance characters.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Despite popular opinion, Bailu is still a very decent healer. Similarly to Gepard, her value has ebbed and flowed over time, with now her method of healing being actually quite favourable against the powerful onslaught that enemies throw your way. She is by no means a standout healer, mostly because the competition in terms of sustain units is frighteningly high, but she'll carry your sorry butt through the end game no problem.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bailu's Talent is the focal point. Whenever an ally with Invigoration gets hit, their HP will immediately be restored by up to 5.4% of Bailu's Max HP plus 144, and this can trigger 2 times every time Invigoration is applied. This Invigoration buff comes from her Ultimate, but the healing values are dependent on her Talent levels. Her Talent also has a 1 time ally revive, being able to restore their HP by up to 18% of Bailu's Max HP plus 480 upon receiving a fatal blow.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This Invigoration buff heals in a very peculiar way compared to other Abundance units, as it provides its healing immediately upon getting hit by an enemy attack. This means you can actually survive an enemy onslaught that would ordinarily completely kill you; if a Boss acts twice against a single character and deals 5000 damage across those two hits, and your character only has 4000 HP, the healing that occurs after the first hit will actually allow this character to survive with a sliver of health remaining, so while Bailu cannot prevent \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"literal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"one shots from occurring, any faux-oneshots spread over a couple of actions can be largely mitigated.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bailu's Ultimate immediately heals all allies for up to 13.5% of Bailu's Max HP plus 360 and applies Invigoration to any allies that do not yet have it. Allies that already have Invigoration will have its duration extended by 1 turn. Invigoration lasts for 2 turns. This essentially means that regardless of anything else, using Bailu's Ultimate will guarantee that all allies have at least 2 turns of Invigoration.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This Ultimate is actually pretty good as it only costs a measly 100 Energy while also being incredibly potent emergency healing, and this then of course translates to higher Invigoration uptime leading to greater and more consistent passive healing output.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bailu's Skill is not particularly noteworthy, as the healing from her Ultimate and Invigoration should be enough to cover the party's needs. She targets a single ally and heals them for up to 11.7% of Bailu's Max HP plpus 312. Then this heal will Bounce to a random ally 2 times, with each Bounce reducing the heal amount by 15%. This is somewhat unreliable as an AoE heal as it could very easily just heal the target ally 3 times in a row, or go to heal an ally that doesn't need it, but if you're really in dire straits, this can be an effective way to top off characters in need.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bailu's Bonus Traces further amplify her defensive utility. A2 allows any healing in excess of 100% of a character's Max HP to increase that ally's Max HP by 10% for 2 turns. A4 allows Invigoration to trigger an extra time, leading to 3 total activations between reapplications of Invigoration, and A6 will provide a 10% damage reduction to characters with Invigoration. A6 in particular is a vastly underestimated boost \u2014 damage reduction is pretty cracked, yo, and having it up permanently \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"vastly \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"reduces the amount of overall damage that comes your way, especially over the course of a single fight.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a standard character, you could very well get Eidolons for Bailu over time. While she's far from the best standard character to get Eidolons for, they still provide nice bonuses to an already competent unit. E1 has good value and will restore 8 Energy for a character if their HP is fully topped off when Invigoration ends. By no means game-changing but a nice boost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bailu's days as the only other healer are long long behind us, and she has very steep competition as a sustain unit. Luocha was the first to run away with the crown, providing outstanding passive healing as well while also being effortless to maintain. Luocha also has a cleanse on his Skill and an AoE dispel on his Ultimate, and manages to be one of the absolute most SP-positive units in the game, still being used in the most meta teams to this day.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Then came Fu Xuan and took the damage reduction niche to such an extreme that future sustain characters have their work cut out for them if they want to compete with that level of power. Not only that, but Fu Xuan outright prevents a single teamwide application of crowd control while also having damage redirection allowing her to circumvent true oneshots. Then Huohuo showed up and changed the game forever by being a Harmony and Abundance in one, while also having a ridiculous amount of passive healing and cleansing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bailu doesn't have a cleanse. She doesn't increase CRIT rate, and doesn't increase ATK or give Energy. She is a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"healer \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"and that is\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\" all\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" that she is. Frankly she's been left behind, and the reasons to use her keep disappearing one by one as more and more people have access to stronger and newer sustain options. Not having a cleanse in this day and age of the game is just asking for trouble.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Bailu is not bad as a standalone character, but any comparisons are very much not in her favour. The unfortunate reality is that this will continue to be the case, as future sustain units will continue upping the ante thanks to the ridiculousness of the sustain units that came before. If you do not have a competent second sustain unit, or want to replace Natasha as soon as possible, Bailu will do that for you. But the second you get a limited 5-star sustain, Bailu may well be warming that bench for the rest of her Vidyadhara life cycle.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"'The moment a healer with more utility gets released, Bailu will likely be superseded by them.' What a terrible day to have been correct.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Consistent reactive healing and damage reduction, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has a revive mechanic for if a character gets unexpectedly killed, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Good emergency healing, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Largely SP positive.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lacking a cleanse is devastating, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Provides no additional utility, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Cannot circumvent true oneshots, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Will get benched the moment you get a better sustain.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5600 - 6400+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800 - 1100+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 (Recommended) / 143 / 160\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ENERGY REGEN\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\": 19.44%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Su Ling Chan",
+        "kr": "",
+        "jpn": "Emiri Kat\u014d (\u52a0\u85e4 \u82f1\u7f8e\u91cc)",
+        "cn": "Duoduo Poi (\u591a\u591apoi)"
+    },
+    "ratings": {
+        "moc": "7",
+        "moc_special": "7",
+        "pure": "6",
+        "pure_special": "6",
+        "apo": "7",
+        "apo_special": "7"
+    },
+    "energyUltimate": "100",
+    "conesNew": [
+        {
+            "cone": "night-of-fright",
+            "super": "1",
+            "percent": "-",
+            "notes": "Offers exceptional base stats, energy regeneration and team-wide buffs. Most importantly this Cone offers an additional healing mechanic outside of the kit of the healer it is equipped to allow more flexible healing and the opportunity to keep your allies alive. All these factors combined make it the strongest in almost every scenario."
+        },
+        {
+            "cone": "time-waits-for-no-one",
+            "super": "1",
+            "percent": "-",
+            "notes": "Incredible base stats paired with an increase to healing and max HP% makes this a top option for all HP% based healers looking to increase their kits' healing output. Offers no other notable benefits outside of healing boosts though meaning it can lose out to other more specialised Cones easily."
+        },
+        {
+            "cone": "post-op-conversation",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a tremendous amount of energy regeneration and a boost to ultimate healing specifically. Suitable when aiming to access ultimate more quickly or when relying almost entirely on ultimate healing."
+        },
+        {
+            "cone": "perfect-timing",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a large amount of Effect Res and grants a % of your Effect Res as an Outgoing Healing Bonus (up to 27% at S5). To reach the maximum healing bonus at S5 you'll require a total of 60% Effect Res, this Cone and its huge healing bonus is one of the generically best Cones that can be used well on all healers."
+        },
+        {
+            "cone": "hey-over-here",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers increased HP% for healers that heal based on HP and a large Outgoing Gealing bonus after using a skill for 2 turns. Not suitable for healers that don't frequently use their skill but a good option for those that do, without permanent uptime on the buff this lightcone performs poorly."
+        },
+        {
+            "cone": "shared-feeling",
+            "super": "5",
+            "percent": "-",
+            "notes": "Provides a decent generic Healing Output boost making it usable in all scenarios regardless of its second effect. Its second effect grants all allies including the caster 4 additional energy per skill use which can be enough to alter some damage dealer and supports rotations dramatically."
+        },
+        {
+            "cone": "multiplication",
+            "super": "5",
+            "percent": "-",
+            "notes": "Advances the wearer's action forward 20% every basic attack dramatically accelerating their rotation compared to the rest of the team allowing for more frequent healing, ultimates but most importantly more skill point generation. Only recommended for use on healers that predominantly use their basic attacks e.g. Luocha."
+        },
+        {
+            "cone": "quid-pro-quo",
+            "super": "5",
+            "percent": "-",
+            "notes": "Grants an ally 16 energy semi-randomly. Unreliable as a means of energy regeneration but is exceptionally powerful when the bonus is granted to your main damage dealer/s making it a viable option if no additional healing boosts are required."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Passerby of Wandering Cloud",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Passerby of Wandering Cloud",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Sprightly Vonwacq",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "time-waits-for-no-one",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Outgoing Healing"
+                },
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "comments": "Focusing on Speed and HP% will make Bailu heal often and give her some bulk. For Speed, try to reach the 134 Speed breakpoint.",
+            "substats": "SPD (breakpoint) > HP% > EFF RES% = DEF%",
+            "skill_priority": "Talent > Ultimate > Skill > Basic",
+            "traces_priority": "Vidyadhara Ichor Lines (A4) > Aquatic Benediction (A6) > Qihuang Analects (A2)",
+            "name": "Healer"
+        }
+    ],
+    "videos": [
+        {
+            "video": "x3TM6wEW78U"
+        }
+    ],
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "serval",
+            "member_2": "bailu",
+            "member_3": "trailblazer-fire",
+            "member_4": "dan-heng"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "hp",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "def",
+            "value": 22.5
+        },
+        "traceStat3": {
+            "stat": "effectRes",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Sustain",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": null
+}

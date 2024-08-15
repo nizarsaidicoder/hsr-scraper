@@ -1,0 +1,499 @@
+{
+    "id": "5cf7427e-bb00-5481-8465-ca007eec7d45",
+    "updatedAt": "June 28th, 2024",
+    "createdAt": "2023-10-31T08:50:48.033Z",
+    "unitId": 45,
+    "name": "Xueyi",
+    "slug": "xueyi",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/255178791ab42f44cb633b15df66c30f/e9a79/45_sm.png",
+                            "srcSet": "/static/255178791ab42f44cb633b15df66c30f/f31ef/45_sm.png 40w,\n/static/255178791ab42f44cb633b15df66c30f/1f8a1/45_sm.png 80w,\n/static/255178791ab42f44cb633b15df66c30f/e9a79/45_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/255178791ab42f44cb633b15df66c30f/e73fe/45_sm.webp 40w,\n/static/255178791ab42f44cb633b15df66c30f/61ca6/45_sm.webp 80w,\n/static/255178791ab42f44cb633b15df66c30f/60b4d/45_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/2bd99fd85d5b0edd509bcde8f8e7a601/c9885/45_card.png",
+                            "srcSet": "/static/2bd99fd85d5b0edd509bcde8f8e7a601/2aab7/45_card.png 94w,\n/static/2bd99fd85d5b0edd509bcde8f8e7a601/0a986/45_card.png 187w,\n/static/2bd99fd85d5b0edd509bcde8f8e7a601/c9885/45_card.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/2bd99fd85d5b0edd509bcde8f8e7a601/84550/45_card.webp 94w,\n/static/2bd99fd85d5b0edd509bcde8f8e7a601/34f80/45_card.webp 187w,\n/static/2bd99fd85d5b0edd509bcde8f8e7a601/b26e2/45_card.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/6e4083969f942e9348fe9391a3eb3382/cf6d0/xu_full.webp",
+                            "srcSet": "/static/6e4083969f942e9348fe9391a3eb3382/213b2/xu_full.webp 200w,\n/static/6e4083969f942e9348fe9391a3eb3382/413c5/xu_full.webp 400w,\n/static/6e4083969f942e9348fe9391a3eb3382/cf6d0/xu_full.webp 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"One of the judges of the Ten-Lords Commission. Of the four duties of a judge (detention, interrogation, incarceration, and punishment), she is charged with detention. Holding iron chains and a Marasunder Awl in her hands, she tirelessly tracks down wanted criminals and subdues them.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Body - CRIT RATE = CRIT DMG\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE and CRIT DMG are the best options. Choose the one that grants the best crit ratio.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Feet - Speed\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar Sphere - ATK%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xueyi already has an incredible amount of DMG% for free from her bonus ability with superior scaling from Break Effect. For this reason, ATK% Sphere grants her more damage than a Quantum one.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Link Rope - Break Effect%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for sub-stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Break Effect is Xueyi's best damage scaling stat when including Quantum Entanglement in the equation. Stacking only Break Effect will not yield the best results though, so aim for a good CRIT and CRIT DMG ratio and as high Break Effect as possible. Pick up ATK% as a bonus and ensure you have enough Speed through your teammates or sub-stats to hit your desired Speed breakpoint.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"BREAK EFFECT:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Xueyi's bonus ability grants her DMG% equal to her Break Effect% for free - this is one of the strongest bonus abilities in the game allowing her to be built as a Breaker while also doing immense personal damage. When considering Xueyi's potential Entanglement damage Break Effect becomes by far her best stat while still being competitive even without the ability to break an enemy. Getting a solid amount of Break Effect on top of a decent CRIT Ratio is your priority.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"CRIT Rate & CRIT DMG:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" CRIT RATE and CRIT DMG are strong for Xueyi despite her having incredible damage from her entanglements - aim for 1% CRIT RATE per 2% CRIT DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"SPEED: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Speed as with most standard direct damage carries is incredibly important on Xueyi. Hitting a strong Memory of Chaos breakpoint is also advised when aiming to achieve the fastest and most comfortable endgame clears. Stacking Speed past your desired breakpoint isn't advised though. Remember you can gain Speed via teammates buff such as Asta, Ruan Mei, and Hanya.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"ATK%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"ATK% is comparatively more valuable on Xueyi than other characters as she gains a tremendous amount of DMG% from her Break Effect and sacrifices the usual ATK% rope in favor of a Break% rope. Aim to pick up ATK% as a bonus after focusing on Break effect and CRIT stats as it's still a great source of damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"DMG%:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Standard DMG% is not a desirable stat on Xueyi as she gains DMG% equal to her Break Effect. In Star Rail, all sources of Break Effect % are equivalently larger than DMG% meaning it's always better to build Break and gain Dmg% for free than stacking DMG% directly unless it's a stat you're gaining through a teammate or for free on an otherwise already ideal Light Cone or Relic.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "relicsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Genius of Brilliant Stars\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best all-around set for Xueyi if enemies are Quantum weak. When paired with other sources of Defence shred, this set can even outperform most sets against non-Quantum weak.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Thief of Shooting Meteor\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best unconditional generic set for Xueyi. Offers a massive Break for her Entanglements and also boosts her damage thanks to her conversion bonus ability.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Musketeer of Wild Wheat\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Allows Xueyi to reach higher Speed breakpoints with no or low sub-stat investment and offers Atk% which is a reasonable stat for her. Easy to farm and generic but not as good as previous alternatives.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Pioneer Diver of Dead Waters\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A decent alternative that helps with building Xueyi more into CRIT, but you need some sources of debuffs in the team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The Ashblazing Grand Duke\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Relies on triggering many follow-up attacks and depleting toughness consistently which is mostly effective against Quantum-weak enemies, but then you're often better with just using the Quantum set.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[],\"nodeType\":\"hr\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Talia: Kingdom of Banditry\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best set numerically if Xueyi can achieve 145 Speed boosting her personal and entanglement damage. This set and the world it's farmed in has narrow use across other characters though making it stamina-inefficient to farm.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Space Sealing Station\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Strong generic, high-end easy set to farm that performs well on Xueyi, can lose out to CRIT planar sets in full team compositions and high-end gear sets.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Inert Salsotto\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best CRIT planar set for Xueyi that makes hitting a strong crit ratio far easier and in full team compositions is recommended if Talia is not an option.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firmament Frontline: Glamoth\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A reasonable baseline set with the 135 Speed bonus but a strong contender if 160-speed can be achieved which is mostly possible through the use of team buffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "121401",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "121402",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "121403",
+            "energy_gen": "5",
+            "break_primary": "120",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "121404",
+            "energy_gen": "2",
+            "break_primary": "15",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "121407",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": null,
+    "rarity": "4",
+    "element": "Quantum",
+    "path": "Destruction",
+    "stats": {
+        "hp_base": 144,
+        "def_base": 54,
+        "atk_base": 81.6,
+        "speed_base": 103
+    },
+    "ascensionMaterials": {
+        "mats_1": "extinguished-core",
+        "mats_2": "glimmering-core",
+        "mats_3": "nail-of-the-ape",
+        "mats_4": "squirming-core"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "110",
+            "name": "Xueyi",
+            "upgrade1Name": "Dvesha, Inhibited",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the DMG dealt by the Talent's follow-up attack by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Klesha, Breached",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Talent's follow-up attack reduces enemy Toughness regardless of Weakness types. At the same time, restores Xueyi's HP by an amount equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of her Max HP. When breaking Weakness, triggers the Quantum Break Effect.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Du\u1e25kha, Ceased",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Karma, Severed",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When using Ultimate, increases Break Effect by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Deva, Enthralled",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Sa\u1e43s\u0101ra, Mastered",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The max stack limit for Karma decreases to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"6\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "fu-xuan",
+            "notes": "Xueyi has excellent access to DMG% and ATK% from her gear and kit but lacks easy access to CRIT RATE. Fu Xuan stands as one of the top sustainers but also offers a good amount of this much-needed stat making her a good partner."
+        },
+        {
+            "character": "bronya",
+            "notes": "Bronya's boost is as normal a massive damage increase but also allows Xueyi to inflict more Toughness damage herself by granting her additional actions and ultimates. This allows her to gain faster access to her follow-ups boosting her damage. A good option for boosting Xueyi's personal damage but does not impactfully boost Xueyi's Entangles."
+        },
+        {
+            "character": "tingyun",
+            "notes": "Tingyun grants good stat boosts but most importantly energy recharge for Xueyi. Her ultimate is incredibly impactful inflicting the most Toughness break of all abilities in the game on a single target that also fuels her Talent follow-up increasing her damage even more. Like Bronya focuses on boosting Xueyi's personal damage and not her Entangles."
+        },
+        {
+            "character": "ruan-mei",
+            "notes": "Ruan Mei offers great damage boosts for Xueyi's personal and entangle damage granting DMG%, PEN%, SPD and Break Effect but most importantly also Break Efficiency. Break efficiency amplifies all of Xueyi's toughness damage by 1.5x allowing her to gain access to her follow-up and Entangles far faster, improving her damage output and frequency (instead of 4 Karma charges with her ultimate, with Ruan it grants 6). While these bonuses are nice Ruan also delays enemies on top of Xueyi's already huge Quantum delay upon break, meaning she'll have longer to wait in order to get back to launching follow-up attacks and her next Quantum entanglement."
+        },
+        {
+            "character": "silver-wolf",
+            "notes": "Xueyi can trigger her follow-up and Quantum Break considerably faster against Quantum weak enemies. Silver Wolf can implant the Quantum Weakness and is Quantum herself making it more consistent. Silver Wolf also offers RES PEN and DEF SHRED both of which amplify Quantum Break damage and Xueyi's own abilities making Silver an exceptional consistency and potency boost."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Increases DMG dealt by this unit by an amount equal to <b>100%</b> of Break Effect, up to a maximum DMG increase of <b>240%</b>.",
+            "name": "Clairvoyant Loom"
+        },
+        {
+            "req": "A4",
+            "desc": "If the enemy target's Toughness is equal to or higher than <b>50%</b> of their Max Toughness, deals <b>10%</b> more DMG when using Ultimate",
+            "name": "Intrepid Rollerbearings"
+        },
+        {
+            "req": "A6",
+            "desc": "Xueyi will keep a tally of the number of Karma stacks that exceed the max stack limit, up to <b>6</b> stacks in the tally. After Xueyi's Talent is triggered, she will gain a corresponding number of tallied Karma stacks.",
+            "name": "Perspicacious Mainframe"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Xueyi is a strong generalist damage dealer capable of dealing Toughness damage to enemies not weak to Quantum.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" She interacts with enemy Toughness Gauges to gain stacks towards a powerful follow-up attack, greatly increasing her effectiveness against Quantum-weak foes. Xueyi scales with Break Effect, gaining bonus DMG% per point of Break Effect, resulting in a large permanent boost to her damage output, but due to her reliance on doing Toughness damage, the teams and scenarios you can use her are pretty restrictive.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The Ten-Lords Judge inhabiting a puppet body and sister to Hanya, Xueyi, is a formidable ally. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Alongside Ruan Mei, she has a heavy focus on Break and Break Effect, making great use of an otherwise neglected and suboptimal stat. She has a wordy but relatively simple and effective kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Xueyi\u2019s Skill is a Blast AoE, dealing up to 140% ATK to the primary target and 70% to adjacent foes. Xueyi\u2019s Ultimate deals damage to a single enemy, up to 250% ATK. This attack deals 120 Toughness damage, notably higher than almost all other single-target Ultimates in the game and having parity with Imbibitor Lunae\u2019s Fulgurant Leap. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Even more impressive is that this Toughness damage ignores the Weakness Type of the enemy, meaning this attack does not care if its target doesn\u2019t have a Quantum weakness.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If this Toughness damage Breaks the enemy, the attack will also inflict Quantum Break on them, causing Entanglement. The more Toughness reduced, the higher the DMG dealt will be, up to an increase of a very substantial 60%, meaning it is more powerful when used on an enemy that still has a good amount of Toughness remaining.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The wordy part but also one of the most important parts of Xueyi\u2019s kit is her Talent. When reducing Toughness with attacks, Xueyi gets stacks of Karma, up to 8. At 8 stacks, she will unleash a 3-hit follow-up attack, each one dealing up to 90% ATK to a single enemy. When Xueyi reduces Toughness, she gains Karma stacks based on how much she reduced it by \u2014 1 stack for every 30 Toughness reduced. When allies reduce Toughness, Xueyi gets 1 Karma stack.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The follow-up deals 270% ATK in total and ends up being a fairly big part of Xueyi\u2019s personal damage.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" The follow-up itself will not add stacks of Karma, but with the increased acquisition that Xueyi herself gets as well assistance from allies, she will still be able to get to this follow-up attack fairly frequently, especially when you consider that her Ultimate deals Type-ignoring Toughness damage, and the 120 Toughness damage it deals will immediately add 4 stacks. The follow-up attack also deals 15 Toughness damage per hit and restores 6 Energy in total, so it also helps with Energy economy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Looking at just the raw numbers makes it seem like Xueyi doesn\u2019t deal very much damage, and, aside from the Ultimate, doesn\u2019t stand out at all. This is where her Bonus Ability Traces swoop in to tell the rest of the story. The least impressive of these is her A4 will let her Ultimate deal 10% more DMG against enemies whose Toughness is higher than 50% of their Max.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The big one is Xueyi\u2019s A2. It will increase the DMG she deals by an amount equal to 100% of her Break Effect stat, up to a maximum bonus of 240%. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Yes this is as silly as it sounds. This means that you take whatever your Break Effect% is at \u2014 and now that\u2019s the DMG% bonus you have, just passively. Racking up enough Break Effect for this to reach some amazing heights is not hugely difficult especially since her Minor Traces give her 37.3% Break Effect for absolutely free, meaning a Break Effect Link Rope will put Xueyi\u2019s Break Effect to just over 100%, which of course thanks to her A2 means she\u2019s also getting a permanent 100% DMG bonus to everything.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Any extra Break Effect is just icing on the cake, and this one Bonus Ability Trace makes Xueyi deal very substantial and, more importantly, very \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"consistent\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" damage. With her ability to Break whomever she wants as well, she can very easily make use of the extremely powerful burst of damage that the Entanglement status provides with this amount of Break Effect.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Because this provides so much DMG% for Xueyi, she actually doesn\u2019t really want a Quantum DMG Planar Sphere, since they\u2019re the same type of DMG%, and so it\u2019s not providing as much as it would for others. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"This means you finally have a use for your definitely not copium ATK% Spheres, and it\u2019s actually her best stat for that slot. You shouldn\u2019t get too entranced by this though. Investing into CRIT Rate and DMG is also important and you can't rely on the Break Effect alone.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A6 essentially keeps a tally of how many stacks of Karma you overcap by, making it so that if you annihilate a Toughness bar at 7 out of 8 stacks, you aren\u2019t just throwing away all those Karma stacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This combination makes Xueyi contend with some of the really heavy hitters, and with this amount of natural DMG% in her kit, she plays very well with pretty much all supports, especially the ones that can increase her Action rate to get more Energy for Ultimates and more of those Karma stacks for her follow-up. Bronya and Tinyun are natural pairings, though Asta and Hanya can also be good thanks to their SPD buffs and due to them always attacking on their turns for more potential Karma stacks for Xueyi. Silver Wolf, Pela, and Ruan Mei are also great partners for Xueyi as they can increase the Entanglement damage done by her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Xueyi is already strong at base at E0, but she has some very impactful Eidolons that can noticeably improve her performance. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"E1 increasing the DMG of the follow-up by 40% is always appreciated since it\u2019s free, and E2 will let Xueyi\u2019s follow-up attacks deal Toughness damage regardless of Type and even give her a slight heal of 5% Max HP. As with the Ultimate, Breaking enemies with the follow-up will similarly inflict Quantum Break. E4 increases Break Effect by 40% for 2 turns after using her Ultimate, which is just more DMG% on top of everything else, and E6 will reduce the max stacks of Karma down to 6, resulting in yet more follow-up attacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Surprisingly there\u2019s not much left to say. Xueyi is a very potent and consistent character, and her interactions with Break and Break Effect make her not only quite unique but likely to only improve over time. She\u2019s good as a hypercarry, but with how her kit works she\u2019s also very good as a secondary damage dealer in dual-carry comps. Maximizing the Toughness damage that she deals is key to skyrocketing her performance, meaning using your Ultimate on enemies without Quantum Weakness so that you have more to hit with her Skill. Depending on how things pan out, she may even be the next Qingque, hah\u2026 Though only time will tell if that\u2019s an overcooked dream.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A definite issue to keep in mind is that because of the uniqueness of Xueyi\u2019s kit, her investment ceiling is so massive that it\u2019s virtually unattainable; you\u2019re only ever going to be \u2018done\u2019 with this character when every single one of your relics are 10/10 perfection, and the progression for this is also exceedingly steep. It\u2019s been mentioned for other characters that they require a lot of investment, but they do not hold a candle to the grossly incandescent Xueyi. As a result, Xueyi\u2019s potential is high, but it also means the journey to get there may be very time-consuming, as even the tiniest bump in stats can translate to a significant increase in combat.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The other big thing is that Xueyi \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"annihilates\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Quantum-weak foes.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This makes the performance difference when fighting non QUA-weak enemies rather stark when comparing to other characters \u2014 it\u2019s not that she becomes unusable, it\u2019s just that because of how good Xueyi is against the \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"right\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" enemies she feels wasted being put against anything else.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Mismatching Elemental Weaknesses is a negative thing that is shared by pretty much every character in the game (unless your name is either Seele or Kafka), \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"and while Xueyi has the tools to work around a mismatched Weakness, you absolutely should not expect her to bring the same level of decimation to fights that feature literally zero Quantum weaknesses.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" I think we all know by now whose fault that would be. Putting Xueyi with teammates who are capable of dealing Toughness damage to enemies will greatly impact her performance, and if nobody on your team is capable of dealing Toughness damage, then I think you\u2019ve fundamentally misunderstood one of the core aspects of the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Xueyi is easily one of the best 4-star damage dealers, and has a lot of staying power thanks to her unique kit\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". The road to powering her up is long\u2026 Long enough to make one mara-struck, but it is most assuredly worth it. Do not underestimate this character.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Scales with Break Effect for huge permanent DMG% bonuses, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Minces Quantum-weak foes with consistent damage output elsewhere, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate and E4 allow her to deal Type-ignoring Toughness damage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Strongest single-hit Toughness damage on her Ultimate, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deals vastly more damage the more Toughness damage your team can inflict, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can inflict Quantum Break on any enemy regardless of Weakness, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Strong as a hypercarry and dual carry.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Loses substantial damage when completely Type-mismatched, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Damage decreases against slower enemies who take longer to recover from Break, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Loses power when paired with teammates who cannot contribute Toughness damage of their own, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Absolute investment singularity with a steep starting point to boot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2000 - 2400+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60% - 70%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120% - 140%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Base Speed (H\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"yperspeed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Sparkle/Bronya) /\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 (Recommended) / 143 / 160\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"BREAK EFFECT: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100% - 150%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Jenny Yokobori",
+        "kr": "\ubc15\ub9ac\ub098 (Park Ri-na)",
+        "jpn": "\u6cb3\u702c\u8309\u5e0c (Kawase Maki)",
+        "cn": "\u6eaf\u6d54 (SuXun)"
+    },
+    "ratings": {
+        "moc": "7",
+        "moc_special": "6",
+        "pure": "6",
+        "pure_special": "5",
+        "apo": "9",
+        "apo_special": "8"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes you maintain the full 4 attack stacks (64% ATK) at all times and maintain the weakness break bonus 50% of the time. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "95.97%",
+            "notes": "On the Fall of An Aeon with 0% uptime is calculated assuming you maintain the full 4 attack stacks (64% ATK) at all times and the weakness break bonus is never active - which is the case in most fights the enemy is not vulnerable to the wearer of the Cone."
+        },
+        {
+            "cone": "the-moles-welcome-you",
+            "super": "5",
+            "percent": "95.13%",
+            "notes": "Assumes to have 100% uptime of all 3 components of its buff requiring a Basic ATK, Skill and Ultimate. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "under-the-blue-sky",
+            "super": "5",
+            "percent": "94.51%",
+            "notes": "Assumes to have 100% uptime of its on-kill buff at all times. In fights where this is not the case for the majority of the duration, its damage will be lower"
+        },
+        {
+            "cone": "indelible-promise",
+            "super": "5",
+            "percent": "92.4%",
+            "notes": ""
+        },
+        {
+            "cone": "nowhere-to-run",
+            "super": "5",
+            "percent": "89.53%",
+            "notes": "Lower damage bonuses than other Light Cones and its difficulty to acquire makes this option undesirable."
+        },
+        {
+            "cone": "the-moles-welcome-you",
+            "super": "5",
+            "percent": "85.92%",
+            "notes": "Assumes to have 100% uptime of 2 components of its buff requiring two of Basic ATK, Skill and Ultimate. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "something-irreplaceable",
+            "super": "5",
+            "percent": "83.03%",
+            "notes": "Damage taken based buff isn't consistently accessible and the base stats do not make up for this."
+        },
+        {
+            "cone": "under-the-blue-sky",
+            "super": "5",
+            "percent": "79.78%",
+            "notes": "Assumes to have 0% uptime of its on-kill buff."
+        },
+        {
+            "cone": "a-secret-vow",
+            "super": "5",
+            "percent": "76.94%",
+            "notes": "Assumes to only have its base 40% damage increase active as enemies almost always have higher lower HP than your units. In fights where this is not the case and your units end up at lower HP than the enemy its performance will increase."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "QUA Weak",
+                    "notes": null
+                },
+                {
+                    "relic": "Thief of Shooting Meteor",
+                    "relic_2": "",
+                    "value": "98.46%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": "96.13%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "The Ashblazing Grand Duke",
+                    "relic_2": "",
+                    "value": "95.18%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Talia: Kingdom of Banditry",
+                    "value": "102.56%",
+                    "comment": "145 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "100.35%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "99.75%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "98.82%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "echoes-of-the-coffin",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Break Effect"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "ATK%"
+                },
+                {
+                    "stat": "Quantum DMG"
+                }
+            ],
+            "comments": "Break effect is Xueyi's best damage scaling stat when including Quantum Entanglement in the equation. Stacking only Break Effect will not yield the best results though, so aim for a good CRIT and CRIT DMG ratio and as high Break Effect as possible. Pick up ATK% as a bonus and ensure you have enough Speed through your teammates or sub stats to hit your desired Speed breakpoint.",
+            "substats": "SPD (breakpoint) > BREAK EFFECT% >= CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Skill = Talent > Ultimate > Basic",
+            "traces_priority": "Clairvoyant Loom (A2) > Perspicacious Mainframe (A6) > Intrepid Rollerbearings (A4)",
+            "name": "Default"
+        }
+    ],
+    "videos": [
+        {
+            "video": "t5jjCpgQG6U"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Break Abuse",
+            "member_1": "xueyi",
+            "member_2": "ruan-mei",
+            "member_3": "silver-wolf",
+            "member_4": "fu-xuan"
+        },
+        {
+            "name": "Hypercarry Variant 1",
+            "member_1": "xueyi",
+            "member_2": "bronya",
+            "member_3": "pela",
+            "member_4": "fu-xuan"
+        },
+        {
+            "name": "Hypercarry Variant 2",
+            "member_1": "xueyi",
+            "member_2": "tingyun",
+            "member_3": "ruan-mei",
+            "member_4": "fu-xuan"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "hp",
+            "value": 18
+        },
+        "traceStat2": {
+            "stat": "Quantum DMG",
+            "value": 8
+        },
+        "traceStat3": {
+            "stat": "Break Effect",
+            "value": 37.3
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "December 27th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "Break"
+    ]
+}

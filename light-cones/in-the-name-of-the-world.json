@@ -1,0 +1,58 @@
+{
+    "id": "44fb705d-5fa9-5b24-a569-e805aa2318ff",
+    "updatedAt": "2023-10-06T15:23:49.210Z",
+    "createdAt": "2023-01-27T12:39:21.469Z",
+    "coneId": 16,
+    "name": "In the Name of the World",
+    "slug": "in-the-name-of-the-world",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/3428c825460dd5399f4efb9da9b0e83d/bf8e1/16_sm.png",
+                            "srcSet": "/static/3428c825460dd5399f4efb9da9b0e83d/914ee/16_sm.png 32w,\n/static/3428c825460dd5399f4efb9da9b0e83d/1c9ce/16_sm.png 64w,\n/static/3428c825460dd5399f4efb9da9b0e83d/bf8e1/16_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/3428c825460dd5399f4efb9da9b0e83d/ef6ff/16_sm.webp 32w,\n/static/3428c825460dd5399f4efb9da9b0e83d/8257c/16_sm.webp 64w,\n/static/3428c825460dd5399f4efb9da9b0e83d/6766a/16_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Inheritor",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's DMG to debuffed enemies by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"24/28/32/36/40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When the wearer uses their Skill, the Effect Hit Rate for this attack increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"18/21/24\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/27/30\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and ATK increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"24/28/32/36/40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

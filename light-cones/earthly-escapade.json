@@ -1,0 +1,58 @@
+{
+    "id": "73646ee3-3ac5-527b-a3f4-7606affc61b7",
+    "updatedAt": "2024-02-27T15:26:43.688Z",
+    "createdAt": "2024-01-27T10:50:39.239Z",
+    "coneId": 108,
+    "name": "Earthly Escapade",
+    "slug": "earthly-escapade",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e0b8583d9a35e3f134d964523c4b7633/bf8e1/108_sm.png",
+                            "srcSet": "/static/e0b8583d9a35e3f134d964523c4b7633/914ee/108_sm.png 32w,\n/static/e0b8583d9a35e3f134d964523c4b7633/1c9ce/108_sm.png 64w,\n/static/e0b8583d9a35e3f134d964523c4b7633/bf8e1/108_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/e0b8583d9a35e3f134d964523c4b7633/ef6ff/108_sm.webp 32w,\n/static/e0b8583d9a35e3f134d964523c4b7633/8257c/108_sm.webp 64w,\n/static/e0b8583d9a35e3f134d964523c4b7633/6766a/108_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "February 29th, 2024",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "1164"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "529"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Capriciousness",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's CRIT DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"32/39/46/52/60%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". At the start of the battle, the wearer gains Mask, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). While the wearer has Mask, the wearer's allies have their CRIT Rate increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10/11/12/13/14%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and their CRIT DMG increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"28/35/42/49/56%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". For every 1 Skill Point the wearer recovers (including Skill Points that exceed the limit), they gain 1 stack of Radiant Flame. And when the wearer has \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stacks of Radiant Flame, all the stacks are removed, and they gain Mask, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

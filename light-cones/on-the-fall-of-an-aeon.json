@@ -1,0 +1,58 @@
+{
+    "id": "e9b01e30-5f5b-5036-bc82-2e8aebb86bb1",
+    "updatedAt": "2023-05-07T10:19:44.647Z",
+    "createdAt": "2023-02-17T06:47:45.069Z",
+    "coneId": 42,
+    "name": "On the Fall of an Aeon",
+    "slug": "on-the-fall-of-an-aeon",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e84b9100419cf4d6984d7243afe16ce7/bf8e1/42_sm.png",
+                            "srcSet": "/static/e84b9100419cf4d6984d7243afe16ce7/914ee/42_sm.png 32w,\n/static/e84b9100419cf4d6984d7243afe16ce7/1c9ce/42_sm.png 64w,\n/static/e84b9100419cf4d6984d7243afe16ce7/bf8e1/42_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/e84b9100419cf4d6984d7243afe16ce7/ef6ff/42_sm.webp 32w,\n/static/e84b9100419cf4d6984d7243afe16ce7/8257c/42_sm.webp 64w,\n/static/e84b9100419cf4d6984d7243afe16ce7/6766a/42_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Herta's Store"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "529"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Moth To Flames",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Whenever the wearer attacks, their ATK is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/10/12/14/16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" in this battle, up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" time(s). When the wearer inflicts Weakness Break on enemies, the wearer's DMG increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/15/18/21/24\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

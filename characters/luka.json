@@ -1,0 +1,447 @@
+{
+    "id": "70bb6ade-bf44-57ea-aea4-5eb163959e23",
+    "updatedAt": "June 28th, 2024",
+    "createdAt": "2023-05-27T08:08:07.750Z",
+    "unitId": 33,
+    "name": "Luka",
+    "slug": "luka",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ce5be2a99d02f129514fd55e5db8f1a7/e9a79/33_sm.png",
+                            "srcSet": "/static/ce5be2a99d02f129514fd55e5db8f1a7/f31ef/33_sm.png 40w,\n/static/ce5be2a99d02f129514fd55e5db8f1a7/1f8a1/33_sm.png 80w,\n/static/ce5be2a99d02f129514fd55e5db8f1a7/e9a79/33_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ce5be2a99d02f129514fd55e5db8f1a7/e73fe/33_sm.webp 40w,\n/static/ce5be2a99d02f129514fd55e5db8f1a7/61ca6/33_sm.webp 80w,\n/static/ce5be2a99d02f129514fd55e5db8f1a7/60b4d/33_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/02c2a487a9c8e946f114d7d3eca9d10c/c9885/luka.png",
+                            "srcSet": "/static/02c2a487a9c8e946f114d7d3eca9d10c/2aab7/luka.png 94w,\n/static/02c2a487a9c8e946f114d7d3eca9d10c/0a986/luka.png 187w,\n/static/02c2a487a9c8e946f114d7d3eca9d10c/c9885/luka.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/02c2a487a9c8e946f114d7d3eca9d10c/84550/luka.webp 94w,\n/static/02c2a487a9c8e946f114d7d3eca9d10c/34f80/luka.webp 187w,\n/static/02c2a487a9c8e946f114d7d3eca9d10c/b26e2/luka.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/86320b88a38b4f9b75cdbd031239b4b5/3c5dc/33_full.png",
+                            "srcSet": "/static/86320b88a38b4f9b75cdbd031239b4b5/ca8fd/33_full.png 200w,\n/static/86320b88a38b4f9b75cdbd031239b4b5/de50c/33_full.png 400w,\n/static/86320b88a38b4f9b75cdbd031239b4b5/3c5dc/33_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/86320b88a38b4f9b75cdbd031239b4b5/213b2/33_full.webp 200w,\n/static/86320b88a38b4f9b75cdbd031239b4b5/413c5/33_full.webp 400w,\n/static/86320b88a38b4f9b75cdbd031239b4b5/cf6d0/33_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"An optimistic and carefree fighter with a mechanical arm. Skilled in mixed martial arts and is a Wildfire member. From the fight cage to the battlefield, and from a fighter to a warrior, Luka uses his strength to protect the people of the Underworld. He wishes to bring hope to others precisely because he had experienced despair himself.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "111101",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "111108",
+            "energy_gen": "20",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "111102",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "111103",
+            "energy_gen": "5",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "111104",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "111107",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Sub DPS",
+    "affiliation": "Belobog",
+    "rarity": "4",
+    "element": "Physical",
+    "path": "Nihility",
+    "stats": {
+        "hp_base": 124.8,
+        "def_base": 66,
+        "atk_base": 79.2,
+        "speed_base": 103
+    },
+    "ascensionMaterials": {
+        "mats_1": "ancient-part",
+        "mats_2": "ancient-spindle",
+        "mats_3": "broken-teeth-of-iron-wolf",
+        "mats_4": "ancient-engine"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "33",
+            "name": "luka",
+            "upgrade1Name": "Fighting Endlessly",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Luka takes action, if the target enemy is Bleeding, increases DMG dealt by Luka by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "The Enemy is Weak, I am Strong",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If the Skill hits an enemy target with Physical Weakness, gain \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stack(s) of Fighting Will.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Born for the Ring",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Never Turning Back",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For every stack of Fighting Will obtained, increases ATK by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", stacking up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" time(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "The Spirit of Wildfire",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "A Champion's Applause",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After the Enhanced Basic ATK's \\\"Rising Uppercut\\\" hits a Bleeding enemy target, the Bleed status will immediately deal DMG 1 time equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of the original DMG for every hit of Direct Punch already unleashed during the current Enhanced Basic ATK.\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When the Skill is used, immediately dispels 1 buff from the enemy target.",
+            "name": "Kinetic Overload"
+        },
+        {
+            "req": "A4",
+            "desc": "For every stack of Fighting Will obtained, additionally regenerates 3 Energy.",
+            "name": "Cycle Braking"
+        },
+        {
+            "req": "A6",
+            "desc": "When using Enhanced Basic ATK, every hit Direct Punch deals has a 50% fixed chance for Luka to use 1 additional hit. This effect does not apply to additional hits generated in this way.",
+            "name": "Crush Fighting Will"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Luka is a single target, DoT-based Nihility character.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Luka efficiently dispatches his foes by inflicting Bleed with his Skill, dealing damage equal to 24% of the enemy\u2019s Max HP but no more than 338% of Luka\u2019s ATK, and increasing the DMG they receive with his Ultimate by up to 20%.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The reigning Fight Club champ with a heart of gold and a fist full of steel, Luka\u2019s got plenty of tricks up his singular sleeve to deal extremely consistent damage and even amplify his team\u2019s damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"His Skill is the focal point. He attacks a single target and deals up to 120% of his ATK, and additionally inflicts a powerful Bleed DoT onto his target, making them take 24% of their Max HP as Physical damage at the start of each turn for 3 turns. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This would be too absurd on its own, so there is an upper limit attached to this, where the Bleed DoT cannot exceed more than 338% of Luka\u2019s ATK at max Trace level.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ordinarily, Bleed is a powerful DoT to use against high Max HP foes, as its Weakness Break counterpart also deals a percentage of the enemy\u2019s Max HP at the start of every turn, but the upper limit for that depends on your Break Effect%. This means that against particularly high-health enemies (especially level 90 and in Memory of Chaos), Break Bleed can do astounding damage. With the upper limit on Luka\u2019s Skill, it\u2019s harder to reach those kinds of damage amounts without copious amounts of ATK boosts, and even then beyond a certain point, Break Bleed will exceed those values.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"However, Luka is in fact a Physical character. You can absolutely have both DoTs active if Luka is the one to Weakness Break the enemy, and this means that Luka can contribute a colossal amount of Max HP damage by himself. This is compounded further by his Ultimate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Luka\u2019s Ultimate deals up to 330% of Luka\u2019s ATK to a single target and has a 100% base chance to increase the DMG they take by up to 20% for a whopping 3 turns\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Important to note, this is the same kind of rare damage amplification that Welt possesses on his Ultimate, and it goes a long way to increasing the damage of Luka\u2019s Bleeds, as well as the overall damage of the entire team. Especially in DoT-based setups or instances of high single-hit damage, this damage amp is invaluable.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Luka\u2019s Talent is the beans to the toast of his Skill. Using his Basic ATK or Skill will grant him 1 stack of Fighting Will, up to 4 total. Using his Ultimate will instantly grant 2 stacks. When he has at least 2 stacks, Luka\u2019s Basic ATK will be Enhanced, consuming 2 stacks to deal 3 hits of up to 20% ATK followed by a final blow dealing up to 80% at max Basic ATK Trace level. It doesn\u2019t sound too impressive on its own, but that\u2019s because the Talent has another effect.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"After hitting a Bleeding foe with Luka\u2019s Enhanced Basic ATK, the Bleed status will immediately deal DMG equal to up to 85% of its original DMG to the target, meaning Luka can force proc the Bleed effects that an enemy has.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This pushes the already strong Max HP% damage forward, compounding his damage contribution even further still.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Luka\u2019s Bonus Traces are good. A2 gives his Skill a dispel effect, making him extremely useful against foes that have pesky self-buffs like the Mara Struck or the Searing Prowler. A4 grants 3 energy every time he obtains a stack of Fighting Will, and A6 has a 50% fixed chance to make the small hits of his Enhanced Basic ATK hit an extra time, though this doesn\u2019t apply to any of the hits that count as extras, meaning he can hit up to 6 times before the uppercut instead of just 3.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"In terms of Eidolons, E1, and E6 are the most impactful\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", with E1 granting a 2 turn 15% DMG bonus if Luka attacks a Bleeding enemy, and E6 adding additional forced Bleed procs on every small hit of his Enhanced Basic ATK, 8% per hit for a maximum total of 48% of the original Bleed being dealt \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"before\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" the uppercut deals the Talent amount of 85%. They\u2019re not necessary for Luka to see success, but are instead \u2018win more\u2019 upgrades.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Because of his DoT-centric gameplay, Luka doesn\u2019t care for CRIT stats at all. He wants to stack as much ATK and SPD as possible so that he can continue to smack the enemy around and force Bleed damage as often as possible.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This has the unfortunate side effect of meaning that many of the best support options lose a great deal of value when paired with Luka exclusively; Bronya and Yukong in particular have their CRIT buffs almost entirely wasted and would be better spent on a more directly damaging character.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"As such, Luka is better used as a supplementary damage dealer, one that only infrequently needs to use his Skill to apply Bleed and can spend the remainder of his time using Basic ATKs, Enhanced or otherwise.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Especially due to his damage amplification and dispel capabilities, Luka makes for an excellent hybrid of single target support and damage dealer, with a big benefit of his being a very consistent damage output, and a damage amplification effect that interfaces with an entirely different portion of the DMG formula when compared to DEF Reduction.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Again, while he is very good at what he does, he is not really capable of matching the raw output of other dedicated damage dealers. Luka gets stronger as the enemy gains more health, but due to the upper limit on his Skill\u2019s Bleed, there will still come a point where he can\u2019t go any further on his own. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Being exclusively single target is also something that is becoming increasingly problematic when it comes to end-game content like Memory of Chaos, and so Luka is likely best suited for pursuing high HP Elites or Bosses while supporting the team with his Ultimate\u2019s debuff.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Now all I need to do is think of a clever nickname for him to end this review on. \u201cSingle Strike Dude\u201d? No\u2026 maybe \u201cLone Hit Person\u201d? There has to be something catchier than that, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"surely\u2026\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Great single-target damage,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can trigger his own Bleeds which allows him to frontload his damage even more,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Potential future synergy with other Bleed-based units,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Damage amplification built into his ultimate allows him to support the team,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Easier to build as he doesn't need CRIT stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"No AoE skills which means he won't help the team much before the boss is reached,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Max HP damage part of his Skill is capped by his ATK - and because he is a 4-star rarity, it won't reach super high numbers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"900 - 1000+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2400 - 2800+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 / 143 (Recommended) / 160\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"EFFECT HIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"67%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"BREAK EFFECT: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0% - 120%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Howard Wang",
+        "kr": "Lee Joo-Seung (\uc774\uc8fc\uc2b9)",
+        "jpn": "Kajiwara Gakuto (\u68b6\u539f\u5cb3\u4eba)",
+        "cn": "Xiao Zhai (\u8427\u7fdf)"
+    },
+    "ratings": {
+        "moc": "7",
+        "moc_special": "6",
+        "pure": "4",
+        "pure_special": "4",
+        "apo": "7",
+        "apo_special": "6"
+    },
+    "energyUltimate": "130",
+    "conesNew": [
+        {
+            "cone": "good-night-and-sleep-well",
+            "super": "5",
+            "percent": "",
+            "notes": "Strongest damage focused Cone for Luka builds assuming 3 debuffs can be maintained on the enemy. Does not boost the damage of Break Luka but still offers decent multipliers making it a strong all-round general choice."
+        },
+        {
+            "cone": "patience-is-all-you-need",
+            "super": "1",
+            "percent": "",
+            "notes": "Alternative to Goodnight Sleep Well which does not require 3 debuffs at all times on the enemy. Offers lower damage output overall but has some other synergies with other DoT characters."
+        },
+        {
+            "cone": "eyes-of-the-prey",
+            "super": "5",
+            "percent": "",
+            "notes": "Grants great Effect Hit Rate and reasonable damage making it a good choice all be it not the highest damage one."
+        },
+        {
+            "cone": "incessant-rain",
+            "super": "1",
+            "percent": "",
+            "notes": "Offers damage amplification to Luka and his entire team including his own Break DMG making it a uniquely good option for aiming for the highest physical breaks possible."
+        },
+        {
+            "cone": "in-the-name-of-the-world",
+            "super": "1",
+            "percent": "",
+            "notes": "Provides reasonable increased damage and increased Effect Hit Rate when using Luka's Skill. Not an ideal choice as many of the benefits don't perfectly fit with Luka's kit but can be used if none of the above options are available."
+        },
+        {
+            "cone": "fermata",
+            "super": "5",
+            "percent": "",
+            "notes": "A F2P Cone option which should only be used if you can consistently inflict a Shock or Wind Shear on the enemy. If you can this Cone is a viable option and even has some break effect which boosts Luka's effectiveness against Phys weak enemies with his break build."
+        },
+        {
+            "cone": "resolution-shines-as-pearls-of-sweat",
+            "super": "5",
+            "percent": "",
+            "notes": "Similar to Incessant Rain offers a debuff useful to the entire team and Luka's own damage specifically his break damage. Pairs particularly well with the 4P Prisoner set and other DEF shred debuffs allowing for close to or exactly 100% DEF shred which is invaluable specifically for Break Luka."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Prisoner in Deep Confinement",
+                    "relic_2": "",
+                    "value": "",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Thief of Shooting Meteor",
+                    "relic_2": "",
+                    "value": "",
+                    "comment": "Break",
+                    "notes": null
+                },
+                {
+                    "relic": "Champion of Streetwise Boxing",
+                    "relic_2": "",
+                    "value": "",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Prisoner in Deep Confinement",
+                    "relic_2": "Pioneer Diver of Dead Waters",
+                    "value": "",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Talia: Kingdom of Banditry",
+                    "value": "",
+                    "comment": "Break",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Pan-Cosmic Commercial Enterprise",
+                    "value": "",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "solitary-healing",
+                    "super": "5"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Effect Hit Rate"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Break Effect"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Physical DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "To maximize the Physical Break DMG and DoT, you will want to bring Luka up to level 80 and then stack as much Break Effect as possible while still maintaining a reasonable SPD and Effect Hit Rate to land the debuffs.",
+            "substats": "SPD (breakpoint) = EHR (until cap) > Break Effect >= ATK% ",
+            "skill_priority": "Skill > Talent > Ultimate > Basic",
+            "traces_priority": "Cycle Breaking (A4) > Kinetic Overload (A2) > Crush Fighting Will (A6)",
+            "name": "Break Effect Build"
+        }
+    ],
+    "videos": null,
+    "teams": [
+        {
+            "name": "DoT team with Kafka",
+            "member_1": "kafka",
+            "member_2": "luka",
+            "member_3": "silver-wolf",
+            "member_4": "luocha"
+        },
+        {
+            "name": "Triple DPS",
+            "member_1": "kafka",
+            "member_2": "sampo",
+            "member_3": "luka",
+            "member_4": "luocha"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "effectHitRate",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "def",
+            "value": 12.5
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "August 9th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "Break",
+        "Debuff",
+        "DoT"
+    ]
+}

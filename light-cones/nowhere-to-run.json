@@ -1,0 +1,58 @@
+{
+    "id": "4dcaa37c-787d-5d82-9d28-5a1a65f075d0",
+    "updatedAt": "2023-04-25T18:43:51.587Z",
+    "createdAt": "2023-02-17T08:41:14.437Z",
+    "coneId": 53,
+    "name": "Nowhere to Run",
+    "slug": "nowhere-to-run",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b5da36b50458401dae3775810fe242ca/bf8e1/53_sm.png",
+                            "srcSet": "/static/b5da36b50458401dae3775810fe242ca/914ee/53_sm.png 32w,\n/static/b5da36b50458401dae3775810fe242ca/1c9ce/53_sm.png 64w,\n/static/b5da36b50458401dae3775810fe242ca/bf8e1/53_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/b5da36b50458401dae3775810fe242ca/ef6ff/53_sm.webp 32w,\n/static/b5da36b50458401dae3775810fe242ca/8257c/53_sm.webp 64w,\n/static/b5da36b50458401dae3775810fe242ca/6766a/53_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Nameless Glory"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "529"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Crisis",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's ATK by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"24\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/30/36/42/48\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Whenever the wearer defeats an enemy, they restore HP equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12/15/18/21/24%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of their ATK.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

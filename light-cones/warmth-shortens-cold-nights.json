@@ -1,0 +1,58 @@
+{
+    "id": "d0d78430-01e6-5b37-91c1-723e8e80f993",
+    "updatedAt": "2023-04-25T18:43:52.950Z",
+    "createdAt": "2023-02-17T08:22:57.640Z",
+    "coneId": 48,
+    "name": "Warmth Shortens Cold Nights",
+    "slug": "warmth-shortens-cold-nights",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/20204a5c4751d8a8348c87d2cea362cf/bf8e1/48_sm.png",
+                            "srcSet": "/static/20204a5c4751d8a8348c87d2cea362cf/914ee/48_sm.png 32w,\n/static/20204a5c4751d8a8348c87d2cea362cf/1c9ce/48_sm.png 64w,\n/static/20204a5c4751d8a8348c87d2cea362cf/bf8e1/48_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/20204a5c4751d8a8348c87d2cea362cf/ef6ff/48_sm.webp 32w,\n/static/20204a5c4751d8a8348c87d2cea362cf/8257c/48_sm.webp 64w,\n/static/20204a5c4751d8a8348c87d2cea362cf/6766a/48_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Nameless Glory"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Abundance",
+    "stats": {
+        "hp": {
+            "value_level_1": "48",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Tiny Light",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's Max HP by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/20/24/28/32\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When using Basic ATK or Skill, restores all allies' HP by an amount equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/2.5/3/3.5/4\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of their respective Max HP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

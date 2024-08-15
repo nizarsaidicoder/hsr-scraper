@@ -1,0 +1,58 @@
+{
+    "id": "75b0ffdf-e7e4-5d02-8ef8-cf706fee0c2f",
+    "updatedAt": "2023-07-18T07:29:20.459Z",
+    "createdAt": "2023-01-27T12:37:04.713Z",
+    "coneId": 15,
+    "name": "Good Night and Sleep Well",
+    "slug": "good-night-and-sleep-well",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/49e01383ee891e54e310cab9f266ae97/bf8e1/15_sm.png",
+                            "srcSet": "/static/49e01383ee891e54e310cab9f266ae97/914ee/15_sm.png 32w,\n/static/49e01383ee891e54e310cab9f266ae97/1c9ce/15_sm.png 64w,\n/static/49e01383ee891e54e310cab9f266ae97/bf8e1/15_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/49e01383ee891e54e310cab9f266ae97/ef6ff/15_sm.webp 32w,\n/static/49e01383ee891e54e310cab9f266ae97/8257c/15_sm.webp 64w,\n/static/49e01383ee891e54e310cab9f266ae97/6766a/15_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Toiler",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For every debuff the target enemy has, the DMG dealt by the wearer increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/15/18/21/24\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", stacking up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" time(s). This effect also applies to DoT.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

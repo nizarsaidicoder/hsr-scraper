@@ -1,0 +1,58 @@
+{
+    "id": "ea6a7121-5442-5548-b8e7-b1a51494ee28",
+    "updatedAt": "2023-05-07T10:14:57.803Z",
+    "createdAt": "2023-01-27T13:07:07.907Z",
+    "coneId": 21,
+    "name": "Make the World Clamor",
+    "slug": "make-the-world-clamor",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/2961f284c0bd1aeeacba2cbc54422907/bf8e1/21_sm.png",
+                            "srcSet": "/static/2961f284c0bd1aeeacba2cbc54422907/914ee/21_sm.png 32w,\n/static/2961f284c0bd1aeeacba2cbc54422907/1c9ce/21_sm.png 64w,\n/static/2961f284c0bd1aeeacba2cbc54422907/bf8e1/21_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/2961f284c0bd1aeeacba2cbc54422907/ef6ff/21_sm.webp 32w,\n/static/2961f284c0bd1aeeacba2cbc54422907/8257c/21_sm.webp 64w,\n/static/2961f284c0bd1aeeacba2cbc54422907/6766a/21_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "The Power of Sound",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The wearer regenerates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20/23/26/29/32\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy immediately upon entering battle, and increases Ultimate DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"32/40/48/56/64%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

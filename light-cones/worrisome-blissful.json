@@ -1,0 +1,58 @@
+{
+    "id": "33e388ac-bdb2-5846-a85f-6168557baa63",
+    "updatedAt": "2023-12-25T17:02:45.164Z",
+    "createdAt": "2023-09-29T13:30:18.444Z",
+    "coneId": 101,
+    "name": "Worrisome, Blissful",
+    "slug": "worrisome-blissful",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/7b92426ebc38dcfcccf1167c7e7bb1f7/bf8e1/84_sm.png",
+                            "srcSet": "/static/7b92426ebc38dcfcccf1167c7e7bb1f7/914ee/84_sm.png 32w,\n/static/7b92426ebc38dcfcccf1167c7e7bb1f7/1c9ce/84_sm.png 64w,\n/static/7b92426ebc38dcfcccf1167c7e7bb1f7/bf8e1/84_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/7b92426ebc38dcfcccf1167c7e7bb1f7/ef6ff/84_sm.webp 32w,\n/static/7b92426ebc38dcfcccf1167c7e7bb1f7/8257c/84_sm.webp 64w,\n/static/7b92426ebc38dcfcccf1167c7e7bb1f7/6766a/84_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "October 27th, 2023",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "48",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "26",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "21",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "One At A Time",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increase the wearer's CRIT Rate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"18/21/24/27/30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and their follow-up attacks' DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30/35/40/45/50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". After the wearer uses a follow-up attack, apply the Tame state to the target, stacking up to 2 stacks. When allies hit enemy targets under the Tame state, every Tame stack increases the CRIT DMG dealt by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12/14/16/18/20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

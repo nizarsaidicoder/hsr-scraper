@@ -1,0 +1,435 @@
+{
+    "id": "db50d131-c2e3-5daa-b10d-1d12bc44f014",
+    "updatedAt": "July 9th, 2024",
+    "createdAt": "2023-01-26T14:31:28.374Z",
+    "unitId": 28,
+    "name": "Blade",
+    "slug": "blade",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/f2663c739baa73864052b7c8daff327b/e9a79/28_sm.png",
+                            "srcSet": "/static/f2663c739baa73864052b7c8daff327b/f31ef/28_sm.png 40w,\n/static/f2663c739baa73864052b7c8daff327b/1f8a1/28_sm.png 80w,\n/static/f2663c739baa73864052b7c8daff327b/e9a79/28_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/f2663c739baa73864052b7c8daff327b/e73fe/28_sm.webp 40w,\n/static/f2663c739baa73864052b7c8daff327b/61ca6/28_sm.webp 80w,\n/static/f2663c739baa73864052b7c8daff327b/60b4d/28_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/8d2854c008600d3a5f83883eddd41b6b/c9885/blade.png",
+                            "srcSet": "/static/8d2854c008600d3a5f83883eddd41b6b/2aab7/blade.png 94w,\n/static/8d2854c008600d3a5f83883eddd41b6b/0a986/blade.png 187w,\n/static/8d2854c008600d3a5f83883eddd41b6b/c9885/blade.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/8d2854c008600d3a5f83883eddd41b6b/84550/blade.webp 94w,\n/static/8d2854c008600d3a5f83883eddd41b6b/34f80/blade.webp 187w,\n/static/8d2854c008600d3a5f83883eddd41b6b/b26e2/blade.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ffb817323f50964ed3080989eb4f29c6/3c5dc/28_full_1_.png",
+                            "srcSet": "/static/ffb817323f50964ed3080989eb4f29c6/ca8fd/28_full_1_.png 200w,\n/static/ffb817323f50964ed3080989eb4f29c6/de50c/28_full_1_.png 400w,\n/static/ffb817323f50964ed3080989eb4f29c6/3c5dc/28_full_1_.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ffb817323f50964ed3080989eb4f29c6/213b2/28_full_1_.webp 200w,\n/static/ffb817323f50964ed3080989eb4f29c6/413c5/28_full_1_.webp 400w,\n/static/ffb817323f50964ed3080989eb4f29c6/cf6d0/28_full_1_.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A swordsman who abandoned his body to become a blade. Birth name unknown. He pledges loyalty to Destiny's Slave, and possesses a terrifying self-healing ability. Blade wields an ancient sword riddled with cracks, just like his body and his mind. \\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "120501",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "120508",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "120502",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "120503",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": "60"
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "120504",
+            "energy_gen": "10",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "120507",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Stellaron Hunters",
+    "rarity": "5",
+    "element": "Wind",
+    "path": "Destruction",
+    "stats": {
+        "hp_base": 184.8,
+        "def_base": 66,
+        "atk_base": 73.92,
+        "speed_base": 97
+    },
+    "ascensionMaterials": {
+        "mats_1": "immortal-scionette",
+        "mats_2": "immortal-aeroblossom",
+        "mats_3": "ascendant-debris",
+        "mats_4": "immortal-lumintwig"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "28",
+            "name": "Blade",
+            "upgrade1Name": "Blade Cuts the Deepest in Hell",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Blade's Ultimate deals additionally increased DMG to a single enemy target, with the increased amount equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"150%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of Blade's total HP loss in the current battle. The total HP Blade has lost in the current battle is capped at \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"90%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of his Max HP. This value will be reset and re-accumulated after his Ultimate has been used.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Ten Thousand Sorrows From One Broken Dream",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Blade is in the Hellscape state, his CRIT Rate increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\\n\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Hardened Blade Bleeds Coldest Shade",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Rejected by Death, Infected With Life",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Blade's current HP drops to 50% or lower of his Max HP, increases his Max HP by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Stacks up to 2 time(s).\\n\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Death By Ten Lords' Gaze",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" up to a maximum of Lv. 10.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Reborn Into an Empty Husk",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The maximum number of Charge stacks is reduced to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". The DMG of the follow-up attack triggered by Blade's Talent additionally increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of his Max HP.\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "bronya",
+            "notes": "Bronya is Blade's best support (by a big margin) who easily can double his damage output. Make her 1-2 Speed slower than Blade and use her skill on him every action to give him twice as many moves. Bronya being Wind and Harmony can also boost Blade's damage a lot with her signature Cone or Planetary Rendezvous. She uses the skill points Blade doesn't use himself but be careful when you hit the 134/136 speed breakpoint as you will be spending a lot of SP so you may need to speed up the rest of your team alongside them."
+        },
+        {
+            "character": "luocha",
+            "notes": "Luocha is the best healer you can pair with Blade as he requires constant healing in order to maximize his ultimate damage - Luocha accomplishes this easily with his automatic skill heal and talent healing field. Overall, Blade with Luocha when played correctly is an almost unkillable combo as Luocha keeps Blade maxed and the team alive most of the time without using any skill points meaning even more are available for your supports such as Bronya a 2nd Dps or Silver Wolf."
+        },
+        {
+            "character": "silver-wolf",
+            "notes": "Silver Wolf is Blade's second best support. Blade has massive boosts to his personal stats already in his kit and while buffing him further can be effective, debuffing the enemy works even better with the way the damage formula works in Honkai: Star Rail. Silver Wolf's DEF and RES shred and the ability to make an enemy weak to Wind is a massive damage increase. On top of that Silver Wolf is also capable of providing decent damage herself (when invested) making her a good choice for consuming the extra skill points lying around on blade teams."
+        },
+        {
+            "character": "pela",
+            "notes": "Similar to Silver Wolf, Pela provides a damage multiplier that Blade cannot access himself - DEF shred. Pela doesn't consume many skill points but instead generates them granting Blade teams an insane amount of skill points to work with. This allows for less powerful healers such as Bailu and Natasha to use their skill often to keep Blade and team alive if needed but also the possibility of running a second damage dealer easily. In double DPS comps Pelas debuff will benefit not only Blade but also the 2nd damage dealer you choose."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When Blade's current HP is at 50% of Max HP or lower, Incoming Healing increases by <b>20%</b>",
+            "name": "Vita Infinita"
+        },
+        {
+            "req": "A4",
+            "desc": "If Blade hits a Weakness Broken enemy after using Forest of Swords, he will restore HP equal to <b>5%</b> of his Max HP plus <b>100</b>.",
+            "name": "Neverending Deaths"
+        },
+        {
+            "req": "A6",
+            "desc": "DMG dealt by Talent's follow-up attack increases by <b>20%</b>.",
+            "name": "Cyclone of Destruction"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\u2018Local man literally too angry to die\u2019 is an apt description for this Stellaron Hunter. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Blade is an astonishingly durable and hard-hitting damage dealer.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" As a berserker-style character, he consumes his own HP to deal massive damage against both lone foes as well as groups of enemies and is able to recover that HP on his own terms, creating a very self-sufficient loop to decimate all his adversaries.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Particularly important to note right off the bat, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Blade scales with his HP\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" in addition to his ATK, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"in fact, his HP scaling is notably better than his ATK scaling\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to the point where it\u2019s better to focus on HP over ATK. This has the rather powerful and rare result of vastly improving his damage output as well as his survivability, gaining HP values far exceeding those of any other character.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Blade\u2019s gameplay revolves heavily around his Talent.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Whenever Blade sustains damage or consumes his own HP, he gains 1 stack on his Talent, up to a max of 5, and he can only get 1 stack from every individual attack against him (so no multi-hit shenanigans). \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"At 5 stacks, Blade immediately launches a follow-up attack on all enemies\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", consuming all stacks and dealing up to 40% of his ATK plus 110% of his Max HP at max Trace level. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"In addition to this he also heals 25% of his Max HP at all levels.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" It is important to mention that\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" any of his own attacks that consume HP cannot reduce him below 1 HP\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and if his HP is insufficient then it\u2019ll just get set to 1 HP and the action will continue.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This Talent makes it so that \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Blade does not care too much about being attacked, in fact, he may actually enjoy it.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Having a follow-up on a Destruction character is uncommon, but especially with the way it works, getting to attack out of turn is already phenomenal, but having that huge of a heal, in addition, is the cherry on top. Considering his Skill and Ultimate interface with Blade\u2019s HP as well, it\u2019s very easy to rack up stacks on his Talent without needing to rely on getting hit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"His Skill consumes 30% of his Max HP to enter the Hellscape state for 3 turns, and grants him an Extra Action upon use. Interestingly because of the Extra Action, the 3 turn Hellscape state technically lasts for 4 turns, so it\u2019s really quite efficient. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"While under Hellscape, Blade cannot use his Skill again, but his Basic ATK is Enhanced to become a Blast AoE\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", dealing up to 40% of his ATK plus 100% of his Max HP against the primary target and dealing 16% of his ATK plus 40% of his Max HP against adjacent foes. Using this Enhanced Basic also consumes 10% of his Max HP.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This Enhanced Basic cannot generate Skill Points, but it also doesn\u2019t consume any extra SP\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", meaning only the initial cost of the Skill is factored in. Despite this, this particular Enhanced Basic actually restores 30 Energy meaning \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"it restores more Energy than you would otherwise expect.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" The additional Toughness damage is also very appreciated and allows Blade to have a much easier time breaking enemies in both single target and AoE. Every instance of HP consumption from this, meaning the initial Skill use and any subsequent Enhanced Basics, also adds to the stacks on his Talent.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The HP consumption from his Skill is steep, but since all of it contributes stacks to his Talent, it\u2019s not unreasonable to heal most of that HP back without any enemy interference. You may notice that it\u2019s not actually enough HP recovery to offset the full cost of the Skill and its 3 Enhanced Basics, but that\u2019s where his Ultimate comes in.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Blade\u2019s Ultimate \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"sets\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" his current HP to be 50% of his Max HP and does a Blast AoE against the targeted foe\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", dealing up to 40% of his ATK plus 100% of his Max HP at max Trace level, with adjacent foes taking 16% ATK plus 40% Max HP. This then deals additional damage based on the amount of HP Blade has lost in the current battle, capping out at 90% of his Max HP. This value is stored and dealt to the enemy upon using his Ultimate, 100% of the stored value going to the main target and 40% to adjacent foes. This value then resets and starts counting again until his next Ultimate, repeating again.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Setting\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Blade\u2019s HP value to be 50% of his Max HP means that if you\u2019re below that amount then you\u2019ll heal, but if you\u2019re above it then you will consume HP.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" There is an opportunity cost present here where it can either be used as potentially a massive self-heal to get back to a reasonable HP value, or it can be used at higher HP values to add an extra stack to his Talent. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Typically this is likely to be used primarily as a method of healing\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", since Blade already deals plenty of damage on his own, but with the huge Energy cost of 130, you\u2019ll have plenty of time to gauge whether or not you want to try and optimise his damage a little further.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Blade is not particularly reliant on his Ultimate to deal damage, as the brunt of the work is done by his Talent and Hellscape\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", but with the improved Energy generation Blade has from his Enhanced Basics and his Talent\u2019s follow-up attack, he\u2019ll have it up quite often. If Blade is not paired with a suitably powerful healer like Luocha or Bailu, his Ult is probably best used for healing himself. While it is in no way necessary to pair Blade with either of the above, they do allow him to throw caution almost entirely to the wayside, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"with Luocha especially turning Blade truly immortal in addition to the rest of the team.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Do know that \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Blade can absolutely still be killed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". He is not invincible with zero effort unless backed by the aforementioned healers, and even then \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"you should always pay attention\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Blade absolutely does not need any outside help to be unkillable, but it certainly does lessen the burden of the player to play him well enough to reach that state, and without that safety net, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Blade can actually be nightmarishly difficult to optimise for the average player.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" His playstyle is inherently risky and difficult, regardless of how much his kit tries to alleviate said risk.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Blade\u2019s Major Traces help him to continue the carnage without losing too much momentum. A2 grants an Incoming Healing boost of 20% whenever he is below 50% Max HP, and A4 lets him restore 5% of his Max HP plus 100 whenever his Enhanced Basic hits a Weakness Broken enemy. At A6, Blade gets a significant damage increase by having a 20% DMG boost added to his Talent follow-up attack. His Minor Traces are also worth mentioning, since he gets a collective 12% CRIT Rate from them, making him have an easier time meeting CRIT requirements.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"His Eidolons are all very useful albeit entirely unnecessary for him to excel.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" In particular, E2 granting him 15% increased CRIT Rate under Hellscape is very potent, and if one is so inclined to chase it, his E6 reduces the number of stacks needed to proc his Talent from 5 to 4 as well as adding an extra 50% Max HP multiplier to the follow-up attack, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"dramatically\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" increasing his overall survivability and damage. It is complete overkill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because of Blade\u2019s unique interactions and scalings, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"he actually does not really benefit at all from Harmony characters like Tingyun or Yukong\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"; Tingyun really doesn\u2019t do much of anything for him, and while Yukong\u2019s insane CRIT buffs are fantastic, they\u2019re far too infrequent on their own to be of much use to Blade.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"He likes SPD, and he likes to act frequently\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and as such his optimal pairing is with Bronya. She does everything Blade wants, and with Blade\u2019s very low SP consumption, Bronya can afford to consistently use her Skill on Blade every single turn, boosting his damage output \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"tremendously\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", albeit requiring some team SPD tuning beforehand. Asta is a much lesser but still viable alternative, providing a massive overall SPD buff through her Ultimate, even though her Talent\u2019s ATK buff is almost entirely wasted.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Nihility characters and other debuffers can also help boost Blade\u2019s damage significantly since they can simply increase the enemy\u2019s vulnerability to damage. Characters like Silver Wolf and Pela in particular are great pairings as well\u2014even Welt could work well, again because of the low SP consumption of Blade allowing Welt to also contribute meaningful damage even on a support build. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Blade can even be used as a flex pick for certain teams\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", though his efficacy in those scenarios depends largely on the discretion of the individual player.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Blade is a remarkable unit that seems poised to stay relevant for an exceptionally long time.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" With how durable of a damage dealer he is, even if future units come out that outdamage him, Blade\u2019s hallmark will remain his excellent survivability and ease of use in the end game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"He\u2019s also in desperate need of a hug.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Excellent self-sustain, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP scaling means massive HP values for an overall damage gain, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Excellent damage output in all scenarios, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Very low SP consumption, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Not very Ultimate Reliant, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Absolute powerhouse in the late game.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"His best teammates are mostly limited characters,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While he can heal himself decently well, you need to pair a strong healer with him to keep him alive at all times,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Requires a lot of investment for safety, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Does not benefit from outside ATK increases due to HP scaling which limits the Harmony units that can support him.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5000 - 7000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800 - 900+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"75% - 85%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"+ (Including 4P Longevous)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"150% - 170%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Base Speed (H\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"yperspeed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Sparkle/Bronya) / 134 / 135 (With Bronya)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Daman Mills",
+        "kr": "Kwak Yoon-sang (\uacfd\uc724\uc0c1)",
+        "jpn": "Miki Shinichiro (\u4e09\u6728\u771e\u4e00\u90ce)",
+        "cn": "Liu Yijia (\u5218\u4ee5\u5609)"
+    },
+    "ratings": {
+        "moc": "7",
+        "moc_special": "7",
+        "pure": "8",
+        "pure_special": "8",
+        "apo": "7",
+        "apo_special": "7"
+    },
+    "energyUltimate": "130",
+    "conesNew": [
+        {
+            "cone": "the-unreachable-side",
+            "super": "1",
+            "percent": "125.45%",
+            "notes": "Best in slot for Blade."
+        },
+        {
+            "cone": "a-secret-vow",
+            "super": "5",
+            "percent": "103.07%",
+            "notes": "Assumes to only have its base 40% damage increase active as enemies almost always have lower HP than your units. In fights where this is not the case and your units end up at lower HP than the enemy its performance will increase."
+        },
+        {
+            "cone": "flames-afar",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Calculated assuming 66% uptime."
+        },
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "95.17%",
+            "notes": "Assumes you maintain the full 4 attack stacks (64% ATK) at all times and maintain the weakness break bonus 50% of the time. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "89.66%",
+            "notes": "On the Fall of An Aeon with 0% uptime is calculated assuming you maintain the full 4 attack stacks (64% ATK) at all times and the weakness break bonus is never active - which is the case in most fights the enemy is not vulnerable to the wearer of the Cone."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Longevous Disciple",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Longevous Disciple",
+                    "relic_2": "Pioneer Diver of Dead Waters",
+                    "value": "93.46%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Eagle of Twilight Line",
+                    "value": "92.68%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "98.86%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "the-unreachable-side",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT DMG"
+                },
+                {
+                    "stat": "CRIT Rate"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Wind DMG"
+                },
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "comments": "While Blade scales both off ATK and HP, investing into HP% is much better as it scales harder. Still, CRIT Rate and CRIT DMG stats are what you want to focus on, but try to keep the 1:2 ratio. Also, 121/123 Speed for MoC is the goal for your Blade's Speed at an entry level. 134/136 Speed is best if you have access to exceptional gear and want a massive clear speed boost. The 2 points difference is caused by Bronya as you need to make Blade at least 2 points faster than her (and you still want to reach the 121/134 breakpoint for her).",
+            "substats": "SPD (breakpoint) > CRIT RATE = CRIT DMG > HP%",
+            "skill_priority": "Basic > Talent = Skill >= Ultimate",
+            "traces_priority": "Cyclone of Destruction (A6) > Neverending Deaths (A4) > Vita Infinita (A2)",
+            "name": "Main DPS"
+        }
+    ],
+    "videos": [
+        {
+            "video": "ArppDH5_Zc4"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Best in Slot Blade",
+            "member_1": "blade",
+            "member_2": "luocha",
+            "member_3": "bronya",
+            "member_4": "silver-wolf"
+        },
+        {
+            "name": "Budget Blade",
+            "member_1": "blade",
+            "member_2": "natasha",
+            "member_3": "bronya",
+            "member_4": "pela"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "critRate",
+            "value": 12
+        },
+        "traceStat2": {
+            "stat": "hp",
+            "value": 28
+        },
+        "traceStat3": {
+            "stat": "effectRes",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "July 19th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "SP+"
+    ]
+}

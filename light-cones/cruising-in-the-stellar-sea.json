@@ -1,0 +1,58 @@
+{
+    "id": "37dcd98a-9701-56f1-8807-a48b34da92d2",
+    "updatedAt": "2023-05-03T06:40:06.490Z",
+    "createdAt": "2023-02-17T06:50:41.058Z",
+    "coneId": 43,
+    "name": "Cruising in the Stellar Sea",
+    "slug": "cruising-in-the-stellar-sea",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/95481a09fa414883db6b50ee37757320/bf8e1/43_sm.png",
+                            "srcSet": "/static/95481a09fa414883db6b50ee37757320/914ee/43_sm.png 32w,\n/static/95481a09fa414883db6b50ee37757320/1c9ce/43_sm.png 64w,\n/static/95481a09fa414883db6b50ee37757320/bf8e1/43_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/95481a09fa414883db6b50ee37757320/ef6ff/43_sm.webp 32w,\n/static/95481a09fa414883db6b50ee37757320/8257c/43_sm.webp 64w,\n/static/95481a09fa414883db6b50ee37757320/6766a/43_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Herta's Store"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "529"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Chase",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's CRIT rate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/10/12/14/16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and increases their CRIT rate against enemies with HP less than or equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" by an extra \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/10/12/14/16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When the wearer defeats an enemy, their ATK is increased by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/25/30/35/40\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

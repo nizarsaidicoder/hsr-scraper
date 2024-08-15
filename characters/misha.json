@@ -1,0 +1,420 @@
+{
+    "id": "e797f51f-55a6-5dbb-b004-db0a89888c1b",
+    "updatedAt": "June 27th, 2024",
+    "createdAt": "2023-12-14T10:01:07.800Z",
+    "unitId": 48,
+    "name": "Misha",
+    "slug": "misha",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/1c101774bd4bc4d684a0c206a9705a31/e9a79/48_sm.png",
+                            "srcSet": "/static/1c101774bd4bc4d684a0c206a9705a31/f31ef/48_sm.png 40w,\n/static/1c101774bd4bc4d684a0c206a9705a31/1f8a1/48_sm.png 80w,\n/static/1c101774bd4bc4d684a0c206a9705a31/e9a79/48_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/1c101774bd4bc4d684a0c206a9705a31/e73fe/48_sm.webp 40w,\n/static/1c101774bd4bc4d684a0c206a9705a31/61ca6/48_sm.webp 80w,\n/static/1c101774bd4bc4d684a0c206a9705a31/60b4d/48_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b9f3b26e4c1e75360926d2b456058128/c9885/48_card.png",
+                            "srcSet": "/static/b9f3b26e4c1e75360926d2b456058128/2aab7/48_card.png 94w,\n/static/b9f3b26e4c1e75360926d2b456058128/0a986/48_card.png 187w,\n/static/b9f3b26e4c1e75360926d2b456058128/c9885/48_card.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/b9f3b26e4c1e75360926d2b456058128/84550/48_card.webp 94w,\n/static/b9f3b26e4c1e75360926d2b456058128/34f80/48_card.webp 187w,\n/static/b9f3b26e4c1e75360926d2b456058128/b26e2/48_card.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#784828",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/affc3a063636436e3517bad868564247/3cd29/misha_full.webp",
+                            "srcSet": "/static/affc3a063636436e3517bad868564247/e7160/misha_full.webp 250w,\n/static/affc3a063636436e3517bad868564247/5f169/misha_full.webp 500w,\n/static/affc3a063636436e3517bad868564247/3cd29/misha_full.webp 1000w",
+                            "sizes": "(min-width: 1000px) 1000px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 1000,
+                    "height": 1000
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A lovable and thoughtful bellboy of The Reverie Hotel. He wishes to become an intergalactic adventurer like his grandfather. He is extremely hardworking and is skilled at fixing a variety of machines. He also had a fondness for sharing interstellar rumors with guests. He hopes he can grow up faster and looks forward to embarking on his own star-treading journey.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Body - CRIT Rate >= CRIT DMG\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT Rate is almost always going to be the go-to for Misha but if you have a lot of CRIT RATE already from sub-stats and your Light Cone, CRIT DMG can be used to ensure you balance the two stats out effectively.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Feet - Speed\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot for Misha.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar Sphere - ICE DMG% > ATK%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ICE DMG% is best in most scenarios for Misha but if you're using a Light Cone with a large amount of DMG%, you're teaming him up with a team without many ATK% buffs and a lot of DMG% buffs or you have an insane ATK% orb with good sub stats ATK% can can pull ahead.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Link Rope - ATK%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot for Misha.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "relicsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Pioneer Diver of Dead Waters\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you're able to keep 3 debuffs on the enemy consistently throughout the fights the CRIT stats from this set make it the best set for Misha by a small amount - the loss of flexibility it enforces may not be worth it with your playstyles though.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Hunter of Glacial Forest\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The next best set for Misha - becomes better when able to accelerate his rotation with energy regeneration from characters like Tingyun.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Pioneer Diver of Dead Waters + Hunter of Glacial Forest / Musketeer of Wild Wheat\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Assuming you can guarantee 1 debuff on enemies at all times mixing 2P Pioneer with any other damage-focused 2P set will yield competitive results.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Musketeer of Wild Wheat\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Easy to acquire and flexible set that isn't too far behind alternatives - absolutely good enough to be competitive in endgame.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[],\"nodeType\":\"hr\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar sets\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For the Planar sets you can run any of the three - the differences are very small and what's best on Misha depends on the sub-stats, not the main set.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "131201",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "131202",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "131203",
+            "energy_gen": "5",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "131204",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "131207",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Sub DPS",
+    "affiliation": null,
+    "rarity": "4",
+    "element": "Ice",
+    "path": "Destruction",
+    "stats": {
+        "hp_base": 172.8,
+        "def_base": 54,
+        "atk_base": 81.6,
+        "speed_base": 96
+    },
+    "ascensionMaterials": {
+        "mats_1": "dream-collection-component",
+        "mats_2": "dream-flow-valve",
+        "mats_3": "dream-fridge",
+        "mats_4": "dream-making-engine"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "50",
+            "name": "Misha",
+            "upgrade1Name": "Whimsicality of Fancy",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When using the Ultimate, for every enemy on the field, additionally increases the Hits Per Action for the Ultimate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" hit(s), up to a maximum increase of \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" hit(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Yearning of Youth",
+            "upgrade2Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Before each hit of the Ultimate lands, there is a \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"24%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" base chance of reducing the target's DEF by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"16%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turn(s).\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "upgrade3Name": "Vestige of Happiness",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Visage of Kinship",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the DMG multiplier for each hit of the Ultimate by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 6%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Genesis of First Love",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Estrangement of Dream",
+            "upgrade6Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When using the Ultimate, increases own DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", lasting until the end of the turn. In addition, the next time the Skill is used, recovers \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Skill Point(s) for the team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Before the Ultimate's first hit lands, increases the base chance of Freezing the target by <b>80%</b>.",
+            "name": "Release"
+        },
+        {
+            "req": "A4",
+            "desc": "When using the Ultimate, increases the Effect Hit Rate by <b>60%</b>, lasting until the end of the Ultimate's current action.",
+            "name": "Interlock"
+        },
+        {
+            "req": "A6",
+            "desc": "When dealing DMG to Frozen enemies, increases CRIT DMG by <b>30%</b>.",
+            "name": "Transmission"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Misha is a 4-star Destruction character. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"He is an interesting hybrid of a secondary damage dealer and support character.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" His Ultimate gains the ability to deal extra hits based on the amount of SP consumed across the team, with each hit increasing its damage. Each hit also has a chance to Freeze the enemy it hits. He can achieve this damage without consuming much SP if needed, and his control effects can vastly increase the survivability of a team if built for the Freeze.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This bellboy is certainly an intriguing character.SP-consuming His kit seems a little confused at first but it hides some potentially intriguing power. Make no mistake, this is not the next Qingque or Xueyi or Sampo or... any of those, but he's not without value. Misha is very much meant to be played alongside other SP consuming DPS characters; we've had characters that \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"can \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"be used in dual-carry setups, but this is the first that is outright screaming at you to do so. I am not responsible for any mental anguish sustained from trying to play this guy as a hypercarry, you have been warned.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Misha's Ultimate is the big thing here. It works somewhat similarly to Jing Yuan's Lightning-Lord \u2014 relax let me explain.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" It is a Bounce ability and has 3 hits by default. This can go up to as many as 10 hits in one Ultimate, with each hit being single-target and dealing up to 60% ATK. Misha targets one enemy for the first hit to land on, and then the remaining hits will each land on a random enemy. After the Ultimate ends, the Hits Per Action will reset back to 3.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This leads to a potential 600% ATK across all hits, which is very impressive damage. The Toughness damage also gets pretty ridiculous, with 30 for the first hit and 15 for all subsequent ones, resulting in a total Toughness damage of 165. Each hit also has a 20% base chance to Freeze the enemy it hits before the damage goes through, meaning this has a surprisingly good chance of Freezing targets despite the low base chance. Considering his Ultimate only has an Energy cost of 100, this is pretty impressive.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Misha's Talent also helps facilitate the Energy cost, and is what increases the Hits Per Action. Whenever an ally consumes 1 Skill Point, the Hits Per Action of his next Ultimate increases by 1 and Misha additionally restores up to 2 Energy. This is the line that basically tells you explicitly 'don't play him by himself'. It contributes a fair bit to getting more frequent Ultimates, and is especially recommended to try and make use of to increase the number of hits his Ultimate actually does.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Misha's Skill is a standard Blast AoE dealing 200% ATK to the main target and 80% ATK to adjacent foes. This also increases the number of hits of his next Ultimate by 1. This Skill actually increases the number of hits by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"2 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"thanks to Misha being able to trigger his own Talent.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Misha's A2 increases the base chance of the Ultimate's first hit Freezing the target by 80%, resulting in a new base chance of 100%. This is \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"huge \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"for Freeze value as Freeze is almost always gatekept at 65% base chance or below because of its powerful control effect. A4 will grant Misha 60% Effect Hit Rate for the duration of his Ultimate, offering a sizeable consistency increase for the Freeze, and A6 increases Misha's CRIT DMG by 30% when dealing damage to Frozen enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This creates a bit of an interesting game plan where Misha is wholly defined by his Ultimate. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Making the most out of it *should* be easy but because it's a Bounce ability, that part quite simply is not up to you. If there is only one enemy on the field, Misha can definitely ruin their day without issue, but the very moment there is a second enemy on the field, RNG take the wheel. The Toughness damage is always very appreciated and can help to offset any failed Freeze rolls from his actual Ultimate, but it's still not particularly enjoyable to watch the luggage fall on the one enemy you do not care about harming.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Going all in damage for Misha is definitely the easiest way to get big numbers from his Ultimate, but he doesn't necessarily provide any extra value beyond that; a well-optimised team with the strong favourable supports can quite easily lead to more damage than you'd get by including Misha, so really he's in this limbo state of being between a secondary DPS and a support character.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Going for Energy Regeneration Rate and Effect Hit Rate can allow him to more consistently get Ultimates to roll for more Freezes. This is a potentially intriguing option for DoT-centric teams, as when enemy units unfreeze, they take a turn to do so and their next turn gets Advanced a fair bit, significantly increasing the amount of DoT ticks they take in a given timespan. Again, the limiting factor here is the randomness in his Ultimate's targeting, and even then, it's a bit of a tall ask for a secondary damage dealer, especially when that slot could be occupied by a character like Herta or Pela.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This leads onto the next point: Misha is \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"dismal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"in AoE. His Blast Skill does not have the most compelling multiplier and only hits 3 targets at most, and his Ultimate's targeting method will just not help you in the slightest against lots of enemies due to each individual hit being single-target damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"There is some really strange tech that a slightly unhinged friend of mine suggested, and that's to go all in on the Freeze and go sustainless.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"This is a crazy idea,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" but if you also supplement this with a unit like Welt who can also apply crowd control unconditionally, honestly I could see it working, but you are certifiably insane if you try this. Even just mentioning this to you can classify as an infohazard, and I will \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"not\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" apologise because it's extremely funny to me. Live your best life, what can I say.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Misha's Eidolons do have some interesting potential as well. E1 additionally increases the number of hits of his Ultimate based on the number of enemies on the field, up to 5 extra hits. This leads to a new maximum hit count of 15 against 5 enemies, but again, Misha in AoE is a no-go. If you land all 15 hits against a single enemy, you may well be the luckiest individual on the planet. E2 is also valuable as it gives each hit of his Ultimate a 24% base chance to reduce that target's DEF by 16% for 3 turns, giving him some additional support utility, though do keep in mind that the Freeze tech that's beneficial for DoT damage is also detrimental for debuff duration as it will run out faster as well.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"E4 is highly intriguing as it increases the DMG *multiplier* for each hit of the Ultimate by 6%, meaning the Ultimate can at this point go up to a total multiplier of 990% ATK \u2014 1062% ATK factoring in the Trace levels from E3. That's a lot! Add in E6, giving Misha a 30% DMG boost during his Ultimate, and you've got \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"LETHAL LUGGAGE\u2122\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". E6 also restores 1 SP for the team the next time Misha uses his Skill after his Ultimate, thus providing even more support power.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Do you see why he's weird now? Being a hybrid of multiple roles is quite tricky to do well because usually you're either insanely powerful, or rather underwhelming. Misha seems to lean more towards the latter, but I get this sense that there is untapped potential in his kit. Science requires experimentation, so if you're willing to give Misha a shot, you may end up pleasantly surprised.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In any case, I would say that Misha is perfectly \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"fine\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". He is a fine character, and is understandably less desirable to invest into compared to other verifiably powerful 4-stars and especially 5-stars. Perhaps over time this will change as his setups get explored more.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"He's just a boy. He's just a goofy lil' boy, having a goofy ol' time. He also seems chronically late, something that I could \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"never\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" relate to... Ever. Stop laughing\u2014\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Exceptional Freezing ability, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can massacre single-target encounters, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely high Toughness damage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Scales very well with Eidolons.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Pales in AoE content, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unreliable Bounce hits on his Ultimate, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Difficult to optimise his stats, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Not compelling to invest into.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800 - 1000+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2000 - 2400+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"65% - 70%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120% - 130%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Base Speed (H\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"yperspeed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Sparkle/Bronya) / 134 (Recommended) / 143 / 161\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Cat Protano",
+        "kr": "\ubc15\uc2e0\ud76c (Park Shin-hee)",
+        "jpn": "\u677e\u4e95\u60e0\u7406\u5b50 (Matsui Eriko)",
+        "cn": "\u67f3\u77e5\u8427 (Liu Zhixiao)"
+    },
+    "ratings": {
+        "moc": "6",
+        "moc_special": "5",
+        "pure": "5",
+        "pure_special": "5",
+        "apo": "6",
+        "apo_special": "5"
+    },
+    "energyUltimate": "100",
+    "conesNew": [
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes you maintain the full 4 attack stacks (64% ATK) at all times and maintain the weakness break bonus 50% of the time. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "93.96%",
+            "notes": "On the Fall of An Aeon with 0% uptime is calculated assuming you maintain the full 4 attack stacks (64% ATK) at all times and the weakness break bonus is never active - which is the case in most fights the enemy is not vulnerable to the wearer of the Cone."
+        },
+        {
+            "cone": "the-moles-welcome-you",
+            "super": "5",
+            "percent": "87.66%",
+            "notes": "Assumes to have 100% uptime of all 3 components of its buff requiring a Basic ATK, Skill and Ultimate. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "under-the-blue-sky",
+            "super": "5",
+            "percent": "87.58%",
+            "notes": "Assumes to have 100% uptime of its on-kill buff at all times. In fights where this is not the case for the majority of the duration, its damage will be lower."
+        },
+        {
+            "cone": "a-secret-vow",
+            "super": "5",
+            "percent": "76.97%",
+            "notes": "Assumes to only have its base 40% damage increase active as enemies almost always have higher lower HP than your units. In fights where this is not the case and your units end up at lower HP than the enemy its performance will increase."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "",
+                    "value": "102.71%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Hunter of Glacial Forest",
+                    "relic_2": "",
+                    "value": "102.26%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "100.55%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": "100.00%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "100.61%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "99.8%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "99.3%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "echoes-of-the-coffin",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Ice DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "Seek out SPD until you hit your desired Speed breakpoint then focus on CRIT Rate and CRIT DMG while picking up ATK% whenever it's available.",
+            "substats": "SPD (Breakpoint) > CRIT Rate = CRIT DMG > ATK%",
+            "skill_priority": "Ultimate = Skill > Talent > Basic",
+            "traces_priority": "Interlock (A4) > Release (A2) > Transmission (A6)",
+            "name": "Default"
+        }
+    ],
+    "videos": [
+        {
+            "video": "BA2p3D916E0"
+        }
+    ],
+    "teams": null,
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "def",
+            "value": 22.5
+        },
+        "traceStat2": {
+            "stat": "Ice DMG",
+            "value": 22.4
+        },
+        "traceStat3": {
+            "stat": "CRIT Rate",
+            "value": 6.7
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "February 6th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "Debuff"
+    ]
+}

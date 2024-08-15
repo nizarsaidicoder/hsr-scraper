@@ -1,0 +1,52 @@
+{
+    "id": "3bc694a0-321c-5c86-a325-0ba055e6e0f1",
+    "updatedAt": "2024-05-07T14:47:03.683Z",
+    "createdAt": "2024-04-28T07:58:07.898Z",
+    "coneId": 122,
+    "name": "Flowing Nightglow",
+    "slug": "flowing-nightglow",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/cc1b3246bf6ab0fad222d7f7387b202e/6766a/122_sm.webp",
+                            "srcSet": "/static/cc1b3246bf6ab0fad222d7f7387b202e/ef6ff/122_sm.webp 32w,\n/static/cc1b3246bf6ab0fad222d7f7387b202e/8257c/122_sm.webp 64w,\n/static/cc1b3246bf6ab0fad222d7f7387b202e/6766a/122_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "May 8th, 2024",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "953"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "635"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Pacify",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Every time any ally attacks, the wearer gains 1 stack of Cantillation. Each stack of Cantillation increases the wearer's Energy Regeneration Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3/3.5/4/4.5/5%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", stacking up to 5 times. When the wearer uses their Ultimate, removes Cantillation and gains Cadenza. Cadenza increases the Wearer's ATK by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"48/60/72/84/96%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" and all allies' DMG dealt by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"24/28/32/36/40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", lasting for 1 turn(s). \",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

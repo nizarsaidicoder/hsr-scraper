@@ -1,0 +1,58 @@
+{
+    "id": "7606e74e-90c8-5f11-8e16-75829de5eb63",
+    "updatedAt": "2023-04-25T18:43:52.552Z",
+    "createdAt": "2023-02-17T09:03:30.827Z",
+    "coneId": 55,
+    "name": "Data Bank",
+    "slug": "data-bank",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/8af2d3130d2f0b18a28cafdd51dc8ee5/bf8e1/55_sm.png",
+                            "srcSet": "/static/8af2d3130d2f0b18a28cafdd51dc8ee5/914ee/55_sm.png 32w,\n/static/8af2d3130d2f0b18a28cafdd51dc8ee5/1c9ce/55_sm.png 64w,\n/static/8af2d3130d2f0b18a28cafdd51dc8ee5/bf8e1/55_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/8af2d3130d2f0b18a28cafdd51dc8ee5/ef6ff/55_sm.webp 32w,\n/static/8af2d3130d2f0b18a28cafdd51dc8ee5/8257c/55_sm.webp 64w,\n/static/8af2d3130d2f0b18a28cafdd51dc8ee5/6766a/55_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "3",
+            "value_level_max": "740"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Learned",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's Ultimate DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"28/35/42/49/56%.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

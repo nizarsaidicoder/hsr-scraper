@@ -1,0 +1,58 @@
+{
+    "id": "68457dd8-838d-50a1-934a-e9504587d14f",
+    "updatedAt": "2023-04-25T18:43:53.092Z",
+    "createdAt": "2023-04-25T18:43:53.092Z",
+    "coneId": 60,
+    "name": "Trend of the Universal Market",
+    "slug": "trend-of-the-universal-market",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/5fde1224150bb187a40fdd0fe8d4e8f6/bf8e1/60.png",
+                            "srcSet": "/static/5fde1224150bb187a40fdd0fe8d4e8f6/914ee/60.png 32w,\n/static/5fde1224150bb187a40fdd0fe8d4e8f6/1c9ce/60.png 64w,\n/static/5fde1224150bb187a40fdd0fe8d4e8f6/bf8e1/60.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/5fde1224150bb187a40fdd0fe8d4e8f6/ef6ff/60.webp 32w,\n/static/5fde1224150bb187a40fdd0fe8d4e8f6/8257c/60.webp 64w,\n/static/5fde1224150bb187a40fdd0fe8d4e8f6/6766a/60.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "A New Round of Shuffling",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's DEF by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"16\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/20/24/28/32\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When the wearer is attacked, there is a \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"100\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/105/110/115/120\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" base chance to Burn the enemy. For each turn, the wearer deals DoT that is equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"40\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/50/60/70/80\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of the wearer's DEF for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turn(s).\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

@@ -1,0 +1,482 @@
+{
+    "id": "cb50043b-26ba-53cf-ba70-6fc2d8ae7cab",
+    "updatedAt": "August 12th, 2024",
+    "createdAt": "2023-01-26T16:28:35.405Z",
+    "unitId": 22,
+    "name": "Jing Yuan",
+    "slug": "jing-yuan",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/23b51180bbbc53d0cebbbc3e192468b6/e9a79/22_sm.png",
+                            "srcSet": "/static/23b51180bbbc53d0cebbbc3e192468b6/f31ef/22_sm.png 40w,\n/static/23b51180bbbc53d0cebbbc3e192468b6/1f8a1/22_sm.png 80w,\n/static/23b51180bbbc53d0cebbbc3e192468b6/e9a79/22_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/23b51180bbbc53d0cebbbc3e192468b6/e73fe/22_sm.webp 40w,\n/static/23b51180bbbc53d0cebbbc3e192468b6/61ca6/22_sm.webp 80w,\n/static/23b51180bbbc53d0cebbbc3e192468b6/60b4d/22_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/147643641436950345c52c34750f47a5/c9885/1204.png",
+                            "srcSet": "/static/147643641436950345c52c34750f47a5/2aab7/1204.png 94w,\n/static/147643641436950345c52c34750f47a5/0a986/1204.png 187w,\n/static/147643641436950345c52c34750f47a5/c9885/1204.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/147643641436950345c52c34750f47a5/84550/1204.webp 94w,\n/static/147643641436950345c52c34750f47a5/34f80/1204.webp 187w,\n/static/147643641436950345c52c34750f47a5/b26e2/1204.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/4991dfe383d39280c2c6b87d80ef1b09/3c5dc/22_full.png",
+                            "srcSet": "/static/4991dfe383d39280c2c6b87d80ef1b09/ca8fd/22_full.png 200w,\n/static/4991dfe383d39280c2c6b87d80ef1b09/de50c/22_full.png 400w,\n/static/4991dfe383d39280c2c6b87d80ef1b09/3c5dc/22_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/4991dfe383d39280c2c6b87d80ef1b09/213b2/22_full.webp 200w,\n/static/4991dfe383d39280c2c6b87d80ef1b09/413c5/22_full.webp 400w,\n/static/4991dfe383d39280c2c6b87d80ef1b09/cf6d0/22_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Although his appearance may be one of indolence, the Cloud Knight general who commands the Xianzhou Luofu is more meticulous than seemingly meets the eye. He does not consider saving a situation from the brink of disaster to be a show of wisdom, and is thus fastidious with routine affairs to avoid any potential problems. Due to his careful management, the Xianzhou have enjoyed many years of peace, with Jing Yuan's seemingly lazy demeanor having earned him the moniker of \\\"Dozing General.\\\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Sets\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The Ashblazing Grand Duke\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" is Jing Yuan's best in slot set as he can fully make use of both the Follow-up damage bonus and keep the ATK bonus from the secondary effect most of the time thanks to how Lightning-Lord works (finally his laziness came to something good).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planetary Sets\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Inert Salsotto\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" is still the general best in slot unless you can permanently keep 160+ Speed on Jing Yuan - in that case, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firmament Frontline: Glamoth\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" will be a tiny bit stronger.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "120401",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "120402",
+            "energy_gen": "30",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "120403",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "120404",
+            "energy_gen": "",
+            "break_primary": "15",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "120407",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Xianzhou Luofu",
+    "rarity": "5",
+    "element": "Lightning",
+    "path": "Erudition",
+    "stats": {
+        "hp_base": 158.4,
+        "def_base": 66,
+        "atk_base": 95.04,
+        "speed_base": 99
+    },
+    "ascensionMaterials": {
+        "mats_1": "immortal-scionette",
+        "mats_2": "immortal-aeroblossom",
+        "mats_3": "shape-shifters-lightning-staff",
+        "mats_4": "immortal-lumintwig"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "22",
+            "name": "Jing Yuan",
+            "upgrade1Name": "Slash, Seas Split",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Lightning-Lord attacks, the DMG multiplier on enemies adjacent to the target enemy increases by an extra amount equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the DMG multiplier against the target enemy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Swing, Skies Squashed",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Lightning-Lord takes action, DMG caused by Jing Yuan's Basic ATK, Skill, and Ultimate increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Strike, Suns Subdued",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Spin, Stars Sieged",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For each hit performed by the Lightning-Lord when it takes action, Jing Yuan regenerates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Stride, Spoils Seized",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Sweep, Souls Slain",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Each hit performed by the Lightning-Lord when it takes action will make the target enemy Vulnerable. While Vulnerable, enemies receive \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"12%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" more DMG until the end of the Lightning-Lord's current turn, stacking up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s).\\n\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "If the Lightning-Lord's Hits Per Action is greater or equal to 6 in the next turn, its CRIT DMG increases by <b>25%</b> for the next turn.",
+            "name": "Battalia Crush"
+        },
+        {
+            "req": "A4",
+            "desc": "At the start of the battle, immediately regenerates <b>15 Energy</b>.",
+            "name": "Savant Providence"
+        },
+        {
+            "req": "A6",
+            "desc": "After using Skill, CRIT Rate increases by <b>10%</b> for 2 turn(s).",
+            "name": "War Marshal"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The Dozing General of the Xianzhou Luofu is undeniably a very powerful and intimidating character. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"He\u2019s a character who performs well in spite of him being on the Path of Erudition; Jing Yuan is able to dole out great single-target damage in addition to already impressive AoE damage, and has bonus Crit stats for free that turn his already impressive damage up a notch.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Interestingly enough, you wouldn\u2019t be able to tell how strong he can be with just a glance at his overall multipliers\u2014they look rather modest, and that\u2019s putting it generously\u2026 right\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"? You wouldn\u2019t know it, but the vast majority of Jing Yuan\u2019s damage in combat comes from his talent, potentially as much as 70%! Where on earth does that damage come from?\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Well, this is unfortunately a failure on the part of the skill description of Jing Yuan\u2019s talent mostly. See, Jing Yuan is always shadowed by an additional in-combat entity, his Lightning Lord. Lightning Lord has its own Speed value and will act independently of Jing Yuan, and if Jing Yuan is downed in combat, Lightning Lord will also peace out.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The talent description is quite verbose and is rather confusing, resulting in many people severely underrating Jing Yuan as a character. Let\u2019s try and break it down.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lightning Lord\u2019s attacks target a random enemy, dealing 25% of its damage to adjacent targets. Its attacks are considered follow-ups, and Lightning Lord has the \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"base values\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of 60 Speed, and an Attack Count of 3. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"One \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Attack Count equates to dealing up to 66% of Jing Yuan\u2019s atk at max trace level, which means Lightning Lord\u2019s base damage with its base 3 Attack Count is up to 198% of Jing Yuan\u2019s atk. Any further increases to this Attack Count will add on the value of 1 Attack Count to the current total.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This means that you just take the base multiplier and multiply it by the current Attack Count to work out how much damage Lightning Lord\u2019s attack will deal. Since the absolute maximum amount of Attack Count is 10, this means Lightning Lord\u2019s attack can deal at most up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"660% of Jing Yuan\u2019s attack,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and that\u2019s if it\u2019s only on one target. If there are multiple enemies all taking splash damage from each hit, it skyrockets to a theoretical maximum of \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"990%.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Yeah, now you see where the ridiculous damage comes from.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"An important clarification is that each Attack Count introduces the increased damage as a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"whole new instance of damage.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This means at 10 stacks, it deals that 660% multiplier as 10 separate hits of 66%, with \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"each one\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" targeting different enemies and splashing onto foes adjacent to them. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This spreads the total damage out relatively evenly across all targets, with only some slight losses occurring if some of the damage targets corner targets\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (thus losing half of the splash damage), but overall is a quite consistent AoE damage tool. More obviously, in single-target scenarios, all of that damage gets concentrated on that one target, creating quite the damage nuke.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In addition to this, every time Lightning Lord\u2019s Attack Count increases by 1, it will gain 10 extra Speed. This pushes its turn forward and allows Lightning Lord to get more attacks over the course of a fight. The reason this is important to facilitate is that as mentioned previously, the max Attack Count is 10, so if Jing Yuan is somehow able to act again before Lightning Lord attacks, you can end up losing out on damage due to overcapping the Attack Count. In practice, this is extremely unlikely unless you turbo-stack Speed onto Jing Yuan.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because each Attack Count adds the same amount of damage to Lightning Lord\u2019s next attack, the damage gains from each stack are entirely linear (with one caveat discussed later), but you ideally want to be getting stacks as high as possible for speed purposes. After Lightning Lord attacks, its Attack Count will return back to the \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"base value\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of 3, and its speed will also return to the base value of 60.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The way Jing Yuan increases the Attack Count of Lightning Lord is through his Skill and his Ultimate, and getting more uses out of each will increase the rate at which Lightning Lord can slam its heavenly spear directly through your enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jing Yuan\u2019s skill deals AoE damage to all foes on the field, up to 100% atk to all at max trace level. A very unimpressive multiplier, but as we now know, this is not the main source of Jing Yuan\u2019s damage; using this skill will increase Lightning Lord\u2019s Attack Count by 2.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Jing Yuan\u2019s ultimate is also an AoE attack, cleaving all enemies for up to 200% atk at max trace level, and simultaneously increasing Lightning Lord\u2019s Attack Count by 3. This is a great way of instantly increasing the Attack Count, but it comes at a steep above-average energy cost of 130.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because these two attacks increase Lightning Lord\u2019s Attack Count\u2014and more importantly, because basic attack does \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"NOT\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" increase Attack Count at all\u2014Jing Yuan always wants to be spending SP to use his skill, as this will increase Lightning Lord\u2019s Count, and will also regenerate more energy for Jing Yuan to get more ultimates off.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"His bonus traces are expertly tailored to improve his performance and serve to increase his scaling even further. Remember that one caveat that was alluded to earlier? Well, his A2 bonus trace is where this caveat is. I said earlier that each stack of Attack Count is a linear increase in damage, and that\u2019s true\u2026 up until you unlock his A2.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A2 makes it so that if Lightning Lord\u2019s Attack Count is at 6 or above when it next attacks, its Crit Damage will be increased by 25%. This is an absurd bonus that will basically always be active unless Jing Yuan has his turn delayed. With even a small amount of investment into speed, 6 stacks is hardly a challenge to obtain otherwise, and you should always strive to reach at least 6 before Lightning Lord\u2019s next turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This synergizes very well with Jing Yuan\u2019s A6, which increases his crit rate by 10% for 2 turns after using his skill, meaning Jing Yuan has easy access to free crit stats in his kit, something that is usually only seen on Hunt characters. A4 also gives Jing Yuan a bonus 15 energy at the start of a battle, giving him a head-start in reaching his ultimate and stacking Lightning Lord to the max.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I do need to point out that maximizing Jing Yuan\u2019s effectiveness means you need to pay extra attention to your skill order and rotation; if you\u2019re the kind of person who is likely to be using Jing Yuan\u2019s skill when he\u2019s already at full energy, just as an example, you may notice that you inevitably run into scenarios where Lightning Lord is attacking before at least 6 stacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"You may also want to specifically try and concentrate all of Lightning Lord\u2019s immense power onto a single target, and so you\u2019d ideally want to focus-fire any surrounding lesser foes before Lightning Lord strikes to maximize the number of Attack Counts going onto the main foe. Either way, Jing Yuan benefits a lot from more attentive play, as even small overcaps on energy can add up a lot over the course of an entire encounter.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"However, despite the huge multiplier that Lightning Lord provides, it, unfortunately, does not always benefit fully from outside buff sources, meaning Jing Yuan loses out on a lot of the usefulness of potentially powerful buff\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"s. In particular, because Jing Yuan desperately wants to be fast enough to gain as many stacks as possible for his Lightning Lord, Bronya would seem like a great pairing, but her damage buff from her Skill will always be gone by the time Lightning Lord attacks, and Lightning Lord itself is not a targetable entity.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This means, rather unfortunately, that Jing Yuan cannot be pushed up the heights of other characters in a hypercarry setting, since buff alignment is difficult enough without needing to worry about Lightning Lord\u2019s turn order as well. Additionally, because Jing Yuan can seldom afford to avoid using his Skill, he is not a great flex pick either, meaning he is still ideally used as a hypercarry even with these prior limitations. Tingyun is far and away his best buffing support option, and even then it can be quite finicky to maximize their potential together. Stacking defense-shredding supports like Pela or Silver Wolf is likely the easier, and arguably better, strategy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Jing Yuan is a great character owing to his fantastic talent scaling and inherent crit buffs. He works well in almost all circumstances but requires extensive knowledge about buff timing and turn order to truly maximize. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"He is not a cheap unit and demands a lot, but he can definitely be worth your while.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"He also has spectacular hair. Even a general needs to look his best~\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Great AoE damage combined with decent single-target damage,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Great at Breaking as each Lightning Lord attack is treated as separate damage instance,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A freaking Stand.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Backloaded damage,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Crowd Control - if Jing Yuan gets CCed, Lightning Lord will lose its turn which is a massive damage loss,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"130 Ultimate cost means you will need to get 5 energy from somewhere if you want to use his Ultimate every 4 turns - 30 x 4 (from using Skill) + 5 from using Ultimate = 125,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Kinda bad synergy with offensive supports - since you can't target Lightning-Lord, you can't boost it directly with Bronya for example (at least until she is E6).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2800 - 3000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"900 - 1100+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2600 - 3000+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"80% - 90%+ (with buffs up)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"140% - 160%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Base Speed (H\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"yperspeed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Sparkle/Bronya) /\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 / 143 / 160\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Alejandro Saab",
+        "kr": "Ryu Seung-gon (\ub958\uc2b9\uace4)",
+        "jpn": "Ono Daisuke (\u5c0f\u91ce\u5927\u8f14)",
+        "cn": "Sun Ye (\u5b6b\u66c4)"
+    },
+    "ratings": {
+        "moc": "8",
+        "moc_special": "8",
+        "pure": "9",
+        "pure_special": "9",
+        "apo": "7",
+        "apo_special": "7"
+    },
+    "energyUltimate": "130",
+    "conesNew": [
+        {
+            "cone": "before-dawn",
+            "super": "1",
+            "percent": "116.18%",
+            "notes": "BIS Lightcone for Jing Yuan - Gives CRIT, DMG Bonus on his Skill and Ult, and a massive bonus to Follow-up attacks."
+        },
+        {
+            "cone": "night-on-the-milky-way",
+            "super": "1",
+            "percent": "111.77%",
+            "notes": "Assumes full uptime on the break damage buff which is incredibly difficult to achieve outside of Pure Fiction. This result is also calculated as if there were 3 targets present for the duration of the fight. A reduction in either of these factors will sharply lower this Cone's performance."
+        },
+        {
+            "cone": "today-is-another-peaceful-day",
+            "super": "5",
+            "percent": "108.31%",
+            "notes": "Great damage bonus that is always active."
+        },
+        {
+            "cone": "geniuses-repose",
+            "super": "5",
+            "percent": "105.89%",
+            "notes": "Assumes full uptime on the on-kill CRIT DMG% boost at all times. Failing to keep this buff active will lower this Cone's performance."
+        },
+        {
+            "cone": "the-day-the-cosmos-fell",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes constant uptime of the CRIT DMG% buff granted by attacking 2 or more enemies at once with an element they are weak to. Failing to keep this buff active will lower this Cone's performance."
+        },
+        {
+            "cone": "the-seriousness-of-breakfast",
+            "super": "5",
+            "percent": "99.95%",
+            "notes": "Assumes immediate uptime on the on-kill ATK% boost. Not having access to easily defeatable enemies at the start of the fight or being slow to slay enemies will lower this Cone's performance."
+        },
+        {
+            "cone": "eternal-calculus",
+            "super": "5",
+            "percent": "98.54%",
+            "notes": "A F2P option that provides great ATK% and SPD bonuses as long as you're hitting 3 targets consistently (which you always will in PF)."
+        },
+        {
+            "cone": "the-birth-of-the-self",
+            "super": "5",
+            "percent": "96.59%",
+            "notes": ""
+        },
+        {
+            "cone": "night-on-the-milky-way",
+            "super": "1",
+            "percent": "94%",
+            "notes": "Assumes no uptime of the break damage buff which can occur against fights in which you have no elemental advantage. This result is also calculated as if there were 3 targets present for the duration of the fight. When facing fewer than 3 enemies this Cone's performance will reduce."
+        },
+        {
+            "cone": "geniuses-repose",
+            "super": "5",
+            "percent": "90.90%",
+            "notes": "Assumes 0% uptime on-kill CRIT DMG% boost."
+        },
+        {
+            "cone": "the-seriousness-of-breakfast",
+            "super": "5",
+            "percent": "89.17%",
+            "notes": "Assumes 0 stacks of the ATK% bonus."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "The Ashblazing Grand Duke",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Band of Sizzling Thunder",
+                    "relic_2": "",
+                    "value": "92.47%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "The Ashblazing Grand Duke",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "89.55%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "100.07%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "97.98%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "96.61%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "before-dawn",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT DMG"
+                },
+                {
+                    "stat": "CRIT Rate"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Lightning DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "This is your typical DPS build that focuses on the holy trifecta - ATK, Crit Rate, and Crit DMG. For every 1% of Crit try to have 2% of Crit DMG.",
+            "substats": "SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Talent > Skill = Ultimate > Basic",
+            "traces_priority": "War Marshal (A6) > Battalia Crush (A2) > Savant Providence (A4)",
+            "name": "General DPS"
+        }
+    ],
+    "videos": [
+        {
+            "video": "DGn90VLlndc"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Jing Yuan Hypercarry",
+            "member_1": "jing-yuan",
+            "member_2": "bronya",
+            "member_3": "tingyun",
+            "member_4": "luocha"
+        },
+        {
+            "name": "Jing Yuan Hypercarry 2",
+            "member_1": "jing-yuan",
+            "member_2": "tingyun",
+            "member_3": "asta",
+            "member_4": "natasha"
+        },
+        {
+            "name": "Mono-Lightning",
+            "member_1": "jing-yuan",
+            "member_2": "tingyun",
+            "member_3": "silver-wolf",
+            "member_4": "bailu"
+        },
+        {
+            "name": "F2P-Friendly team",
+            "member_1": "jing-yuan",
+            "member_2": "tingyun",
+            "member_3": "pela",
+            "member_4": "natasha"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "critRate",
+            "value": 12
+        },
+        "traceStat2": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat3": {
+            "stat": "def",
+            "value": 12.5
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "May 17th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "FuA"
+    ]
+}

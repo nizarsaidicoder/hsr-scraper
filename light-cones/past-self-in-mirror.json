@@ -1,0 +1,58 @@
+{
+    "id": "16c980fe-e54e-5e28-905b-0e340c1a1644",
+    "updatedAt": "2023-12-25T17:02:52.120Z",
+    "createdAt": "2023-12-16T10:09:46.372Z",
+    "coneId": 105,
+    "name": "Past Self in Mirror",
+    "slug": "past-self-in-mirror",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/62f4090b7816ffdf7dfdeea61df642f3/bf8e1/105_sm.png",
+                            "srcSet": "/static/62f4090b7816ffdf7dfdeea61df642f3/914ee/105_sm.png 32w,\n/static/62f4090b7816ffdf7dfdeea61df642f3/1c9ce/105_sm.png 64w,\n/static/62f4090b7816ffdf7dfdeea61df642f3/bf8e1/105_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/62f4090b7816ffdf7dfdeea61df642f3/ef6ff/105_sm.webp 32w,\n/static/62f4090b7816ffdf7dfdeea61df642f3/8257c/105_sm.webp 64w,\n/static/62f4090b7816ffdf7dfdeea61df642f3/6766a/105_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "December 27th, 2023",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "529"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "529"
+        }
+    },
+    "skillName": "The Plum Fragrance In My Bones",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's Break Effect by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"60/70/80/90/100%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". After the wearer uses their Ultimate, increases all allies' DMG by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"24/28/32/36/40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", lasting for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turns. Should the wearer's Break Effect exceed or equal 150%, 1 Skill Point will be recovered. At the start of each wave, immediately regenerates \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10/12.5/15/17.5/20\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" Energy for all allies. Effects of the same type cannot stack.\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

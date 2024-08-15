@@ -1,0 +1,445 @@
+{
+    "id": "d272af85-dcbc-5b72-92b0-705ab91a73a3",
+    "updatedAt": "July 13th, 2024",
+    "createdAt": "2023-01-26T16:20:10.823Z",
+    "unitId": 18,
+    "name": "Clara",
+    "slug": "clara",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/a3d2d3e7db3d202b575b6fa1d95baf2c/e9a79/18_sm.png",
+                            "srcSet": "/static/a3d2d3e7db3d202b575b6fa1d95baf2c/f31ef/18_sm.png 40w,\n/static/a3d2d3e7db3d202b575b6fa1d95baf2c/1f8a1/18_sm.png 80w,\n/static/a3d2d3e7db3d202b575b6fa1d95baf2c/e9a79/18_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/a3d2d3e7db3d202b575b6fa1d95baf2c/e73fe/18_sm.webp 40w,\n/static/a3d2d3e7db3d202b575b6fa1d95baf2c/61ca6/18_sm.webp 80w,\n/static/a3d2d3e7db3d202b575b6fa1d95baf2c/60b4d/18_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/d737f718066099dd85e3c90056f0045d/c9885/clara.png",
+                            "srcSet": "/static/d737f718066099dd85e3c90056f0045d/2aab7/clara.png 94w,\n/static/d737f718066099dd85e3c90056f0045d/0a986/clara.png 187w,\n/static/d737f718066099dd85e3c90056f0045d/c9885/clara.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/d737f718066099dd85e3c90056f0045d/84550/clara.webp 94w,\n/static/d737f718066099dd85e3c90056f0045d/34f80/clara.webp 187w,\n/static/d737f718066099dd85e3c90056f0045d/b26e2/clara.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/bd1576553e127b3a8fec52169fc95db5/3c5dc/18_full.png",
+                            "srcSet": "/static/bd1576553e127b3a8fec52169fc95db5/ca8fd/18_full.png 200w,\n/static/bd1576553e127b3a8fec52169fc95db5/de50c/18_full.png 400w,\n/static/bd1576553e127b3a8fec52169fc95db5/3c5dc/18_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/bd1576553e127b3a8fec52169fc95db5/213b2/18_full.webp 200w,\n/static/bd1576553e127b3a8fec52169fc95db5/413c5/18_full.webp 400w,\n/static/bd1576553e127b3a8fec52169fc95db5/cf6d0/18_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A shy young girl with no home, Clara had no choice but to join the prospectors to survive. She inadvertently reactivated a dormant relic from a past civilization \u2014 the robot Svarog. \\\"To have a family.\\\" This is Clara's response when asked what she wishes for most. Before long, the usually self-servicing prospectors were united as one under the leadership of Svarog. Around the same time, a mysterious prospector was spotted in the Fragmentum, a red-hooded specter adept at retrieving rare relics from the most dangerous places.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Terrified prospectors call this ghostly figure... the Bloody Rabbit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "110701",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "110702",
+            "energy_gen": "30",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "110703",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "110704",
+            "energy_gen": "5",
+            "break_primary": "30",
+            "break_secondary": "30"
+        },
+        "technique": {
+            "id": "110707",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Belobog",
+    "rarity": "5",
+    "element": "Physical",
+    "path": "Destruction",
+    "stats": {
+        "hp_base": 179.52,
+        "def_base": 66,
+        "atk_base": 100.32,
+        "speed_base": 90
+    },
+    "ascensionMaterials": {
+        "mats_1": "ancient-part",
+        "mats_2": "ancient-spindle",
+        "mats_3": "broken-teeth-of-iron-wolf",
+        "mats_4": "ancient-engine"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "18",
+            "name": "Clara",
+            "upgrade1Name": "A Tall Figure",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Using Skill will not remove Marks of Counter on the enemy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "A Tight Embrace",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After using the Ultimate, ATK increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Cold Steel Armor",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Family\u2019s Warmth",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After Clara is hit, the DMG taken by Clara is reduced by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This effect lasts until the start of her next turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "A Small Promise",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Long Company",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"After other allies are hit, Svarog also has a \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" fixed chance to trigger a Counter on the attacker and mark them with a Mark of Counter. When using Ultimate, the number of Enhanced Counters increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\\n\\n\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When attacked, this character has a 35% fixed chance to remove a debuff placed on them.",
+            "name": "Kinship"
+        },
+        {
+            "req": "A4",
+            "desc": "The chance to resist Crowd Control Debuffs increases by <b>35%</b>.",
+            "name": "Under Protection"
+        },
+        {
+            "req": "A6",
+            "desc": "Increase Svarog's Counter DMG by <b>30%</b>.",
+            "name": "Revenge"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Clara is a strong retaliation-based DPS character.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" She has inherent damage reduction and will immediately counterattack enemies that hit her with a follow-up attack. Enemies countered will be marked and will take double damage from her Skill. Her Ultimate increases her damage reduction and greatly increases the likelihood of her getting attacked, as well as temporarily boosting her counters further.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Clara has not changed much since the launch of the game, but opinions surrounding her have. Nowadays it\u2019s not a surprise to hear people say Clara is one of the best standard 5-star characters and is even competitive with some limited 5-stars as well. She\u2019s a straightforward and strong unit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The biggest source of damage comes from her Talent. Clara has a passive 10% damage reduction and enemies that hit her will get shot by Svarog. This counter deals up to 160% ATK and counts as a follow-up attack. It has no cooldown whatsoever and costs nothing, meaning that Clara gets increasing damage against faster-acting enemies. Each counter also regenerates 5 Energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Skill deals up to 120% ATK to all enemies on the field. Enemies that are countered get a status called Mark of Counter which doubles the damage they take from Clara\u2019s next Skill. All Marks are removed after the Skill is used. As a true AoE ability, this is a very rare thing for a Destruction character to have, especially because of how strong it actually ends up being. 120% ATK to all enemies is already above average for an AoE Skill among \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"Erudition\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" units, but being able to potentially get 240% ATK out of it against all enemies is exceptional. This makes it good even in single-target scenarios, but it makes it an absolute force to be reckoned with in multi-target situations.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Clara\u2019s Ultimate increases her Talent\u2019s damage reduction by up to an extra 25% and greatly increases the chance of enemies targeting her. Both of these effects have a 2 turn duration. In addition to this, Svarog\u2019s counter is enhanced and has its damage doubled to 320% ATK, as well as converting it into a Blast AoE that splashes 160% ATK to adjacent foes. This can occur for 2 counters before reverting to the usual counter.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"These Enhanced counters can end up dealing up to 640% ATK if hitting 3 targets, and entirely outside of Clara\u2019s turn. While you only get 2 Enhanced counters per Ultimate usage, the other effects of the Ultimate last the full 2 turns, meaning it is likely you will get many more normal counters off before the increased aggro wears off. The damage reduction also goes a long way to guaranteeing that Clara doesn\u2019t just fall over while taking all these enemy attacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This Ultimate has a below-average cost of 110 Energy, which is important because of the way Clara is played; Clara wants to be hit as often as possible and wants to make maximum use of her Ultimate\u2019s secondary effects, and as such she wants to remain at her default SPD \u2014 the absolute lowest base SPD in the game at 90. With the Energy she receives from getting hit and the Energy she gets from her counters, it is not uncommon to maintain a near 100% uptime on her Ultimate\u2019s effects, especially when facing the stronger and faster enemies encountered in the end game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This does also imply that \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"slow enemies\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" are something of a hurdle for Clara, as well as enemies that do not always attack on their turn. It\u2019s not a huge deal most of the time because the few enemies who fit these descriptions aren\u2019t Physical weak, but it is something you need to keep in mind.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The same note as before still applies; because Clara wishes to be the sole target for enemies, she does not want to be paired with teammates who are likely to steal aggro from her, such as Gepard or Preservation Trailblazer. This is a lot less of an issue these days as there are plenty of fantastic sustain options available that do not interfere with Clara\u2019s pseudo-tanking ability.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The most accessible of these is Lynx, and Lynx\u2019s Skill specifically increases the aggro that Preservation and Destruction units have. Clara fits the description of the latter, and her extremely low base SPD coupled with infinite counters makes for highly efficient use of ally buffs, and so both Clara and Lynx have high synergy with each other. Luocha as well is very efficient and can turn Clara into a sort of teamwide healer thanks to the frequency of her counters coupled with the healing field of Abyss Flower.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"However, even more impressive of a pair is Huohuo. Huohuo can give Energy to the whole team and her method of healing makes it very difficult for Clara to ever die. In addition to this, Huohuo has plentiful cleanses meaning that it is also far easier for Clara to shake off pesky crowd control effects that would otherwise prevent any counters from going out. Add all of this on top of Huohuo\u2019s 40% ATK buff that Clara can also make extremely efficient use of, and Huohuo pretty much becomes Clara\u2019s best sustain teammate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Clara\u2019s Bonus Traces are boring but effective. A2 has a 35% fixed chance to remove a debuff on her whenever she\u2019s attacked, making it possible to circumvent anything from annoying DMG Down debuffs to debilitating crowd control effects, though do keep in mind it will not prevent the application of any of these, it\u2019ll only take effect after the \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"next\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" hit. A4 expounds on this by giving a 35% resistance to crowd control effects. Finally, A6 provides an unconditional 30% DMG bonus to all Svarog counters, significantly improving her damage even more.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a standard 5-star character it is not unlikely to get Eidolons for Clara over time. None of them are really necessary for Clara to excel but I do want to point out E1 as a very high value pickup. E1 makes Marks of Counter \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"permanent\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", meaning after the first time an enemy gets countered, they will forever take double damage from Clara\u2019s Skill, which is unsurprisingly, very very powerful, and also helps improve the overall consistency of the Skill\u2019s damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"There is a slight degree of variance in Clara\u2019s damage output due to her needing to be hit, but even the low end is quite competitive, and the higher end is honestly somewhat frightening. My initial prediction ended up being mostly true \u2014 Clara has stayed very useful throughout everything thus far, and I\u2019m willing to wager once more that this will continue to be the case.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely high damage ceiling, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Destroys both single-target and AoE, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Very durable DPS character, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Most of her damage is outside of her turns meaning she makes great use of buffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Damage output has a degree of variance, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Backloaded damage profile, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Struggles against slow enemies and non-aggressive enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3200+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800 - 900+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3200 - 3600+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60% - 70%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120% - 140%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"90 / 100 (Long Fights)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Emily Sun",
+        "kr": "\uae40\uc608\ub9bc",
+        "jpn": "Hidaka Rina (\u65e5\u9ad8\u91cc\u83dc)",
+        "cn": "Zisu (\u7d2b\u82cf\u4e5d\u6708)"
+    },
+    "ratings": {
+        "moc": "8",
+        "moc_special": "8",
+        "pure": "9",
+        "pure_special": "9",
+        "apo": "7",
+        "apo_special": "7"
+    },
+    "energyUltimate": "110",
+    "conesNew": [
+        {
+            "cone": "brighter-than-the-sun",
+            "super": "1",
+            "percent": "102.88%",
+            "notes": "Assumes Dragon's Roar stacks are maintained at all times. The rotation of Clara has been altered, adding a Basic Attack as required to keep the buff active. Failing to establish the buff of this Cone quickly or maintaining the stacks will lower this Cone's performance."
+        },
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes you maintain the full 4 attack stacks (64% ATK) at all times and maintain the weakness break bonus 50% of the time. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "under-the-blue-sky",
+            "super": "5",
+            "percent": "96.77%",
+            "notes": "Assumes to have 100% uptime of its on-kill buff at all times. In fights where this is not the case for the majority of the duration, its damage will be lower."
+        },
+        {
+            "cone": "something-irreplaceable",
+            "super": "1",
+            "percent": "96.74%",
+            "notes": "Offers free ATK% and DMG% on top that is easy to activate and a nice safety net due to the self-healing on top"
+        },
+        {
+            "cone": "the-unreachable-side",
+            "super": "1",
+            "percent": "95.47%",
+            "notes": "Helps achieve good CRIT Ratio and makes Clara chunkier, but at the cost of ATK%. Offers same DMG% bonus as Something Irreplaceable, but it gets removed right after Clara uses her Counter - so compared to SI, the bonus doesn't get applied to her Skill."
+        },
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "93.98%",
+            "notes": "On the Fall of An Aeon with 0% uptime is calculated assuming you maintain the full 4 attack stacks (64% ATK) at all times and the weakness break bonus is never active - which is the case in most fights the enemy is not vulnerable to the wearer of the Cone."
+        },
+        {
+            "cone": "a-secret-vow",
+            "super": "5",
+            "percent": "88.56%",
+            "notes": "Assumes to only have its base 40% damage increase active as enemies almost always have higher lower HP than your units. In fights where this is not the case and your units end up at lower HP than the enemy its performance will increase."
+        },
+        {
+            "cone": "under-the-blue-sky",
+            "super": "5",
+            "percent": "81.68%",
+            "notes": "Assumes to have 0% uptime of its on-kill buff."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Champion of Streetwise Boxing",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Longevous Disciple",
+                    "relic_2": "",
+                    "value": "98.06%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Champion of Streetwise Boxing",
+                    "relic_2": "The Ashblazing Grand Duke",
+                    "value": "97.43%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Duran, Dynasty of Running Wolves",
+                    "value": "102.67%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "99.91%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "97.25%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "something-irreplaceable",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Physical DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "This is your typical DPS build that focuses on the holy trifecta - ATK, Crit Rate, and Crit DMG. For every 1% of Crit try to have 2% of Crit DMG.",
+            "substats": "SPD (breakpoint if desired) = CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Talent > Skill = Ultimate > Basic",
+            "traces_priority": "Revenge (A6) > Kinship (A2) > Under Protection (A4)",
+            "name": "General DPS"
+        }
+    ],
+    "videos": [
+        {
+            "video": "9OuO9xDkzgE"
+        }
+    ],
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "clara",
+            "member_2": "tingyun",
+            "member_3": "march-7th",
+            "member_4": "natasha"
+        },
+        {
+            "name": "Clara Carry Team",
+            "member_1": "clara",
+            "member_2": "tingyun",
+            "member_3": "silver-wolf",
+            "member_4": "luocha"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "physicalDmg",
+            "value": 14.4
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "FuA"
+    ]
+}

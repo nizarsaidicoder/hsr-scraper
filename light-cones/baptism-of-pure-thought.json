@@ -1,0 +1,58 @@
+{
+    "id": "4f071631-51e5-58b6-93d0-1254dc522679",
+    "updatedAt": "2024-01-17T06:01:02.246Z",
+    "createdAt": "2023-12-16T10:09:00.955Z",
+    "coneId": 106,
+    "name": "Baptism of Pure Thought",
+    "slug": "baptism-of-pure-thought",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/d1ff5de85790132ea41a15dc5abe5408/bf8e1/106_sm.png",
+                            "srcSet": "/static/d1ff5de85790132ea41a15dc5abe5408/914ee/106_sm.png 32w,\n/static/d1ff5de85790132ea41a15dc5abe5408/1c9ce/106_sm.png 64w,\n/static/d1ff5de85790132ea41a15dc5abe5408/bf8e1/106_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/d1ff5de85790132ea41a15dc5abe5408/ef6ff/106_sm.webp 32w,\n/static/d1ff5de85790132ea41a15dc5abe5408/8257c/106_sm.webp 64w,\n/static/d1ff5de85790132ea41a15dc5abe5408/6766a/106_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "January 17th, 2024",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "26",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "24",
+            "value_level_max": "529"
+        }
+    },
+    "skillName": "Mental Training",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's CRIT DMG by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20/23/26/29/32%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". For every debuff on the enemy target, the wearer's CRIT DMG dealt against this target increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8/9/10/11/12%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", stacking up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" times. When using Ultimate to attack the enemy target, the wearer receives the Disputation effect, which increases DMG dealt by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"36/42/48/54/60%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" and enables their follow-up attacks to ignore \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"24/28/32/36/40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of the target's DEF. This effect lasts for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turns.\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

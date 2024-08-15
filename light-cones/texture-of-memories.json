@@ -1,0 +1,58 @@
+{
+    "id": "96fdd9d8-e988-5847-9396-d7e714a78c45",
+    "updatedAt": "2023-05-03T06:42:58.817Z",
+    "createdAt": "2023-02-17T06:53:58.193Z",
+    "coneId": 44,
+    "name": "Texture of Memories",
+    "slug": "texture-of-memories",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/f1fa087c18398e206f64b293828e570c/bf8e1/44_sm.png",
+                            "srcSet": "/static/f1fa087c18398e206f64b293828e570c/914ee/44_sm.png 32w,\n/static/f1fa087c18398e206f64b293828e570c/1c9ce/44_sm.png 64w,\n/static/f1fa087c18398e206f64b293828e570c/bf8e1/44_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/f1fa087c18398e206f64b293828e570c/ef6ff/44_sm.webp 32w,\n/static/f1fa087c18398e206f64b293828e570c/8257c/44_sm.webp 64w,\n/static/f1fa087c18398e206f64b293828e570c/6766a/44_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Herta's Store"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "529"
+        }
+    },
+    "skillName": "Treasure",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's Effect RES by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8/10/12/14/16%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". If the wearer is attacked and has no Shield, they gain a Shield equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16/20/24\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/28/32\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of their Max HP for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). This effect can only be triggered once every \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). If the wearer has a Shield when attacked, the DMG they receive decreases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/15/18/21/24\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

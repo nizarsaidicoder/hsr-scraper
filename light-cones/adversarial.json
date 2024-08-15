@@ -1,0 +1,58 @@
+{
+    "id": "439971b3-f0e5-537f-83a9-40d78860a357",
+    "updatedAt": "2023-04-25T18:43:52.171Z",
+    "createdAt": "2023-02-17T09:27:28.947Z",
+    "coneId": 56,
+    "name": "Adversarial",
+    "slug": "adversarial",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/9ec08f6e107a980509cb756dc0631781/bf8e1/56_sm.png",
+                            "srcSet": "/static/9ec08f6e107a980509cb756dc0631781/914ee/56_sm.png 32w,\n/static/9ec08f6e107a980509cb756dc0631781/1c9ce/56_sm.png 64w,\n/static/9ec08f6e107a980509cb756dc0631781/bf8e1/56_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/9ec08f6e107a980509cb756dc0631781/ef6ff/56_sm.webp 32w,\n/static/9ec08f6e107a980509cb756dc0631781/8257c/56_sm.webp 64w,\n/static/9ec08f6e107a980509cb756dc0631781/6766a/56_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "33",
+            "value_level_max": "740"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Alliance",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When the wearer defeats an enemy, increases SPD by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/12/14/16/18\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

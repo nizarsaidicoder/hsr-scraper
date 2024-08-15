@@ -1,0 +1,58 @@
+{
+    "id": "e7cbd13d-10e9-55b6-98f4-a728e8779d58",
+    "updatedAt": "2023-04-25T18:43:52.367Z",
+    "createdAt": "2023-01-27T12:12:24.570Z",
+    "coneId": 11,
+    "name": "Defense",
+    "slug": "defense",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/6d4c1c107ec46a6b53078cd866e0bea2/bf8e1/11_sm.png",
+                            "srcSet": "/static/6d4c1c107ec46a6b53078cd866e0bea2/914ee/11_sm.png 32w,\n/static/6d4c1c107ec46a6b53078cd866e0bea2/1c9ce/11_sm.png 64w,\n/static/6d4c1c107ec46a6b53078cd866e0bea2/bf8e1/11_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/6d4c1c107ec46a6b53078cd866e0bea2/ef6ff/11_sm.webp 32w,\n/static/6d4c1c107ec46a6b53078cd866e0bea2/8257c/11_sm.webp 64w,\n/static/6d4c1c107ec46a6b53078cd866e0bea2/6766a/11_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Revitalization",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When the wearer unleashes their Ultimate, they restore HP by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"18/21/24/27/30% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"of their Max HP.\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

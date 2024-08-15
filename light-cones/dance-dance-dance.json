@@ -1,0 +1,58 @@
+{
+    "id": "b04d3233-82a5-51da-a967-64ef6a6d6045",
+    "updatedAt": "2023-04-27T13:59:57.341Z",
+    "createdAt": "2023-04-27T13:59:57.341Z",
+    "coneId": 75,
+    "name": "Dance! Dance! Dance!",
+    "slug": "dance-dance-dance",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#b8a8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/413d6d1f46849761f0b088b9d486a5d9/bf8e1/75.png",
+                            "srcSet": "/static/413d6d1f46849761f0b088b9d486a5d9/914ee/75.png 32w,\n/static/413d6d1f46849761f0b088b9d486a5d9/1c9ce/75.png 64w,\n/static/413d6d1f46849761f0b088b9d486a5d9/bf8e1/75.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/413d6d1f46849761f0b088b9d486a5d9/ef6ff/75.webp 32w,\n/static/413d6d1f46849761f0b088b9d486a5d9/8257c/75.webp 64w,\n/static/413d6d1f46849761f0b088b9d486a5d9/6766a/75.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "19",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Cannot Stop It!",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When the wearer uses their Ultimate, all allies' actions are Advanced Forward by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16/18/20/22/24%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

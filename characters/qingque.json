@@ -1,0 +1,461 @@
+{
+    "id": "bce576ac-adae-58ec-8b40-0a7be7b87731",
+    "updatedAt": "June 28th, 2024",
+    "createdAt": "2023-01-26T09:08:10.213Z",
+    "unitId": 26,
+    "name": "Qingque",
+    "slug": "qingque",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/0434369b1146936d32c51d5f265d17dc/e9a79/26_sm.png",
+                            "srcSet": "/static/0434369b1146936d32c51d5f265d17dc/f31ef/26_sm.png 40w,\n/static/0434369b1146936d32c51d5f265d17dc/1f8a1/26_sm.png 80w,\n/static/0434369b1146936d32c51d5f265d17dc/e9a79/26_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/0434369b1146936d32c51d5f265d17dc/e73fe/26_sm.webp 40w,\n/static/0434369b1146936d32c51d5f265d17dc/61ca6/26_sm.webp 80w,\n/static/0434369b1146936d32c51d5f265d17dc/60b4d/26_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/baf50c27f4e087b1f259230ead31a80a/c9885/1201.png",
+                            "srcSet": "/static/baf50c27f4e087b1f259230ead31a80a/2aab7/1201.png 94w,\n/static/baf50c27f4e087b1f259230ead31a80a/0a986/1201.png 187w,\n/static/baf50c27f4e087b1f259230ead31a80a/c9885/1201.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/baf50c27f4e087b1f259230ead31a80a/84550/1201.webp 94w,\n/static/baf50c27f4e087b1f259230ead31a80a/34f80/1201.webp 187w,\n/static/baf50c27f4e087b1f259230ead31a80a/b26e2/1201.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/0c88f2d12bce359881fe49b9261624de/3c5dc/26_full.png",
+                            "srcSet": "/static/0c88f2d12bce359881fe49b9261624de/ca8fd/26_full.png 200w,\n/static/0c88f2d12bce359881fe49b9261624de/de50c/26_full.png 400w,\n/static/0c88f2d12bce359881fe49b9261624de/3c5dc/26_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/0c88f2d12bce359881fe49b9261624de/213b2/26_full.webp 200w,\n/static/0c88f2d12bce359881fe49b9261624de/413c5/26_full.webp 400w,\n/static/0c88f2d12bce359881fe49b9261624de/cf6d0/26_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"An average Diviner of the Divination Commission, who will never slack off when it comes to slacking off. She passed the Divination Commissions entrance exam to please her parents, only to discover what she had originally thought to be a relaxing public servant job to instead be very intensive and a worker's nightmare. After several years of experience, Qingque had finally honed her craft \u2014 No matter which department she changes to, she remains the lowest level of Diviners.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\\\"When there's nothing else left to do, why not bury your head in a book or play cards? What more could I ask for?\\\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "120101",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "120108",
+            "energy_gen": "20",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "120102",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "120103",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "120104",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "120107",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Sub DPS",
+    "affiliation": "Xianzhou Luofu",
+    "rarity": "4",
+    "element": "Quantum",
+    "path": "Erudition",
+    "stats": {
+        "hp_base": 139.2,
+        "def_base": 60,
+        "atk_base": 88.8,
+        "speed_base": 98
+    },
+    "ascensionMaterials": {
+        "mats_1": "thiefs-instinct",
+        "mats_2": "usurpers-scheme",
+        "mats_3": "void-cast-iron",
+        "mats_4": "conquerors-will"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "26",
+            "name": "Qingque",
+            "upgrade1Name": "Rise Through the Tiles",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" more DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Sleep on the Tiles",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Every time Draw Tile is triggered, Qingque immediately regenerates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Read Between the Tiles",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Right on the Tiles",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After this character's Skill is used, there is a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"24%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" fixed chance to gain Autarky, which lasts until the end of the current turn. With Autarky, using Basic ATK or Enhanced Basic ATK immediately launches \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"follow-up attack on the same target, dealing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Quantum DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the previous Basic ATK (or Enhanced Basic ATK)'s DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Gambit for the Tiles",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Prevail Beyond the Tiles",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Recovers 1 Skill Point after using Enhanced Basic ATK.\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "sparkle",
+            "notes": "Sparkle makes QQ much more enjoyable to play, as you no longer will have any skill point issues (unless you really really will have a terrible RNG streak) - on top of her providing all the buffs she wants."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Restores 1 Skill Point when using the Skill. This effect can only be triggered 1 time per battle.",
+            "name": "Tile Battle"
+        },
+        {
+            "req": "A4",
+            "desc": "Using the Skill increases DMG Boost effect of attacks by an extra <b>10%</b>.",
+            "name": "Bide Time"
+        },
+        {
+            "req": "A6",
+            "desc": "Qingque's SPD increases by <b>10%</b> for 1 turn after using the Enhanced Basic ATK.",
+            "name": "Winning Hand"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Qingque is an odd but endearing character. She\u2019s a unit that makes a somewhat questionable first impression, but she blooms into one of the most formidable and self-sufficient damage dealers in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Qingque has her primary source of damage come from a loose RNG mechanic. Her talent has her randomly draw tiles on each ally turn, 1 per turn, with 3 possible suits. At 4 perfectly matched tiles, her basic attack becomes enhanced, becoming a blast AoE and dealing vastly increased damage, while also getting an ATK% boost, up to a colossal 72% bonus ATK at max Trace level. If you are not matched, your basic attack will discard 1 tile with the lowest tile matches. This Enhanced Basic attack hits extremely hard, especially later on, but comes with the additional caveat that it will not recover a skill point like other Basic attacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Skill immediately draws 2 tiles and grants a damage increase until the end of the turn, and immediately grants an extra turn where you can choose to draw again, or exit with a Basic attack. Drawing again will stack the damage increase, up to 4 times in total. This is where the main gameplay loop comes in, you cycle tiles with her Skill until you\u2019re matched, and then toss out your Enhanced Basic attack for massive damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Now, it\u2019s entirely possible for you to use Qingque\u2019s Skill 5 times in a row, thus using up literally all of your skill points in the process, and \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"still\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" not having 4 matching tiles. However, this is in practice really quite rare to see, and you should only ever use her Skill 4 times in a row since the DMG% only stacks up to 4 times anyway. You can also circumvent this bad luck through careful usage of her Ultimate, detailed a bit later.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her ultimate guarantees an Enhanced Basic attack after using it, allowing you to strategically skip entire tile searches and get potentially back to back Enhanced Basics, but the Ultimate has an absurd energy cost, one of the absolute highest in the game. Worse still, using her Skill doesn\u2019t recover any energy for Qingque, so her energy regeneration comes exclusively from her Basic attacks and Enhanced Basic attacks, meaning it takes a lot longer on average to get her Ultimate than for pretty much any other character.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Now, it\u2019s important to mention that Qingque is a very late bloomer. Her scalings are very impressive but she requires a lot of investment to get to the stage where they start really having an impact, especially due to the stacking nature of her Skill. Because of this, Qingque is actually somewhat weak by comparison in the early game, and this can contribute to incorrectly assuming she\u2019s not worth investing in. Her Talents need to be levelled up a lot to really bring out the best of her, and gaining access to her Bonus Traces provides noticeable performance spikes; for example, her first big spike in power comes at A4 when she can reach level 60, which is really quite late compared to many other damage dealers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Bonus Traces do some good work to alleviate these early concerns. A2 refunds a Skill Point on the first Skill usage of \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"a fight\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", meaning it\u2019s a one-time benefit in an encounter. At first glance this doesn\u2019t sound too impressive, and at second glance you\u2019d realise your first glance was mostly correct, so really her A2 exists to give her more of a head start in an encounter and little else.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her A4 is where the money is. It adds an extra 10% to the DMG% bonus of her Skill. This is \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"per Skill usage\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", meaning at 4 stacks, it\u2019s an extra 40% DMG boost on top of what she\u2019s already getting. You can think of this Bonus Trace as injecting bonus levels into her Skill\u2019s Trace. This means at max Trace level, 4 stacks of Qingque\u2019s Skill will be giving her \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"152% bonus damage on her next attack\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Coupled with the 72% bonus ATK from her Talent if you have 4 matching tiles, Qingque\u2019s about to decimate whatever she\u2019s looking at.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A6 increases Qingque\u2019s speed for 1 turn after using her enhanced basic attack, which helps her get back in the fight sooner to start recovering more tiles and energy. It\u2019s a nice bonus to have, but due to Qingque\u2019s slightly below average speed stat, this isn\u2019t that impactful on its own.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The ratio of skill points used to output value is exceedingly high with Qingque\u2019s skill, because the potential damage bonuses she gets are astronomical. This is especially true since as mentioned earlier, you can use her Ultimate to circumvent bad luck and also take advantage of Qingque\u2019s Skill\u2019s damage bonuses. This is because Qingque\u2019s Skill counts as an Extra Action, and all Ultimates also count as Extra Actions.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"So by using this knowledge, if you have Qingque\u2019s Ultimate available, you can freely spend SP to draw tiles. If you\u2019re lucky and get her Enhanced Basic, then you can throw it out and instantly use her Ultimate to take advantage of the stacked bonus damage from her Skill and carry it over onto her Ultimate, making it also hit significantly harder and guaranteeing the Enhanced Basic attack for her next turn.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Now in this next example, you spend up to 4 SP drawing tiles and have yet to get her Enhanced Basic, so what you can do is use her Ultimate as soon as you realise this. Using the Extra Action that is her Ultimate means the damage boosts also affect the Ultimate, dealing increased damage, but \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"because \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"the Ultimate is an Extra Action, it is still Qingque\u2019s turn, meaning you get to use the guaranteed Enhanced Basic from the Ultimate that \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"also\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" gets boosted by the Skill\u2019s damage bonuses. This even has the added benefit of giving her a head start towards her next Ultimate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This may seem complicated at first, but once you realise how this works and can recognise when this comes up, you\u2019ll very quickly start to understand that Qingque\u2019s \u201cRNG issues\u201d are completely overblown and exaggerated. She\u2019s actually remarkably consistent when it counts, far more than anyone was really initially prepared for, especially myself.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Qingque also has a different playstyle where you mostly focus on Basic attacking with her generating SP for a different dedicated damage dealer. This ends up working because her Talent draws tiles on its own on each Ally turn, so it\u2019s still possible for her to get Enhanced Basics over time with no SP expenditure or from her Ultimate. It\u2019s a viable alternative for if another character better matches an enemy weakness, or if you know you need that SP for other purposes.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"These two playstyles are not mutually exclusive; you can very easily adjust and adapt on the fly based on your team\u2019s SP needs, making Qingque actually quite the flexible unit as well. Just be aware that Qingque really pays more like a Destruction character than an Erudition one, in that she has phenomenal single-target damage but also has some more limited AoE damage as well.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Qingque is already fantastic at base, but has two Eidolons that notably improve her performance. E4 gives a small chance for a phantom follow-up attack to occur after using a Basic Attack \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"or\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Enhanced Basic attack, potentially allowing her to double-dip into the big damage bonuses she can accrue. E6 allows her to actually recover a skill point with her Enhanced Basic attack. The combination of these two Eidolons propel Qingque to a frightening height where she can do zero-cycle Memory of Chaos clears without really batting an eye.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As evidenced by the length of this review, Qingque is quite the complicated character. She is not meant to be left on Auto, and to do so is to squander her potential. If you find her play style is too frustrating or too complicated, or if you\u2019re seeking characters that can be left on Auto, Qingque is probably not the character for you and I suggest looking elsewhere. Additionally, without her Ultimate, the chances of getting completely shafted by RNG are non-zero, meaning you need to be prepared to lose the dice roll on rare occasions.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"But because of everything discussed combined, Qingque is still quite the consistent and powerful character. If anything, she looks like she\u2019s only going to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"continue \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"to get better into the future.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She is absolutely worth your time.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Very potent late-game damage dealer, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Strong and flexible generalist character, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely powerful in hypercarry setups, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can be a good sub-dps that generates skill points, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Very self-sufficient and powerful damage buffs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Slightly reliant on Ultimate to circumvent bad luck, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Potentially very Energy and SP hungry, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Very late bloomer who requires a lot of investment, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her own self-buffs can diminish the effectiveness of other supports\u2019 buffs.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 2800 - 3000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800 - 1000+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2500 - 2900+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"65% - 70%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"130% - 140%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Base Speed (H\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"yperspeed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Sparkle/Bronya) /\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 (Recommended) / 143 / 160\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Bryn Appril",
+        "kr": "",
+        "jpn": "Arisa Date (\u4f0a\u9054 \u6731\u91cc\u7d17)",
+        "cn": "Liu Shisi (\u5218\u5341\u56db)"
+    },
+    "ratings": {
+        "moc": "8",
+        "moc_special": "6",
+        "pure": "6",
+        "pure_special": "5",
+        "apo": "8",
+        "apo_special": "6"
+    },
+    "energyUltimate": "140",
+    "conesNew": [
+        {
+            "cone": "night-on-the-milky-way",
+            "super": "1",
+            "percent": "106.57%",
+            "notes": "Assumes full uptime on the break damage buff which is incredibly difficult to achieve outside of Pure Fiction. This result is also calculated as if there were 3 targets present for the duration of the fight. A reduction in either of these factors will sharply lower this Cone's performance."
+        },
+        {
+            "cone": "geniuses-repose",
+            "super": "5",
+            "percent": "105.92%",
+            "notes": "Assumes full uptime on the on-kill CRIT DMG% boost at all times. Failing to keep this buff active will lower this Cone's performance."
+        },
+        {
+            "cone": "eternal-calculus",
+            "super": "5",
+            "percent": "105.36%",
+            "notes": "A F2P option that provides great ATK% and SPD bonuses as long as you're hitting 3 targets consistently (which you always will in PF)."
+        },
+        {
+            "cone": "before-dawn",
+            "super": "1",
+            "percent": "104.58%",
+            "notes": "Best in Slot for E4+ Qingque but slightly behind Geniuses Repose before E4."
+        },
+        {
+            "cone": "an-instant-before-a-gaze",
+            "super": "1",
+            "percent": "101.96%",
+            "notes": ""
+        },
+        {
+            "cone": "today-is-another-peaceful-day",
+            "super": "5",
+            "percent": "101.42%",
+            "notes": "Strong and consistent damage option."
+        },
+        {
+            "cone": "the-day-the-cosmos-fell",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes constant uptime of the CRIT DMG% buff granted by attacking 2 or more enemies at once with an element they are weak to. Failing to keep this buff active will lower this Cone's performance."
+        },
+        {
+            "cone": "night-on-the-milky-way",
+            "super": "1",
+            "percent": "95.94%",
+            "notes": "Assumes no uptime of the break damage buff which can occur against fights in which you have no elemental advantage. This result is also calculated as if there were 3 targets present for the duration of the fight. When facing fewer than 3 enemies this Cone's performance will reduce."
+        },
+        {
+            "cone": "the-seriousness-of-breakfast",
+            "super": "5",
+            "percent": "95.80%",
+            "notes": "Assumes immediate uptime on the on-kill ATK% boost. Not having access to easily defeatable enemies at the start of the fight or being slow to slay enemies will lower this Cone's performance."
+        },
+        {
+            "cone": "geniuses-repose",
+            "super": "5",
+            "percent": "89.91%",
+            "notes": "Assumes 0% uptime on-kill CRIT DMG% boost."
+        },
+        {
+            "cone": "the-seriousness-of-breakfast",
+            "super": "5",
+            "percent": "88.27%",
+            "notes": "Assumes 0 stacks of the ATK% bonus."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "QUA Weak",
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": "95.32%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "92.81%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "98.92%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "97.87%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "97.77%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "today-is-another-peaceful-day",
+                    "super": "5"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Quantum DMG"
+                }
+            ],
+            "comments": "This is your typical DPS build that focuses on the holy trifecta - ATK, CRIT Rate, and CRIT DMG. For every 1% of CRIT Rate try to have 2% of CRIT DMG.",
+            "substats": "SPD (breakpoint) > CRIT Rate = CRIT DMG > ATK%",
+            "skill_priority": "Basic > Skill = Talent > Ultimate",
+            "traces_priority": "Bide Time (A4) > Winning Hand (A6) > Tile Battle (A2)",
+            "name": "General DPS"
+        }
+    ],
+    "videos": [
+        {
+            "video": "Ng9LwmXxO-Y"
+        }
+    ],
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "qingque",
+            "member_2": "natasha",
+            "member_3": "trailblazer-fire",
+            "member_4": "dan-heng"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "quantumDmg",
+            "value": 14.4
+        },
+        "traceStat3": {
+            "stat": "def",
+            "value": 12.5
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "SP-"
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "id": "b0c22eac-7b6d-5606-996b-40400634491f",
+    "updatedAt": "July 16th, 2024",
+    "createdAt": "2024-07-16T06:25:46.239Z",
+    "unitId": 59,
+    "name": "Feixiao",
+    "slug": "feixiao",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/88d0c3362b57bee21fc63b336a5a4d34/60b4d/fei_sm.webp",
+                            "srcSet": "/static/88d0c3362b57bee21fc63b336a5a4d34/e73fe/fei_sm.webp 40w,\n/static/88d0c3362b57bee21fc63b336a5a4d34/61ca6/fei_sm.webp 80w,\n/static/88d0c3362b57bee21fc63b336a5a4d34/60b4d/fei_sm.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#888888",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/82a3cbd4b320f5528dd04db9771df232/b26e2/hsr_card_fei.webp",
+                            "srcSet": "/static/82a3cbd4b320f5528dd04db9771df232/84550/hsr_card_fei.webp 94w,\n/static/82a3cbd4b320f5528dd04db9771df232/34f80/hsr_card_fei.webp 187w,\n/static/82a3cbd4b320f5528dd04db9771df232/b26e2/hsr_card_fei.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": null,
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Xianzhou Yaoqing's Merlin's Claw and one of the Seven Arbiter-Generals. Her personality is unrestrained and frank, dashing and straightforward. She is skilled in all forms of martial arts and has honed herself into a supreme weapon. She is widely adored by Xianzhou soldiers and civilians alike as \\\"The Great General.\\\" However, she bears the burden of the Moon Rage affliction. If she were to hunt down all the abominations in her limited lifetime \u2014 Then the only enemy Feixiao has would be herself.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": null,
+    "defaultRole": "Main DPS",
+    "affiliation": "The Xianzhou Yaoqing",
+    "rarity": "5",
+    "element": "Wind",
+    "path": "Hunt",
+    "stats": {
+        "hp_base": 0,
+        "def_base": 0,
+        "atk_base": 0,
+        "speed_base": 0
+    },
+    "ascensionMaterials": {
+        "mats_1": "thiefs-instinct",
+        "mats_2": "usurpers-scheme",
+        "mats_3": "enigmatic-ectostella",
+        "mats_4": "conquerors-will"
+    },
+    "eidolon": null,
+    "synergy": null,
+    "traces": null,
+    "review": null,
+    "pros": null,
+    "cons": null,
+    "endgameStats": null,
+    "voiceActors": {
+        "en": "Anairis Quinones",
+        "kr": "Sohn Jeong Min (\uc190\uc815\ubbfc)",
+        "jpn": "Mikako Komatsu (\u5c0f\u677e\u672a\u53ef\u5b50)",
+        "cn": "Zhiqiu Ye (\u53f6\u77e5\u79cb)"
+    },
+    "ratings": {
+        "moc": "1",
+        "moc_special": "1",
+        "pure": "1",
+        "pure_special": "1",
+        "apo": "1",
+        "apo_special": "1"
+    },
+    "energyUltimate": null,
+    "conesNew": null,
+    "buildData": null,
+    "videos": null,
+    "teams": null,
+    "characterBuilderInfo": null,
+    "tierCategory": "DPS",
+    "releaseDate": "August 28th, 2024",
+    "isReleased": false,
+    "isNew": false,
+    "hideSkills": true,
+    "isReviewPending": true,
+    "availableInCbt3": true,
+    "showBuild": false,
+    "tierListNew": null,
+    "tierListTags": null
+}

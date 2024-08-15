@@ -1,0 +1,481 @@
+{
+    "id": "aad7e290-d06d-5738-a174-d33c73066f2d",
+    "updatedAt": "June 27th, 2024",
+    "createdAt": "2023-10-31T08:51:21.572Z",
+    "unitId": 43,
+    "name": "Ruan Mei",
+    "slug": "ruan-mei",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ab077ecba896b3a6d406c1c170a7a471/e9a79/43_sm.png",
+                            "srcSet": "/static/ab077ecba896b3a6d406c1c170a7a471/f31ef/43_sm.png 40w,\n/static/ab077ecba896b3a6d406c1c170a7a471/1f8a1/43_sm.png 80w,\n/static/ab077ecba896b3a6d406c1c170a7a471/e9a79/43_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ab077ecba896b3a6d406c1c170a7a471/e73fe/43_sm.webp 40w,\n/static/ab077ecba896b3a6d406c1c170a7a471/61ca6/43_sm.webp 80w,\n/static/ab077ecba896b3a6d406c1c170a7a471/60b4d/43_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/24188cd2bd01f45191c24b951ebab90e/c9885/43_card.png",
+                            "srcSet": "/static/24188cd2bd01f45191c24b951ebab90e/2aab7/43_card.png 94w,\n/static/24188cd2bd01f45191c24b951ebab90e/0a986/43_card.png 187w,\n/static/24188cd2bd01f45191c24b951ebab90e/c9885/43_card.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/24188cd2bd01f45191c24b951ebab90e/84550/43_card.webp 94w,\n/static/24188cd2bd01f45191c24b951ebab90e/34f80/43_card.webp 187w,\n/static/24188cd2bd01f45191c24b951ebab90e/b26e2/43_card.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/5d8db934a5036f2c3f2e0ba1e3f22638/cf6d0/43_full.webp",
+                            "srcSet": "/static/5d8db934a5036f2c3f2e0ba1e3f22638/213b2/43_full.webp 200w,\n/static/5d8db934a5036f2c3f2e0ba1e3f22638/413c5/43_full.webp 400w,\n/static/5d8db934a5036f2c3f2e0ba1e3f22638/cf6d0/43_full.webp 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A sweet-tempered and elegant scholar. Member #81 of the Genius Society. An expert in the biological sciences. She earned Nous' attention with her talent and terrifying perseverance, and began her research on the origin of life in a secret corner of the universe. For that, she was invited by Herta to collaborate with Screwllum and Stephen to develop the Simulated Universe. Secretly, she greatly enjoys traditional theater and desserts, and she is also very interested in embroidery.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Body - HP% > DEF%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP% is preferred as it offers more survivability but DEF% can be used if it has superior sub-stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Feet - Speed\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar Sphere - HP% > DEF%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP% is preferred as it offers more survivability but DEF% can be used if it has superior sub-stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Link Rope - Energy Recharge% > Break Effect%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you are able to hit the 180% Break Effect cap without using a Break Effect rope Energy Recharge is always recommended.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for sub-stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Stack Break Effect until hitting 180%. Aim for a desirable Speed breakpoint next (134 minimum recommended). After achieving these goals stack more Break Effect to improve Ruan's burst damage or invest in more Speed or DEF% and HP% to make her more durable.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"SPEED\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": Ruan Mei, is a skill point positive support so stacking more Speed on her will assist with skill point generation. Unlike other supports though she can offer the full benefits of her kit without worrying about how fast she is compared to the rest of her team. Because of this until you achieve her Break requirements Speed is a lower priority.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"BREAK EFFECT:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Thanks to Ruan's bonus ability - Candle Lights on Still Waters - she gains up to 36% increased damage for the whole team when at 180% Break Effect or higher. Ensuring this is the case is your number 1 priority when building Ruan. More Break Effect than this is still helpful, it will boost Ruan's damage contribution in fights offering even higher burst damage allowing for incredibly easy removal of smaller enemies thanks to her talent.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Energy Recharge:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"To consistently achieve a 4-action rotation when using her Signature, Ruan requires an Energy Recharge rope, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When using S5 Meshing Cogs or S5 Memories of the Past to consistently gain a 3-action rotation it's also required,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Due to the power of her Ultimate, gaining Energy Recharge where it makes sense for your build and team comps is advised.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "relicsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Messenger Traversing Hackerspace + Thief of Shooting Meteor\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A good combination of Speed and Break Effect - both stats that Ruan Mei wants.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Thief of Shooting Meteor\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you can't hit the required Break Effect (180%), use the 4-piece set.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Watchmaker's Telescoping Lens\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A great set that will make it easier to hit the Break Effect requirement and further help the team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Messenger Traversing Hackerspace \",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot set for Ruan Mei if you can hit the Break Effect cap from the sub-stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Messenger Traversing Hackerspace + Longevous Disciple\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Exchanges the Speed buff for more survivability and also in some Speed-tuned teams you might prefer this combination over 4-pc Hackerspace.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[],\"nodeType\":\"hr\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If using Signature Light Cone:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Fleet of The Ageless\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot set when the attacker you pair with Ruan needs ATK.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Broken Keel\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot set when the attacker you pair with Ruan needs Crit DMG, but with the sub-stat requirements being pretty harsh it may be hard to obtain 30% Effect Res to activate the bonus.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Talia: Kingdom of Banditry\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you're struggling with reaching the Break Effect cap, the set will help you, but keep in mind that it's not stamina-efficient to farm it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If not using Signature Light Cone:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Penacony, Land of Dreams\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot set when the attacker you pair with Ruan belongs to the same element.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When using S5 Meshing Cogs or Memories of the Past if you wish to ensure you always get a 3-action rotation (without getting hit) Penacony is recommended. Most endgame fights feature high-frequency single target and AoE hits to remedy this issue though so they only required for min-maxing consistency.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Talia: Kingdom of Banditry\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you're struggling with reaching the Break Effect cap, the set will help you, but keep in mind that it's not stamina-efficient to farm it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "130301",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "130302",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "130303",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "130304",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "130307",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Support",
+    "affiliation": "Herta Space Station",
+    "rarity": "5",
+    "element": "Ice",
+    "path": "Harmony",
+    "stats": {
+        "hp_base": 147.84,
+        "def_base": 66,
+        "atk_base": 89.76,
+        "speed_base": 104
+    },
+    "ascensionMaterials": {
+        "mats_1": "immortal-scionette",
+        "mats_2": "immortal-aeroblossom",
+        "mats_3": "gelid-chitin",
+        "mats_4": "immortal-lumintwig"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "47",
+            "name": "Ruan Mei",
+            "upgrade1Name": "Neuronic Embroidery",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While the Ultimate's field is deployed, the DMG dealt by all allies ignores \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the target's DEF.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Reedside Promenade",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With Ruan Mei on the field, all allies increase their ATK by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" when dealing DMG to enemies with Weakness Break.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Viridescent Pirouette",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Chatoyant \u00c9clat",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When an enemy target's Weakness is Broken, Ruan Mei's Break Effect increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Languid Barrette",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Sash Cascade",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Extends the duration of the Ultimate's field by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turn(s). The Talent's Break DMG multiplier additionally increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"200%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "jingliu",
+            "notes": "Jingliu gains a tremendous amount of ATK% for free in her kit and prefers supports that instead offer DMG% or other debuffs. Ruan has no ATK% buffs but has massive amounts of %DMG and Penetration making her an ideal partner for Jingliu and her teams. As a bonus, Ruan has no issues synergizing with Jingliu's other top potential teammates Blade and Bronya."
+        },
+        {
+            "character": "kafka",
+            "notes": "Kafka and her teams take advantage of DoT-based Break Effects and Ruan's ability to make them occur more quickly and more powerful thanks to her Break Effect and efficiency on top of her excellent buffs makes her a strong alternative to Asta for double damage Kafka teams."
+        },
+        {
+            "character": "blade",
+            "notes": "Blade scales off HP% and cannot make use of ATK% for the most part limiting his support options and severely hindering his potential. Ruan offers no ATK% buffs and offers the rarer and more powerful DMG% and Penetration granting Blade a much-needed teammate option."
+        },
+        {
+            "character": "xueyi",
+            "notes": "Ruan grants the entire team Break Effect which Xueyi can transform into DMG% thanks to her bonus ability. She also deals additional damage based on how much Toughness she depletes from enemies which is amplified by Ruan's Break Efficiency allowing her to ramp up her entangle and follow up damage faster. While these bonuses are nice, Ruan also delays enemies on top of Xueyi's already huge Quantum delay upon Break meaning she'll have longer to wait to get back to launching follow-up attacks and her next Quantum Entanglement - this combo is still one to watch out for in break focused teams though."
+        },
+        {
+            "character": "himeko",
+            "notes": "Upon breaking enemies, Himeko launches her follow-up attack dealing impactful AoE damage and further toughness damage to enemies sometimes creating a chain reaction. Thanks to Ruan's break efficiency, Himeko can pull off this combo more quickly and easily on enemies. Similar to Xueyi though after breaking enemies they will be delayed lowering the potential frequency this combo can be pulled off."
+        },
+        {
+            "character": "luocha",
+            "notes": "Ruan Mei offers an immense amount of Ice Break damage whenever ANY enemy is broken by any of your teammates on top of whatever break damage is already dealt. This Ice break damage allows healers like Luocha to significantly weaken or sometimes take out weak enemies by breaking them with their AoE ultimate (assuming your Ruan has enough Break Effect). Breaking enemies with Ruan present more frequently will also offer far greater defensive benefits thanks to her additional delay boosting survivability as a result."
+        },
+        {
+            "character": "fu-xuan",
+            "notes": "Same as Luocha."
+        },
+        {
+            "character": "silver-wolf",
+            "notes": "Breaking enemies is essential to Ruan's kit and Silver Wolf has excellent personal Break and also implants a weakness allowing the rest of your team to Break regardless of typing, improving Ruan's usability in non-ice weak fights. Defence shred and Res Shred both amplify break damage which applies to Ruan's Break damage from her ultimate and talent improving her damage potential."
+        },
+        {
+            "character": "pela",
+            "notes": "Offers res shred (at E4) and DEF shred boosting Ruan's Break damage but also spectacular AoE Ice break capable of triggering Ruan's talent on smaller enemies incredibly often weakening them or in many cases eliminating them immediately."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Increases Break Effect by <b>20%</b> for all allies.",
+            "name": "Inert Respiration"
+        },
+        {
+            "req": "A4",
+            "desc": "Ruan Mei regenerates <b>5</b> Energy at the start of her turn.",
+            "name": "Days Wane, Thoughts Wax"
+        },
+        {
+            "req": "A6",
+            "desc": "In battle, for every <b>10%</b> of Ruan Mei's Break Effect that exceeds 120%, her Skill additionally increases allies' DMG by <b>6%</b>, up to a maximum of <b>36%</b>.",
+            "name": "Candle Lights on Still Waters"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Ruan Mei is an exceptional support character\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". She is able to effortlessly buff the whole team\u2019s DMG and increase everyone\u2019s \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Break Efficiency with her Skill, something no other character is currently able to do.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Her Ultimate increases all allies\u2019 RES PEN and is able to delay the enemies again once their Weakness Break ends. She\u2019s even got free bonus Break damage from her Talent that activates whenever allies Break an enemy, and the Talent itself provides a small but permanent SPD boost to all other characters in the party.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The definitely sane, definitely not megalomaniacal Genius Society member, Ruan Mei, is a fairly ridiculous character in the game. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"She is our very first support character to increase the Weakness Break Efficiency of characters; you know that one Nihility blessing in the Simulated Universe? Night Beyond Pyre, the one that increases Break Efficiency by 30%? \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Yeah, well, Ruan Mei can increase that by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" and also have it permanently active.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ruan Mei\u2019s Skill gives her a buff called Overtone, lasting for 3 turns. This ticks down at the start of her turn. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"While she has Overtone, all allies\u2019 DMG increases by 32% and Weakness Break Efficiency increases by 50%.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This is kind of absurd already given that the application of this buff is entirely effortless, and having it last for 3 turns means that Ruan Mei has plenty of time to recover the SP she spent setting it up and then some. Weakness Break Efficiency is exceedingly powerful. Enemies take slightly reduced damage from all sources while they are not Broken, and this gets removed once they do get Broken, so if you\u2019ve ever wondered why a Broken enemy seems to be taking so much more damage, this is why.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Usually, there is not a large window of opportunity to take advantage of this state, and it may be preferable to hold off on using big hitting abilities until after the enemy has recovered from Break so as to resume dealing Toughness damage. With this Skill\u2019s effects active, you not only get enemies into that state faster, but it\u2019s easier to repeatedly get them to that state even with weaker hitting attacks, meaning you\u2019re more able to land those huge hits during the enemies\u2019 most vulnerable period.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Ruan Mei\u2019s Ultimate deploys a field for 2 turns, and this also ticks down at the start of her turn. While the field is active, all allies get 25% All-Type RES PEN.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" If you\u2019ve been around for a while, or if you\u2019re an avid user of Seele, you should understand how rare and powerful Resistance Penetration is by now. 25% is ridiculous, and with a 2-turn duration based on \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"Ruan Mei\u2019s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turns, it\u2019s extraordinarily easy to abuse this to the player\u2019s benefit with faster characters or with turn manipulation.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In addition to this, ally attacks within the field apply a debuff to enemies called Thanatoplum Rebloom to enemies they hit. This effect triggers when an enemy attempts to recover from Weakness Break, extending their Weakness Break and delaying their action by 20% of Ruan Mei\u2019s Break Effect plus 10%. This re-Break will also deal 50% of Ruan Mei\u2019s Ice Break DMG. This works in tandem with her Skill to just bully enemies; you Break them faster with the Break Efficiency and then get to keep them Broken for longer, all while benefiting from the DMG bonuses and RES PEN. Important to note that Thanatoplum Rebloom can only trigger again after the enemy has fully recovered from Weakness Break.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The buffs she provides are already highly impressive even without considering the bonus provided by the Break extension, but with her Talent she provides even more benefits, and she can even contribute some damage of her own. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"She permanently increases all other teammates\u2019 SPD by 10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and whenever an ally Breaks an enemy, Ruan Mei will instantly deal damage equal to 120% of her Ice Break DMG. This is not a follow-up attack, this damage is inflicted alongside the Break damage of the ally inflicting Break.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A 10% SPD boost is just about enough to be significant and to meet specific SPD thresholds for characters. However, being able to contribute Break damage without even needing to be the one to Break enemies is ridiculously good, especially as it\u2019s actually a higher multiplier if you let other allies do it for you; this solves the biggest problem with building for Break Effect which is that if you\u2019re not the one to Break enemies, that stat is functionally useless for you. For Ruan Mei, this is most assuredly not the case, so don\u2019t be surprised to be seeing light blue damage numbers in the five-digit range showing up alongside Breaks later on.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It\u2019s clear by now that Ruan Mei benefits the Break playstyle significantly and also benefits from Break Effect% herself as she has so many ways to utilise it. With her Bonus Ability Traces, Ruan Mei reaches a new height that makes her supportive capabilities begin to approach the omnipresent power of Bronya. A2 increases all allies\u2019 Break Effect by 20%, and A4 will regenerate 5 Energy for Ruan Mei at the start of her turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"A6 is where the big money is; in combat, for every 10% Break Effect that Ruan Mei has that exceeds 120%, her Skill\u2019s DMG bonus increases by an additional 6%, up to a maximum of 36% extra\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". That means that if you can reach at least 180% Break Effect, Ruan Mei\u2019s Skill is now providing a ridiculous 68% DMG bonus to all allies \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"in addition\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" to its already powerful 50% Break Efficiency. While it is no small feat to achieve such a high Break Effect stat, the mere fact that it\u2019s possible to do so puts Ruan Mei\u2019s supportive capabilities right at the top alongside Bronya and Tingyun.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Eidolon-wise, it\u2019s complete overkill in all cases. E1 is great value because it also gives allies a 20% DEF ignore during the Ultimate, but again, it\u2019s opulence to excess.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Ruan Mei\u2019s buffs all play extremely well with other Harmony supports due to not affecting ATK at all \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"and\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" having two different buffs that fully stack with one another.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Combine her with Asta or Hanya and you\u2019ll supercharge a damage dealer and make them a speed demon, or combine her with Tingyun and make a damage dealer\u2019s Ultimate frequent and absurd. You can even just use her alongside Bronya and have what is likely to be the new defacto strongest hypercarry setup in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Ruan Mei is also very good at facilitating double carry comps, overtaking Asta in that regard, as being able to buff everyone on the team with no effort means that it\u2019s quite easy to keep two damage dealers strong throughout a fight, especially with Ruan Mei\u2019s excellent SP economy. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"This means that in Kafka DoT teams and Topaz follow-up teams, Ruan Mei is poised to be the leading lass in terms of Harmony supports, and the improvement from including her will be extremely stark.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Usually, I talk about support characters\u2019 damage contribution as \u2018non-negligible\u2019 meaning it\u2019s a nice addition to have. Just by being in the team and being well-invested, Breaking of smaller enemies will cause them to simply explode into confetti, again by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"simply being in the party.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" The defensive benefits of Breaking enemies quickly and keeping them Broken for longer also cannot be understated, and she can end up greatly assisting lower investment sustain options to keep up by uhh, lemme check my notes here\u2026 \u2018Murdering things before they can murder you.\u2019 Yeah that sounds about right.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The one truly big downside of Ruan Mei is the obscene investment she demands to reach her peak. As stated earlier, reaching 180% Break Effect is extremely challenging, even with sacrificing your Link Rope. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Even if you do reach that amount or close to it, you\u2019ll likely be sacrificing a fair few defensive substats as well, so this is something you need to account for, even if it is partially solved by the increase in Break frequency she provides. Outside of her signature, her Light Cone options are also fairly dismal all things considered, so this should also be taken into account.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With how Ruan Mei and Xueyi\u2019s kits are designed, it seems to be pointing at a potential shift in what is considered strong or even possible; the focus on Break for both of these characters is somewhat suspect, and I\u2019d advise keeping a close eye on the progression of Ruan Mei over time. Even without that potential future, Ruan Mei is a powerhouse of a Harmony unit, and you can\u2019t go wrong by trying to obtain her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Also, stop it, you can\u2019t fix her. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"Stop it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Provides the first-ever instance of Break Efficiency, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rare RES PEN buff for the whole team, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Permanent teamwide SPD buff, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Near permanent uptime on all buffs, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Incredible damage contribution, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Universally applicable buffs, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The best buffer for dual-dps teams (especially DoT teams with Kafka),\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Strong defensive utility with increased Breaking.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely steep investment requirement to reach her full potential, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Delaying enemies may not be ideal for certain characters, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Break Damage can 'kill steal' which isn't that great for damage dealers that rely on last-hitting enemies (like Seele),\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Accessible Light Cone options are pants.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3700 - 5000\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1000 - 1100+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"109 / 121 / 134 (Recommended)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration Rate\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\": 119.44%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Break Effect\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\": \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"180%+ (with A2 active)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Emi Lo",
+        "kr": "\uc724\uc5ec\uc9c4 (Yoon Yeo-jin)",
+        "jpn": "\u5927\u897f\u6c99\u7ec7 (Onishi Saori)",
+        "cn": "\u5f20\u6587\u94b0 (Zhang Wenyu)"
+    },
+    "ratings": {
+        "moc": "11",
+        "moc_special": "11",
+        "pure": "11",
+        "pure_special": "11",
+        "apo": "11",
+        "apo_special": "11"
+    },
+    "energyUltimate": "130",
+    "conesNew": [
+        {
+            "cone": "past-self-in-mirror",
+            "super": "1",
+            "percent": "-",
+            "notes": "Offers an extreme amount of Break Effect and DMG% increase for allies on top of also generating skill points and energy for the team. Limits Ruan Mei's rotation somewhat compared to energy lightcone options but makes up for it with all other effects."
+        },
+        {
+            "cone": "memories-of-the-past",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers 8 energy per attacking action at S5 making it equivalent to Meshing Cogs but with better base stats and a large amount of Break Effect. Does not have the 8 energy when taking damage compared to its alternative though which makes it less effective at achieving the shortest rotations possible. The energy from this Cone enables a 3-action ultimate and the break effect is invaluable for hitting 180% on Ruan."
+        },
+        {
+            "cone": "meshing-cogs",
+            "super": "5",
+            "percent": "-",
+            "notes": "A F2P Accessible Cone with poor base stats but which grants the wearer an additional 8 energy per attacking action they perform. Also grants another 8 energy whenever they receive damage from an enemy action. The combination of both energy effects can drastically reduce the required actions per ultimate for most supports. Enables a 3 action rotation but without any Break Effect% can be challenging to cap Ruan Mei's 180% break requirement."
+        },
+        {
+            "cone": "carve-the-moon-weave-the-clouds",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers one of three random buffs that rotates throughout combat. A fine option when no other alternatives are available but often overshadowed by other more consistent or powerful harmony Cone options."
+        },
+        {
+            "cone": "dance-dance-dance",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a 24% action advance for the entire team when the user activates their ultimate. Not recommended for characters that rely on specific speed tuning in relation to the rest of the team but excellent for all other characters. Ruan Mei can make use of this Cone at the cost of Energy Generation and Break Effect."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Watchmaker, Master of Dream Machinations",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Watchmaker, Master of Dream Machinations",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Thief of Shooting Meteor",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Talia: Kingdom of Banditry",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "echoes-of-the-coffin",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                },
+                {
+                    "stat": "Break Effect"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "comments": "Stack Break Effect until 180%. Aim for a desirable Speed breakpoint next (134 minimum recommended). After achieving these goals stack more Break Effect to improve Ruan's burst damage or invest in more Speed or DEF% and HP% to make her more durable.",
+            "substats": "Break Effect (Until 180%) > SPD (Until Breakpoint) > HP% = DEF% > Effect RES (30% if using Broken Keel)",
+            "skill_priority": "Ultimate = Talent = Skill > Basic",
+            "traces_priority": "Candle Lights on Still Waters (A6) > Inert Respiration (A2) > Days Wane, Thoughts Wax (A4)",
+            "name": "Default"
+        }
+    ],
+    "videos": [
+        {
+            "video": "-MeEjecLhEI"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Jingliu Hypercarry",
+            "member_1": "jingliu",
+            "member_2": "ruan-mei",
+            "member_3": "bronya",
+            "member_4": "luocha"
+        },
+        {
+            "name": "Kafka Dual DPS",
+            "member_1": "kafka",
+            "member_2": "sampo",
+            "member_3": "ruan-mei",
+            "member_4": "huohuo"
+        },
+        {
+            "name": "Blade Hypercarry",
+            "member_1": "blade",
+            "member_2": "ruan-mei",
+            "member_3": "bronya",
+            "member_4": "luocha"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "def",
+            "value": 22.5
+        },
+        "traceStat2": {
+            "stat": "speed",
+            "value": 5
+        },
+        "traceStat3": {
+            "stat": "Break Effect",
+            "value": 37.3
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Amplifier",
+    "releaseDate": "December 27th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "Break",
+        "Buff",
+        "Delay"
+    ]
+}

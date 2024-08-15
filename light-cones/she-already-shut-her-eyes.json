@@ -1,0 +1,58 @@
+{
+    "id": "0ff107ee-4e9a-5fd7-b999-881b2391d152",
+    "updatedAt": "2023-09-19T15:12:35.885Z",
+    "createdAt": "2023-08-18T13:49:47.373Z",
+    "coneId": 91,
+    "name": "She Already Shut Her Eyes",
+    "slug": "she-already-shut-her-eyes",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/1b4a8facf974b2d21a064e62b51a770f/bf8e1/91_sm.png",
+                            "srcSet": "/static/1b4a8facf974b2d21a064e62b51a770f/914ee/91_sm.png 32w,\n/static/1b4a8facf974b2d21a064e62b51a770f/1c9ce/91_sm.png 64w,\n/static/1b4a8facf974b2d21a064e62b51a770f/bf8e1/91_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/1b4a8facf974b2d21a064e62b51a770f/ef6ff/91_sm.webp 32w,\n/static/1b4a8facf974b2d21a064e62b51a770f/8257c/91_sm.webp 64w,\n/static/1b4a8facf974b2d21a064e62b51a770f/6766a/91_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "September 20th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "57",
+            "value_level_max": "1270"
+        },
+        "atk": {
+            "value_level_1": "19",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "24",
+            "value_level_max": "529"
+        }
+    },
+    "skillName": "Visioscape",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's Max HP by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"24/28/32/36/40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" and Energy Regeneration Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"12/14/16/18/20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When the wearer's HP is decreased, increases the DMG of all allies by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"9/10.5/12/13.5/15%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for 2 turns. At the beginning of each wave, restores HP equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"80/85/90/95/100%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of HP already lost by the character themselves for team.\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

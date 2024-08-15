@@ -1,0 +1,60 @@
+{
+    "id": "be019c9d-da0d-5d85-b418-330a0db3c52a",
+    "updatedAt": "2023-04-25T18:43:51.831Z",
+    "createdAt": "2023-02-17T08:10:30.872Z",
+    "coneId": 46,
+    "name": "Woof! Walk Time!",
+    "slug": "woof-walk-time",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/bd52ad176b64a86ae3286585483c4a74/bf8e1/46_sm.png",
+                            "srcSet": "/static/bd52ad176b64a86ae3286585483c4a74/914ee/46_sm.png 32w,\n/static/bd52ad176b64a86ae3286585483c4a74/1c9ce/46_sm.png 64w,\n/static/bd52ad176b64a86ae3286585483c4a74/bf8e1/46_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/bd52ad176b64a86ae3286585483c4a74/ef6ff/46_sm.webp 32w,\n/static/bd52ad176b64a86ae3286585483c4a74/8257c/46_sm.webp 64w,\n/static/bd52ad176b64a86ae3286585483c4a74/6766a/46_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Mission Reward",
+        "Forgotten Hall Store",
+        "Echo of War"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Run!",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's ATK by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10/12.5/15/17.5/20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and increases their DMG to enemies afflicted with Burn or Bleed by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/20/24/28/32\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This also applies to DoT.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

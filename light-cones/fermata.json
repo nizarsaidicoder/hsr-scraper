@@ -1,0 +1,59 @@
+{
+    "id": "8d279a66-b526-5900-8110-8a62036c4cee",
+    "updatedAt": "2023-05-07T09:45:25.559Z",
+    "createdAt": "2023-04-27T13:58:21.000Z",
+    "coneId": 74,
+    "name": "Fermata",
+    "slug": "fermata",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#b8a8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b38cf8ad2ac154feda9c2f67a011924a/bf8e1/74.png",
+                            "srcSet": "/static/b38cf8ad2ac154feda9c2f67a011924a/914ee/74.png 32w,\n/static/b38cf8ad2ac154feda9c2f67a011924a/1c9ce/74.png 64w,\n/static/b38cf8ad2ac154feda9c2f67a011924a/bf8e1/74.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/b38cf8ad2ac154feda9c2f67a011924a/ef6ff/74.webp 32w,\n/static/b38cf8ad2ac154feda9c2f67a011924a/8257c/74.webp 64w,\n/static/b38cf8ad2ac154feda9c2f67a011924a/6766a/74.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Forgotten Hall Store",
+        "Echo of War"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Semibreve Rest",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the Break Effect dealt by the wearer by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/20/24/28/32\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and increases their DMG to enemies afflicted with Shock or Wind Shear by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/20/24/28/32\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This also applies to DoT.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

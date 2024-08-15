@@ -1,0 +1,58 @@
+{
+    "id": "6fa4eb28-10a6-5358-a7d6-6445dcbe34fd",
+    "updatedAt": "2023-04-25T18:45:23.917Z",
+    "createdAt": "2023-01-27T13:42:59.089Z",
+    "coneId": 33,
+    "name": "Swordplay",
+    "slug": "swordplay",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/68ff0c5fe7ed671b1ce0191f0109e4c4/bf8e1/33_sm.png",
+                            "srcSet": "/static/68ff0c5fe7ed671b1ce0191f0109e4c4/914ee/33_sm.png 32w,\n/static/68ff0c5fe7ed671b1ce0191f0109e4c4/1c9ce/33_sm.png 64w,\n/static/68ff0c5fe7ed671b1ce0191f0109e4c4/bf8e1/33_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/68ff0c5fe7ed671b1ce0191f0109e4c4/ef6ff/33_sm.webp 32w,\n/static/68ff0c5fe7ed671b1ce0191f0109e4c4/8257c/33_sm.webp 64w,\n/static/68ff0c5fe7ed671b1ce0191f0109e4c4/6766a/33_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Answers of Their Own",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"For each time the wearer hits the same target, DMG dealt increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8/10/12/14/16%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", stacking up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s). \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"This effect will be dispelled when the wearer changes targets.\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

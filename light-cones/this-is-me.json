@@ -1,0 +1,58 @@
+{
+    "id": "4a1c2505-991b-5c33-8390-8c8076fff440",
+    "updatedAt": "2023-04-25T18:43:51.744Z",
+    "createdAt": "2023-02-17T08:31:48.710Z",
+    "coneId": 50,
+    "name": "This Is Me!",
+    "slug": "this-is-me",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/a1dc853200a37a6c0d2cb90edb432af4/bf8e1/50_sm.png",
+                            "srcSet": "/static/a1dc853200a37a6c0d2cb90edb432af4/914ee/50_sm.png 32w,\n/static/a1dc853200a37a6c0d2cb90edb432af4/1c9ce/50_sm.png 64w,\n/static/a1dc853200a37a6c0d2cb90edb432af4/bf8e1/50_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/a1dc853200a37a6c0d2cb90edb432af4/ef6ff/50_sm.webp 32w,\n/static/a1dc853200a37a6c0d2cb90edb432af4/8257c/50_sm.webp 64w,\n/static/a1dc853200a37a6c0d2cb90edb432af4/6766a/50_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Nameless Glory"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "529"
+        }
+    },
+    "skillName": "New Chapter",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's DEF by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/20/24/28/32\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Increases the DMG of the wearer when they use their Ultimate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/75/90/105/120\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the wearer's DEF. This effect only apply 1 time per enemy target.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

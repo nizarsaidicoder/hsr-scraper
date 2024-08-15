@@ -1,0 +1,435 @@
+{
+    "id": "7b38ce5a-0c5a-55e2-9112-863a72fa1013",
+    "updatedAt": "June 27th, 2024",
+    "createdAt": "2023-01-25T17:27:27.359Z",
+    "unitId": 9,
+    "name": "Arlan",
+    "slug": "arlan",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/be47706d98abd13b49d629e53540c269/e9a79/9_sm.png",
+                            "srcSet": "/static/be47706d98abd13b49d629e53540c269/f31ef/9_sm.png 40w,\n/static/be47706d98abd13b49d629e53540c269/1f8a1/9_sm.png 80w,\n/static/be47706d98abd13b49d629e53540c269/e9a79/9_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/be47706d98abd13b49d629e53540c269/e73fe/9_sm.webp 40w,\n/static/be47706d98abd13b49d629e53540c269/61ca6/9_sm.webp 80w,\n/static/be47706d98abd13b49d629e53540c269/60b4d/9_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/a9ee487923945376b54d295123f2bbf4/c9885/1008.png",
+                            "srcSet": "/static/a9ee487923945376b54d295123f2bbf4/2aab7/1008.png 94w,\n/static/a9ee487923945376b54d295123f2bbf4/0a986/1008.png 187w,\n/static/a9ee487923945376b54d295123f2bbf4/c9885/1008.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/a9ee487923945376b54d295123f2bbf4/84550/1008.webp 94w,\n/static/a9ee487923945376b54d295123f2bbf4/34f80/1008.webp 187w,\n/static/a9ee487923945376b54d295123f2bbf4/b26e2/1008.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ecef0bbb16cd6aba72101a795fe08e93/3c5dc/9_full.png",
+                            "srcSet": "/static/ecef0bbb16cd6aba72101a795fe08e93/ca8fd/9_full.png 200w,\n/static/ecef0bbb16cd6aba72101a795fe08e93/de50c/9_full.png 400w,\n/static/ecef0bbb16cd6aba72101a795fe08e93/3c5dc/9_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ecef0bbb16cd6aba72101a795fe08e93/213b2/9_full.webp 200w,\n/static/ecef0bbb16cd6aba72101a795fe08e93/413c5/9_full.webp 400w,\n/static/ecef0bbb16cd6aba72101a795fe08e93/cf6d0/9_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The inarticulate head of Herta Space Station's Security Department. While scientific research is beyond his understanding, Arlan is willing to risk his life to protect the staff who value research so very much. He is used to the pain and wears his scars like badges of honor.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Only when holding Peppy does the boy finally let down his guard and show a rare smile.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "100801",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "100802",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "100803",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": "60"
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "100804",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "100807",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Herta Space Station",
+    "rarity": "4",
+    "element": "Lightning",
+    "path": "Destruction",
+    "stats": {
+        "hp_base": 163.2,
+        "def_base": 45,
+        "atk_base": 81.6,
+        "speed_base": 102
+    },
+    "ascensionMaterials": {
+        "mats_1": "extinguished-core",
+        "mats_2": "glimmering-core",
+        "mats_3": "lightning-crown-of-the-past-shadow",
+        "mats_4": "squirming-core"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "9",
+            "name": "Arlan",
+            "upgrade1Name": "To the Bitter End",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When HP is lower than or equal to 50\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of Max HP, increases Skill's DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Breaking Free   ",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Using Skill or Ultimate removes 1 debuff from oneself.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Power Through ",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Turn the Tables     ",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When struck by a killing blow after entering battle, instead of becoming knocked down, Arlan immediately restores his HP to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of his Max HP. This effect is automatically removed after it is triggered once or after \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s) have elapsed.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Hammer and Tongs ",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Self-Sacrifice",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When HP drops to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" or below, Ultimate deals \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" more DMG. The DMG multiplier of DMG taken by the target enemy now applies to adjacent enemies as well.\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "If the current HP percentage is 30% or lower when defeating an enemy, immediately restores HP equal to <b>20%</b> of Max HP.",
+            "name": "Revival"
+        },
+        {
+            "req": "A4",
+            "desc": "The chance to resist DoT Debuffs increases by <b>50%</b>.",
+            "name": "Endurance"
+        },
+        {
+            "req": "A6",
+            "desc": "Upon entering battle, if Arlan's HP is less than or equal to 50%, he can nullify all DMG received except for DoT until after he is attacked.",
+            "name": "Repel"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Arlan is a primarily single-target damage dealer that consumes health to deal damage instead of consuming Skill Points. His Ability multipliers are decently high, especially for a 4-star, but they come at the cost of needing to juggle Arlan\u2019s health for damage and survivability without Arlan having really any way of accommodating this himself.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Arlan is odd, and a little misunderstood. He\u2019s definitely not the best unit in the game, to put it lightly, but he\u2019s often written off completely as \u2018unusable\u2019. Look I\u2019m going to level with you right off the bat, unless you quite literally have nobody else to level up, I \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"guarantee\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" you have better options to spend your extremely valuable and limited resources on. Arlan definitely has real use-cases but is overshadowed by other characters \u2014 not because he doesn\u2019t perform well in those scenarios, but because he simply requires too many things to facilitate his gameplay.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Arlan\u2019s Skill deals up to 240% ATK to a single enemy and consumes 15% of Arlan\u2019s Max HP. If he doesn\u2019t have enough HP, his health will be set to 1 when using Skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Two things to note here; the first is that while the actual text for Arlan\u2019s Skill says \u2018his HP will be reduced to 1\u2019 if he doesn\u2019t have enough health, it does in fact \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"set\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" his HP to 1 as mentioned previously, meaning that he may continue to use his Skill at no further penalty when he is already at 1 HP. The second thing to note is that this HP cost is \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"in place of\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" a Skill Point cost, meaning Arlan is quite literally incapable of using Skill Points for the purposes of any mechanics or interactions involving their consumption.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Arlan\u2019s Ultimate is a Blast AoE that deals up to 320% ATK to the primary target and 160% to adjacent. It\u2019s a fairly low-cost Ultimate requiring only 110 Energy. It has a pretty substantial multiplier considering its cost as well.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Arlan\u2019s Talent is what is supposed to be the reward for staying at lower HP values. Arlan\u2019s DMG increases for every percent below his Max HP up to a maximum bonus of 72% more DMG. This coupled with his surprising Ability multipliers should lead to pretty astounding damage in total, and this is partly true\u2026 The issue is that maintaining Arlan at low HP values is actually rather challenging without him immediately dying thereafter.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This immediately leads to the next issue; Arlan\u2019s base stats are bloody awful, haha. I laugh to hide the pain, naturally, but this guy unironically has the worst DEF of literally any character, and \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"he\u2019s\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" the one they chose to be the berserker archetype. Oof, talk about getting done dirty. His ATK isn\u2019t the worst but it\u2019s also fairly low for a character like his, and the fact that his HP is the one that\u2019s above average is just another slap to the face.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Let me elaborate. When a character is all about consuming their own HP, the way in which they do it determines which defensive stat is worth more to them, out of HP or DEF. If the HP consumption is a flat amount, then having more HP will greatly offset the cost. However, if the HP consumption is via a fixed percentage of the character\u2019s Max HP as is the case with Arlan, then DEF far outweighs HP because having more HP will just see the char burn through it faster. So for Arlan to have above-average base HP only to have the worst DEF stat of any character in the game is\u2026 Just why though?\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"His Minor Traces are equally questionable, giving him HP boosts again instead of DEF. The Major Ability Traces attempt to alleviate some of the pain of managing his playstyle but don\u2019t really end up doing too much in practice. His A2 will restore 20% Max HP to Arlan upon killing an enemy if his current percentage is at or below 30%. This is the only HP restore in Arlan\u2019s entire kit, leading me to say very clearly that Arlan is an expert at throwing his life away and struggles immensely to regain it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A4 grants a passive 50% chance to resist DoT debuffs. This is only for the initial application of the debuff, it does exactly jack if you\u2019re already afflicted with the DoT. A6 essentially grants a damage barrier to Arlan if he enters battle with 50% or less HP, similar to what the Automaton Beetles have. This would have been a fantastic thing to have if you were ever actually able to utilise it at the endgame; you just never have the option of doing so, and Arlan\u2019s technique doesn\u2019t consume HP either.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With Eidolons, Arlan\u2019s respectable damage goes up even higher, but regrettably, none of his issues with survivability get meaningfully solved. E1 gives a 10% DMG boost to his Skill if executed at or below 50% HP. E2 is actually quite useful at removing pesky debuffs like ATK downs or Guardian Shadow\u2019s Bans, but ironically does nothing against crowd control, since you actually need to be able to act to take advantage of this. E4 is also questionable as it gives Arlan a second chance after being knocked down but this only works for 2 turns after the battle has begun, disappearing into that good night if it\u2019s not used prior to that point.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"E6 is actually very notable. At or below 50% HP, his Ultimate will gain 20% DMG, and the DMG multiplier of the Blast AoE portion will be boosted up to the same amount as the primary target. This means his Ultimate is now dealing 320% ATK to 3 enemies, becoming a very potent AoE attack. Combined with the Ability Trace boosts from his E3 and E5, Arlan\u2019s Ultimate actually becomes pretty absurd.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Now, at this stage I should reiterate that Arlan can do some very astonishing damage if he\u2019s well invested, and especially at E6. I will also reiterate that the damage has never been the issue with Arlan. The reason so many bemoan the nerfs Arlan received upon the game\u2019s launch compared to his performance in the final closed beta test is not because his damage is suddenly in the dumpster, it\u2019s because it feels like it\u2019s no longer justified by the rest of his kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you\u2019re looking to make use of Arlan, your main goal is making sure that he does not die before the enemy. You are essentially automatically signing up for a battle of attrition and the perfect defensive character does not yet exist for Arlan. Because of this, and his desire to stay at low HP values to max out his Talent, you are bottlenecked into using either March 7th or Gepard as the team\u2019s sustain. Arlan needs very beefy shields to stay alive, because when you\u2019re permanently at 1 HP, a sneeze will off you, let alone any of the nonsense moves like Decaying Shadow\u2019s \u2018sagacious discernment\u2019. Stacking defensive units will improve Arlan\u2019s survivability but will negatively impact the team\u2019s overall damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because of Arlan\u2019s inability to use SP, he makes for a great second damage dealer on a team, contributing a surprising amount of damage without needing much in the way of buffs due to his Talent already providing a large amount of percent DMG. Double carry teams are not exactly chic right now, even in the wake of Ruan Mei\u2019s release, but especially if you\u2019re covering for Elemental Weaknesses, this can be a very good way to make use of Arlan.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"You could also play Arlan as a hypercarry, again due to his quite impressive damage multipliers, though keep in mind that his desire for SPD can be questionable at best \u2014 a faster Arlan means he\u2019ll burn through shields quicker as well, so you need to make sure that your shielder is fast enough to be able to reapply those shields in a pinch. This also unfortunately rules out Bronya almost immediately since her Action Advance will just massacre any shields Arlan has on him.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you are able to circumvent these issues for yourself and actually put Arlan to good use, you may be surprised by his performance. The unfortunate thing is that for the same amount of effort, you could play any of the other 4-star characters available to you, and last I checked, none of them seem so eager to maim themselves.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"But I\u2019ll end it with this; \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"I\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" like him. I even prefer him to Serval in a lot of cases. Do with this information what you will.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Doesn\u2019t consume SP to deal damage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High Ability multipliers, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High natural DMG from his Talent, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Scales well with Eidolons.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lowest base DEF in the game \u2014 actually paper thin, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Cannot heal himself like Blade can, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Outright requires Shields to stay alive and within optimal HP for damage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Is not a compelling character to invest in.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3100+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2400 - 2800+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60% - 70%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120% - 140%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Base Speed (H\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"yperspeed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Sparkle/Bronya) /\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 (Recommended) / 143\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Dani Chambers",
+        "kr": "\uae40\uc728",
+        "jpn": "Shiraishi Ryoko (\u767d\u77f3\u6dbc\u5b50)",
+        "cn": "Dian Tao (\u9676\u5178)"
+    },
+    "ratings": {
+        "moc": "4",
+        "moc_special": "4",
+        "pure": "4",
+        "pure_special": "4",
+        "apo": "4",
+        "apo_special": "4"
+    },
+    "energyUltimate": "110",
+    "conesNew": [
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes you maintain the full 4 attack stacks (64% ATK) at all times and maintain the weakness break bonus 50% of the time. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "the-unreachable-side",
+            "super": "1",
+            "percent": "96.41%",
+            "notes": ""
+        },
+        {
+            "cone": "under-the-blue-sky",
+            "super": "5",
+            "percent": "95.59%",
+            "notes": "Assumes to have 100% uptime of its on-kill buff at all times. In fights where this is not the case for the majority of the duration, its damage will be lower"
+        },
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "94.73%",
+            "notes": "On the Fall of An Aeon with 0% uptime is calculated assuming you maintain the full 4 attack stacks (64% ATK) at all times and the weakness break bonus is never active - which is the case in most fights the enemy is not vulnerable to the wearer of the Cone."
+        },
+        {
+            "cone": "the-moles-welcome-you",
+            "super": "5",
+            "percent": "93.29%",
+            "notes": "Assumes to have 100% uptime of all 3 components of its buff requiring a Basic ATK, Skill and Ultimate. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "a-secret-vow",
+            "super": "5",
+            "percent": "90.22%",
+            "notes": "Low life (50%)"
+        },
+        {
+            "cone": "a-secret-vow",
+            "super": "5",
+            "percent": "83.68%",
+            "notes": "Assumes to only have its base 40% damage increase active as enemies almost always have higher lower HP than your units. In fights where this is not the case and your units end up at lower HP than the enemy its performance will increase."
+        },
+        {
+            "cone": "under-the-blue-sky",
+            "super": "5",
+            "percent": "80.68%",
+            "notes": "Assumes to have 0% uptime of its on-kill buff."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Band of Sizzling Thunder",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Longevous Disciple",
+                    "relic_2": "",
+                    "value": "99.31%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Band of Sizzling Thunder",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "97.21%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "97.13%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "95.64%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "95.01%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "the-unreachable-side",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Lightning DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "This is your typical DPS build that focuses on the holy trifecta - ATK, Crit Rate, and Crit DMG. For every 1% of Crit try to have 2% of Crit DMG.",
+            "substats": "SPD (Breakpoint) > CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Skill > Ultimate = Talent > Basic",
+            "traces_priority": "Revival (A2) > Repel (A6) > Endurance (A4)",
+            "name": "General DPS"
+        }
+    ],
+    "videos": null,
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "arlan",
+            "member_2": "natasha",
+            "member_3": "trailblazer-fire",
+            "member_4": "dan-heng"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "effectRes",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": null
+}

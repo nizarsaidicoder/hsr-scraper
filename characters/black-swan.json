@@ -1,0 +1,484 @@
+{
+    "id": "4c1d9475-5283-5451-9ea9-dcd37bae9ecd",
+    "updatedAt": "July 9th, 2024",
+    "createdAt": "2023-12-12T07:51:30.516Z",
+    "unitId": 46,
+    "name": "Black Swan",
+    "slug": "black-swan",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/f3045047e4708b372aff23fe67fe63d7/e9a79/46_sm.png",
+                            "srcSet": "/static/f3045047e4708b372aff23fe67fe63d7/f31ef/46_sm.png 40w,\n/static/f3045047e4708b372aff23fe67fe63d7/1f8a1/46_sm.png 80w,\n/static/f3045047e4708b372aff23fe67fe63d7/e9a79/46_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/f3045047e4708b372aff23fe67fe63d7/e73fe/46_sm.webp 40w,\n/static/f3045047e4708b372aff23fe67fe63d7/61ca6/46_sm.webp 80w,\n/static/f3045047e4708b372aff23fe67fe63d7/60b4d/46_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/14992960920d5461f2349a25f08c7a27/c9885/46_card_1_.png",
+                            "srcSet": "/static/14992960920d5461f2349a25f08c7a27/2aab7/46_card_1_.png 94w,\n/static/14992960920d5461f2349a25f08c7a27/0a986/46_card_1_.png 187w,\n/static/14992960920d5461f2349a25f08c7a27/c9885/46_card_1_.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/14992960920d5461f2349a25f08c7a27/84550/46_card_1_.webp 94w,\n/static/14992960920d5461f2349a25f08c7a27/34f80/46_card_1_.webp 187w,\n/static/14992960920d5461f2349a25f08c7a27/b26e2/46_card_1_.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#181828",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/6558cd04ec8f4ee3f197b7c2ed9541bc/3cd29/black_full.webp",
+                            "srcSet": "/static/6558cd04ec8f4ee3f197b7c2ed9541bc/e7160/black_full.webp 250w,\n/static/6558cd04ec8f4ee3f197b7c2ed9541bc/5f169/black_full.webp 500w,\n/static/6558cd04ec8f4ee3f197b7c2ed9541bc/3cd29/black_full.webp 1000w",
+                            "sizes": "(min-width: 1000px) 1000px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 1000,
+                    "height": 1000
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A Memokeeper of the Garden of Recollection. A mysterious and elegant soothsayer. Bears a warm smile and is willing to patiently heed the words of another, and thus uses such means as a pretext to enter \\\"memories\\\" and gain a comprehension over the flow of all information. Feels strongly about collecting unique memories, yet the thoughts that guide her are hard to glean.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Body - Effect Hit Rating >= ATK%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Effect Hit Rating is recommended and in most cases required for almost every Black Swan build to reach a comfortable level of consistency. If you're able to hit 100-120% EHR without an EHR body ATK% body can be used instead.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Feet - Speed\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot for Black Swan.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar Sphere - ATK% = Wind DMG\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Either can be used - their performance is similar and which is better depends on your gear, team choice, and Light Cone,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you have many ATK% buffs from your team and Light Cone, Wind% Planar is best,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you have many DMG% buffs but few ATK% buffs, ATK% Planar is better.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Link Rope - ATK%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot for Black Swan.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for sub-stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Effect Hit Rating:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Most of Black Swan's abilities even at max trace level have a fairly low base chance to hit with the most important ones being 65% base chance at trace level 10 where most enemies in endgame have 20-40% Effect RES. Because of these points without Effect Hit Rating Black Swan is completely helpless to consistently apply her Arcana meaning it's all but mandatory in order to play her effectively. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Most enemies in endgame have 30% Effect RES and in order to guarantee most of your abilities land (assuming your Black Swan's traces are at level 10) you'll need 120% Effect Hit Rating which conveniently is the cap of her bonus ability which grants additional DMG% per point of effect hit rating. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"All endgame Black Swan builds should aim for 120% Effect Hit Rating to ensure most of her abilities land and also gain the full 72% DMG% from her bonus ability, if you're struggling to reach 120%, 100% is acceptable while you're still gearing up.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"SPEED: \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Speed as on all characters is exceptionally powerful in endgame for Black Swan and shooting for as high a Speed breakpoint as possible is advised. In addition to the extra actions Speed provides moving faster than your opponent also grants Black Swan the opportunity to stack her DoT's just that much sooner allowing for larger initial Arcana activations at the beginning of every new wave. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Focus on hitting a high breakpoint and if possible always ensuring Black Swan moves before the majority of enemies you're facing to ensure maximum damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "relicsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Prisoner in Deep Confinement\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"By far the best set for Black Swan by a large margin making it a high priority to farm when aiming to play her at the highest level. This set DEF shred bonus is easy to activate in Swan's teams and stacks absurdly well with her own kit's defense shred dramatically boosting her damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Other sets\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"All the other set combinations are simply inferior to the Prisoner one, but you can use them until you farm it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[],\"nodeType\":\"hr\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Pan-Cosmic Commercial Enterprise\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in slot for Black Swan when building her with consistency and flexibility in mind. Black Swan requires a massive amount of effect hit rating to consistently apply her DoT's in endgame and the 10% Pan-Cosmic provides is a fantastic boost - as she builds well over 100% EHR she also fully unlocks this planar sets bonus of 25% ATK.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firmament Frontline: Glamoth\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A top damaging option for Black Swan if you can acquire your required Effect Hit Rating from other sources. Endgame Black Swan builds build as much speed as possible with the minimum recommended endgame requirement being 134 which easily activates the damage bonus of this set. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The second portion of the set bonus requiring 160 speed is also accessible given enough investment especially when paired with speed boosting supports and is absolutely realistic to aim for.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Space Sealing Station\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A good easy-to-access planar set that isn't too far behind alternatives.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "130701",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "130702",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "130703",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "130704",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "130707",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": null,
+    "rarity": "5",
+    "element": "Wind",
+    "path": "Nihility",
+    "stats": {
+        "hp_base": 147.84,
+        "def_base": 66,
+        "atk_base": 89.76,
+        "speed_base": 102
+    },
+    "ascensionMaterials": {
+        "mats_1": "extinguished-core",
+        "mats_2": "glimmering-core",
+        "mats_3": "ascendant-debris",
+        "mats_4": "squirming-core"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "46",
+            "name": "Black Swan",
+            "upgrade1Name": "Seven Pillars of Wisdom",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While Black Swan is active in battle, enemies afflicted with Wind Shear, Bleed, Burn, or Shock will have their corresponding Wind, Physical, Fire, or Lightning RES respectively reduced by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Weep Not For Me, My Lamb",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When an enemy target afflicted with Arcana is defeated, there is a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" base chance of inflicting \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stack(s) of Arcana on adjacent targets.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "As Above, So Below",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "In Tears We Gift",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While in the Epiphany state, enemy targets have their Effect RES reduced by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". And at the start of their turn or when they get defeated, Black Swan regenerates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy. This Energy Regeneration effect can only trigger up to 1 time while Epiphany lasts. And this trigger count resets after the enemy gets inflicted with Epiphany again.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Linnutee Flyway",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Pantheon Merciful, Masses Pitiful",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When enemy targets get attacked by Black Swan's allies, Black Swan has a \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"65%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" base chance of inflicting 1 stack of Arcana on the target. Each time Black Swan inflicts Arcana on an enemy target, there is a \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" fixed chance to additionally increase the number of Arcana stacks afflicted this time by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "kafka",
+            "notes": "By far the best teammate for Black Swan so much so that Swan almost functions as an entirely different character when the two are paired. Kafka applies her own DoT but more importantly, can use her skill and ultimate to detonate all DoTs on the enemy dealing a portion of their damage immediately - and yes this detonation does include Black Swan's Arcana. Detonating DoTs in this way triggers Black Swan's bonus ability further stacking Arcana. Between Kafka's own DoTs and both her Detonations she can stack Swan's Arcana to far greater heights than is normal and then capitalise on those higher stacks by detonating them."
+        },
+        {
+            "character": "guinaifen",
+            "notes": "Offers Black Swan an alternative element DoT type to Wind Shear and Shock that most Black Swan teams will already have between her Arcana and Kafka's Shock allowing Swan to get more value from her bonus ability that grants additional Arcana per DoT elemental type on the enemy. While Swan's ultimate is active her Arcana is considered all DoT elemental types, including Burn, which means Guinaifen can detonate Arcana with her Ultimate further stacking the Arcana but also dealing strong AoE damage. Guinaifen also provides a damage taken increase on enemies thanks to her Firekiss which will boost Swan and her team's damage - at E1 she also lowers enemies' Effect Resistance adding in additional safety that Swan and her team's effects will land without issue."
+        },
+        {
+            "character": "sampo",
+            "notes": "Sampo provides solid damage himself but also a damage-taken increase to DoT's in the form of his ultimate which will help out Swan and her ideal team comps. At E4 Sampo truly shines as it upgrades his skill to detonate a portion of Wind Shears each bounce hits. What makes this strong is the fact that Swan's Arcana is considered Wind Shear meaning that Sampo can detonate a portion of Arcana each time he uses his skill. Sampo's E4 is a true detonation meaning that he can also apply additional Arcana stacks to all enemies he hits thanks to Swan's bonus ability."
+        },
+        {
+            "character": "ruan-mei",
+            "notes": "Provides a massive bonus to DMG% boosting Swan and all of her teammates substantially. On top of this Ruan also provides a rare AoE elemental resistance shred buff that further multiplies Black Swan and her team's damage, especially against targets that aren't already vulnerable to their elements. On top of this, Ruan boosts all other allies' Speed allowing a well-built Black Swan and Kafka to reach the coveted 161 speed breakpoint - attacking far more frequently raising MoC and Pure Fiction performance dramatically."
+        },
+        {
+            "character": "asta",
+            "notes": "Asta fills a similar role to Ruan Mei but requires more skill points in order to function at the highest level restricting Black Swan and her team options slightly. In return, Asta offers tremendous Speed and ATK% boosts both of which are incredibly powerful for Black Swan and her potential teammates making her a competitive choice and alternative to Ruan Mei - albeit a little more restrictive and less powerful. Asta also has a single target Burn she can apply with her basic attack which deals little damage but is invaluable to Black Swan allowing her to stack her Arcana on that target faster (even more so with Kafka in the team)."
+        },
+        {
+            "character": "pela",
+            "notes": "Black Swan has massive amounts of DEF Shred is her kit and the closer you can get to ensuring the enemy DEF is reduced by 100% the more powerful the stat becomes. Both Silver Wolf and Pela alongside Black Swan can allow her to reach 100% DEF shred on the enemy even without including her signature Light Cone massively boosting Swan's damage making them both viable options. Pela also offers Swan 10% Effect Hit Rating thanks to her Bonus Ability and Silver Wolf can implant wind weakness and shred enemies' resistances both of which will assist Swan greatly depending on your needs."
+        },
+        {
+            "character": "silver-wolf",
+            "notes": "Black Swan has massive amounts of DEF Shred is her kit and the closer you can get to ensuring the enemy DEF is reduced by 100% the more powerful the stat becomes. Both Silver Wolf and Pela alongside Black Swan can allow her to reach 100% DEF shred on the enemy even without including her signature Light Cone massively boosting Swan's damage making them both viable options. Pela also offers Swan 10% Effect Hit Rating thanks to her Bonus Ability and Silver Wolf can implant wind weakness and shred enemies' resistances both of which will assist Swan greatly depending on your needs."
+        },
+        {
+            "character": "huohuo",
+            "notes": "Grants Black Swan and her team additional energy which under the right circumstances can allow them to access their Ultimates earlier, boosting the damage output substantially. The Ultimate also boosts ATK% which has perfect synergy with Swan and her teams."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "After using the Skill to hit a single target enemy that has Wind Shear, Bleed, Burn, or Shock, each of these debuffs respectively has a <b>65%</b> base chance of inflicting <b>1</b> extra stack of Arcana.",
+            "name": "Viscera's Disquiet"
+        },
+        {
+            "req": "A4",
+            "desc": "There is a <b>65%</b> base chance to inflict 1 stack of Arcana when a target enters battle. Every time an enemy target receives DoT during a single attack by an ally, there is a <b>65%</b> base chance for the target to be inflicted with <b>1</b> stack of Arcana, stacking up to <b>3</b> time(s) during <b>1</b> single attack.",
+            "name": "Goblet's Dredges"
+        },
+        {
+            "req": "A6",
+            "desc": "Increases this unit's DMG by an amount equal to <b>60%</b> of Effect Hit Rate, up to a maximum DMG increase of <b>72%</b>.",
+            "name": "Candleflame's Portent"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Black Swan is a complex but frighteningly powerful DoT character\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". She has a stackable DoT effect that can spread itself to adjacent targets and deal ridiculous amounts of damage outside of her turn. With enough stacks, this DoT will also ignore a portion of the affected enemies\u2019 DEF. Black Swan can also further reduce enemy DEF with her Skill, and increase enemy vulnerability with her Ultimate, the latter providing greater opportunities to stack her powerful DoT further by preventing its falloff for one turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At last, the mysterious figure we first saw in the Fables About the Stars is finally here. Look, I\u2019ll start by saying that this is one of the most complex dps characters we\u2019ve gotten thus far, so I will do my best to explain exactly how she works and why she\u2019s so terrifying. This is easily the longest review to date, and I hope you\u2019ll forgive me for making you read this much.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Black Swan\u2019s entire kit revolves around her Talent and its associated debuff called Arcana, and it\u2019s all rather verbose. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Arcana is a debuff that deals Damage over Time (DoT) but it has a certain interaction I\u2019ll explain later. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Just keep this in mind. Enemies afflicted by Arcana will receive Wind DoT at the start of their turn, up to 240% ATK. Each stack of Arcana increases this \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"multiplier\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" by 12%, meaning this starts to scale very quickly. Then, after the enemy receives the damage from Arcana, the Arcana stacks reset to 1. Arcana can stack up to 50 times. If you\u2019re interested to know how much a 50 stacked Arcana proc does, it\u2019s 840% ATK. That\u2019s an Argenti Ultimate. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"It\u2019s an Argenti Ultimate.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" It\u2019s unlikely you\u2019ll get to 50 outside of Simulated Universe or without her E6, but you can still get quite high stacks if you know what you\u2019re doing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Arcana gains stacks through multiple ways, including Black Swan\u2019s Skill and Basic ATK, but there is another part to her Talent first.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Every time an enemy receives DoT at the start of their turn, there is a 65% base chance to apply another stack of Arcana.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This includes all forms of DoT \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"including \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Arcana itself. It doesn\u2019t look like it does because the damage happens so quickly but it actually does count itself \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"before \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"it applies the damage and resets to 1. This applies to other character\u2019s DoT effects, Light Cone DoT effects, and even Break DoT.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"So here\u2019s how it is; Arcana gains stacks whenever enemies receive DoT damage \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"on their turn\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", with each stack adding onto the original damage multiplier. Arcana then deals its damage and resets its stacks to 1. Until you unlock a later Bonus Ability Trace, Arcana will only be stacked by Black Swan\u2019s Skill and Basic ATK, and by the enemy taking DoT damage on their turn. Arcana resetting to 1 after the enemy\u2019s turn also means that this is the first DoT effect that lasts indefinitely, so once it\u2019s been applied, that enemy is guaranteed to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"suffer.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Aside from the increased multiplier, extra stacks gain bonus effects at certain milestones;\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" at 3 Arcana stacks, the expiration of Arcana will additionally deal 180% ATK to adjacent targets with a 65% base chance of applying 1 stack of Arcana to said adjacent targets. This is how Arcana can spread stacks to other foes. This is also the first DoT effect in the game that can hit more than one enemy at a time, and it\u2019s a part of how Black Swan\u2019s AoE damage reaches \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"highly\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" competitive amounts.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At 7 stacks of Arcana, the current DoT will ignore 20% of the main target\u2019s as well as adjacent foes\u2019 DEF, leading to even more ridiculous damage spikes. A well-formed team including at least one other DoT character will generally have no issues reaching this amount on tougher foes, but if you\u2019re ever using Black Swan by herself, you may find it happening less frequently.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Okay that\u2019s the Talent, whew. Black Swan\u2019s Skill deals up to 90% ATK to a single enemy and adjacent foes. It also has a 100% base chance to apply 1 stack of Arcana to all targets hit. There is \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"also \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"a 100% base chance to reduce the DEF of targets hit by up to 20.8% for 3 whole turns. That\u2019s a lot for only one Skill. As a Blast AoE it also deals increased Toughness damage against the main target. This Skill is an easy way to start the Arcana stacking. The DEF Shred is also incredibly powerful, especially since DoT characters have such easy access to DEF ignore with the Prisoner in Deep Confinement Relic Set. This is your daily reminder that DEF Shred only gets better the more of it you have.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Black Swan\u2019s Basic ATK is quite unique as it is one of the only non Enhanced Basic ATKs to have additional functionality. It deals up to 60% ATK to a single target and has a 65% base chance of applying 1 stack of Arcana to the attacked enemy. This means Swan can stack Arcana without even consuming SP in single-target scenarios, making her quite SP-positive in between reapplying the DEF Shred from her Skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In addition to this, Swan\u2019s Basic ATK also has the following effect: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"if the attacked enemy is suffering from Wind Shear, Bleed, Burn, or Shock, then there is a 65% base chance of applying 1 extra stack of Arcana for each type of DoT debuff on the target.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This allows Swan to tactically use her Basic ATK on specific enemies to add a large number of Arcana stacks in a single action without expending a single Skill Point, potentially landing her an extra \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"5 stacks\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". But it\u2019s probably unlikely to have that many DoT effects on an enemy\u2026 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"Unless\u2026\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Finally, we arrive at the Ultimate. This ability visually is just wild, and its effects are similarly insane. Black Swan\u2019s Ultimate deals up to 120% ATK to all enemies on the field and applies a debuff called Epiphany for 2 turns. Epiphany increases enemy DMG taken by 25% during their turn specifically, and additionally makes Arcana count as Wind Shear, Bleed, Burn, and Shock effects. Enemies afflicted by Epiphany will also not automatically reset the stacks of Arcana on their turn, and this non-reset effect can happen 1 time between reapplications.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Now of course, upon reading this you may think that the 1 time non-reset for Arcana is the big draw \u2014 and you\u2019re right \u2014 but this line about Arcana counting as all four DoT effects simultaneously means a couple of things; firstly is that now any DoT teammates with forced DoT procs can now detonate Arcana with their own abilities; and secondly, Black Swan can now turbo stack Arcana by herself with her Basic ATK.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With her Ultimate, Swan doesn\u2019t need the other DoT effects to actually be applied in order to make use of the extra functionality on her Basic ATK. It actually makes it very easy to get 2 uses out of a 7+ stacked Arcana with the full DEF ignore effect. The real issue is actually having enemies live long enough to make use of it \u2014 if enemies die before Arcana can trigger, it will not propagate, even if you have the required number of stacks. With her Ultimate only having a cost of 120 Energy, it\u2019ll actually be up fairly frequently, especially if Swan is the one getting the killing blows.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Black Swan\u2019s Bonus Ability Traces heavily benefit her gameplay.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Her A6 is of the same vein as Xueyi\u2019s A2, only for Effect Hit Rate instead of Break Effect; Black Swan gets bonus permanent DMG% based on how much Effect Hit Rate (EHR) she has, transferring 60% of EHR into DMG%, up to a cap of 72%. This means Black Swan will have this maximum bonus at 120% EHR. That\u2019s a lot of EHR, but given Swan\u2019s low base chances for Arcana, this actually helps reimburse the damage you lose from not having as much ATK as you normally would for a DoT unit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A2 gives Black Swan\u2019s Skill the same additional functionality that her Basic ATK has, namely the ability to proc extra stacks of Arcana on enemies with any of the four standard DoT effects, meaning her Skill can now also turbo stack Arcana during her Ultimate\u2019s Epiphany effect, as well as benefiting from any DoT effects from allies. The other big benefit of this is that the Skill is of course a Blast AoE meaning it\u2019s much easier to stack in AoE content, and using her Skill means more Energy back than a Basic ATK, leading to further increased Ultimate uptime. Do note that the extra stacking will only work against the primary target of the Blast AoE.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A4 also helps rack up Arcana stacks through ally forced DoT detonations, having a 65% base chance of stacking 1 Arcana up to 3 times in a single attack. Anything that forces Arcana to proc will also count for this limit, but it does not specifically need to be Arcana that is detonated. This is beneficial for pretty much all other DoT units, such as Kafka, Sampo, Guinaifen, and even Luka.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"You don\u2019t need her Eidolons, they\u2019re redundant. There\u2019s already nothing that can endure Black Swan\u2019s damage, who are you trying to kill here? \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"God?\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Well with her Eidolons you may very well be able to do that, just like in a classic JRPG. Actually maybe she can already do that\u2026 Insert Trailblazer speech about choices here.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Okay that\u2019s the kit broken down, and it\u2019s a lot, but it\u2019s actually not too bad once you\u2019ve tinkered with it a little. All you\u2019re doing is stacking Arcana as much as you can and using the Ultimate to facilitate this when possible. Ideally you\u2019re getting 7 or more stacks before the enemy\u2019s turn, but as long as you\u2019re getting enough for the number of enemies you\u2019re fighting, you\u2019ll be just fine. It\u2019s definitely easier said than done, however. Pairing Black Swan with at least one other DoT teammate will expedite the stacking of Arcana.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Kafka is of course the first one to come to mind, and it should surprise nobody to hear that she is Black Swan\u2019s best teammate.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Kafka being able to detonate DoT effects with both her Skill and her Ultimate mean that stacking Arcana is really not very challenging at all, and that\u2019s just at base; if your Kafka has her signature Light Cone, that counts as an extra DoT for the purposes of Black Swan\u2019s A4, so it\u2019s even better but by no means a necessity. They both work extremely well with each other and due to the ease of access of DEF Shred and DEF ignore for both DoT units and Nihility units, coupled with Black Swan\u2019s inherent DEF ignore, this makes for an extremely powerful team that has no trouble killing pretty much everything in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a pair for Kafka, Black Swan is going to be compared to everyone\u2019s favourite Sampo Koski due to them both being Wind Nihility DoT units. I am a big Sampo shill, you\u2019ll know this if you read his review. He has exactly two things going for him, and that is superior Breaking and vastly superior ease of use. That\u2019s it. In all other aspects, Black Swan absolutely trounces Sampo. You know it\u2019s true when \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"I\u2019m\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" telling you this. Sampo is still more than capable in his own right and the bar he sets is already fairly high\u2026 Black Swan is just better.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She does work pretty well in a team \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"with\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Sampo though, especially if Sampo is at or above E4. In single-target scenarios, Sampo plus Swan is actually somewhat competitive with Kafka plus Swan, though this starts to fall behind the latter in AoE scenarios. Sampo is also a lot easier to pick up and play, and has superior Breaking, so there are still cases where you may want to use him. Just please remember that \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"both\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Sampo and Swan need a minimum ramp-up time in combat, even if Swan can lead with 1 stack of Arcana.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It should be noted that Black Swan does not technically \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"need\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" DoT teammates to deal damage, but by omitting another DoT unit from the team, Black Swan cares far more about her Ultimate and its uptime, meaning you will need to facilitate as much Energy for her as possible if you choose to go this route. Hear this, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"it is generally not worth it to use Swan as a hypercarry \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\u2014 not necessarily\u00a0 because she\u2019s bad at it, but because it just wholly squanders her potential. Just use her properly, it\u2019s ironically less of a headache.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Black Swan is also usable as a damage-support hybrid due to the DEF Shred on her Skill. It\u2019s not really the recommended way of using her but you definitely can do that, I guess. Nihility is a path that doesn\u2019t care about rules anyway, so you can always just slap on Resolution Shines as Pearls of Sweat and have even more DEF reduction on your Black Swan, or just go the standard damage route and make up the difference that way. While she doesn\u2019t have quite as much damage amplification as other supports, she does have formidable personal damage, so\u2026 do with this information what you will. This playstyle can become even more potent with her E1, but it is not necessary for her to be used in this way.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Keep in mind that if you want to bring the absolute most out of Black Swan, you \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"},{\"type\":\"bold\"}],\"value\":\"should\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" be playing her in a DoT team with other DoT characters.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Swan at her max is overkill, but if you truly want to min-max, this is the way you reach that height. Comparing her support hybrid playstyle to the DoT team playstyle is like comparing gold to platinum; they\u2019re both amazing, but one is still notably more coveted.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This brings us to a few caveats and one \u2018downside\u2019 that Black Swan has. The downside in question is not \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"really\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" a downside, it\u2019s that Black Swan deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"too much\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" damage. Yeah, it\u2019s kind of amusing but she actually does so much damage that there\u2019s almost nothing in the game at present that survives long enough for Swan to make full use of her kit. This of course means that Black Swan isn\u2019t going anywhere any time soon; she\u2019s likely to remain strong and useful for a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"very\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" long time. Hardly a downside in terms of actual character strength, but certainly something that can impact the player\u2019s fun if all it takes is Black Swan \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"sighing\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" at the enemies to turn them to dust against more than one enemy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The first real issue is that Black Swan takes the crown away from Xueyi for \u2018most ridiculous investment floor requirement\u2019.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" With all of Swan\u2019s important Arcana related effects being stuck at a 65% base chance to occur, you are going to need an exorbitant amount of Effect Hit Rate, upwards of 120%. Due to the importance and power of Arcana stacks, as well as Black Swan\u2019s A6 giving DMG% for EHR, you are highly incentivised to go for this.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"You want all of this \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"plus\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" the usual affair for DoT characters of high SPD and high ATK. Her signature Light Cone alleviates this investment requirement, but she doesn't \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"need \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"her signature Light Cone in any way, and she is evaluated as if she does not have it. Even if it is complete overkill \u2014 and it is\u2014, it may be something you consider going for to even further bolster this character for the future. Luckily for us all, Nihility Light Cones are just built different, and you are not lacking for good and even competitive accessible choices. All you\u2019ll need to do is factor in the stats you\u2019re missing and go from there.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The second issue is that Black Swan is a complex character.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" If you\u2019ve made it this far in the review, I shouldn\u2019t really need to tell you this, but it does highlight that making the most out of Black Swan relies on you having a very clear understanding of what everything in her kit does and how it interacts with other things, because it could be the difference between a big brain play that wipes the field, or a small brain play that leaves the enemy alive and \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"very angry.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This is the \u2018Skill issue\u2019 issue, but it\u2019s honestly not too difficult to overcome by just playing Swan; sometimes you may need to hold her Ultimate to hit a fresh wave or to turbo stack Arcana on Elites or Bosses, and sometimes you may need to change your primary target to better propagate Arcana. You will naturally get a feel for how she works over time.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Black Swan is a pretty devastating character, to say the least.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Her kit is intricate and requires a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"lot\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of investment, but she is undeniably one of the absolute strongest units in the game, across multiple roles. She divines the fate of her foes, and that fate is death. Such is the reward for learning the ways of the mysterious Black Swan.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Absurdly high damage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely flexible unit, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"AoE DEF Shred and DEF ignore on DoT, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High synergy with other DoT units, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With mastery she can be used to tackle virtually any foe in the game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Easily one of the most complex units in the game with a steep learning curve, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has one of the highest investment floors of any character, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ironically her damage is almost \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"too \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"high for anything outside of the end game, sometimes preventing her DoT from spreading if the enemy dies too fast.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3000+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"900+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2900 - 3300+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"EFFECT HIT RATING: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100% (Early) - 120%+ (Recommended)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 (Recommended) / 143 / 160\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Arryn Zech",
+        "kr": "\uae40\ud558\uc601 (Kim Ha-Young)",
+        "jpn": "\u751f\u5929\u76ee\u4ec1\u7f8e (Hitomi Nabatame)",
+        "cn": "\u6768\u68a6\u9732 (Yang Menglu)"
+    },
+    "ratings": {
+        "moc": "10",
+        "moc_special": "10",
+        "pure": "10",
+        "pure_special": "10",
+        "apo": "9",
+        "apo_special": "9"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "reforged-remembrance",
+            "super": "1",
+            "percent": "127.47%",
+            "notes": "Black Swan's signature dominates all other options providing her much-needed Effect Hit Rating and a stacking buff which is easy to activate thanks to her Ultimate. The buff grants her ATK% and more importantly, a whopping 28.8% DEF shred which stacks to insane levels with the rest of her kit and the 4P Prisoner DoT set making it absolutely the best option. Assumes constant and immediate uptime of the 4 stacks of this Cone, granting ATK% and DEF% Ignore. The inability to establish all 4 stacks of the buff will lower this Cone's performance"
+        },
+        {
+            "cone": "patience-is-all-you-need",
+            "super": "1",
+            "percent": "114.03%",
+            "notes": "Grants Speed, damage but more importantly an additional DoT and DoT type while also dealing damage of its own - it allows Swan to stack her Arcana faster and more consistently. Keep in mind that the Erode effect doesn't stack, so if you're using the Light Cone on Kafka already, its value for Black Swan drops."
+        },
+        {
+            "cone": "eyes-of-the-prey",
+            "super": "5",
+            "percent": "104.75%",
+            "notes": "Offers a massive amount of Effect Hit Rating and a good amount of DoT damage boosting Swan's overall damage. More importantly though, it takes some pressure off finding Effect Hit Rating sub stats on your gear making her easier to find relics for."
+        },
+        {
+            "cone": "good-night-and-sleep-well",
+            "super": "5",
+            "percent": "103.70%",
+            "notes": "Offers a large amount of damage for Swan but not much else. Assumes 3 debuffs are present at all times on the enemy. Having less debuff at any point during the fight will lower this Cone's performance."
+        },
+        {
+            "cone": "its-showtime",
+            "super": "5",
+            "percent": "100.00%",
+            "notes": "Best F2P option for Black Swan. The stacking debuff is effortless to keep active at all times and as Black Swan always aims for 100%+ EHR she will easily be able to keep the second buff active as well."
+        },
+        {
+            "cone": "before-the-tutorial-mission-starts",
+            "super": "5",
+            "percent": "96.26%",
+            "notes": "Gives a lot of EHR, but also gives some free energy when you attack enemies after using Skill. Assumes you always attack enemies with DEF reduction granting the full energy recharge. When fighting enemies that are not constantly affected by DEF% reduction this Cone's performance will reduce."
+        },
+        {
+            "cone": "fermata",
+            "super": "5",
+            "percent": "88.63%",
+            "notes": "Assumes enemy is always debuffed with Wind Shear or Shock. When fighting enemies that are not constantly affected by Shock or Wind Shear this Cone's performance will reduce."
+        },
+        {
+            "cone": "solitary-healing",
+            "super": "5",
+            "percent": "87.74%",
+            "notes": "-"
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Prisoner in Deep Confinement",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "92.13%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "Eagle of Twilight Line",
+                    "value": "91.75%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Pan-Cosmic Commercial Enterprise",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "98.61%",
+                    "comment": "160 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "96.44%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "96.13%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "echoes-of-the-coffin",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Effect Hit Rate"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Wind DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "Reach your desired breakpoints of EHR first then SPD and finally after that stack as much ATK% as possible.",
+            "substats": "EHR (Until 100-120%) > SPD (Until breakpoint) > ATK% > Break Effect",
+            "skill_priority": "Talent > Ultimate = Skill = Basic",
+            "traces_priority": "Candleflame's Portent (A6) > Goblet's Dredges (A4) > Viscera's Disquiet (A2)",
+            "name": "Default"
+        }
+    ],
+    "videos": [
+        {
+            "video": "5HTRcK5V9zY"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Black Swan Best in Slot",
+            "member_1": "black-swan",
+            "member_2": "kafka",
+            "member_3": "ruan-mei",
+            "member_4": "huohuo"
+        },
+        {
+            "name": "Black Swan - 3x DoT",
+            "member_1": "black-swan",
+            "member_2": "kafka",
+            "member_3": "guinaifen",
+            "member_4": "luocha"
+        },
+        {
+            "name": "Black Swan - 3x DoT",
+            "member_1": "black-swan",
+            "member_2": "kafka",
+            "member_3": "sampo",
+            "member_4": "luocha"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "Wind DMG",
+            "value": 14.4
+        },
+        "traceStat3": {
+            "stat": "Effect Hit Rate",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "February 6th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "DoT",
+        "Debuff"
+    ]
+}

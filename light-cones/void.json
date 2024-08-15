@@ -1,0 +1,58 @@
+{
+    "id": "b0395f05-ff75-52df-be05-27d471d369bd",
+    "updatedAt": "2023-04-25T18:43:52.645Z",
+    "createdAt": "2023-01-27T13:42:56.970Z",
+    "coneId": 38,
+    "name": "Void",
+    "slug": "void",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/6d3ecc47acc472655beedc55024ac91c/bf8e1/38_sm.png",
+                            "srcSet": "/static/6d3ecc47acc472655beedc55024ac91c/914ee/38_sm.png 32w,\n/static/6d3ecc47acc472655beedc55024ac91c/1c9ce/38_sm.png 64w,\n/static/6d3ecc47acc472655beedc55024ac91c/bf8e1/38_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/6d3ecc47acc472655beedc55024ac91c/ef6ff/38_sm.webp 32w,\n/static/6d3ecc47acc472655beedc55024ac91c/8257c/38_sm.webp 64w,\n/static/6d3ecc47acc472655beedc55024ac91c/6766a/38_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "14",
+            "value_level_max": "317"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Fallen",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"At the start of battle, increases the wearer's Effect Hit Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20/25/30/35/40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turn(s).\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

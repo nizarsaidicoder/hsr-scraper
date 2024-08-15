@@ -1,0 +1,58 @@
+{
+    "id": "c9c0c88f-f524-5cdb-830e-611daf9a6605",
+    "updatedAt": "2023-04-18T07:30:34.990Z",
+    "createdAt": "2023-01-27T13:02:55.965Z",
+    "coneId": 19,
+    "name": "Landau's Choice",
+    "slug": "landaus-choice",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/225f6cceff0407a12cf8eac0bcbae900/bf8e1/19_sm.png",
+                            "srcSet": "/static/225f6cceff0407a12cf8eac0bcbae900/914ee/19_sm.png 32w,\n/static/225f6cceff0407a12cf8eac0bcbae900/1c9ce/19_sm.png 64w,\n/static/225f6cceff0407a12cf8eac0bcbae900/bf8e1/19_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/225f6cceff0407a12cf8eac0bcbae900/ef6ff/19_sm.webp 32w,\n/static/225f6cceff0407a12cf8eac0bcbae900/8257c/19_sm.webp 64w,\n/static/225f6cceff0407a12cf8eac0bcbae900/6766a/19_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Time Fleets Away",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The wearer is more likely to be attacked, but DMG taken is reduced by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/18/20/22/24\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

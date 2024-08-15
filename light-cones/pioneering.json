@@ -1,0 +1,58 @@
+{
+    "id": "52c16ca1-d410-583c-8350-faf5d78021a8",
+    "updatedAt": "2023-04-26T02:59:24.627Z",
+    "createdAt": "2023-04-25T18:43:52.050Z",
+    "coneId": 83,
+    "name": "Pioneering",
+    "slug": "pioneering",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/1d225828468ec1c60b9f24811a050ff7/bf8e1/83.png",
+                            "srcSet": "/static/1d225828468ec1c60b9f24811a050ff7/914ee/83.png 32w,\n/static/1d225828468ec1c60b9f24811a050ff7/1c9ce/83.png 64w,\n/static/1d225828468ec1c60b9f24811a050ff7/bf8e1/83.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/1d225828468ec1c60b9f24811a050ff7/ef6ff/83.webp 32w,\n/static/1d225828468ec1c60b9f24811a050ff7/8257c/83.webp 64w,\n/static/1d225828468ec1c60b9f24811a050ff7/6766a/83.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "IPC",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When the wearer Breaks an enemy's Weakness, the wearer restores HP by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/14/16/18/20\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of their Max HP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

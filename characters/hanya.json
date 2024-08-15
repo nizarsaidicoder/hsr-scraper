@@ -1,0 +1,431 @@
+{
+    "id": "4d0c9a46-2ad8-504d-b52c-725abd6329f4",
+    "updatedAt": "August 12th, 2024",
+    "createdAt": "2023-09-29T06:35:30.718Z",
+    "unitId": 42,
+    "name": "Hanya",
+    "slug": "hanya",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#686868",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/a4e55e309e35bc1f4d5ed3808c8dcf51/e9a79/42_sm.png",
+                            "srcSet": "/static/a4e55e309e35bc1f4d5ed3808c8dcf51/f31ef/42_sm.png 40w,\n/static/a4e55e309e35bc1f4d5ed3808c8dcf51/1f8a1/42_sm.png 80w,\n/static/a4e55e309e35bc1f4d5ed3808c8dcf51/e9a79/42_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/a4e55e309e35bc1f4d5ed3808c8dcf51/e73fe/42_sm.webp 40w,\n/static/a4e55e309e35bc1f4d5ed3808c8dcf51/61ca6/42_sm.webp 80w,\n/static/a4e55e309e35bc1f4d5ed3808c8dcf51/60b4d/42_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ad002608e03d8306fbc1aa02a20b3e25/c9885/hanya.png",
+                            "srcSet": "/static/ad002608e03d8306fbc1aa02a20b3e25/2aab7/hanya.png 94w,\n/static/ad002608e03d8306fbc1aa02a20b3e25/0a986/hanya.png 187w,\n/static/ad002608e03d8306fbc1aa02a20b3e25/c9885/hanya.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ad002608e03d8306fbc1aa02a20b3e25/84550/hanya.webp 94w,\n/static/ad002608e03d8306fbc1aa02a20b3e25/34f80/hanya.webp 187w,\n/static/ad002608e03d8306fbc1aa02a20b3e25/b26e2/hanya.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/a580e4702533cc229d84f431d9d00c1c/3c5dc/42_full.png",
+                            "srcSet": "/static/a580e4702533cc229d84f431d9d00c1c/ca8fd/42_full.png 200w,\n/static/a580e4702533cc229d84f431d9d00c1c/de50c/42_full.png 400w,\n/static/a580e4702533cc229d84f431d9d00c1c/3c5dc/42_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/a580e4702533cc229d84f431d9d00c1c/213b2/42_full.webp 200w,\n/static/a580e4702533cc229d84f431d9d00c1c/413c5/42_full.webp 400w,\n/static/a580e4702533cc229d84f431d9d00c1c/cf6d0/42_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"One of the judges of the Ten-Lords Commission. Of the four duties of a judge (detention, imprisonment, punishment, and interrogation), Hanya is charged with the last task.\\nShe specializes in reading the karma and sins of criminals, and records their crimes and punishments with the Oracle Brush. As she spends her days using dreams to predict karmic offenses and has to endure the torrential flood of information regarding the mara-strucks' actions, she has long become dull to all things in the world. Only when she operates with her sister and fellow judge, Xueyi, will Hanya momentarily reveal her true nature.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Body - HP% >= DEF%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP% is best but DEF% can also be used if you already have a good amount of HP and the DEF% piece has good Speed sub-stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Feet - Speed \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best stat for Hanya by far.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar Sphere - HP% >= DEF%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP% is best but DEF% can also be used if you already have a good amount of HP and the DEF% piece has good speed sub stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Link Rope - Energy%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Recharge is recommended for all builds as the most effective option for support. If you are confident in keeping your Hanya's ultimate up without energy recharge though, Break Effect can be used for additional potential damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for sub-stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"SPEED:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Speed is by far Hanya's best stat and there is no limit to the amount you want on her. Increasing her own Speed improves her skill point generation for the team allowing for stronger team-building possibilities but also increases the potency and amount of Speed she is able to grant the target of her Ultimate further boosting their damage. As long as your Hanya has enough defensive stats to survive more Speed should always be the priority.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"HP% & DEF%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"HP% and DEF% and mandartory in some amounts when playing Hanya in endgame as she has an incredibly low amount of base defensive stats. Additionally, Hanya's preferred top Light Cones are 4 or even 3 star Cones which have yet lower stats than usual leaving her dangerously vulnerable to getting one shot. Building defence on main stats and sub-stats saves her from being constantly taken down and allows her to perform her role correctly.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"EFFECT RES:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" An optional defensive stat that can allow for some easier fights but many of the strongest healers in the game now have protection from crowd-control or have an abundance of cleanses making this stat less needed on her. If you are using the Broken Keel planar set you will need enough Effect Res from sub-stats in order to activate its bonus.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Energy Recharge: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Energy recharge is essential for Hanya in order to gain access to her Ultimate quickly and keep it up on your target of choice for the majority of the fight. Using an Energy Rope in combination with an energy recharge Light Cone like Meshing of Cogs or Memories of the Past is recommended for optimal performance.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "relicsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Messenger Traversing Hackerspace\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"4 Piece Hackerspace is by far the best supportive set for Hanya. It grants her additional Speed which she can transfer to the carry through her ultimate. The 4-piece bonus grants even more Speed on using her Ultimate but importantly grants the buff to herself as well - this occurs before her Ultimate calculates how much Speed to transfer to her target meaning that it allows for even larger Speed buffs for the carry.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Messenger Traversing Hackerspace + Thief of Shooting Meteor\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Grants a Speed bonus and also Break Effect which can increase Hanya's damage contribution when played carefully against Physical vulnerable enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Messenger Traversing Hackerspace\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" + \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Longevous Disciple\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has a good Speed bonus and also provides an HP bonus offering Hanya greater survivability.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Musketeer of Wild Wheat\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A reasonable alternative to gain a Speed bonus to Hackerspace pieces if you don't have any Hackerspace with good sub-stats but it is less powerful than all options above.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[],\"nodeType\":\"hr\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Fleet of the Ageless\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best generic supportive set for Hanya that can be used with all teams and also provides a nice defensive boost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Broken Keel\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A more powerful supportive set than Fleet of the Ageless but only when supporting CRIT-based characters. Also requires a small amount of Effect RES in order to activate the secondary bonus which will need to be acquired from sub-stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Penacony, Land of Dreams\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The energy generation from this set is not required but can sometimes allow Hanya to access her ultimate 1 turn earlier potentially improving uptime. The team buff from this set is also the strongest of the supportive sets but only works on Physical characters making it fairly niche.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Sprightly Vonwacq\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"An Energy Recharge option but worse than Penacony Land of Dreams in almost every situation.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "121501",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "121502",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "121503",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "121504",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "121507",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Support",
+    "affiliation": "Xianzhou Luofu",
+    "rarity": "4",
+    "element": "Physical",
+    "path": "Harmony",
+    "stats": {
+        "hp_base": 124.8,
+        "def_base": 48,
+        "atk_base": 76.8,
+        "speed_base": 110
+    },
+    "ascensionMaterials": {
+        "mats_1": "artifex-module",
+        "mats_2": "artifex-cogwheel",
+        "mats_3": "netherworld-pass",
+        "mats_4": "artifex-gyreheart"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "42",
+            "name": "Hanya",
+            "upgrade1Name": "One Heart",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When an ally with Hanya's Ultimate's effect defeats an enemy, Hanya's action is Advanced Forward by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This effect can only be triggered 1 time(s) per turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Two Views",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After using the Skill, this character's SPD increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Three Temptations",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Four Truths",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Ultimate's duration is additionally extended for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Five Skandhas",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Six Reverences",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increase the DMG Boost effect of the Talent by an additional \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "huohuo",
+            "notes": "Huohuo's biggest weakness is her Skill Point consumption and if possible she'd like to have as many of them as possible in order to generate energy for her Ultimate to buff the entire team. This is normally difficult as it's the sustains job to generate Skill Points. Hanya supports Huohuo and her playstyle by generating Skill Points for her allowing her to use her skills much more frequently and smooths out her gameplay immensely."
+        },
+        {
+            "character": "fu-xuan",
+            "notes": "Fu Xuan doesn't generate as many Skill Points as other sustains making her a little uncomfortable to play in some team compositions alongside characters like Imbibitor Lunae or SP intensive supports like perma speed Asta. As with Huohuo, Hanya assists Fu Xuan and her teams with Skill Point generation making for a much more comfortable playstyle without the need to stress about Skill Points."
+        },
+        {
+            "character": "asta",
+            "notes": "Asta is a Skill Point intensive support that aims to generate enough energy at higher eidolons to keep her Ultimate active on the team permanently. This Skill Point consumption generally limits her team options somewhat but Hanya helps alleviate this issue. Asta's Ultimate provides a massive Speed boost to the entire team including Hanya and Hanya's Ultimate grants a % of her current Speed to its target. By using Hanya's Ultimate after Asta buffs her with hers she can funnel her own Speed but also a portion of Asta's Speed buff to the carry partially doubling the effect of Asta's Ultimate allowing some carries to achieve 200 or more Speed."
+        },
+        {
+            "character": "imbibitor-lunae",
+            "notes": "Imbibitor Lunae is a carry restricted by his need for a tremendous amount of Skill Points but with the pay off of doing incredible damage. This downside normally limits his team building options restricting him to primarily low SP consumption supports or high SP generating sustains but with Hanya in the team this weakness can be somewhat overcome and Imbibitor has a lot more flexibility with building his team."
+        },
+        {
+            "character": "qingque",
+            "notes": "Qingque, just like Imbibitor Lunae, has the potential to spend a tremendous amount of Skill Points during her turns - even more so than Imbibitor if she gets unlucky. Hanya can grant Qingque extra Skill Points to give her more chances at using her skill and reducing the chance you go a turn without an enhanced basic."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Allies triggering Burden's Skill Point recovery effect have their ATK increased by <b>10%</b> for 1 turn(s).",
+            "name": "Scrivener"
+        },
+        {
+            "req": "A4",
+            "desc": "If the trigger count for the Burden's Skill Point recovery effect is 1 or lower when an enemy with Burden is defeated, then additionally recovers <b>1</b> Skill Point(s).",
+            "name": "Netherworld"
+        },
+        {
+            "req": "A6",
+            "desc": "When Burden's Skill Point recovery effect is triggered, this character regenerates <b>2</b> Energy.",
+            "name": "Reanimated"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Hanya is a powerful and versatile support buffer who provides universally appreciated benefits via a special effect, Burden (not a debuff). \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Allies who hit the Burdened enemy will gain increased damage for 2 turns and every 2 actions against the debuffed enemy will also restore 1 Skill Point for the team. The debuff lasts indefinitely until 2 Skill Points have been siphoned from the enemy. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Her Ultimate is a strong single-target boost, increasing ATK and granting a SPD boost based on Hanya\u2019s own SPD.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The envoy of the Ten Lords, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Hanya is a first-of-its-kind Harmony support character\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", able to restore Skill Points for the team in addition to expected team buffing capabilities.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hanya\u2019s Skill is where the magic happens. She deals single-target damage to an enemy and applies a debuff to them. It is upon hitting this debuffed enemy that allies will gain benefits; \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"any ally who attacks the debuffed enemy will gain a large DMG% increase for 2 turns, courtesy of Hanya\u2019s Talent. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"For every 2 attacks against the debuffed enemy, the team will also\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" recover 1 SP\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". The debuff will only go away after the team has recovered 2 SP from its effect.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It\u2019s important to note that this is somewhat irregular, as usually Harmony supports buff allies directly. By providing ally buffs through attacking a debuffed enemy, this offsets Hanya\u2019s buff application by a little bit, making it not as instantaneous to get it rolling. However, the tradeoff for this is that Hanya actually deals a hit against an enemy. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"Yes,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" it\u2019s not exactly going to be blowing anyone away with its insane damage output, but it does deal a Skill\u2019s worth of Toughness damage to an enemy, potentially providing a meaningful increase to the overall Breaking power of your team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The Skill Point recovery is also generally quite nice to have, but is massively game-changing for certain units who use a lot of SP at an expeditious rate, such as Imbibitor Lunae or Qingque\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Perhaps less noticeable is how this extra free floating SP can be used to great benefit for the other support unit on a team; someone like Asta can make very good use of any extra SP lying around to maintain her strong ATK% buff more easily, as well as to generate more Energy for herself. There are so many support units who can benefit tremendously from the extra SP that Hanya provides, and the increase to overall comfort is definitely significant.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Hanya\u2019s Ultimate targets a single ally and gives them a large ATK% increase, as well boosting their SPD by a percentage of Hanya\u2019s own SPD stat\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and these buffs last for 2 turns. The ATK% increase is quite significant on its own, but the SPD bonus may be a bit misleading; Hanya obviously enjoys being quite speedy all on her own to have more overall Skill uses and increased SP recovery, but in order for the SPD boost that her Ultimate provides to be substantial, Hanya would need to reach rather high SPD values.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"However, this does also mean that if Hanya\u2019s own SPD changes in combat, it\u2019ll also have an effect on the SPD buff provided by her Ultimate, meaning that if she\u2019s getting any kind of speed boosts from outside sources, she could potentially be giving a mini Asta Ultimate to one teammate\u2014potentially even on top of an \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"actual\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Asta Ultimate. Having said that, any sort of increase to a character\u2019s SPD is almost always appreciated, provided it doesn\u2019t ruin any specific speed tuning. The cost of this Ultimate is also rather steep, meaning it\u2019s not going to be up as often as other supports\u2019 Ultimates usually are.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hanya\u2019s Traces increase the potency of her benefits even more. Her A6 will grant Hanya 2 Energy when the SP recovery of her Skill is triggered, providing a small but potentially significant bump to Energy economy. Hanya\u2019s A4 will grant an additional Skill Point if the debuffed enemy dies after at least 1 SP has already been syphoned from them, and her A2 provides allies that trigger the SP recovery a minor ATK% increase for 1 turn. It\u2019s also useful to note that she also has a couple of SPD minor Traces, and is also tied for the 2nd highest Base SPD in the game at 110.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When it comes to Eidolons, they are not necessary for Hanya to be a potent and universal team member, but as a 4* character it is likely to gain access to Eidolons over time. In particular is E1, which Action Advances Hanya whenever an ally buffed by her Ultimate defeats an enemy; though this can only happen once per turn, it helps Hanya to act even more frequently and thus feeds into her gameplan of SP recovery and teamwide buffing. E2 is much the same with the 1 turn SPD boost it provides. E4 and E6 increase the buffing power of her Ultimate and Talent respectively, and makes her even better at what she was already doing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Hanya is just really good and very consistent in what she does\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Her team flexibility is almost unparalleled due to her being a very potent SP generator, and even plays very well with double damage dealer comps due to easy ally buffing through Burden. Not every team is going to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"need\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" the extra SP Hanya provides, but there\u2019s very rarely a situation in which it is completely worthless, and her overall team utility is very high and very easy to access.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Regenerates vast amounts of SP for the team, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Very strong single-target buffing and strong team-wide buffs, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deals more Toughness damage than most Harmony characters, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Works well supporting hypercarry setups or dual dps setups, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has better Energy economy than most supports due to using her Skill frequently.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has very low base stats besides her SPD which make her rather frail, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Requires a turn of setup due to how the DMG% buff from Burden works, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rather high Ultimate Energy cost even with her increased Energy economy, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate only buffs a single character. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3500 - 4400+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"700 - 1300+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"165 - 175+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ENERGY REGEN\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\": 19.44%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Suzie Yeung",
+        "kr": "\uc724\uc740\uc11c (Yoon Eun-seo)",
+        "jpn": "\u94c3\u4ee3\u7eb1\u5f13 (Suzushiro Sayumi)",
+        "cn": "\u5f20\u96e8\u66e6 (Zhang Yuxi)"
+    },
+    "ratings": {
+        "moc": "6",
+        "moc_special": "5",
+        "pure": "7",
+        "pure_special": "6",
+        "apo": "7",
+        "apo_special": "6"
+    },
+    "energyUltimate": "140",
+    "conesNew": [
+        {
+            "cone": "memories-of-the-past",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers 8 energy per attacking action at S5 making it equivalent to Meshing Cogs but with better base stats and a large amount of Break Effect. Does not have the 8 energy when taking damage compared to its alternative though which makes it less effective at achieving the shortest rotations possible."
+        },
+        {
+            "cone": "meshing-cogs",
+            "super": "5",
+            "percent": "-",
+            "notes": "A F2P Accessible Cone with poor base stats but which grants the wearer an additional 8 energy per attacking action they perform. Also grants another 8 energy whenever they receive damage from an enemy action. The combination of both energy effects can drastically reduce the required actions per Ultimate for most supports. The next best option for Hanya with the potential to offer even higher uptime on Ultimates at the cost of base stats and some potential damage"
+        },
+        {
+            "cone": "planetary-rendezvous",
+            "super": "5",
+            "percent": "-",
+            "notes": "Increases the damage of all units of the same elemental type as the wearer. A good generic damage increase for damage dealers that match the element of the support but should not be used outside of this scenario."
+        },
+        {
+            "cone": "carve-the-moon-weave-the-clouds",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers one of three random buffs that rotates throughout combat. A fine option when no other alternatives are available but often overshadowed by other more consistent or powerful harmony Cone options."
+        },
+        {
+            "cone": "dance-dance-dance",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a 24% action advance for the entire team when the user activates their ultimate. Not recommended for characters that rely on specific Speed tuning in relation to the rest of the team but is excellent for all other characters.  Hanya can make use of this Coneat the cost of Energy Generation."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Longevous Disciple",
+                    "relic_2": "Messenger Traversing Hackerspace",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Watchmaker, Master of Dream Machinations",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "but-the-battle-isnt-over",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "comments": "SPD directly improves Hanya's buffs and Skill Point generation for the team and is the main priority. Next, build defensive stats and if you want situational bursts of damage Break Effect. If you're using Broken Keel search for enough Effect Res in order to active its effect.",
+            "substats": "SPD > HP = DEF > Break Effect = EFF RES% (30% If using Broken Keel)",
+            "skill_priority": "Ultimate >= Talent > Skill = Basic",
+            "traces_priority": "Netherworld (A4) > Reanimated (A6) > Scrivener (A2)",
+            "name": "Support"
+        }
+    ],
+    "videos": [
+        {
+            "video": "SYOpfrenA-k"
+        }
+    ],
+    "teams": null,
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "speed",
+            "value": 9
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Amplifier",
+    "releaseDate": "December 6th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "Buff"
+    ]
+}

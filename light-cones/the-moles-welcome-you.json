@@ -1,0 +1,58 @@
+{
+    "id": "149928f0-2539-5738-a60d-2370b9ddbd96",
+    "updatedAt": "2023-06-24T12:36:31.987Z",
+    "createdAt": "2023-01-27T13:48:46.803Z",
+    "coneId": 36,
+    "name": "The Moles Welcome You",
+    "slug": "the-moles-welcome-you",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/d5312a17d479f54bbdaeead55e017dc9/bf8e1/36_sm.png",
+                            "srcSet": "/static/d5312a17d479f54bbdaeead55e017dc9/914ee/36_sm.png 32w,\n/static/d5312a17d479f54bbdaeead55e017dc9/1c9ce/36_sm.png 64w,\n/static/d5312a17d479f54bbdaeead55e017dc9/bf8e1/36_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/d5312a17d479f54bbdaeead55e017dc9/ef6ff/36_sm.webp 32w,\n/static/d5312a17d479f54bbdaeead55e017dc9/8257c/36_sm.webp 64w,\n/static/d5312a17d479f54bbdaeead55e017dc9/6766a/36_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Fantastic Adventure",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When the wearer uses Basic ATK, Skill, or Ultimate to attack enemies, the wearer gains one stack of Mischievous. Each stack increases the wearer's ATK by\",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"12/15/18/21/24%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\\n\\n\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

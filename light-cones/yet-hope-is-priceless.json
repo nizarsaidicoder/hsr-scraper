@@ -1,0 +1,52 @@
+{
+    "id": "945545b1-18a8-5284-8112-b7264b561415",
+    "updatedAt": "2024-07-10T03:57:06.795Z",
+    "createdAt": "2024-06-09T08:40:04.168Z",
+    "coneId": 125,
+    "name": "Yet Hope Is Priceless",
+    "slug": "yet-hope-is-priceless",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b246573361b6e806b92a28c3af275a0a/6766a/125_sm.webp",
+                            "srcSet": "/static/b246573361b6e806b92a28c3af275a0a/ef6ff/125_sm.webp 32w,\n/static/b246573361b6e806b92a28c3af275a0a/8257c/125_sm.webp 64w,\n/static/b246573361b6e806b92a28c3af275a0a/6766a/125_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "July 10th, 2024",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "529"
+        }
+    },
+    "skillName": "Promise",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's CRIT Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"16/19/22/25/28%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". While the wearer is in battle, for every \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" CRIT DMG that exceeds 120%, the DMG dealt by follow-up attack increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"12/14/16/18/20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". This effect can stack up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s). When the battle starts or after the wearer uses their Basic ATK, enables Ultimate or the DMG dealt by follow-up attack to ignore \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20/24/28/32/36%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of the target's DEF, lasting for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turn(s). \",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

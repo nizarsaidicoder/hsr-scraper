@@ -1,0 +1,60 @@
+{
+    "id": "04761f51-8388-542c-a25e-dea147d01012",
+    "updatedAt": "2023-05-04T18:01:35.384Z",
+    "createdAt": "2023-04-27T13:55:42.906Z",
+    "coneId": 76,
+    "name": "Past and Future",
+    "slug": "past-and-future",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e6bd252bade4a9c2fc8553009fbc22a5/bf8e1/76_1_.png",
+                            "srcSet": "/static/e6bd252bade4a9c2fc8553009fbc22a5/914ee/76_1_.png 32w,\n/static/e6bd252bade4a9c2fc8553009fbc22a5/1c9ce/76_1_.png 64w,\n/static/e6bd252bade4a9c2fc8553009fbc22a5/bf8e1/76_1_.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/e6bd252bade4a9c2fc8553009fbc22a5/ef6ff/76_1_.webp 32w,\n/static/e6bd252bade4a9c2fc8553009fbc22a5/8257c/76_1_.webp 64w,\n/static/e6bd252bade4a9c2fc8553009fbc22a5/6766a/76_1_.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Echo of War",
+        "Forgotten Hall Store",
+        "Mission Reward"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "19",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Kites From the Past",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When the wearer uses their Skill, then the next ally taking action (except the wearer) deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/20/24/28/32\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" increased DMG for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

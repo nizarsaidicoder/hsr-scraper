@@ -1,0 +1,58 @@
+{
+    "id": "72231ce0-4e71-50cd-a4eb-22381ae57749",
+    "updatedAt": "2023-04-25T18:43:51.695Z",
+    "createdAt": "2023-02-17T08:34:29.670Z",
+    "coneId": 51,
+    "name": "Return to Darkness",
+    "slug": "return-to-darkness",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/94bb0e0f33690532c70d54dfb1335794/bf8e1/51_sm.png",
+                            "srcSet": "/static/94bb0e0f33690532c70d54dfb1335794/914ee/51_sm.png 32w,\n/static/94bb0e0f33690532c70d54dfb1335794/1c9ce/51_sm.png 64w,\n/static/94bb0e0f33690532c70d54dfb1335794/bf8e1/51_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/94bb0e0f33690532c70d54dfb1335794/ef6ff/51_sm.webp 32w,\n/static/94bb0e0f33690532c70d54dfb1335794/8257c/51_sm.webp 64w,\n/static/94bb0e0f33690532c70d54dfb1335794/6766a/51_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Nameless Glory"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "529"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Raging Waves",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's CRIT Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"12/15/18/21/24%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". After a CRIT Hit, there is a \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"16\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"/20/24/28/32\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" fixed chance to dispel 1 buff on the target enemy. This effect can only trigger once per attack.\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

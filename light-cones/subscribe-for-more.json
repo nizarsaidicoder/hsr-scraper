@@ -1,0 +1,58 @@
+{
+    "id": "2dcb6919-289f-5c31-85ba-2a7ff6605d1a",
+    "updatedAt": "2023-05-07T10:27:43.484Z",
+    "createdAt": "2023-04-25T18:43:53.042Z",
+    "coneId": 61,
+    "name": "Subscribe for More!",
+    "slug": "subscribe-for-more",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/28775441fb27705eed9cc1b657b3d6a2/bf8e1/61.png",
+                            "srcSet": "/static/28775441fb27705eed9cc1b657b3d6a2/914ee/61.png 32w,\n/static/28775441fb27705eed9cc1b657b3d6a2/1c9ce/61.png 64w,\n/static/28775441fb27705eed9cc1b657b3d6a2/bf8e1/61.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/28775441fb27705eed9cc1b657b3d6a2/ef6ff/61.webp 32w,\n/static/28775441fb27705eed9cc1b657b3d6a2/8257c/61.webp 64w,\n/static/28775441fb27705eed9cc1b657b3d6a2/6766a/61.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Like Before You Leave!",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the DMG of the wearer's Basic ATK and Skill by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"24\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/30/36/42/48\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This effect increases by an extra \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"24\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/30/36/42/48\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" when the wearer's current Energy reaches its max level.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "id": "0ffa3860-0e2d-53e8-a422-839127be990d",
+    "updatedAt": "2024-07-09T12:18:58.751Z",
+    "createdAt": "2024-06-09T08:40:32.788Z",
+    "coneId": 127,
+    "name": "After the Charmony Fall",
+    "slug": "after-the-charmony-fall",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/a88e7f516907da59849735079e870832/6766a/127_sm.webp",
+                            "srcSet": "/static/a88e7f516907da59849735079e870832/ef6ff/127_sm.webp 32w,\n/static/a88e7f516907da59849735079e870832/8257c/127_sm.webp 64w,\n/static/a88e7f516907da59849735079e870832/6766a/127_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "June 20th, 2024",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "847"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "397"
+        }
+    },
+    "skillName": "Unknown",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's Break Effect by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"28/35/42/49/56%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". After the wearer uses Ultimate, increases SPD by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8/10/12/14/16\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", lasting for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turn(s). \",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

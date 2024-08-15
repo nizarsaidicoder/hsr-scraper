@@ -1,0 +1,52 @@
+{
+    "id": "831b2c9b-fe64-5d0e-9486-43f61a8bfb7c",
+    "updatedAt": "2024-08-14T05:02:42.156Z",
+    "createdAt": "2024-07-21T07:18:24.716Z",
+    "coneId": 130,
+    "name": "Poised to Bloom",
+    "slug": "poised-to-bloom",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/d95f0d0d4460d494cfa9e05e73491737/6766a/130_sm.webp",
+                            "srcSet": "/static/d95f0d0d4460d494cfa9e05e73491737/ef6ff/130_sm.webp 32w,\n/static/d95f0d0d4460d494cfa9e05e73491737/8257c/130_sm.webp 64w,\n/static/d95f0d0d4460d494cfa9e05e73491737/6766a/130_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "August 21st, 2024",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Unknown",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's ATK by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Upon entering battle, if two or more characters follow the same Path, then these characters' CRIT DMG increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Abilities of the same type cannot stack. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

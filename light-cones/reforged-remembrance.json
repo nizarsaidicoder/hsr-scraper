@@ -1,0 +1,58 @@
+{
+    "id": "caaf64af-40d2-54a4-b9af-ec5fe2bf5494",
+    "updatedAt": "2024-02-05T18:26:43.146Z",
+    "createdAt": "2024-01-27T10:49:37.871Z",
+    "coneId": 107,
+    "name": "Reforged Remembrance",
+    "slug": "reforged-remembrance",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/602cb061205a31d6fda10bbcfb1c2f06/bf8e1/107_sm.png",
+                            "srcSet": "/static/602cb061205a31d6fda10bbcfb1c2f06/914ee/107_sm.png 32w,\n/static/602cb061205a31d6fda10bbcfb1c2f06/1c9ce/107_sm.png 64w,\n/static/602cb061205a31d6fda10bbcfb1c2f06/bf8e1/107_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/602cb061205a31d6fda10bbcfb1c2f06/ef6ff/107_sm.webp 32w,\n/static/602cb061205a31d6fda10bbcfb1c2f06/8257c/107_sm.webp 64w,\n/static/602cb061205a31d6fda10bbcfb1c2f06/6766a/107_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "February 6th, 2024",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Crystallize",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases wearer's Effect Hit Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"40/45/50/55/60%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When the wearer deals DMG to an enemy inflicted with Wind Shear, Burn, Shock, or Bleed, they will individually gain 1 stack of Prophet. This effect can stack up to 4 times. In a single battle, each type of DoT can only generate 1 stack of Prophet. Every stack of Prophet increases wearer's ATK by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5/6/7/8/9%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" and the DoT dealt will ignore \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"7.2/7.9/8.6/9.3/10%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of the target's DEF.\",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

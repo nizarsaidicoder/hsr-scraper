@@ -1,0 +1,437 @@
+{
+    "id": "7c94540f-02d4-57d4-b555-ad288731f9c5",
+    "updatedAt": "August 1st, 2024",
+    "createdAt": "2024-05-06T12:34:28.663Z",
+    "unitId": 60,
+    "name": "Trailblazer (Imaginary)",
+    "slug": "trailblazer-imaginary",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/286541431fc0e4242b16eb307e2a71b0/60b4d/img_mc_icon.webp",
+                            "srcSet": "/static/286541431fc0e4242b16eb307e2a71b0/e73fe/img_mc_icon.webp 40w,\n/static/286541431fc0e4242b16eb307e2a71b0/61ca6/img_mc_icon.webp 80w,\n/static/286541431fc0e4242b16eb307e2a71b0/60b4d/img_mc_icon.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/c464a14e5028876e81405abb38700edc/b26e2/harmony_mc_card.webp",
+                            "srcSet": "/static/c464a14e5028876e81405abb38700edc/84550/harmony_mc_card.webp 94w,\n/static/c464a14e5028876e81405abb38700edc/34f80/harmony_mc_card.webp 187w,\n/static/c464a14e5028876e81405abb38700edc/b26e2/harmony_mc_card.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/a632d16359049c2561ea5c66aea1a9b7/3cd29/harmony_mc_full.webp",
+                            "srcSet": "/static/a632d16359049c2561ea5c66aea1a9b7/e7160/harmony_mc_full.webp 250w,\n/static/a632d16359049c2561ea5c66aea1a9b7/5f169/harmony_mc_full.webp 500w,\n/static/a632d16359049c2561ea5c66aea1a9b7/3cd29/harmony_mc_full.webp 1000w",
+                            "sizes": "(min-width: 1000px) 1000px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 1000,
+                    "height": 1000
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A girl/boy who boarded the Astral Express. They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Body - HP% > DEF%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aim for HP% on Body to help remedy Harmony' Trailblazer's initial low defensive stats. If you can't obtain an HP% body armor with good sub-stats or have an excellent DEF% body armor with good sub-stats use that instead. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Feet - Speed\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar Sphere - HP% > DEF%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aim for HP% on Sphere to help remedy Harmony' Trailblazer's initial low defensive stats. If you can't obtain an HP% Sphere with good sub-stats or have an excellent DEF% Sphere with good sub-stats use that instead. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Link Rope - Break Effect >= Energy Regen \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Break Effect is the most optimal choice as long as you can maintain 100% ultimate uptime without an Energy Recharge Rope. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Whether this is possible will depend on the Eidolon level and the Cone of your Trailblazer primarily, but can also depend on how many hits you take and how many talent activations you are able to trigger in battle. If you don't have E6 or S5 Meshing Cogs/Memories of the Past, an Energy Rope may be required. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for sub-stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"SPEED:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Speed is one of only two scaling stats the Harmony Trailblazer has to improve their kit output as such stacking as much of it as possible is imperative with the key breakpoints being 134 first and foremost for endgame content and 145 if you are using Talia. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Even after these breakpoints, Speed continues to be useful offering more frequent actions contributing to faster Breaks and more frequent Super Breaks, increasing damage output. Speed is a must-have offensive stat that allows Trailblazer to unlock their Super Break earlier but when using Trailblazer's skill every action with high speeds ensure you manage your skill points appropriately so you don't run out. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Break Effect%:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Break Effect% is Trailblazer's other core stat increasing not only their own personal damage through Super Break but also their supportive effects after unlocking E4 thanks to granting 15% of their total Break Effect to allies. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gaining as much Break Effect as possible is absolutely a top priority and with nothing else to spend your sub-stats on other than Speed and Defenses there's no excuse not to go all out. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Energy Recharge%:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Harmony Trailblazer's ultimate is almost their entire kit and without it active they aren't able to do their job. Fortunately, by stacking the right amount of Energy Recharge, it's trivial to keep the Ultimate active permanently through a combination of gameplay, gear, Cones and Eidolons. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Exactly how easy 100% ultimate uptime is and how skill point restrictive the end result will be, depends on your Trailblazer's investment level. Trailblazer has multiple Eidolons and a talent that grants an abundance of Energy at different points of battle.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Unfortunately the best of which - their E6 -  is not available on initial release\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" meaning your Energy investment will need to be higher until it can be obtained. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At E4 it's recommended you use either S5 Meshing Cogs/S5 Memories of the past + Break Rope OR an Energy Rope + any other Light Cone with the first option being the more favorable one and spamming your skill to ensure 100% ultimate uptime. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gaining access to more Energy Recharge than these two setups can allow Harmony Trailblazer to use basics in their rotation, lowering damage but easing skill point costs (this can be achieved pre-E6 with S5 memories/cogs and an energy rope but at the cost of break). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After E6 releases, you'll be free to use any Cone with a break rope equipped or make use of even higher energy recharge builds capable of getting even faster and more frequent ultimates for specialized builds. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for Speed breakpoints\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"(Low Investment) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"145\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (Recommended/Talia) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"160+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (High-end gear) \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "800501",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "800502",
+            "energy_gen": "6",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "800503",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "800504",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "800507",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Support",
+    "affiliation": "Astral Express",
+    "rarity": "5",
+    "element": "Imaginary",
+    "path": "Harmony",
+    "stats": {
+        "hp_base": 147.84,
+        "def_base": 92.4,
+        "atk_base": 60.72,
+        "speed_base": 105
+    },
+    "ascensionMaterials": {
+        "mats_1": "thiefs-instinct",
+        "mats_2": "usurpers-scheme",
+        "mats_3": "enigmatic-ectostella",
+        "mats_4": "conquerors-will"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "60",
+            "name": "Traiblazer Harmony",
+            "upgrade1Name": "Best Seat in the House",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After using Skill for the first time, immediately recovers \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Skill Point(s). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Jailbreaking Rainbowwalk",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When the battle starts, the Trailblazer's Energy Regeneration Rate increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Sanatorium for Rest Notes",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Dove in Tophat",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While the Trailblazer is on the field, increases the Break Effect of all teammates (excluding the Trailblazer), by an amount equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the Trailblazer's Break Effect. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Poem Favors Rhythms of Old",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Tomorrow, Rest in Spotlight",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"The number of additional DMG applications by the Skill increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "ruan-mei",
+            "notes": "Ruan has outstanding synergy with Harmony Trailblazer. As a break scaling character herself, she can fully benefit from all of Trailblazer's kit and buffs. Additionally Ruan grants a team wide Break Effect increase which boosts Harmony Trailblazer's damage and teamwide buff after E4. What makes this so strong is that Ruan Mei deals considerable Break damage with her own kit and by buffing Harmony Trailblazer she buffs herself again by proxy. On top of the break synergy Ruan's ultimate is also a welcome resistance shred that helps boost superbreak damage for the team."
+        },
+        {
+            "character": "aventurine",
+            "notes": "Aventurine stands as one of the best sustains in the game, but also has excellent unexpected synergy with Harmony Trailblazer. Out of all the sustains, Aventurine has some of the absolutely highest toughness damage multipliers, thanks to his Follow-up and Ultimate both of which can contribute to faster enemy Breaks and after the fact decent sized Super Breaks. On top of this, the fact that Aventurine is Imaginary is excellent as the best time to bring Trailblazer is when the enemies are fully IMG weak, meaning Aventurine will thrive simultaneously. Finally Aventurine is close to completely skill point positive unless put under extreme pressure allowing for Trailblazer to spam out their skills as much as they need in a lot of teams."
+        },
+        {
+            "character": "gallagher",
+            "notes": "Gallagher is a healer that scales their healing off Break Effect, offering tremendous synergies with Harmony Trailblazer. The most important of which is enabling Gallagher to deal tremendous Super Break damage. Outside of Aventurine, Gallagher has some of the most potent Toughness damage potential of all of the sustains thanks to his ultimate + basic spamming combos but unlike Aventurine, Gallagher stacks Break Effect himself to boost his healing meaning you can expect some truly threatening Super Breaks from the bartender. Again similar to Aventurine, Gallagher has good potential to be played skill point positive in a variety of situations allowing for skill useage as needed on Trailblazer."
+        },
+        {
+            "character": "xueyi",
+            "notes": "One of the first characters with a kit that fully scales with Break Effect, Xueyi can certainly take advantage of Trailblazer's Break Effect boosting buffs, allowing her to not only reach her maximum Break Effect damage boosting potential but upon exceeding it also the option to switch out some of her gear choices to yield even more damage. Of course as a Break focused character Xueyi has great access to high toughness damage and large amounts of Break Effect% making her Super Break damage fantastic."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When the number of enemy targets on the field is <b>5 or more/4/3/2/1</b>, the Super Break DMG triggered by the Backup Dancer effect increases by <b>20%/30%/40%/50%/60%</b>.",
+            "name": "Dance With the One"
+        },
+        {
+            "req": "A4",
+            "desc": "When using Skill, additionally increases the Toughness Reduction of the first instance of DMG by <b>100%</b>.",
+            "name": "Shuffle Along"
+        },
+        {
+            "req": "A6",
+            "desc": "Additionally delays the enemy target's action by <b>30%</b> when allies Break enemy Weaknesses.",
+            "name": "Hat of the Theater"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The Harmony Trailblazer is the first of their kind, being a fully dedicated Break support.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" They provide teamwide Break Effect and unique benefits for attacking Broken enemies in the form of \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Super Break DMG,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" dealing considerable Break DMG based on the character's Break Effect and the Toughness-reducing damage of the attack. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The Trailblazer themselves deal extremely high Toughness damage,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" meaning they will also be able to contribute very high damage against Broken targets. This Super Break counteracts the natural downside of Break setups; the damage usually trails once an enemy is Broken, but with the Harmony Trailblazer, it only increases that damage \u2014 vastly so.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"You know, it seems like as more and more Harmony characters get released, Xipe must have a clause in the Harmony contract that states 'Thou shalt be damn strong and have mad swag' because every single one of them has been outstanding, and the Harmony edition of the Trailblazer is no different. If you were worried that the Trailblazer's new behatted form isn't worthy of hanging with the greats and is doomed to never be used, then I have some great news for you because it looks like the Harmony Trailblazer is going to become a staple support for Break focused teams moving forward.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Their Skill is a Bounce ability, dealing up to 50% ATK damage to a target enemy and then dealing an additional 4 hits of the same damage to random enemies after. As a Bounce ability, this has a tremendous amount of Toughness damage attached to it, especially if you're against small numbers of enemies. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Especially since the Harmony Trailblazer wants to Break enemies as quickly as possible to take advantage of their Ultimate's effects, if the enemy is weak to Imaginary you'll be absolutely bullying them with this Skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This Skill helps a lot with Energy gain as well, so it's highly recommended to use this every single turn to maximize the gains from both aspects. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Their Talent also plays into this by providing up to 10 Energy whenever an enemy target's Weakness gets Broken, so Breaking faster also regenerates Energy faster.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This is triggered on any Break, so you don't necessarily have to have the Trailblazer being the one to Break enemies to benefit from this.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Now for the Ultimate, it's the most important aspect of their kit. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"For the cost of 140 Energy, they grant all allies, including themselves, a buff called Backup Dancer that lasts for 3 of the Trailblazer's turns. Allies with Backup Dancer will have their \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Break Effect increased by up to 30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and gain access to a new exclusive mechanic called Super Break. When an ally with Backup Dancer hits a Broken enemy,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" they will deal an instance of Super Break DMG, and this damage is based on both the Break Effect of the attacking character as well as the Toughness DMG of this attack.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This new Super Break mechanic is the answer to the most profound question that has plagued full Break setups up to now, which is 'I've broken the enemy! Now what?'\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \u2014 when you Broke an enemy before, you got a huge influx of damage upon the initial Break, but all that Break Effect you stacked is useless until the target recovers from Break. It was the ironic downside of Ruan Mei's Weakness Break Efficiency for Break users, in that delaying the enemy from recovering from Break was actually worse for you. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"But now with Harmony Trailblazer's Super Break, all that Break Effect comes in like Truck-kun to decimate the already Broken enemy, turning the ironic disadvantage of a Broken enemy into the time where the team can put out their most potent damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Now is probably the time to explain why Break DMG is so special and unique. Break DMG is not like other sources of damage in this game in that it has far fewer ways to be affected; unsurprisingly CRIT stats do nothing, but even things like your usual DMG% increases will also do nothing. No other stats besides Break Effect will affect the Break DMG, but certain character effects and debuffs on enemies will also be able to increase the Break DMG enemies receive; things like Gallagher's Talent increasing Break DMG directly, or reducing enemies' DEF or Elemental RES, or applying vulnerability. This also goes both ways, so if an enemy has increased stats, they will end up taking less damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Break DMG also gets increased based off of the enemies' Maximum Toughness, so you'll do much more Break DMG against a Boss or Elite with a large Toughness bar than you would against an elemental bird that gets Broken in a single hit. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This is actually not the case for Super Break\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", meaning you can do the same amount of extra damage against all enemies once they're Broken, though the initial Break DMG will still be affected by the enemy Max Toughness as normal.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It's particularly interesting that Super Break also cares about the Toughness damage of the action that triggers it, so other support characters can end up dealing a surprising amount of damage with Super Break; once again, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Gallagher is a particularly great example of this due to his Ultimate and Enhanced Basic combo being a huge total of 150 Toughness\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and Aventurine is also a great example thanks to his frequent Bouncing follow-up from his Talent. The Harmony Trailblazer themselves will be consistently making full use of these effects thanks to their high Toughness damage Skill as well as obviously being incentivised to build for maximum Break Effect, so don't be surprised to be easily broaching 6-digit damage numbers with the dapper hatter.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Bonus Ability Traces matter quite a bit, not just because they're really good but because Break DMG cares immensely about your Character Level. Their A2 will increase the damage of Super Break based on the number of enemies on the field, having higher benefits the fewer enemies there are; you get a 20% increase against 5 or more enemies, but you get a whopping 60% increase against only a single target. Either way, you're getting a substantial boost because this increase to Super Break is actually a separate final multiplier, making this an inordinately powerful damage increase.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A4 will similarly provide a massive boost, increasing the Toughness damage of the initial hit of their Skill by 100%. This is ambiguous so let me elaborate. As a Bounce ability, the initial hit has the most Toughness damage, followed by a halved value for all remaining hits. This generally puts 5-hit Bounce abilities in the range of about 90 Toughness damage, about the same as most single-target Ultimates. By doubling the value of the initial hit, the Harmony Trailblazer's Skill now deals a colossal 120 Toughness damage, putting it on par with Xueyi's Ultimate and Imbibitor Lunae's Fulgurant Leap.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A6 also provides a massive benefit that was previously a downside for Break setups. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Whenever an ally Breaks an enemy, their next action will be delayed by 30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". This allows for more time to wrack up the impressive damage from Super Break and also doubles as a means of improving team survivability. This delaying effect stacks extremely well with both Ruan Mei's Ultimate and Welt's Ultimate; you can actually send enemies to the shadow realm and then keep them there for long enough to get obliterated by the subsequent Super Break damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Since this is the Trailblazer, we will eventually get access to all of their Eidolons, though it may not be immediate.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" E1 will refund a Skill Point for the first Skill of a fight, making it easier to get the ball rolling without screwing over your DPS, and E2 will grant 25% Energy Regeneration Rate for 3 turns at the start of combat, speeding up the rate at which you get the first Ultimate. E4 will increase the Break Effect of all other allies by 15% of the Trailblazer's current Break Effect, and this will dynamically update if the Trailblazer's Break Effect changes. E3 and E5 are both very appreciated Trace levels. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Finally, E6 will add 2 extra hits to the Bounce of the Skill, for a new total of 7 hits, resulting in this one Skill dealing a hilarious 150 Toughness damage, tied with Argenti's Lv2 Ultimate for the most Toughness damage on any single ability.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" The extra hits also mean this Skill will regenerate more Energy, opening up some more build flexibility in terms of Light Cones.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"With this particular kit, it's no surprise that Ruan Mei is an exceptionally good pairing with Harmony Trailblazer; \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"one helps you Break faster and the other helps you delete the then-Broken foe. Ruan Mei\u2019s Weakness Break Efficiency also helps to improve the damage from Super Break. While this is the ideal combination, you should not despair if you do not have Ruan Mei, as Harmony Trailblazer is more than powerful enough to be the complete backbone of Break teams moving forward. Other units can also be substituted to achieve whichever result is most desirable. If you want more actions then Bronya or Asta can grant the Break DPS more effective SPD, and if you want to make sure the enemy never gets up again you can use Silver Wolf or Pela to send the enemy's DEF to Caelid.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Once again, I'm mentioning Gallagher, because this man just keeps on winning. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"As already mentioned, his Talent directly improves team Break DMG, his own Toughness damage is highly impressive, and he has no troubles keeping the team alive, especially at higher Eidolon levels. You are also incentivized to build him with Break Effect in mind, so he can provide very impressive damage numbers with the help of the Backup Dancer buff, all from the role of sustain. Unless another sustain shows up with an explicit Break focus, Gallagher is going to be quite the appealing pick for maximising damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This is an undeniably powerful kit, and on the Trailblazer of all things! \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"With everyone gaining access to this wonderful break-focused kit, I can't help but think that the game might be shifting towards a Break meta and that the devs want everyone to have a way to make the most of it.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Naturally, this means that if any future characters come out with a Break focus (or maybe existing characters like Xueyi), it's a solid bet that the Harmony Trailblazer will be an excellent teammate for them. They\u2019re still useable outside of Break teams, but you shouldn\u2019t expect them to outperform the usual cast when it comes to standard team setups.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Don't be surprised to see this smooth criminal leading the charge for Break teams moving forward. Do not underestimate them, and let us all 'Hee-hee' into that White Night.\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Highly competitive for Break teams and quite impressive on their own, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely high Toughness damage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can lock down Weakness Broken enemies for longer with a 30% Break Delay, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Super Break allows all allies to contribute some damage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Near permanent Ultimate uptime, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Scales incredibly well with Eidolons which we get full access to, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Adds a significant amount of free Break Effect to the whole team. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a Break focused character, they do almost no damage before an enemy is Broken, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Wants to be paired with dedicated Break characters to make the most of their kit, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Loses a lot of effectiveness against non-IMG weak, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A2 Bonus Trace loses effectiveness in large AoE scenarios, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The best teammate option is with Ruan Mei, a limited 5-star Harmony. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3500-4500+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"950-1350+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134-145+ (If using Talia)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Break Effect%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"150%-250%+ (excluding Ultimate buff)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Energy Regeneration: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"0%-19.44%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Rachael Chau | Caleb Yen",
+        "kr": "Kim Ha-ru (\uae40\ud558\ub8e8) | Kim Myung-jun (\uae40\uba85\uc900)",
+        "jpn": "Ishikawa Yui (\u77f3\u5ddd \u7531\u4f9d) | Enoki Junya (\u698e\u6728 \u6df3\u5f25)",
+        "cn": "Chen Tingting (\u9648\u5a77\u5a77) | Qin Juge (\u79e6\u4e14\u6b4c)"
+    },
+    "ratings": {
+        "moc": "10",
+        "moc_special": "10",
+        "pure": "9",
+        "pure_special": "9",
+        "apo": "11",
+        "apo_special": "11"
+    },
+    "energyUltimate": "140",
+    "conesNew": [
+        {
+            "cone": "past-self-in-mirror",
+            "super": "1",
+            "percent": "112.60%",
+            "notes": "Past Self In Mirror is currently the Cone that offers Trailblazer the most Break Effect, utility and team-wide buffs but at the cost of Energy Regeneration. Using this Cone, keeping your Ultimate active 100% of the time is a challenge and it will require you to use an Energy Recharge rope before unlocking E6. After unlocking E6 this Cone becomes far more enticing as it can be run comfortably without the need to run an Energy Recharge rope thanks to the additional Energy gained every skill used."
+        },
+        {
+            "cone": "memories-of-the-past",
+            "super": "5",
+            "percent": "111.76%",
+            "notes": "Best well rounded Cone for Harmony Trailblazer offering a fantastic amount of Break Effect% but most importantly up to 8 energy on hit with attacks. The energy from this Cone fully enables you to build a Break rope even before unlocking E6, making it a very appealing option. Lower super imposition levels of this Cone will yield less energy but can still be a good choice with the one rule being you can consistantly keep your Ultimate active at all times."
+        },
+        {
+            "cone": "meshing-cogs",
+            "super": "5",
+            "percent": "100.00%",
+            "notes": "If you're aiming for consistant energy recharge, especially before E6 becomes available and you don't have a high super imposition level of Memories of the Past, S5 Meshing of Cogs can do the same job at the cost of a good amount of Break Effect and base stats."
+        },
+        {
+            "cone": "dance-dance-dance",
+            "super": "5",
+            "percent": "100.00%",
+            "notes": "Similar to Past Self in Mirror this Cone has no Energy Recharge, making it a challenge to use before E6 becomes available for Trailblazer. When E6 does become available this Cone becomes a solid but specialised option for some teams that want to min-max stuff."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Watchmaker, Master of Dream Machinations",
+                    "relic_2": "",
+                    "value": "",
+                    "comment": "",
+                    "notes": "Best set for Harmony Trailblazer, offering them excellent Break Effect% and also a team-wide Break Effect buff, doubling down on their role as a Break Effect support. With the right build, this set offers the most effective Break Effect for Trailblazer themself with the added benefit of granting it to the team. Team-wide 100% uptime on the buff is incredibly hard to achieve, especially when team advances are involved but 50-66% is all but guaranteed with the right build."
+                },
+                {
+                    "relic": "Thief of Shooting Meteor",
+                    "relic_2": "Messenger Traversing Hackerspace",
+                    "value": "",
+                    "comment": "",
+                    "notes": "Speed and Break Effect are Harmony Trailblazer's best stats and this 2 piece mix offers a bit of both making it a lower power level but flexible choice."
+                },
+                {
+                    "relic": "Thief of Shooting Meteor",
+                    "relic_2": "",
+                    "value": "",
+                    "comment": "",
+                    "notes": "When Speed isn't needed but you don't have a reasonable Watchmaker set, 4P Thief can be used until you do. When enemies Break you'll also get a bit of additional energy on top of the energy you can already expect from your talent. A great choice if all you want is Break and you don't have Watchmaker."
+                },
+                {
+                    "relic": "Thief of Shooting Meteor",
+                    "relic_2": "Watchmaker, Master of Dream Machinations",
+                    "value": "",
+                    "comment": "",
+                    "notes": "If you're stuck in farming and can't assemble a 4P Thief or a 4P Tatchmaker set but have pieces of both this is your next best option for Break Effect stacking."
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Forge of the Kalpagni Lantern",
+                    "value": "",
+                    "comment": "",
+                    "notes": "If the condition can be fulfilled, this set will be the best-in-slot, as it grants the Harmony trailblazer 40% Break Effect and 6% SPD."
+                },
+                {
+                    "planar": "Talia: Kingdom of Banditry",
+                    "value": "",
+                    "comment": "",
+                    "notes": "Talia is currently the only Planar set that directly offers Harmony Trailblazer stats that they need to enhance their kit and as a support/damage hybrid that makes it at this time definitely their best set. In order to get full value from Talia you'll need 145 Speed though - without it you'll be losing an entire 20% Break Effect."
+                },
+                {
+                    "planar": "Sprightly Vonwacq",
+                    "value": "",
+                    "comment": "",
+                    "notes": "If your Trailblazer is struggling to maintain their Ultimate 100% of the time or you have a Sprightly planar set with incredibly good sub-stats it can be used before unlocking E6 in future patches but is only recommended if you don't have Talia Kingdom of Banditry. The action advance from this set can allow for faster Breaks and access to Super Break in some fights when looking to seriously min-max the endgame."
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": "",
+                    "comment": "",
+                    "notes": "Penacony, Land of Dreams offers the same Energy Regeneration perk of Sprightly Vonwacq, but will also boost all Imaginary DMG dealt by allies attacks. Unfortunately, this does not include Super Break so while a nice perk will not directly boost Trailblazers kit and is only in effect when supporting an IMG DPS."
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "patience-is-all-you-need",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Break Effect"
+                },
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "comments": "Stack Speed until the desired breakpoint then prioritize as much Break Effect as possible. As a bonus, but not at the expense of Speed or Break, seek out defensive stats to improve your survivability.",
+            "substats": "SPD = Break Effect% > HP% = DEF%",
+            "skill_priority": "Ultimate > Talent > Skill > Basic",
+            "traces_priority": "Dance With the One (A2) > Hat of the Theater (A6) > Shuffle Along (A4)",
+            "name": "Default build"
+        }
+    ],
+    "videos": [
+        {
+            "video": "ks5SVFw7Nr8"
+        },
+        {
+            "video": "XFkXqQ54BYY"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Team #1",
+            "member_1": "xueyi",
+            "member_2": "trailblazer-imaginary",
+            "member_3": "ruan-mei",
+            "member_4": "gallagher"
+        },
+        {
+            "name": "Team #2",
+            "member_1": "trailblazer-imaginary",
+            "member_2": "silver-wolf",
+            "member_3": "ruan-mei",
+            "member_4": "gallagher"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "Break Effect",
+            "value": 37.3
+        },
+        "traceStat2": {
+            "stat": "Imaginary DMG",
+            "value": 14.4
+        },
+        "traceStat3": {
+            "stat": "Effect RES",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Amplifier",
+    "releaseDate": "May 8th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "Break",
+        "Buff",
+        "Delay"
+    ]
+}

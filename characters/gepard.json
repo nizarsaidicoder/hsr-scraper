@@ -1,0 +1,401 @@
+{
+    "id": "cfd63b3a-945c-5b7d-b6c9-e66b8428f2bd",
+    "updatedAt": "June 27th, 2024",
+    "createdAt": "2023-01-26T14:37:21.514Z",
+    "unitId": 15,
+    "name": "Gepard",
+    "slug": "gepard",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/cff01461a4e4266e9b213e4d73c6c5c3/e9a79/15_sm.png",
+                            "srcSet": "/static/cff01461a4e4266e9b213e4d73c6c5c3/f31ef/15_sm.png 40w,\n/static/cff01461a4e4266e9b213e4d73c6c5c3/1f8a1/15_sm.png 80w,\n/static/cff01461a4e4266e9b213e4d73c6c5c3/e9a79/15_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/cff01461a4e4266e9b213e4d73c6c5c3/e73fe/15_sm.webp 40w,\n/static/cff01461a4e4266e9b213e4d73c6c5c3/61ca6/15_sm.webp 80w,\n/static/cff01461a4e4266e9b213e4d73c6c5c3/60b4d/15_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/965aa8d4ff5bec3f39a339c09b36a9a3/c9885/1104.png",
+                            "srcSet": "/static/965aa8d4ff5bec3f39a339c09b36a9a3/2aab7/1104.png 94w,\n/static/965aa8d4ff5bec3f39a339c09b36a9a3/0a986/1104.png 187w,\n/static/965aa8d4ff5bec3f39a339c09b36a9a3/c9885/1104.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/965aa8d4ff5bec3f39a339c09b36a9a3/84550/1104.webp 94w,\n/static/965aa8d4ff5bec3f39a339c09b36a9a3/34f80/1104.webp 187w,\n/static/965aa8d4ff5bec3f39a339c09b36a9a3/b26e2/1104.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/5fbe8fa8ee817229dc54c6649bfc0510/3c5dc/15_full.png",
+                            "srcSet": "/static/5fbe8fa8ee817229dc54c6649bfc0510/ca8fd/15_full.png 200w,\n/static/5fbe8fa8ee817229dc54c6649bfc0510/de50c/15_full.png 400w,\n/static/5fbe8fa8ee817229dc54c6649bfc0510/3c5dc/15_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/5fbe8fa8ee817229dc54c6649bfc0510/213b2/15_full.webp 200w,\n/static/5fbe8fa8ee817229dc54c6649bfc0510/413c5/15_full.webp 400w,\n/static/5fbe8fa8ee817229dc54c6649bfc0510/cf6d0/15_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"An upright and noble captain of the Silvermane Guards who bears the name of the age-old Gepard family. In the blizzard-battered city of Belobog, defense is much more challenging than attack. Gepard and the Silvermane Guards he leads serve as the unbreakable iron defense of the Union in this hostile world. Sometimes he is ridiculed by his sister and aide for his ever-scrupulous manner, but no one can deny that the people of Belobog have been able to maintain peace and comfort even with eternal winter on its doorstep...\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With Gepard's protection, the city can carry on with its ordinary daily routine.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "110401",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "110402",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "110403",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "110404",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "110407",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Shielder",
+    "affiliation": "Belobog",
+    "rarity": "5",
+    "element": "Ice",
+    "path": "Preservation",
+    "stats": {
+        "hp_base": 190.08,
+        "def_base": 89.1,
+        "atk_base": 73.92,
+        "speed_base": 92
+    },
+    "ascensionMaterials": {
+        "mats_1": "silvermane-badge",
+        "mats_2": "silvermane-insignia",
+        "mats_3": "horn-of-snow",
+        "mats_4": "silvermane-medal"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "15",
+            "name": "Gepard",
+            "upgrade1Name": "Due Diligence",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Base chance for Gepard's Skill to Freeze enemies increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"35%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Lingering Cold",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After an enemy Frozen by Gepard's Skill is unfrozen, their SPD is reduced by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Never Surrender",
+            "upgrade3Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Ultimate Lv. \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"+2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"+2\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", up to a maximum of Lv. 15.\",\"marks\":[],\"data\":{}}]}]}"
+            },
+            "upgrade4Name": "Faith Moves Mountains",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Gepard is in battle, all allies' Effect RES increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Cold Iron Fist",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Unyielding Determination",
+            "upgrade6Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When his Talent is triggered, Gepard's action is Advanced Forward by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", and he restores extra HP equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of his Max HP.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Gepard has a higher chance to be attacked by enemies.",
+            "name": "Integrity"
+        },
+        {
+            "req": "A4",
+            "desc": "When Unyielding Will is triggered, Gepard's Energy will be restored to <b>100%</b>.",
+            "name": "Commander"
+        },
+        {
+            "req": "A6",
+            "desc": "Gepard's ATK increases by <b>35%</b> of his current DEF. This effect will refresh at the start of each turn.",
+            "name": "Fighting Spirit"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gepard is a capable Preservation sustain unit. He is a resilient tank that draws increased aggro from enemies passively and has very strong unconditional Shields from his Ultimate. He uniquely has a self-revive passive that allows him to recover once after being downed and will immediately restore his Energy to its maximum when it procs. Gepard also has some limited single-target Freeze utility with his Skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gepard is a unit whose value has fluctuated a fair bit over time but has landed on 'very decent'. He's got a lot more competition from all the sustain units released after him and this has led some to think he's no longer enough, but this isn't really true. Gepard's Shields are still very strong and funnily enough are starting to once again become more appreciated due to the large increases in damage from newer enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Shields and heals are largely interchangeable as a method of sustain as long as either can be maintained. The difference is that healing has more forgiveness if \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"you \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"make a mistake, while Shields are more forgiving against highly damaging foes; Shields can be thought of simply adding on a temporary health buffer to a character's existing HP bar, resulting in enemies dealing 'trash damage' \u2014 that is to say non meaningful damage, at least for as long as the damage doesn't spill over to the character's real health. Healing, however, can only work on whatever's not yet dead. Even lore-accurate Luocha isn't \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"that\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" good.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As such, Gepard is one of very few units who can actually prevent the party from getting straight up one-shot by enemies, which is a highly coveted thing especially against enemies like True Sting or Kafka who can pull out an unreasonable amount of damage even if you are prepared for it. The only other unit who can do this as well is Fu Xuan, an absurdly powerful limited 5-star character, where Gepard is a far more accessible standard 5-star.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gepard's Ultimate applies these Shields to all allies, absorbing up to 45% DEF plus 600 for 3 turns. This has a meagre Energy cost of only 100 meaning it is quite possible to keep these Shields up indefinitely, assuming they're not being broken. The actual scaling of these Shields is actually slightly lower than March 7th's Skill's Shield but it is applied to all allies instead of just one and doesn't consume a Skill Point, leading to Gepard being a completely SP positive sustain unit unless you have a reason to use his Skill. Due to Gepard's higher base DEF, this difference is actually still usually in favour of Gepard.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"His Skill attacks a single enemy and deals up to 200% ATK to them and has a 65% base chance to Freeze the target for 1 turn. Frozen enemies will take 60% ATK upon unfreezing. While not likely to be dealing any significant damage, the option to spend a Skill Point on the chance to Freeze an enemy is actually quite underrated in my experience. Frozen enemies can't deal damage to you, and this is unsurprisingly a good thing.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The counterpoint to this is 'neither can \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"dead \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"enemies' and, honestly, fair and true. Unless you're going for DoT team shenanigans with Freeze tech to squeeze out extra DoT ticks from enemies, it's highly likely that if you're using this Skill as a means of bolstering your team's survivability, you're already way out of your depth; Gepard's Shields are already strong enough to deal with most things in the game, but the few things they struggle with cannot currently be overcome with more investment.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"There's just a hard limit on how much DEF Gepard can actually stack and some enemies can still just pierce through them in a single powerful attack. At that point it is far better to fix your \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"damage issue\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", because as before, a dead enemy cannot hurt you. Survivability is just as much about your damage dealers as it is about your sustain unit. It is no accident that many 0-cycle clears of Memory of Chaos do not even use sustain units, opting instead for a third support character.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It may seem odd for me to mention this on Gepard's review specifically, but Gepard is an archetypal Shielder. He quite literally does not have the ability to heal allies, meaning any 'real' damage you take in a fight is \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"permanent.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" If you can't keep up, you have entered a battle of attrition that you will inevitably lose, and it is in these situations that the power and investment of your other units will be tested to the extreme. This will remain true for Gepard as well as any future Preservation units who follow in these archetypal footsteps.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"There is a way to alleviate this somewhat. Gepard's Talent offers him a 1 time self-revive, restoring 50% of his Max HP. This Talent is also where all of his Bonus Traces congregate, and they need to be talked about together to get a full picture. A2 increases Gepard's likelihood of being attacked by enemies substantially, adding on to the already higher chance that Preservation units have, A6 will convert 35% of Gepard's \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"current \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"DEF to ATK, updating the value at the start of each turn, and A4 will restore 100% Energy to Gepard upon triggering the Talent.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With this, Gepard is likely to be attacked a lot, sometimes enough to down him even through his very high DEF and strong Shields. Often this is accompanied by heavy AoE damage, and this is where the A4 can come in to save the day, allowing him to immediately recast his Ultimate, potentially just in time to save the rest of his team. If the Talent is triggering at all, you're already in a battle of attrition, but the important distinction now is that it may not be inherently doomed.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Gepard's Eidolons are something that you may get over time as he is a standard 5-star unit. He doesn't really need them, but they expand upon his Freezing playstyle without interfering with his capabilities as a sustain unit. E1 in particular increases the base chance of his Skill's Freeze to apply by 35%, for a new total of 100% base chance. A little bit of Effect Hit Rate can make this surprisingly consistent against anything without additional Control RES, and can work wonders in highly specialised DoT teams.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The only other thing Gepard has going against him is that newer sustain units do more than just sustain; Fu Xuan does his job almost to the letter but also increases the whole team's CRIT Rate, and Huohuo gives ATK% and Energy to the rest of the party too. It is not a stretch to say that this is likely going to be the norm moving forward, so Gepard will steadily lose value over time as newer sustain units perform his primary job but offer additional benefits.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Even still, Gepard is a great character to have, and is definitely worth your time if you get him, especially since he's substantially better than your free options.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Strong teamwide Shields, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Good Energy economy, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Largely SP positive, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has greatly increased aggro and a self-revive passive.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can struggle to keep the team alive against the toughest foes, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Very Ultimate reliant to do his job compared to Aventurine.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3000 - 3500+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2400 - 2900+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100 / 121 / 134 (Best)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ENERGY REGEN\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\": 19.44%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Bryson Baugus",
+        "kr": "\ubbfc\uc2b9\uc6b0",
+        "jpn": "Furukawa Makoto (\u53e4\u5ddd\u614e)",
+        "cn": "Yang Ma (\u9a6c\u6d0b)"
+    },
+    "ratings": {
+        "moc": "7",
+        "moc_special": "7",
+        "pure": "6",
+        "pure_special": "6",
+        "apo": "7",
+        "apo_special": "7"
+    },
+    "energyUltimate": "100",
+    "conesNew": [
+        {
+            "cone": "moment-of-victory",
+            "super": "1",
+            "percent": "-",
+            "notes": "Currently Best in Slot for Gepard in any build/content in the game. The Cone gives a massive DEF bonus on top of the high base DEF while also buffing the Taunt value. The Effect Hit Rate is also useful for applying status effects when needed."
+        },
+        {
+            "cone": "landaus-choice",
+            "super": "5",
+            "percent": "-",
+            "notes": "Gepard's preferred 4* Cone for drawing aggro away from the team as well as any potentially harmful effects that may come with the attacks. Works well with Gepard's Talent giving him a revive to sustain for longer."
+        },
+        {
+            "cone": "day-one-of-my-new-life",
+            "super": "5",
+            "percent": "-",
+            "notes": "Good option for Gepard's shield strength with the DEF buff and the indirect durability increase from DMG Res buffs."
+        },
+        {
+            "cone": "trend-of-the-universal-market",
+            "super": "5",
+            "percent": "-",
+            "notes": "A slightly weaker version of Day One of My New Life - can be used as a stat stick for shield durability."
+        },
+        {
+            "cone": "amber",
+            "super": "5",
+            "percent": "-",
+            "notes": "Still a good option for shield durability while having a lower base DEF, since all of the above options require gacha."
+        },
+        {
+            "cone": "we-are-wildfire",
+            "super": "5",
+            "percent": "-",
+            "notes": "Obtainable from the missions, and S5 accessible from the Forgotten Hall shop, grants small healing and DMG reduction."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Knight of Purity Palace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Knight of Purity Palace",
+                    "relic_2": "Messenger Traversing Hackerspace",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Belobog of the Architects",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "moment-of-victory",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "comments": "This build focuses on creating the strongest Shields possible and some Effect Hit Rate to land the Freeze. Get Speed up to 134, then focus on DEF.",
+            "substats": "SPD (breakpoint) = DEF% > HP% = EFF RES%",
+            "skill_priority": "Ultimate > Skill = Talent = Basic",
+            "traces_priority": "Integrity (A2) > Fighting Spirit (A6) > Commander (A4)",
+            "name": "Shielding"
+        }
+    ],
+    "videos": null,
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "gepard",
+            "member_2": "natasha",
+            "member_3": "serval",
+            "member_4": "dan-heng"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "iceDmg",
+            "value": 22.4
+        },
+        "traceStat2": {
+            "stat": "effectRes",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "def",
+            "value": 12.5
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Sustain",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": null
+}

@@ -1,0 +1,453 @@
+{
+    "id": "38fde14a-5210-53b9-8c2d-73ff86489769",
+    "updatedAt": "July 30th, 2024",
+    "createdAt": "2023-01-26T08:55:36.019Z",
+    "unitId": 23,
+    "name": "Yanqing",
+    "slug": "yanqing",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/15b2a8be678745987353625378ee8dba/e9a79/23_sm.png",
+                            "srcSet": "/static/15b2a8be678745987353625378ee8dba/f31ef/23_sm.png 40w,\n/static/15b2a8be678745987353625378ee8dba/1f8a1/23_sm.png 80w,\n/static/15b2a8be678745987353625378ee8dba/e9a79/23_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/15b2a8be678745987353625378ee8dba/e73fe/23_sm.webp 40w,\n/static/15b2a8be678745987353625378ee8dba/61ca6/23_sm.webp 80w,\n/static/15b2a8be678745987353625378ee8dba/60b4d/23_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b93f5213068b83b0cf810752cd7ec896/c9885/1209.png",
+                            "srcSet": "/static/b93f5213068b83b0cf810752cd7ec896/2aab7/1209.png 94w,\n/static/b93f5213068b83b0cf810752cd7ec896/0a986/1209.png 187w,\n/static/b93f5213068b83b0cf810752cd7ec896/c9885/1209.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/b93f5213068b83b0cf810752cd7ec896/84550/1209.webp 94w,\n/static/b93f5213068b83b0cf810752cd7ec896/34f80/1209.webp 187w,\n/static/b93f5213068b83b0cf810752cd7ec896/b26e2/1209.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/0572234e9a22eede4e5d39d1063e91d0/3c5dc/23_full.png",
+                            "srcSet": "/static/0572234e9a22eede4e5d39d1063e91d0/ca8fd/23_full.png 200w,\n/static/0572234e9a22eede4e5d39d1063e91d0/de50c/23_full.png 400w,\n/static/0572234e9a22eede4e5d39d1063e91d0/3c5dc/23_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/0572234e9a22eede4e5d39d1063e91d0/213b2/23_full.webp 200w,\n/static/0572234e9a22eede4e5d39d1063e91d0/413c5/23_full.webp 400w,\n/static/0572234e9a22eede4e5d39d1063e91d0/cf6d0/23_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The spirited lieutenant of the Xianzhou Luofu, and also its most proficient swordsman. He is born for swords and obsessed with them. Whenever a sword rests in his hand, none would dare to underestimate this genius still in the early days of his youth.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perhaps the only thing capable of dulling his treasured blade's sharp edge is time.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "120901",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "120902",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "120903",
+            "energy_gen": "5",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "120904",
+            "energy_gen": "10",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "120907",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Xianzhou Luofu",
+    "rarity": "5",
+    "element": "Ice",
+    "path": "Hunt",
+    "stats": {
+        "hp_base": 121.44,
+        "def_base": 56.1,
+        "atk_base": 92.4,
+        "speed_base": 109
+    },
+    "ascensionMaterials": {
+        "mats_1": "thiefs-instinct",
+        "mats_2": "usurpers-scheme",
+        "mats_3": "gelid-chitin",
+        "mats_4": "conquerors-will"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "23",
+            "name": "Yanqinq",
+            "upgrade1Name": "Svelte Saber",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Yanqing attacks a Frozen enemy, he deals Additional \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Ice DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of his ATK.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Supine Serenade",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Soulsteel Sync is active, Energy Regeneration Rate increases by an extra \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Sword Savant",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Searing Sting",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When the current HP percentage is \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"80%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" or higher, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Ice RES PEN\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Surging Strife",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Swift Swoop",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"If the Ultimate's buffs are still in effect when an enemy is defeated, their duration is extended by 1 turn.\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When Yanqing attacks, deals additional <u>Ice DMG</u> equal to <b>30%</b> of Yanqing's ATK to targets with Ice Weakness.",
+            "name": "Icing on the Kick"
+        },
+        {
+            "req": "A4",
+            "desc": "When Soulsteel Sync is active, Effect RES increases by <b>20%</b>.",
+            "name": "Frost Favors the Brave"
+        },
+        {
+            "req": "A6",
+            "desc": "When a CRIT Hit is triggered, increases SPD by <b>10%</b> for <b>2</b> turn(s).",
+            "name": "Gentle Blade"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yanqing is a standard 5-star character and a single-target specialist. He has very competent damage against single foes and has impressive CRIT buffs through his Talent and Ultimate. His Talent also allows him to occasionally launch a follow-up attack after attacking with a chance of Freezing the foe. He relies on not taking any damage at all to maintain these strong buffs, losing them immediately if this condition is not met, and requiring an additional turn to regain the benefits.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This poor boy. I\u2019m sure he\u2019s actually one of the strongest people on the Luofu, but he just keeps picking fights with, like, the precious few people stronger than him. Sadly it doesn\u2019t get too much better for him in actual gameplay. I will lead with the statement that Yanqing can do very considerable damage \u2014 IF everything goes his way, but I will show you why that may be far more difficult to achieve than you\u2019d expect.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yanqing\u2019s Talent gives him a buff called Soulsteel Sync and is activated by his Skill. While Soulsteel Sync is active, Yanqing is less likely to be targeted by enemies and gains up to an extra 20% CRIT Rate and 30% CRIT DMG. With Soulsteel Sync active, any attack that Yanqing makes has a 60% fixed chance of launching a follow-up attack on the attacked foe, dealing up to 50% ATK and having a 65% base chance to Freeze the target.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As far as stat boosting Talents go, this is certainly one of the more impressive ones, and can result in a great deal of damage coming out, especially if the follow-up occurs even semi-frequently, and \u2014 huh? What\u2019s this last line here\u2026 \u2018When Yanqing receives DMG, the Soulsteel Sync effect will disappear.\u2019 Oh.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yeah\u2026 This sounds like it\u2019s not something that should be too difficult to maintain but this is quite literally \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"any\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" amount of damage. Even a literal single digit point of damage \u2014 even literally 1 damage, and all of the benefits of this Talent vanish into thin air. Worse still is that when Yanqing uses his Skill to activate this Talent, he\u2019ll only start benefiting from its effects \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"after\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" his turn ends, meaning you have an entire turn of downtime if you take any damage at all.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This was far less of an issue in the early moments of the game when enemies were simple and predictable. Nowadays, enemies can quite frequently bust out AoE attacks without much warning, both Blast and full AoE. AoE abilities don\u2019t really care about Yanqing\u2019s reduced likelihood of being targeted because, quite simply, who cares when you can just hit \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"everyone\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", right? This makes it extremely challenging to maintain this Talent\u2019s effects, making whatever powerful bonuses it \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"does\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" provide completely moot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yanqing\u2019s Skill deals up to 220% ATK to a single enemy and will activate Soulsteel Sync for 1 turn. Herein lies the next issue; Soulsteel Sync only has a 1 turn duration, so if Yanqing is ever afflicted by crowd control effects like Concussion or Freeze, and his turn is skipped, this will also result in needing to wait for the next turn over to make use of Soulsteel Sync once more.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yanqing\u2019s Ultimate first buffs his CRIT Rate by 60%, with up to an additional 50% CRIT DMG if Soulsteel Sync is active. These buffs last for 1 turn and stack additively with his Talent\u2019s CRIT buffs. He then deals up to 350% ATK to a single enemy. Without his Talent\u2019s effects active, Yanqing loses a considerable amount of damage from this Ultimate and on the following turn. It also has a very high Energy cost of 140.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Everything revolves around this Talent for him, and it\u2019s got the harshest penalties for even the slightest thing going awry. Took a single point of damage? No more Talent. Missed your turn because of unavoidable crowd control? Must be a skill issue. Didn\u2019t have the SP to use his Skill without interruption? Okay, that might actually be a skill issue\u2026\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Perhaps now you see why it\u2019s difficult to maintain Yanqing\u2019s damage profile. His ability multipliers are also lower than you\u2019d expect for a unit entirely limited to single-target damage and that\u2019s mostly to account for the large amounts of free CRIT stats he gets from his Talent and Ultimate. The issue of course is that if Soulsteel Sync ever drops for whichever of the many reasons it might, Yanqing\u2019s damage vanishes in a flash, and it takes a lot to get back to it.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A team for Yanqing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"must\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" contain a Shielder. Only damage done to Yanqing\u2019s actual HP bar will disable Soulsteel Sync, so Shields are outright necessary for him to function in the end game where there is frequent incoming AoE damage. This currently limits you to pretty much just Gepard, as he is the only Shielder who is viable as a solo sustain. This is already a very tall ask because even if Gepard is also a standard 5-star character like Yanqing, it\u2019s still a whole other 5-star that you may not end up getting for quite a while.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you want to be safe as well, having a way to cleanse Yanqing is also useful because you don\u2019t want to have your turn forcibly skipped, and the only way you can do that without having to run a double sustain comp is to use Bronya for her Skill\u2019s cleanse before the Action Advance. This is yet another standard 5-star character that you may not have access to, and another character who is better spent on other less temperamental DPS characters.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Finally because of his extremely high cost Ultimate, the last unit will almost certainly be Tingyun, and this takes her away from other Ultimate reliant units who can do far more damage against far more enemies with the Energy Tingyun grants them.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This is the dilemma. Even if your Yanqing is well built and well invested, he has a crippling reliance on his other teammates to actually be able to use the power he has, because again, if everything goes his way he actually deals very considerable damage. Budget versions of the above characters do exist but it\u2019s just sunk-cost at that point; March can provide consistent Shields but they raise Yanqing\u2019s aggro meaning they will take more damage and thus need to be reapplied more often, consuming yet \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"more\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" SP in the process; Asta can increase the SPD of Yanqing thereby mitigating any losses you may sustain from losing Soulsteel Sync; and Yukong can very impressively buff Yanqing for a single massive burst with his Ultimate, stacking even greater CRIT stats.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"But actually, what about those CRIT stats? 20% CRIT Rate and 30% CRIT DMG from his Talent is pretty good, this is true, but then an additional 60% CRIT Rate from his Ultimate means that with no further investment, Yanqing naturally sits at 85% during his Ultimate. See, this is an issue because it\u2019s a colossal overcap if you\u2019re trying to build Yanqing with Planar sets like Rutilant Arena in mind.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Rutilant Arena needs 70% CRIT Rate in combat to grant a 20% DMG bonus to a character\u2019s Skill and Basic ATK, but with this much CRIT Rate, Yanqing\u2019s Ultimate will overcap his CRIT Rate by 58%... To literally zero benefit. Well, okay, so you just don\u2019t go for that much CRIT so you don\u2019t overcap, right? Wrong. Without the base CRIT Rate, you won\u2019t activate the set bonus of the Planar, and your consistency in combat will also plummet because the only time you\u2019ll have a consistent nuke is during the effects of his Ultimate \u2014 his 140 Energy cost Ultimate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yeah, it\u2019s ironic how the best thing about Yanqing at lower levels is also his biggest headache at the end game. It\u2019s pretty much impossible to not waste stats with this guy. My advice is just accept that you\u2019re going to have crazy overcapping of CRIT Rate and just go for the maximum consistency. This is especially true due to his Bonus Traces.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Yanqing\u2019s A2 will deal an additional 30% ATK to Ice-weak foes. His A4 will increase his Effect RES by 20% during Soulsteel Sync, and his A6 grants him a 10% SPD increase for 2 turns upon scoring a CRIT. It\u2019s very easy to maintain this SPD bonus, and it\u2019s also quite appreciated due to Yanqing\u2019s high base SPD of 109. Against specifically Ice-weak foes, Yanqing will definitely destroy them if you can facilitate the rest of his kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As a standard 5-star character, it is not unlikely to get Eidolons for Yanqing over time. It is with a heavy heart that I must say I don\u2019t think they really improve much for Yanqing as his issues are not with his damage. Amusingly I think E6 might be the one that makes things a little easier, and even then it\u2019s a bit of a coin toss. The worst part about him is that he can show up to ruin your pity, and depending on who you ask, that makes him far and away the worst character in this game.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In the original version of this review I said \u2018I encourage you to experiment to see where the pitfalls start and end, and adjust your setups accordingly\u2019, and I can safely say we are all now very well aware of where the pitfalls start. What I can\u2019t see is where they \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"end.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Fantastic free stats that carry you through the early game, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Has limited crowd control with his follow-up, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deals with Ice-weak foes easily.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Exclusively single-target with no way around it, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Requires very heavy investment and a specific type of Shielder to even have a chance of dealing damage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ends up being very resource-hungry trying to maintain his Talent, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Impossible to avoid wasted stats leading to lower damage values than expected, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can absolutely ruin your 50/50\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2800 - 3000+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"800 - 900+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2500 - 2900+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"160% - 200%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Base Speed (H\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"yperspeed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Sparkle/Bronya) /\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 (Recommended) / 143 / 160\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Amber May",
+        "kr": "",
+        "jpn": "Marina Inoue (\u4e95\u4e0a \u9ebb\u91cc\u5948)",
+        "cn": "Miaojiang (\u55b5\u9171)"
+    },
+    "ratings": {
+        "moc": "4",
+        "moc_special": "4",
+        "pure": "4",
+        "pure_special": "4",
+        "apo": "5",
+        "apo_special": "5"
+    },
+    "energyUltimate": "140",
+    "conesNew": [
+        {
+            "cone": "in-the-night",
+            "super": "1",
+            "percent": "109.48%",
+            "notes": "Calcs contain some reallocation of ATK%, CRIT RATE and CRIT DMG% to SPD in order to achieve 4-6 stacks of the bonus. Each character is configured to reach the Speed breakpoint that grants them the most damage with this Cone. under the simulation conditions. With better relics and teams that grant more Speed this lightcones performance will improve comparatively."
+        },
+        {
+            "cone": "swordplay",
+            "super": "5",
+            "percent": "107.31%",
+            "notes": "Assumes full access to all 5 stacks throughout the entire duration of the fight. In fights where target swapping is required this Cone performance can be reduced substantially."
+        },
+        {
+            "cone": "only-silence-remains",
+            "super": "5",
+            "percent": "102.08%",
+            "notes": "Assumes the fight is limited to 2 or fewer enemies at all times. In fights where more than two enemies are present for any portion of it, this Cone performance will drop."
+        },
+        {
+            "cone": "cruising-in-the-stellar-sea",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes the on-kill ATK% boost can be maintained 66% of the time in the fight and only considers the base CRIT RATE % in these calculations not the additional CRIT on low life. In fights where the ATK% buff cannot be maintained the performance of this Cone will reduce."
+        },
+        {
+            "cone": "sleep-like-the-dead",
+            "super": "5",
+            "percent": "97.70%",
+            "notes": "Buffs Yanqing's Crit Rate during Ultimate Downtime"
+        },
+        {
+            "cone": "return-to-darkness",
+            "super": "5",
+            "percent": "94.26%",
+            "notes": "-"
+        },
+        {
+            "cone": "river-flows-in-spring",
+            "super": "5",
+            "percent": "92.47%",
+            "notes": "Assumes full uptime requiring the wearer not to be hit at all times. When getting hit this Cone efficacy will drop from what is displayed."
+        },
+        {
+            "cone": "cruising-in-the-stellar-sea",
+            "super": "5",
+            "percent": "90.62%",
+            "notes": "Assumes the on-kill ATK% boost uptime is 0% and only considers the base CRIT RATE % in these calculations not the additional CRIT on low life."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "",
+                    "value": "104.38%",
+                    "comment": "100% uptime",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "Hunter of Glacial Forest",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "",
+                    "value": "99.42%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Hunter of Glacial Forest",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "97.64%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Hunter of Glacial Forest",
+                    "relic_2": "",
+                    "value": "97.58%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "100%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "98.73%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "97.64%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "96.78%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "in-the-night",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Ice DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "Yanqing's kit grants himself up to 80% Crit Rate. With high uptime on the buff, any Crit Rate above 20% is essentially wasted.",
+            "substats": "SPD (breakpoint) > CRIT RATE (Until soft cap) = CRIT DMG > ATK% > CRIT RATE (After soft cap)",
+            "skill_priority": "Skill > Ultimate > Talent > Basic",
+            "traces_priority": "Icing on the Kick (A2) > Gentle Blade (A6) > Frost Favors the Brave (A4)",
+            "name": "General DPS"
+        }
+    ],
+    "videos": null,
+    "teams": [
+        {
+            "name": "Hypercarry Yanqing",
+            "member_1": "yanqing",
+            "member_2": "tingyun",
+            "member_3": "bronya",
+            "member_4": "gepard"
+        },
+        {
+            "name": "F2P-Friendly Team",
+            "member_1": "yanqing",
+            "member_2": "tingyun",
+            "member_3": "natasha",
+            "member_4": "trailblazer-fire"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "iceDmg",
+            "value": 14.4
+        },
+        "traceStat2": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": null
+}

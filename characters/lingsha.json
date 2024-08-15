@@ -1,0 +1,121 @@
+{
+    "id": "f2150e8d-3b1e-5f4d-8fb2-c5d92ca63d06",
+    "updatedAt": "July 17th, 2024",
+    "createdAt": "2024-07-17T06:22:50.735Z",
+    "unitId": 61,
+    "name": "Lingsha",
+    "slug": "lingsha",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/7c0a3ad50fdd12ac0e4d222c45eae8a9/e9a79/lingsha_sm.png",
+                            "srcSet": "/static/7c0a3ad50fdd12ac0e4d222c45eae8a9/f31ef/lingsha_sm.png 40w,\n/static/7c0a3ad50fdd12ac0e4d222c45eae8a9/1f8a1/lingsha_sm.png 80w,\n/static/7c0a3ad50fdd12ac0e4d222c45eae8a9/e9a79/lingsha_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/7c0a3ad50fdd12ac0e4d222c45eae8a9/e73fe/lingsha_sm.webp 40w,\n/static/7c0a3ad50fdd12ac0e4d222c45eae8a9/61ca6/lingsha_sm.webp 80w,\n/static/7c0a3ad50fdd12ac0e4d222c45eae8a9/60b4d/lingsha_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e19caf4a49f4f6ff58aef7592a265794/c9885/hsr_card_lingsha.png",
+                            "srcSet": "/static/e19caf4a49f4f6ff58aef7592a265794/2aab7/hsr_card_lingsha.png 94w,\n/static/e19caf4a49f4f6ff58aef7592a265794/0a986/hsr_card_lingsha.png 187w,\n/static/e19caf4a49f4f6ff58aef7592a265794/c9885/hsr_card_lingsha.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/e19caf4a49f4f6ff58aef7592a265794/84550/hsr_card_lingsha.webp 94w,\n/static/e19caf4a49f4f6ff58aef7592a265794/34f80/hsr_card_lingsha.webp 187w,\n/static/e19caf4a49f4f6ff58aef7592a265794/b26e2/hsr_card_lingsha.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": null,
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The new Cauldron Master of the Xianzhou Luofu's Alchemy Commission. An intelligent and quick-witted Vidyadhara healer. She has a sharp sense of smell and often uses this to diagnose illnesses, as well as utilizing incense to calm the minds of others. She is adept at dealing with complicated social relationships. Though she might be fuming inside, her expression would remain calm and serene. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": null,
+    "defaultRole": "Support",
+    "affiliation": "The Xianzhou Laofu",
+    "rarity": "5",
+    "element": "Fire",
+    "path": "Abundance",
+    "stats": {
+        "hp_base": 0,
+        "def_base": 0,
+        "atk_base": 0,
+        "speed_base": 0
+    },
+    "ascensionMaterials": {
+        "mats_1": "thiefs-instinct",
+        "mats_2": "usurpers-scheme",
+        "mats_3": "enigmatic-ectostella",
+        "mats_4": "conquerors-will"
+    },
+    "eidolon": null,
+    "synergy": null,
+    "traces": null,
+    "review": null,
+    "pros": null,
+    "cons": null,
+    "endgameStats": null,
+    "voiceActors": {
+        "en": "Whitney Holland",
+        "kr": "Jang Ye-na (\uc7a5\uc608\ub098)",
+        "jpn": "Maeda Kaori (\u524d\u7530\u4f73\u7e54\u91cc)",
+        "cn": "Rao Zijun (\u9976\u6893\u541b)"
+    },
+    "ratings": {
+        "moc": "1",
+        "moc_special": "1",
+        "pure": "1",
+        "pure_special": "1",
+        "apo": "1",
+        "apo_special": "1"
+    },
+    "energyUltimate": null,
+    "conesNew": null,
+    "buildData": null,
+    "videos": null,
+    "teams": null,
+    "characterBuilderInfo": null,
+    "tierCategory": "Sustain",
+    "releaseDate": "August 28th, 2024",
+    "isReleased": false,
+    "isNew": false,
+    "hideSkills": true,
+    "isReviewPending": true,
+    "availableInCbt3": true,
+    "showBuild": false,
+    "tierListNew": null,
+    "tierListTags": null
+}

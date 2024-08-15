@@ -1,0 +1,245 @@
+{
+    "id": "1cc0f1db-7dbf-51a5-9ea3-e8277bfe3c3d",
+    "updatedAt": "August 13th, 2024",
+    "createdAt": "2024-06-06T05:09:06.341Z",
+    "unitId": 57,
+    "name": "Jiaoqiu",
+    "slug": "jiaoqiu",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#685848",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e9265d5cf3d38565131b78e7507f1455/60b4d/jia_sm.webp",
+                            "srcSet": "/static/e9265d5cf3d38565131b78e7507f1455/e73fe/jia_sm.webp 40w,\n/static/e9265d5cf3d38565131b78e7507f1455/61ca6/jia_sm.webp 80w,\n/static/e9265d5cf3d38565131b78e7507f1455/60b4d/jia_sm.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#684848",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e353ae2688b24a9bdde18fd489f2220d/b26e2/hsr_card_jia.webp",
+                            "srcSet": "/static/e353ae2688b24a9bdde18fd489f2220d/84550/hsr_card_jia.webp 94w,\n/static/e353ae2688b24a9bdde18fd489f2220d/34f80/hsr_card_jia.webp 187w,\n/static/e353ae2688b24a9bdde18fd489f2220d/b26e2/hsr_card_jia.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": null,
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A foxian healer from the Xianzhou Yaoqing and a counselor. Often greets people with a smile, but is rather cunning. Born into a prestigious Alchemy Commission family, he once withdrew from practicing medicine due to a broken heart. However, he returned to the field to treat \\\"the Merlin's Claw,\\\" General Feixiao. Skilled in the study of alchemical prescription that views food as medicine, especially those that induce a sensation of spiciness. They invented a cauldron-based medicinal formula known as the \\\"nine-squared grid.\\\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "121801",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "121802",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "121803",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "121804",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "121807",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Support",
+    "affiliation": null,
+    "rarity": "5",
+    "element": "Fire",
+    "path": "Nihility",
+    "stats": {
+        "hp_base": 184.8,
+        "def_base": 69.3,
+        "atk_base": 81.84,
+        "speed_base": 98
+    },
+    "ascensionMaterials": {
+        "mats_1": "immortal-scionette",
+        "mats_2": "immortal-aeroblossom",
+        "mats_3": "raging-heart",
+        "mats_4": "immortal-lumintwig"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "57",
+            "name": "Jiaoqiu",
+            "upgrade1Name": "Pentapathic Transference",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Allies deal \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"40%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" increased DMG to enemy targets afflicted with Ashen Roast. Whenever inflicting Ashen Roast on an enemy target via triggering the Talent's effect, additionally increases the number of Ashen Roast applied this time by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "From Savor Comes Suffer",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When an enemy target is afflicted with Ashen Roast, increases the multiplier for the Fire DoT dealt by Ashen Roast to the target by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"300%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Flavored Euphony Reigns Supreme",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Leisure In, Luster Out",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When the Zone exists, reduces enemy target's ATK by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Duel in Dawn, Dash in Dusk",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Nonamorphic Pyrobind",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When an enemy target gets defeated, their accumulated \\\"Ashen Roast\\\" stacks will transfer to the enemy with the lowest number of \\\"Ashen Roast\\\" stacks on the battlefield. The maximum stack limit of Ashen Roast increases to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"9\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", and each \\\"Ashen Roast\\\" stack reduces the target's All-Type RES by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"3%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When battle starts, immediately regenerates <b>15</b> Energy.",
+            "name": "Pyre Cleanse"
+        },
+        {
+            "req": "A4",
+            "desc": "For every <b>15%</b> of Jiaoqiu's Effect Hit Rate that exceeds 80%, additionally increases ATK by <b>60%</b>, up to <b>240%</b>.",
+            "name": "Hearth Kindle"
+        },
+        {
+            "req": "A6",
+            "desc": "While the Zone exists, enemies entering combat will be inflicted with Ashen Roast. The number of stacks applied will match the highest number of Ashen Roast stacks possessed by any unit while the Zone is active, with a minimum of <b>1</b> stack(s).",
+            "name": "Seared Scent"
+        }
+    ],
+    "review": null,
+    "pros": null,
+    "cons": null,
+    "endgameStats": null,
+    "voiceActors": {
+        "en": "Mark Whitten ",
+        "kr": "Jeongmin Lee (\uc774\uc815\ubbfc)",
+        "jpn": "Toshiyuki Toyonaga (\u4e30\u6c38\u5229\u884c)",
+        "cn": "Taikang Chenzhang (\u9648\u5f20\u592a\u5eb7)"
+    },
+    "ratings": {
+        "moc": "1",
+        "moc_special": "1",
+        "pure": "1",
+        "pure_special": "1",
+        "apo": "1",
+        "apo_special": "1"
+    },
+    "energyUltimate": "100",
+    "conesNew": null,
+    "buildData": null,
+    "videos": [
+        {
+            "video": "uomZpASMVJY"
+        }
+    ],
+    "teams": null,
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "Effect Hit Rate",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "Fire DMG",
+            "value": 14.4
+        },
+        "traceStat3": {
+            "stat": "Speed",
+            "value": 5
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "August 21st, 2024",
+    "isReleased": false,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": true,
+    "availableInCbt3": false,
+    "showBuild": false,
+    "tierListNew": null,
+    "tierListTags": null
+}

@@ -1,0 +1,58 @@
+{
+    "id": "9236fef6-ac21-57d7-8c1c-129bf0cd00e0",
+    "updatedAt": "2023-04-26T02:58:37.154Z",
+    "createdAt": "2023-04-25T18:43:52.080Z",
+    "coneId": 82,
+    "name": "Mutual Demise",
+    "slug": "mutual-demise",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e650dad6cc6a2ce5876709a3ab66a7fd/bf8e1/82.png",
+                            "srcSet": "/static/e650dad6cc6a2ce5876709a3ab66a7fd/914ee/82.png 32w,\n/static/e650dad6cc6a2ce5876709a3ab66a7fd/1c9ce/82.png 64w,\n/static/e650dad6cc6a2ce5876709a3ab66a7fd/bf8e1/82.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/e650dad6cc6a2ce5876709a3ab66a7fd/ef6ff/82.webp 32w,\n/static/e650dad6cc6a2ce5876709a3ab66a7fd/8257c/82.webp 64w,\n/static/e650dad6cc6a2ce5876709a3ab66a7fd/6766a/82.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "9",
+            "value_level_max": "198"
+        }
+    },
+    "skillName": "Legion",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If the wearer's current HP is lower than \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"80%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", CRIT Rate increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12/15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/18/21/24\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

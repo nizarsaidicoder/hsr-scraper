@@ -1,0 +1,58 @@
+{
+    "id": "9ffca9a1-c75b-5efe-b23b-02aab453d392",
+    "updatedAt": "2024-04-02T13:13:05.218Z",
+    "createdAt": "2024-01-27T11:08:58.277Z",
+    "coneId": 109,
+    "name": "Indelible Promise",
+    "slug": "indelible-promise",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/142c5e8fd4bd668baeaae0e00c70c0d8/bf8e1/109_sm.png",
+                            "srcSet": "/static/142c5e8fd4bd668baeaae0e00c70c0d8/914ee/109_sm.png 32w,\n/static/142c5e8fd4bd668baeaae0e00c70c0d8/1c9ce/109_sm.png 64w,\n/static/142c5e8fd4bd668baeaae0e00c70c0d8/bf8e1/109_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/142c5e8fd4bd668baeaae0e00c70c0d8/ef6ff/109_sm.webp 32w,\n/static/142c5e8fd4bd668baeaae0e00c70c0d8/8257c/109_sm.webp 64w,\n/static/142c5e8fd4bd668baeaae0e00c70c0d8/6766a/109_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "February 29th, 2024",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "953"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "331"
+        }
+    },
+    "skillName": "Inheritance",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's Break Effect by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"28/35/42/49/56%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When the wearer uses their Ultimate, increases CRIT Rate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15/18.75/22.5/26.25/30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", lasting for 2 turns.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "id": "69225a34-efbf-5166-9617-e18764cd0671",
+    "updatedAt": "2023-10-06T15:23:30.617Z",
+    "createdAt": "2023-07-08T08:11:43.982Z",
+    "coneId": 78,
+    "name": "Patience Is All You Need",
+    "slug": "patience-is-all-you-need",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/8f3f24adc70cd9c88a46df3d60e074ee/bf8e1/48_sm.png",
+                            "srcSet": "/static/8f3f24adc70cd9c88a46df3d60e074ee/914ee/48_sm.png 32w,\n/static/8f3f24adc70cd9c88a46df3d60e074ee/1c9ce/48_sm.png 64w,\n/static/8f3f24adc70cd9c88a46df3d60e074ee/bf8e1/48_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/8f3f24adc70cd9c88a46df3d60e074ee/ef6ff/48_sm.webp 32w,\n/static/8f3f24adc70cd9c88a46df3d60e074ee/8257c/48_sm.webp 64w,\n/static/8f3f24adc70cd9c88a46df3d60e074ee/6766a/48_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "August 8th, 2023",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "48",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "26",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "21",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Spider Web",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases DMG dealt by the wearer by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"24\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/28/32/36/40\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". After every attack launched by wearer, their SPD increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4.8\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/5.6/6.4/7.2/8\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", stacking up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" times. If the wearer hits an enemy target that is not afflicted by Erode, there is a 100% base chance to inflict Erode to the target. Enemies afflicted with Erode are also considered to be Shocked and will receive Lightning DoT at the start of each turn equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/70/80/90/100\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the wearer's ATK, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

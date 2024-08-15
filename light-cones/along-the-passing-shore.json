@@ -1,0 +1,52 @@
+{
+    "id": "6b4b16b6-7a18-5088-b459-168c6933dd6c",
+    "updatedAt": "2024-03-29T08:56:45.636Z",
+    "createdAt": "2024-03-17T08:29:00.042Z",
+    "coneId": 117,
+    "name": "Along the Passing Shore",
+    "slug": "along-the-passing-shore",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/2c0f5d935adf8f84a77b2f97476544dc/6766a/117_sm.webp",
+                            "srcSet": "/static/2c0f5d935adf8f84a77b2f97476544dc/ef6ff/117_sm.webp 32w,\n/static/2c0f5d935adf8f84a77b2f97476544dc/8257c/117_sm.webp 64w,\n/static/2c0f5d935adf8f84a77b2f97476544dc/6766a/117_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "March 27th, 2024",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "635"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Steerer",
+    "skillDescription": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's CRIT DMG by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"36/42/48/54/60%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When the wearer hits an enemy target, inflicts Mirage Fizzle on the enemy, lasting for 1 turn. Each time the wearer attacks, this effect can only trigger 1 time on each target. The wearer deals \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"24/28/32/36/40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" increased DMG to targets afflicted with Mirage Fizzle, and the DMG dealt by the wearer's Ultimate additionally increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"24/28/32/36/40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+    }
+}

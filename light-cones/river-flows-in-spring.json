@@ -1,0 +1,59 @@
+{
+    "id": "417c116d-a61f-50e7-9a7e-51abc122ef03",
+    "updatedAt": "2023-05-07T10:24:07.888Z",
+    "createdAt": "2023-04-25T18:43:51.878Z",
+    "coneId": 66,
+    "name": "River Flows in Spring",
+    "slug": "river-flows-in-spring",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#b8a8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/430e6fdb82d955253b27d8406d9fd71a/bf8e1/66_s.png",
+                            "srcSet": "/static/430e6fdb82d955253b27d8406d9fd71a/914ee/66_s.png 32w,\n/static/430e6fdb82d955253b27d8406d9fd71a/1c9ce/66_s.png 64w,\n/static/430e6fdb82d955253b27d8406d9fd71a/bf8e1/66_s.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/430e6fdb82d955253b27d8406d9fd71a/ef6ff/66_s.webp 32w,\n/static/430e6fdb82d955253b27d8406d9fd71a/8257c/66_s.webp 64w,\n/static/430e6fdb82d955253b27d8406d9fd71a/6766a/66_s.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Forgotten Hall Store",
+        "Echo of War"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Stave Off the Lingering Cold",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After entering battle, increases the wearer's SPD by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/9/10/11/12\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/15/18/21/24\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When the wearer takes DMG, this effect will disappear. This effect will resume after the end of the wearer's next turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

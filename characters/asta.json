@@ -1,0 +1,423 @@
+{
+    "id": "0a9c8466-691c-5e54-bf9a-6054050b4b58",
+    "updatedAt": "July 30th, 2024",
+    "createdAt": "2023-01-25T17:32:52.763Z",
+    "unitId": 10,
+    "name": "Asta",
+    "slug": "asta",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/cae9b5e5ada7da3d4432d0e1d01dbf4d/e9a79/10_sm.png",
+                            "srcSet": "/static/cae9b5e5ada7da3d4432d0e1d01dbf4d/f31ef/10_sm.png 40w,\n/static/cae9b5e5ada7da3d4432d0e1d01dbf4d/1f8a1/10_sm.png 80w,\n/static/cae9b5e5ada7da3d4432d0e1d01dbf4d/e9a79/10_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/cae9b5e5ada7da3d4432d0e1d01dbf4d/e73fe/10_sm.webp 40w,\n/static/cae9b5e5ada7da3d4432d0e1d01dbf4d/61ca6/10_sm.webp 80w,\n/static/cae9b5e5ada7da3d4432d0e1d01dbf4d/60b4d/10_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ca470365c5ede3308cd8b14ce1989fe3/c9885/1009.png",
+                            "srcSet": "/static/ca470365c5ede3308cd8b14ce1989fe3/2aab7/1009.png 94w,\n/static/ca470365c5ede3308cd8b14ce1989fe3/0a986/1009.png 187w,\n/static/ca470365c5ede3308cd8b14ce1989fe3/c9885/1009.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ca470365c5ede3308cd8b14ce1989fe3/84550/1009.webp 94w,\n/static/ca470365c5ede3308cd8b14ce1989fe3/34f80/1009.webp 187w,\n/static/ca470365c5ede3308cd8b14ce1989fe3/b26e2/1009.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/6c5362dea19b62160a3d8a776bfff37e/3c5dc/10_full.png",
+                            "srcSet": "/static/6c5362dea19b62160a3d8a776bfff37e/ca8fd/10_full.png 200w,\n/static/6c5362dea19b62160a3d8a776bfff37e/de50c/10_full.png 400w,\n/static/6c5362dea19b62160a3d8a776bfff37e/3c5dc/10_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/6c5362dea19b62160a3d8a776bfff37e/213b2/10_full.webp 200w,\n/static/6c5362dea19b62160a3d8a776bfff37e/413c5/10_full.webp 400w,\n/static/6c5362dea19b62160a3d8a776bfff37e/cf6d0/10_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A fiercely inquisitive and energetic young girl, she is the lead Researcher of Herta Space Station. Whether it is managing opinionated staff, or courteously but firmly responding to the Intelligentsia Guild, Asta handles it all effortlessly. After all... Commanding a space station is much easier than taking over a company!\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "100901",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "100902",
+            "energy_gen": "6",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "100903",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "100904",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "100907",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Support",
+    "affiliation": "Herta Space Station",
+    "rarity": "4",
+    "element": "Fire",
+    "path": "Harmony",
+    "stats": {
+        "hp_base": 139.2,
+        "def_base": 63,
+        "atk_base": 69.6,
+        "speed_base": 106
+    },
+    "ascensionMaterials": {
+        "mats_1": "silvermane-badge",
+        "mats_2": "silvermane-insignia",
+        "mats_3": "endotherm-chitin",
+        "mats_4": "silvermane-medal"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "10",
+            "name": "Asta",
+            "upgrade1Name": "Star Sings Sans Verses or Vocals",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When using Skill, deals DMG for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" extra time to a random enemy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Moon Speaks in Wax and Wane",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After using her Ultimate, Asta's Charging stacks will not be reduced in the next turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Meteor Showers for Wish and Want",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Aurora Basks in Beauty and Bliss",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Asta's Energy Regeneration Rate increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" when she has \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" or more Charging stacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Nebula Secludes in Cold Cosmos",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Galaxy Dreams in Calm and Comfort",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Charging stack(s) lost in each turn is reduced by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Asta's Basic ATK has a <b>80%</b> base chance to Burn enemies for <b>3</b> turn(s), making the enemy take <u>Fire DoT</u> equal to <b>50%</b> of Asta's Basic ATK DMG at the start of each turn.",
+            "name": "Sparks"
+        },
+        {
+            "req": "A4",
+            "desc": "When Asta is on the field, all allies' <u>Fire DMG</u> increases by <b>18%</b>.",
+            "name": "Ignite"
+        },
+        {
+            "req": "A6",
+            "desc": "Asta's DEF increases by <b>6%</b> for every current Charging stack she possesses.",
+            "name": "Constellation"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Asta is a universally applicable support specialising in increasing the whole team\u2019s ATK and providing a massive teamwide SPD boost. Her Ultimate increases SPD by a flat 50. Asta also benefits from a fairly strong Skill that Bounces damage between enemies, allowing her to stack up her ATK bonus easily and deal tremendous Toughness damage for a support.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Lead Researcher of the Herta Space Station has steadily become more and more recognised by the playerbase. Her kit is always appreciated and always powerful, and it\u2019s become very clear that she is one of the most versatile and useful support units in the game, even despite her status as a fully free character.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Asta\u2019s Talent has you gain up to 5 stacks of Charging. You gain a stack for every hit against a different enemy, and you get 2 stacks if an enemy you hit is weak to Fire. Each stack of Charging increases the entire team\u2019s ATK by up to 14%, meaning the maximum total ATK boost is 70%. After her second turn in a fight, she\u2019ll lose 3 stacks of Charging at the start of every turn.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This is a very powerful boost that is quite easy to maintain at higher stacks. Even if there is only a single enemy on the field, you will always get to have at least a permanent 14% ATK boost since Asta\u2019s turns are spent either Basic Attacking or using her Skill, increasing to 28% permanently if the enemy is weak to Fire. This is also the amount you can expect if Asta is played exclusively SP positive. As soon as more enemies start showing up, Asta can start very easily racking up stacks of Charging each turn with her Skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Skill is a Bounce attack; a multi hit attack where you land the first hit against your primary target and the remaining hits can randomly land on any target, including the original one. This deals up to 50% ATK to the first enemy and Bounces 4 times, each Bounce hit also dealing 50% ATK. Bounce attacks will also deal Toughness damage on each hit, with the hits beyond the first dealing a reduced amount. This Skill will end up dealing a total of 90 Toughness damage across its 5 hits, the same as most single-target Ultimates but on a Skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With Asta\u2019s Skill it becomes possible to gain many Charging stacks easily, though with a slight amount of randomness involved. If you\u2019re against a full house of 5 enemies and are lucky, you can get 5 stacks of Charging by getting a hit off on each of them, even if none of them have a Fire Weakness. If any of them do have a Fire Weakness, it becomes a lot more consistent to gain 5 stacks, though as mentioned before, even a couple of stacks can already be significant.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This Skill even has a pretty impressive total multiplier of 250% ATK, particularly impressive against a single enemy. While Asta is not likely to be built specifically to deal damage, any damage stats that you do end up getting can actually end up being quite impactful in combat.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Asta\u2019s Ultimate is extraordinarily potent, increasing the SPD of all allies by up to a flat 50 for 2 turns. Anyone who\u2019s familiar with turn-based games understands that any amount of additional Speed can be devastatingly powerful, and this is no exception. An additional flat 50 SPD is a huge increase for every character, and all of them except for maybe Clara greatly appreciate this.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For many characters, SPD is of paramount importance as it streamlines gameplay and rotations, increasing overall ease of performance. At lower SPD values, some characters can range from \u2018uncomfortable\u2019 to \u2018virtually unusable\u2019, and getting more SPD is a tough ask as it\u2019s one of the rarest substats in the game. Asta can completely alleviate this issue and then some.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"However, this does not mean that the value brought by Asta\u2019s Ultimate is in any way diminished by characters who already meet their necessary SPD thresholds. As this boost is teamwide, everyone benefits from this, including Asta herself. Against many high level enemies, without a sufficient amount of SPD you\u2019ll be getting lapped several times over and might end up falling as a result \u2014 your support characters also need to be fast to keep up with your fast damage dealers and especially against the ever accelerating enemies.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At the higher end, for characters that are already exceeding their designated SPD values by a lot and reaching above 150, it is possible to exceed the 200 mark with Asta, thus transcending into double turn territory, something that is practically impossible to attain without Asta, as most character\u2019s Base SPD values are just too low.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It is important to understand that you can end up fumbling Asta\u2019s Ultimate somewhat; it\u2019s not correct to call it \u2018misusing\u2019 but there is a rather steep prerequisite to understanding how to use this Ultimate optimally, and that\u2019s actually knowing how SPD works. Many have tried to explain this before, and it\u2019s a concept that can get very messy and complicated.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Instead, here\u2019s the cheat sheet for using Asta\u2019s Ultimate: go to your settings and enable \u2018Display Action Values\u2019 and you\u2019ll see some numbers in the turn order that\u2019ll essentially show how far away the next turn is. When the number is bigger, use the Ultimate, it\u2019ll end up pushing your characters\u2019 turns up more. There is also a peculiar interaction where if you use this Ultimate on a character\u2019s turn before they act, they\u2019ll end up getting an \u2018extra turn of the SPD boost\u2019 \u2014 it\u2019s not actually an extra turn of it, it\u2019s more of a safety measure to prevent you from completely \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"wasting\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" a turn of the SPD boost.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aside from that one peculiarity, there\u2019s really no wrong way of using Asta. Hell, you could decide to not care about optimising the Ultimate and she\u2019ll still be one of the best supports in the game. None of her supportive benefits scale off of anything besides Trace level, meaning it\u2019s up to the player how they want to build her; going for a more offensive playstyle with CRIT, or going full tank with 6000+ HP, it doesn\u2019t matter one bit as long as she\u2019s staying alive long enough to get her support out.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Asta\u2019s Bonus Ability Traces can be quite useful. Her A2 gives her Basic ATK an 80% base chance to Burn enemies for 3 turns, making them take 50% of Asta\u2019s Basic ATK in damage. This deals quite literally no meaningful damage, but it is a source of a debuff which can be potentially useful for certain character synergies like Guinaifen\u2019s Firekiss. A4 will increase all allies\u2019 Fire DMG by 18% while Asta is alive, which is a free and appreciated boost to Fire centric teams or damage dealers. A6 is probably the most generally useful one of the bunch as it increases Asta\u2019s DEF by 6% per stack of Charging, potentially giving a 30% DEF boost for free, aiding in her survivability further.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Asta is already superb at E0, and while she doesn\u2019t necessarily get a huge performance boost from Eidolons, she does get some pretty significant improvements to her overall usability. E1 will add an extra Bounce to her Skill, increasing the damage to 300% ATK, the Toughness damage to 105, and offering an extra chance to get more Charging stacks. E2 is a very big milestone as it will delay the decay of Charging stacks for 1 turn after using her Ultimate, letting her maintain higher stacks of Charging for longer without spending as much SP, and also allowing to nicely line up all of her benefits for big bursts from your damage dealers.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"E4 will increase Asta\u2019s Energy Regeneration Rate by 15% when she has 2 or more Charging stacks. This is easily her most impactful Eidolon, as this can allow for permanent Ultimate uptime with certain builds. E3 and E5 are very impactful for Asta as a support character, increasing her Charging stacks ATK boost to 15.4% per stack, and improving her Ultimate\u2019s SPD boost to a flat 53 instead of 50. Even 3 extra SPD can be pretty significant so these ability level Eidolons should not be underestimated. E6 is the final comfort Eidolon, reducing the Charging decay to only 2 at the end of her turn instead of 3.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Asta is pretty much the gold standard for support characters. There\u2019s almost no team that can\u2019t benefit from her inclusion and she even enhances overall accessibility while doing all of the other stuff. Some of the best performing teams in the game utilise Asta, and that is highly unlikely to change any time soon. If you have not invested in your Asta yet, this is your official message to stop coping and just do it already.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"No really, go do it. I\u2019ll wait.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Universal support character, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Massive teamwide SPD boost with her Ultimate, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Strong Breaking for a support, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Able to support Dual Carry setups well, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Versatile playstyles and builds.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Charging stacks can be difficult to obtain due to randomness of her Skill\u2019s Bounce, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Charging stacks can be difficult to maintain due to needing SP.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3600 - 4400+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"900 - 1100+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 / 143 (Recommended) / 160+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ENERGY REGEN\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\": 19.44%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Felecia Angelle",
+        "kr": "\uae40\ud604\uc9c0",
+        "jpn": "Akasaki Chinatsu (\u8d64\ufa11\u5343\u590f)",
+        "cn": "Guiniang (\u9f9f\u5a18)"
+    },
+    "ratings": {
+        "moc": "7",
+        "moc_special": "6",
+        "pure": "8",
+        "pure_special": "7",
+        "apo": "8",
+        "apo_special": "7"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "meshing-cogs",
+            "super": "5",
+            "percent": "-",
+            "notes": "A F2P Accessible Cone with poor base stats but which grants the wearer an additional 8 energy per attacking action they perform. Also grants another 8 energy whenever they receive damage from an enemy action. The combination of both energy effects can drastically reduce the required actions per Ultimate for most supports. Essential for Asta to achieve her permanent ultimate uptime rotation if desired."
+        },
+        {
+            "cone": "memories-of-the-past",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers 8 energy per attacking action at S5 making it equivalent to Meshing Cogs but with better base stats and a large amount of Break Effect. Does not have the 8 energy when taking damage compared to its alternative though which makes it less effective at achieving the shortest rotations possible. Essential for Asta to achieve her permanent ultimate uptime rotation if desired."
+        },
+        {
+            "cone": "planetary-rendezvous",
+            "super": "5",
+            "percent": "-",
+            "notes": "Increases the damage of all units of the same elemental type as the wearer. A good generic damage increase for damage dealers that match the element of the support but should not be used outside of this scenario."
+        },
+        {
+            "cone": "carve-the-moon-weave-the-clouds",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers one of three random buffs that rotates throughout combat. A fine option when no other alternatives are available but often overshadowed by other more consistent or powerful harmony Cone options."
+        },
+        {
+            "cone": "dance-dance-dance",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a 24% action advance for the entire team when the user activates their ultimate. Not recommended for characters that rely on specific Speed tuning in relation to the rest of the team but is excellent for all other characters. Asta can make use of this Cone at the cost of Energy Generation."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Longevous Disciple",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Watchmaker, Master of Dream Machinations",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Sprightly Vonwacq",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "but-the-battle-isnt-over",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "comments": "Asta's energy economy depends on many factors such as her rotation, Eidolons, and getting hit. Specifically, her Eidolon 1 gives 6 extra energy per Skill, Eidolon 4 grants 15% Energy Recharge, and her Eidolon 6 makes her E4 uptime more consistent. The choice of your Planar set depends on the team you use Asta in - Broken Keel for Crit teams, Penacony for Fire teams, and Fleet for DoT teams.",
+            "substats": "SPD (Until breakpoint) > HP = DEF > EFF RES% (30% If using Broken Keel)",
+            "skill_priority": "Talent = Ultimate > Skill > Basic",
+            "traces_priority": "Ignite (A4) > Sparks (A2) > Constellation (A6)",
+            "name": "Support"
+        }
+    ],
+    "videos": null,
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "asta",
+            "member_2": "natasha",
+            "member_3": "trailblazer-fire",
+            "member_4": "dan-heng"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "fireDmg",
+            "value": 22.4
+        },
+        "traceStat2": {
+            "stat": "def",
+            "value": 22.5
+        },
+        "traceStat3": {
+            "stat": "critRate",
+            "value": 6.7
+        },
+        "traceStatMajor1": {
+            "stat": "fireDmg",
+            "value": 18
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Amplifier",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "Buff"
+    ]
+}

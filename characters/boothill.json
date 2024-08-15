@@ -1,0 +1,464 @@
+{
+    "id": "fa4b00d0-c4b9-5c07-aaf7-bfd5ab63ae78",
+    "updatedAt": "July 13th, 2024",
+    "createdAt": "2024-03-15T07:08:13.289Z",
+    "unitId": 53,
+    "name": "Boothill",
+    "slug": "boothill",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8e8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b57af11d0edb3f76d9e130bb9611c63b/60b4d/53_sm.webp",
+                            "srcSet": "/static/b57af11d0edb3f76d9e130bb9611c63b/e73fe/53_sm.webp 40w,\n/static/b57af11d0edb3f76d9e130bb9611c63b/61ca6/53_sm.webp 80w,\n/static/b57af11d0edb3f76d9e130bb9611c63b/60b4d/53_sm.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#382828",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/88ccc023220057715a003f73bdb94c63/b26e2/boothill_card.webp",
+                            "srcSet": "/static/88ccc023220057715a003f73bdb94c63/84550/boothill_card.webp 94w,\n/static/88ccc023220057715a003f73bdb94c63/34f80/boothill_card.webp 187w,\n/static/88ccc023220057715a003f73bdb94c63/b26e2/boothill_card.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": null,
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A cyborg cowboy drifting among the stars. Extremely optimistic and unrestrained. He is a member of the Galaxy Rangers who swore to punish the wretched by any and all means... His flamboyant and brash actions were all to draw the attention of the Interastral Peace Corporation \u2014 the target of his revenge. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Body - GOOD SUBS > CRIT RATE > CRIT DMG > ATK \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Boothill has very little scaling potential from traditional damaging stats such as CRIT RATE, CRIT DMG, and ATK% and instead is more interested in high Break Effect and Speed. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While damaging main stats aren't useless and can certainly contribute to some damage increases for him you'd much prefer to have outstanding sub-stat rolls of what he's truly after. As a general rule aim for a piece with a good Break and or Speed first and if you can get it on a damage-focused main stat treat it as a bonus. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Feet - Speed\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar Sphere - GOOD SUBS > Phys DMG% > ATK%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Similar to Boothill's body armor while PHYS DMG% is most optimal with ATK% being a close second, sub-stats should be the priority,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Link Rope - Break Effect%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for sub-stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"As mentioned throughout his build, Boothill is not a traditional damage dealer with almost all of his damage (80-90%) stemming from the \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Physical Break which does not scale off ATK%, is not affected by DMG%, and cannot critically strike. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This means that pretty much ALL standard scaling options are off the table for Boothill with the exception of, of course, Break Effect % and Speed. You can still increase the 10-20% of Boothill's damage that isn't Break but compared to other characters that gain benefit to 100% of their damage the value is lacking making it more of a small bonus that you can pick up after maximizing his break damage \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Break Effect:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Thanks to the majority of Boothill's damage being considered Break he of course can make excellent use of Break Effect% and wants as much as he can possibly get. Outside of Speed, Break Effect is the only accessible stat on Cone and Relics Boothill really has to pursue so don't be stingy when targetting it even at the cost of all other damage sub-stats you might be used to. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Speed: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Speed is the other stat Boothill can scale to deal more damage but with the added benefit of allowing him to attack more frequently remedying one of the flaws of his kit his pure single-target nature. Speed isn't as unconditionally good as Break Effect though, it won't make his numbers any bigger, and outside of specific Speed breakpoints won't meaningfully increase his damage. Because of this, it's always a good idea to aim for a Speed breakpoint to ensure you're not just short of a big damage increase or overstacking it without much benefit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for Speed breakpoints\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"145 Speed:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Activates Talia Kingdom of Banditry,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"160 Speed:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Important cycle-based breakpoint,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"200 Speed:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Highest realistically obtainable Speed breakpoint for cycle-based game modes. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "131501",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "131508",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "131502",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "131503",
+            "energy_gen": "5",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "131504",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "131507",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Galaxy Rangers",
+    "rarity": "5",
+    "element": "Physical",
+    "path": "Hunt",
+    "stats": {
+        "hp_base": 163.68,
+        "def_base": 59.4,
+        "atk_base": 84.48,
+        "speed_base": 107
+    },
+    "ascensionMaterials": {
+        "mats_1": "tatters-of-thought",
+        "mats_2": "fragments-of-impression",
+        "mats_3": "ipc-work-permit",
+        "mats_4": "shards-of-desires"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "53",
+            "name": "Boothill",
+            "upgrade1Name": "Dusty Trail's Lone Star",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When the battle starts, obtains 1 stack of Pocket Trickshot. When Boothill deals DMG, ignores \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the enemy target's DEF \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Milestonemonger",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When in Standoff and gaining Pocket Trickshot, recovers \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Skill Point(s) and increases Break Effect by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). Can also trigger this effect when gaining Pocket Trickshot stacks that exceed the max limit. But cannot trigger repeatedly within one turn. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Marble Orchard's Guard",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Cold Cuts Chef",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When the enemy target in the Standoff is attacked by Boothill, the DMG they receive additionally increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When Boothill is attacked by the enemy target in the Standoff, the effect of him receiving increased DMG is offset by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Stump Speech",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Crowbar Hotel's Raccoon",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When triggering the Talent's Break DMG, additionally deals Break DMG to the target equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of the original DMG multiplier and additionally deals Break DMG to adjacent targets equal to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"70%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of the original DMG multiplier. \",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "bronya",
+            "notes": "Boothill's biggest weakness is his single target nature and ramp-up time needed not only to Break enemies but also acquire his first stacks of Pocket Trickshot. Bronya when Speed-tuned to be slightly slower than Boothill (at least 1 Speed slower) can double his actions in combat addressing the aforementioned flaws and also tremendously boost his damage by literally double in most cases. Running Bronya traditionally requires some sacrifices to character rotations in order to make the team skill points work, but when run with Boothill that's less of an issue thanks to his empowered Basic Attack not consuming skill points. Unless you're rapid-fire slaying enemies and refreshing his Standoff every action, Bronya makes for an incredible teammate for Boothill with her only downside being that due to her high Skill Point consumption, she limits the use of other powerful supports such as Harmony MC."
+        },
+        {
+            "character": "ruan-mei",
+            "notes": "The strongest general all-around Support for Boothill, granting him buffs he can actually use compared to most other Harmony characters. Those buffs are a RES SHRED and a team-wide buff increasing Break Effect - both of which will directly amp up Boothill's Break damage, improving his numbers significantly. Ruan Mei's benefits for Boothill don't stop there though, her 50% Break Efficiency allows Boothill to start triggering his bonus Physical Breaks much sooner and consistently, and of course, stacks multiplicatively with his Talent, yielding by far the biggest Toughness damage hits in the game. Finally, Ruan Mei grants a bit of extra Ice break damage when Boothill nails a break bar but also Ruan's delay will allow Boothill's Physical Break Bleeds to trigger far more frequently - once when the enemy moves and then another after they recover from the delay shortly after."
+        },
+        {
+            "character": "trailblazer-imaginary",
+            "notes": "Harmony Trailblazer - the Super Break machine - can of course be paired with Boothill and his absurd amounts of Break Effect and Toughness damage for devastating effect. Harmony Trailblazer can help Boothill shred through Toughness and will grant him additional Break Effect%m and of course the ability to deal Super Break with all his abilities. The only drawback of this powerful combo is opportunity cost - Boothill's biggest weakness as mentioned in the Bronya synergy is his single-target nature and reliance on shredding enemies' break bars before dealing damage. Harmony Trailblazer can help Break enemies sometimes (only if they are Imaginary weak) but doesn't really help with the single target issue. By slotting in Harmony Trailblazer in the team you won't have enough Skill Points to also run Bronya, meaning you have to pick and choose whether you'd rather like way bigger numbers or way more actions."
+        },
+        {
+            "character": "pela",
+            "notes": "Pela and Silver Wolf both work well with Boothill as their entire kits focus on debuffs instead of buffs - all of which apply in full to Boothill's standard damage and Break damage. Despite working well they are generally outpaced in value by Ruan Mei, Bronya, and Harmony Trailblazer in the endgame but do serve as an excellent alternative if you don't have, want to run, or are using any of those characters on another one of your teams."
+        },
+        {
+            "character": "silver-wolf",
+            "notes": "Pela and Silver Wolf both work well with Boothill as their entire kits focus on debuffs instead of buffs - all of which apply in full to Boothill's standard damage and Break damage. Despite working well they are generally outpaced in value by Ruan Mei, Bronya, and Harmony Trailblazer in the endgame but do serve as an excellent alternative if you don't have, want to run, or are using any of those characters on another one of your teams. Silver Wolf also has the benefit of being able to implant Physical Weakness situationally which while not needed thanks to Boothill's Ultimate can be helpful in a pinch if it's not available for a few actions."
+        },
+        {
+            "character": "gallagher",
+            "notes": "THE break sustain unit of choice scaling off Break Effect himself, contributing a fantastic amount of Toughness damage to assist Boothill but most importantly providing a debuff that amplifies Break damage dealt to enemies. When played correctly, and under the right circumstances, Gallagher can also be run nicely Skill Point positive, giving Boothill more wiggle room on using his Standoffs and making high skill point cost teams like Bronya+Boothill more comfortable to play."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Increase this character's CRIT Rate/CRIT DMG, by an amount equal to <b>10%/50%</b> of Break Effect, up to a max increase of <b>30%/150%</b>.",
+            "name": "Ghost Load"
+        },
+        {
+            "req": "A4",
+            "desc": "While Boothill is in the Standoff, reduces the DMG he receives from targets that are not in the Standoff by <b>30%</b>.",
+            "name": "Above Snakes"
+        },
+        {
+            "req": "A6",
+            "desc": "When in Standoff and gaining Pocket Trickshot, regenerates <b>10</b> Energy. Can also trigger this effect when gaining Pocket Trickshot stacks that exceed the max limit",
+            "name": "Point Blank"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Boothill is an extremely strong and self-sufficient single-target decimator. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"He is an entirely Break-focused character \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"specializing in dealing extreme amounts of Toughness damage and subsequently exploding Broken enemies with raw Break DMG. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"He ramps up quickly and stays ramped up. In the event that an enemy is not weak to Physical, Boothill's Ultimate has a guaranteed Weakness Implant on it, allowing him to brute force his way through any enemy that does not lock their own Toughness bar. He is very versatile and effective.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This Space Cowboy Galaxy Ranger showed up out of nowhere and turned out to be surprisingly endearing. Turns out he\u2019s also a very powerful DPS character. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"He is our first real Break DPS character, requiring completely different stats to our usual CRIT hypercarries. He's got a very complete and self-contained kit, and he's got no trouble showing any son of a nice lady the Boot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Boothill's Skill forces him and a single enemy to have a Standoff for 2 of Boothill's turns. Both units are Taunted and may not attack any other unit. During Standoff, Boothill receives 15% more DMG from the Taunted enemy, and the Taunted enemy receives up to 30% more DMG from Boothill. If Boothill Breaks the target or defeats them, he gets a stack of Pocket Trickshot, and Standoff will end. If he kills and Breaks in a single action, he will gain 2 stacks. Boothill can circumvent the Taunt with his Ultimate, letting him prime a new enemy in advance while he finishes off his current one, but that\u2019s a little farther down.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Using the Skill gives no Energy, but it doesn't end his turn, much the same way that Qingque's Skill doesn't end her turn, essentially being an Extra Action. While Boothill is in Standoff, his Basic ATK gets Enhanced, dealing up to 220% ATK to a single enemy. This Enhanced Basic ATK actually restores 30 Energy and deals 60 Toughness damage as though it were a Skill. It's important to note that the Enhanced Basic costs no SP whatsoever, so Boothill is actually more SP efficient than most DPS characters. This is somewhat nullified if Boothill wins his Standoff in a single Action, so keep that in mind if you\u2019re slaying out.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Boothill's Talent is the centrepiece of his Break kit. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"It gives him bonuses for having stacks of Pocket Trickshot granted from his Skill. Each stack will increase the Toughness damage of the Enhanced Basic ATK by 50%, for a max of 150% at 3 stacks. This results in the Enhanced Basic ATK dealing a total of 150 Toughness damage, the same as Argenti's level 2 Ultimate! If I had a nickel for every time a new character dealt 150 Toughness damage, I'd have two nickels. Not a lot, but weird it happened twice back to back (Harmony Trailblazer). There is technically a cap on how high the Toughness damage can go for this attack, but it looks so astronomically high that I don\u2019t think this is something we need to worry about any time soon.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This results in Boothill very quickly deleting enemy Toughness bars and leaving them wondering what just happened. Ordinarily, this wouldn't do much on its own, but his Talent has a second part. If the target is Weakness Broken when you use the Enhanced Basic, Boothill pulls out his gosh darn ALL AMERICAN* FINGER GUNS to blow the enemy sky high, dealing an instance of Break DMG to the enemy based on the number of stacks of Pocket Trickshot. Per 1/2/3 stacks, he can deal up to 70%/120%/170% of Boothill's Physical Break DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Aside from looking incredible, this is pure Break DMG, meaning it only cares about the usual things that Breaking an enemy would; the level of the enemy, the Break Effect of Boothill, the maximum Toughness of the enemy, and any DEF or RES altering statuses. This means Boothill circumvents the downside of Break units, being able to continue to deal remarkable Break DMG even after the enemy has already been Broken, and up to 170% of his Break DMG on every single turn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Because the condition for this pure Break DMG to be dealt is to be using his Enhanced Basic when an enemy is Weakness Broken, Boothill will pull his finger guns on an non-Broken enemy as long as they're Broken during this Action, even if it's only on the very last hit; this Break DMG can also be in addition to the Break DMG you would deal by Breaking the enemy, resulting in an absolutely ludicrous amount of damage in a single action, and that's even before factoring the devastating Bleed Break DoT that comes after.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Of course, the other disadvantage pure Break characters have is that if enemies aren't weak to their chosen element, you kinda can't do anything. Here's the thing though, Boothill's Talent lets him deal Break DMG to Broken enemies. Doesn't specify anywhere that they have to still be weak to Physical. It's completely reasonable to have enemies get Broken by allies and then to roll up like 'g'day mate' and blow their br \u2014 I mean uh, give them a goodnight kiss from the galactic homie (it's for the forever sleep he's sending them to).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"If you're still worried about that, enter Boothill's Ultimate. He will apply a Physical Weakness to a single enemy for 2 turns, and deal up to 400% ATK as damage.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Additionally, he will delay their next action by up to 40%. Hey, look at that! He just gets to point at someone and say 'you are already Physical Weak', circumventing the only other big issue Break DPS have. It really is pointing and appointing the Weakness \u2014 this is a guaranteed Weakness Implant, there is absolutely no dice rolling or Effect Hit Rate requirement, it just does the thing. The delay is also incredible since it can also be used to extend the length of time an enemy stays Broken, giving him even longer to fill their dark soul with light\u2122.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With this, Boothill can very realistically contend with any enemy in the game that does not lock their Toughness bar (think Gatekeeper Aurumaton). Sure, against non-Physical Weak enemies, Boothill's success will depend on his Ultimate uptime, but guess what, he gets a lot of Energy, and his Ultimate only costs 115 Energy. If your Boothill is particularly fast, it's very reasonable to expect that you can keep the Ultimate's Weakness Implant up pretty much 100% of the time on a major enemy. The only enemies fast enough to potentially outpace this (at least as of the time of writing) are naturally weak to Physical anyway.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"His Technique actually also lets him apply a Physical Weakness to enemies upon entering combat. The first enemy he uses his Skill on to initiate Standoff with will have the same Physical Weakness applied to them as the one from the Ultimate, lasting for 2 turns as well. This can let him ramp up right from the beginning when he doesn't have his Ultimate yet, even against enemies not weak to Physical.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This man rocks, but it gets better with his Bonus Abilities. His A2 gives him increased CRIT Rate and CRIT DMG based on his Break Effect; 10% is converted to CRIT Rate and 50% is converted to CRIT DMG, for a maximum increase of 30%/150% of each, respectively, attainable at a maximum Break Effect of 300%. This also updates dynamically, so you can achieve this through external buffs during combat.The other two Bonus Abilities are very good, but this one is just exceptional levels of bait for those who are prone to stop reading after the first few lines.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Boothill does indeed have ATK multipliers, and they can indeed deal damage, especially if they crit.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" However, consider the following: everything in this kit is screaming at you to build him full Break and not care about the rest.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" It's literally giving you a free pass to ignore the usually exorbitant build requirements that CRIT DPS have to go through to even start dealing damage. This Bonus Ability gives you a nice bonus for specifically building into one of the only two stats Boothill actually cares about, and lets him deal better damage while he's still whittling down an enemy's Toughness bar. It is NOT a free pass to build him as a CRIT DPS, and if you try to do this, then really what happens next is your own fault.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"His A4 makes it so that when Boothill is in Standoff with a target enemy, he will have 30% DMG Reduction against all other enemies not in Standoff with him, giving him a wonderful amount of survivability. Especially since he's got a lot of ways to stop his target from acting against him, everyone else he's not currently got in his sights will be dealing significantly less damage to him. Especially if you go for defensive stats on the Chest and Planar Sphere, you may be surprised to see that this cyborg is actually as tanky as his appearance should imply.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Finally, his A6 is what really solves his Energy problems. While in Standoff, whenever he gains a stack of Pocket Trickshot he will also gain 10 Energy. This happens even if you're already capped, so you can very quickly and easily regain a large sum of Energy for just doing what you were already going to be doing, and this contributes to his Ultimate uptime. Without this particular Bonus Ability, Boothill can often be left at very awkward amounts of Energy, either barely not enough to Ult, or overcapping by more than you're comfortable with. This Trace solves that.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Eidolons are never necessary for limited 5-stars, but for those interested, his Eidolons are pretty good. E1 will grant him a stack of Pocket Trickshot right at the start of combat, and all DMG Boothill deals will ignore 16% of targets' DEF. E2 refunds a Skill Point whenever he obtains Pocket Trickshot and grants 30% BE for 2 turns (this also works when overcapping but you can only trigger this once per turn). E4 gives enemies in Standoff a DMG Vulnerability of 12% when attacked by Boothill, and Boothill himself only takes 3% more DMG instead of 15% from the duelled target. Finally, E6 will let his Talent Break DMG deal an additional instance of Break DMG equal to 40% of the original amount, and also lets 70% of the original damage splash to adjacent targets, turning his finger guns finisher into Blast AoE.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"As mentioned earlier, Boothill only cares about two stats, the first being Break Effect, and the second being SPD. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"All that matters is getting his Break DMG as sky-high as you can and being fast enough to expedite the loop of Breaking and shooting fools. Because of this, you really don't need to care about stats like CRIT or ATK since they're not relevant to increasing his damage, and this makes Boothill quite a bit easier to build overall, especially since it lets you utilise previously doomed mainstat Chest and Planar Sphere pieces that have DEF%.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This does come with an interesting new issue though: what Light Cone do I even use? As a Hunt character, the currently available Light Cone options are unsurprisingly tailored towards CRIT DPS like Seele and Dr. Ratio, which for a Break-focused character like Boothill\u2026 Not terribly useful. The only Hunt Light Cone that's tailored for Break is unsurprisingly Boothill's signature, so what should free-to-play players do?\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The solutions are either River Flows in Spring, the 4-star fully free Light Cone, or Adversarial. Yes, the 3-star Light Cone. Yes, really. Defeating an enemy gives you up to 18% SPD for 2 turns. You don't need to care about the low base ATK because it's not relevant for the damage he deals. The base HP and base DEF definitely do hurt, but you can mitigate this with defensive stats on Relics. River Flows in Spring is also good for a more consistent 12% SPD boost at S5, and has better defensive base stats than Adversarial.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"These are astonishingly good choices for casual players, but their conditions are quite steep. I wouldn't advise just anyone to try to make these work because it can lead to quite a frustrating experience; Adversarial stops working against big Bosses or Elites that don't summon adds to kill, and River Flows in Spring stops functioning for 2 turns if you take DMG. Of these two, River Flows in Spring is a clear winner if you're using Boothill alongside a Shielder like Aventurine, since the criteria for voiding the passive is specifically taking DMG; you can get hit so long as it doesn't go through the shield. It's unlikely you\u2019ll be using Aventurine here, since Gallagher is pretty much the best-in-slot sustain character for Boothill, but it is an option.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Since the Herta Hunt Light Cone, Cruising in the Stellar Sea, is omnipresent and in extremely high demand for a lot of Hunt DPS, it's quite likely that if you've been playing for even a small amount of time, you'll already have units who are contesting this free 5-star Light Cone. Having said that, if nobody else needs it, Cruising provides the most consistent baseline performance, and is a very good option for players not going for Boothill's signature Light Cone. This is especially true for players who do not wish to gamble on the inconsistency of the alternative free options, however good they may be.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"In terms of teammates, Boothill actually has a lot of options because of his self-contained kit, but there are unsurprising victors when it comes to his best choices.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Bronya in particular is a great support for him because more Actions for Boothill significantly increases his damage output, and will also facilitate his absurd Toughness damage to get enemies primed for maximum damage more quickly. Ruan Mei also achieves a similar effect through her Weakness Break Efficiency, albeit at slightly less overall impact, since Ruan Mei's SPD boost is far lower than the effective SPD Bronya can provide with her 100% Action Advance, and two turns of 150 Toughness each is more than a single turn of 225. Bronya is more SP intensive but Boothill's natural SP efficiency can counteract that.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Neither of the generic DMG or CRIT buffs these supports provide meaningfully impact Boothill's damage output, and it is their secondary effects that make them extremely worth taking. One support who does significantly impact Boothill's damage while also contributing their own is the recently attained Harmony Trailblazer. The Break Effect they provide directly increases the DMG Boothill's Talent deals, and the Super Break the Trailblazer's Ultimate provides will let Boothill decimate his foes even more quickly. It doesn't necessarily make the process of Breaking enemies any easier like with Bronya or Ruan Mei, but the payoff for the slightly longer wait is pure TNT dynamite.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Supports that affect enemy DEF or RES are also very good for Boothill. This is another point for Ruan Mei thanks to her Ultimate, but it also includes the likes of Pela and Silver Wolf. Both of these Nihility debuffers can reduce enemy DEF quite easily and consistently, greatly improving the Break DMG Boothill can do, but I want to put particular attention on Silver Wolf; she is entirely single-target focused, but since Boothill is too, it's not that big of a deal, and Silver Wolf provides a greater DEF shred than Pela does. The other benefit is that Silver Wolf can also implant Weaknesses onto enemies, Physical for Boothill while he waits for his Ultimate to come back, or Quantum to enable Boothill to fully utilise the 4 piece benefits of the Genius of Brilliant Stars Relic set. Especially if you are looking to erase Bosses, Silver Wolf is a great pick if you have her.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lastly, the absolute best choices for a sustain for a Boothill team are the aforementioned Gallagher and Aventurine. Gallagher's Talent just straight-up increases the team's Break DMG by up to 12%, and the only cost of this is doing what you were already going to be doing. Gallagher himself also deals a silly amount of Toughness damage, so especially if the enemy is weak to Fire, he's a great pick, and he's a 4-star character, so he's quite accessible. Aventurine is pretty universally good but you're more likely to be using him with Boothill if you're looking to maximise the benefits of River Flows in Spring (the Light Cone from before). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The other notable benefits of both Gallagher and Aventurine is that they have no trouble sustaining the entire team while being completely SP positive, and that they contribute a huge amount of Toughness damage themselves. The SP is not something you need to worry about for Boothill himself, but something that is of extreme value when you consider that Boothill\u2019s best amplifying support options are quite SP hungry themselves (Bronya, Harmony Trailblazer). The Toughness damage also means that especially if enemies are weak to both Physical and either of the elements of the two sustains mentioned, it just makes Boothill even more easy to pilot. You can use any sustain you want, but these two are leagues ahead of the rest for the Galaxy Ranger.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Beyond that, there's not much else to say. Boothill is just a really damn good character, and because of his Break-heavy focus, he's likely to stay relevant for a very long time, especially thanks to his guaranteed Weakness Implant and forced Break DMG against Broken enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Though his charm is infectious, do not forget that he's seen his fair share of the universe. Take him with you wherever you travel and he's gonna carry that weight.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"See you, Space Cowboy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Outstanding single-target DPS, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extreme amounts of Toughness damage every single Action, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can Implant Physical Weakness onto enemies with his Ultimate and Technique making him more universal, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Break focus means he's easier to build, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Very self-sufficient and versatile and has a lot of good and accessible teammate options, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"More SP efficient than most DPS characters, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Single-target limitation is less impactful since he's clearing adds in singular turns. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely level dependent for both his Bonus Abilities and his Break DMG, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The only good Light Cone alternatives to his Sig have huge asterisks next to them, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Quite literally useless against enemies that can lock their Toughness bars, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hugely Ultimate-reliant if trying to brute force content with him. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2900-3200 \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Break Effect: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"260%-340% \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"145/160/200\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Andrew Russell",
+        "kr": "\uae40\ub2e8 (Kim Dan)",
+        "jpn": "\u5c0f\u897f\u514b\u5e78 (Konishi Katsuyuki)",
+        "cn": "\u5f6d\u535a (Peng Bo)"
+    },
+    "ratings": {
+        "moc": "10",
+        "moc_special": "10",
+        "pure": "4",
+        "pure_special": "4",
+        "apo": "11",
+        "apo_special": "11"
+    },
+    "energyUltimate": "115",
+    "conesNew": [
+        {
+            "cone": "sailing-towards-a-second-life",
+            "super": "1",
+            "percent": "129.99%",
+            "notes": "Boothill's Signature is by far the best option, offering a tremendous damage increase compared to all options in the game. The Cone grants a whopping 60% Break Effect, 12% Speed and 20% DEF shred for Boothill's Beeak damage of which pretty much all his damage is. Part of what makes this Cone so much better than anything else is that there really isn't another Cone with any of the stats Boothill wants right now - though this may change in the future."
+        },
+        {
+            "cone": "adversarial",
+            "super": "5",
+            "percent": "105.51%",
+            "notes": "Unironically one of Boothill's top options when managed correctly is a 3-star Cone that simply grants 18% Speed on kill. The reason this Cone can be competitive is again Boothill's unique scaling - he does not care much at all about base Attack or offensive boosts outside Break Effect so this Cone is one of the best he's got for now. Keep in mind that while Boothill will certainly be slaying plenty of enemies to keep the buff active, it may wear off during boss fights and when playing him with Bronya this Cone may need to be Speed-tuned around to get maximum benefit."
+        },
+        {
+            "cone": "river-flows-in-spring",
+            "super": "5",
+            "percent": "104.46%",
+            "notes": "An alternative to Adversarial with a different activation requirement, needing you to prevent Boothill from taking damage which due to his skill's Taunting effect may be easier said than done. Pairing Boothill with this Cone and a shielder is the best approach for keeping it active and if done so can yield a more consistent result than Adversarial which can make team building and Speed tuning Boothill easier."
+        },
+        {
+            "cone": "swordplay",
+            "super": "5",
+            "percent": "100.83%",
+            "notes": "All remaining Cones have similar damage scaling for Boothill as the bulk of their buffs aren't relevant to Boothill's main source of damage - his Break. Each of them have their own unique quirks and benefits and can be considered over the conditional Speed options above if desired."
+        },
+        {
+            "cone": "cruising-in-the-stellar-sea",
+            "super": "5",
+            "percent": "100%",
+            "notes": "All remaining Cones have similar damage scaling for Boothill as the bulk of their buffs aren't relevant to Boothill's main source of damage - his Break. Each of them have their own unique quirks and benefits and can be considered over the conditional Speed options above if desired."
+        },
+        {
+            "cone": "only-silence-remains",
+            "super": "5",
+            "percent": "99.63%",
+            "notes": "All remaining Cones have similar damage scaling for Boothill as the bulk of their buffs aren't relevant to Boothill's main source of damage - his Break. Each of them have their own unique quirks and benefits and can be considered over the conditional Speed options above if desired."
+        },
+        {
+            "cone": "return-to-darkness",
+            "super": "5",
+            "percent": "97.59%",
+            "notes": "All remaining Cones have similar damage scaling for Boothill as the bulk of their buffs aren't relevant to Boothill's main source of damage - his Break. Each of them have their own unique quirks and benefits and can be considered over the conditional Speed options above if desired."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Iron Cavalry Against the Scourge",
+                    "relic_2": "",
+                    "value": "103.22%",
+                    "comment": "",
+                    "notes": "New best set for Boothill that allows him to scale his Break damage much easier and much higher compared to other options."
+                },
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "",
+                    "value": "101.25%",
+                    "comment": "QUA Weak",
+                    "notes": "A situationally strong option for Boothill, as most of Boothill's damage comes from Break mechanics of which there are far fewer scaling methods available. Fortunately, one such method of scaling is DEF shred which the Quantum set provides a good amount of. Against Quantum weak enemies this set is Boothill's current best performer and even against non-quantum weak enemies while it does fall behind some other sets on this list, it's still a reasonable boost. What makes this set a little more appealing is that its performance only increases the more DEF shred you get, something Boothill is interested in already - in fact his Signature and some of his Eidolons have quite a bit of it."
+                },
+                {
+                    "relic": "Thief of Shooting Meteor",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": "Most consistent set for Boothill at the time of his release, offering 32% Break Effect, directly improving all his Break and Trickshot damage. Running 4P Thief will net you the break as well as a bit of bonus energy in combat."
+                },
+                {
+                    "relic": "Thief of Shooting Meteor",
+                    "relic_2": "Watchmaker, Master of Dream Machinations",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": "Very similar to 4-pc Thief performance-wise albeit with a little less energy gain."
+                },
+                {
+                    "relic": "Thief of Shooting Meteor",
+                    "relic_2": "Messenger Traversing Hackerspace",
+                    "value": "99.58%",
+                    "comment": "",
+                    "notes": "Boothill's favorite stats are Break and Speed and this mix-and-match combo provides both of them making it a decent choice."
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": "96.84%",
+                    "comment": "",
+                    "notes": "Inferior to mix and match Speed and Break and other options above, and should only be used if you have great sub-stats here."
+                },
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "",
+                    "value": "96.22%",
+                    "comment": "",
+                    "notes": "This is how much damage you will lose when attacking non-Quantum weak enemies."
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Talia: Kingdom of Banditry",
+                    "value": "100%",
+                    "comment": "145 Speed",
+                    "notes": "Boothill's absolute best Planar set thanks to a large amount of Break Effect and even more if you reach 145 Speed - which Boothill can achieve quite easily thanks to his high base stats and freedom in stat allocation."
+                },
+                {
+                    "planar": "Talia: Kingdom of Banditry",
+                    "value": "94.78%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "93.32%",
+                    "comment": "160 Speed",
+                    "notes": "Massive downgrade compared to Talia and you should only use this set if you have great sub-stats."
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "92.70%",
+                    "comment": "135 Speed",
+                    "notes": "Massive downgrade compared to Talia and you should only use this set if you have great sub-stats."
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "92.70%",
+                    "comment": "",
+                    "notes": "Massive downgrade compared to Talia and you should only use this set if you have great sub-stats."
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "patience-is-all-you-need",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Anything"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Break Effect"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Anything"
+                }
+            ],
+            "comments": "Sub-stats are Boothill's primary way to scale his damage from Relics and absolutely should be his main focus. With that said there really are only two good sub-stats for him - Break Effect for damage and SPD to accelerate his rotation and allow for faster dispatch of enemies. Aim for a high-Speed breakpoint and then get as much Break Effect as humanly possible.",
+            "substats": "SPD (Until breakpoint OR if you got nothing else to stack) >= Break Effect",
+            "skill_priority": "Talent > Skill > Ultimate > Basic",
+            "traces_priority": "Above Snakes (A4) > Point Blank (A6) > Ghost Load (A2)",
+            "name": "Default build"
+        }
+    ],
+    "videos": [
+        {
+            "video": "gql-SOSL7CM"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Top All-Rounder Team",
+            "member_1": "boothill",
+            "member_2": "bronya",
+            "member_3": "ruan-mei",
+            "member_4": "gallagher"
+        },
+        {
+            "name": "Oh Baby The One Shot Special",
+            "member_1": "boothill",
+            "member_2": "trailblazer-imaginary",
+            "member_3": "ruan-mei",
+            "member_4": "gallagher"
+        },
+        {
+            "name": "No Ruan Mei",
+            "member_1": "boothill",
+            "member_2": "silver-wolf",
+            "member_3": "trailblazer-imaginary",
+            "member_4": "gallagher"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "Break Effect",
+            "value": 37.3
+        },
+        "traceStat2": {
+            "stat": "atk",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "May 29th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "Break"
+    ]
+}

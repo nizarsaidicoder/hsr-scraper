@@ -1,0 +1,419 @@
+{
+    "id": "3c10519a-ac63-50e6-bf2b-e1dc58476767",
+    "updatedAt": "July 9th, 2024",
+    "createdAt": "2024-04-23T13:52:51.225Z",
+    "unitId": 54,
+    "name": "Firefly",
+    "slug": "firefly",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8e8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/39bcd42f98f9fa99f53d18d1aa88865a/60b4d/54_sm.webp",
+                            "srcSet": "/static/39bcd42f98f9fa99f53d18d1aa88865a/e73fe/54_sm.webp 40w,\n/static/39bcd42f98f9fa99f53d18d1aa88865a/61ca6/54_sm.webp 80w,\n/static/39bcd42f98f9fa99f53d18d1aa88865a/60b4d/54_sm.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#282828",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/63a6403443c924da75c2f9ce407cfba9/b26e2/firefly_card.webp",
+                            "srcSet": "/static/63a6403443c924da75c2f9ce407cfba9/84550/firefly_card.webp 94w,\n/static/63a6403443c924da75c2f9ce407cfba9/34f80/firefly_card.webp 187w,\n/static/63a6403443c924da75c2f9ce407cfba9/b26e2/firefly_card.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#6898b8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/79e2b157a90b1d8852dea25e0bc11227/3cd29/firefly_full.webp",
+                            "srcSet": "/static/79e2b157a90b1d8852dea25e0bc11227/e7160/firefly_full.webp 250w,\n/static/79e2b157a90b1d8852dea25e0bc11227/5f169/firefly_full.webp 500w,\n/static/79e2b157a90b1d8852dea25e0bc11227/3cd29/firefly_full.webp 1000w",
+                            "sizes": "(min-width: 1000px) 1000px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 1000,
+                    "height": 1000
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A member of the Stellaron Hunters and a young girl clad in a mechanical armor \\\"SAM.\\\" Born as a weapon, she's afflicted with the agony of Entropy Loss Syndrome due to genetic modification. She joined the Stellaron Hunters in search of the meaning of life, relentlessly pursuing ways to defy fate.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Body - ATK%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Feet - Speed\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar Sphere - ATK%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Link Rope - Break Effect%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best in Slot.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for sub-stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Outside of BREAK EFFECT%, SPEED, and to a lesser extent ATK% (as it grants BREAK EFFECT% thanks to Firefly's bonus ability) traditional damaging stats like CRIT RATE, CRIT DMG or DMG% have very little use for Firefly as almost the entirety of her damage is pure BREAK or SUPER BREAK damage. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"SPEED:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Speed is an essential stat for Firefly as it enables her to hit an incredibly potent Speed breakpoint within her kit, allowing her to execute 4 Enhanced Skills during her Ultimate as opposed the the usual 3. This is of course on top of all the usual benefits Speed provides. Almost all of Firefly's damage stems from her Enhanced Skills so it goes without saying every Firefly around is going to want the 4th one and fortunately it's not too hard. Here is how much Speed you'll need exactly in a number of different scenarios to get that 4 skill activation: \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"210 Speed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" total while in the Combustion state is the goal,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This translates to needing \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"150 Speed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" before the Combustion state (you'll get 60 when entering the state),\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When using Ruan Mei or similar permanent Speed buffers that grant roughly 10% you can get away with \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"140/141 Speed \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"(Ruan Mei grants 10% which is 10.4 Speed for Firefly),\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"165 Speed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" (or higher) outside the Combustion state guarantees you an extra action in Cycle 0 of Memory of Chaos.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Break Effect%: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"When playing Firefly outside of stacking enough Speed to hit her 4-skill breakpoint your other main objective is hitting 360% Break Effect (while buffed) to enable her 50% Super Break bonus ability. Also, thanks to the vast majority of Firefly's damage of course being break-related stacking Break Effect % is simply the best way to increase her damage from raw stats. Outside of Speed and ATK% (as it can become Break), Break Effect is the only stat Firefly really has to pursue so don't be stingy when targetting it even at the cost of all other damage sub-stats you might be used to like CRIT. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"ATK%:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" ATK is a funny stat for Firefly as she doesn't gain close to anything from the traditional uses of the stat with all of her damage being from BREAK and SUPER BREAK. The sole purpose of the ATK stat on Firefly is to gain the additional bonuses from having over 1800 of it from her bonus ability Module y: Core Overload granting her 0.8% Break Effect for every 10 ATK over 1800. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This exchange is quite a good one but still doesn't make stacking Attack as good as stacking pure Break Effect - although if you've got a high base Attack Cone equipped, it can get quite close when comparing sub-stats for example (keep in mind though Firefly's signature has low base ATK for a 5 star Cone so Break will still be better). As a general rule Break is generally always the better option when comparing the two but taking 2 ATK% subs over 1 BREAK EFFECT % sub might be something to consider especially with the high base Attack in mind. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "150901",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "150908",
+            "energy_gen": "",
+            "break_primary": "45",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "150902",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "150909",
+            "energy_gen": "",
+            "break_primary": "90",
+            "break_secondary": "45"
+        },
+        "ult": {
+            "id": "150903",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "150904",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "150907",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Stellaron Hunters",
+    "rarity": "5",
+    "element": "Fire",
+    "path": "Destruction",
+    "stats": {
+        "hp_base": 110.88,
+        "def_base": 105.6,
+        "atk_base": 71.28,
+        "speed_base": 104
+    },
+    "ascensionMaterials": {
+        "mats_1": "tatters-of-thought",
+        "mats_2": "fragments-of-impression",
+        "mats_3": "raging-heart",
+        "mats_4": "shards-of-desires"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "54",
+            "name": "Firefly",
+            "upgrade1Name": "In Reddened Chrysalis, I Once Rest",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When using the Enhanced Skill, ignores \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the target's DEF. And the Enhanced Skill does not consume Skill Points. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "From Shattered Sky, I Free Fall",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When using the Enhanced Basic ATK or the Enhanced Skill in Complete Combustion state to defeat an enemy target or cause them to be Weakness Broken, SAM immediately gains \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" extra turn. This effect can trigger again after \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Amidst Silenced Stars, I Deep Sleep",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Upon Lighted Fyrefly, I Soon Gaze",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While in Complete Combustion, increases SAM's Effect RES by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "From Undreamt Night, I Thence Shine",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "In Finalized Morrow, I Full Bloom",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"While in Complete Combustion, increases SAM's Fire RES PEN by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When using the Enhanced Basic ATK or Enhanced Skill, increases the Weakness Break efficiency by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"50%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "trailblazer-imaginary",
+            "notes": "Not just the best support for Firefly but borderline mandatory for her to perform at a high level. Harmony Trailblazer grants Firefly a large amount of Break Effect but more importantly, another far more powerful layer of Super Break, boosting her damage potential by an insane amount. For reference, Firefly's Super Break deals 50% Super Break damage but Harmony Trailblazer can deal up to 160% Super Break damage."
+        },
+        {
+            "character": "ruan-mei",
+            "notes": "Ruan Mei has absurd levels of synergy with not just Firefly but also Harmony Trailblazer creating a holy trinity of Break decimation with all of their kits feeding into each other. What makes Ruan Mei so strong with Firefly and Trailblazer is her increase to Break Efficiency which directly scales Super Break damage - and it makes up the majority of the Firefly x Trailblazer duo's damage. Firefly has some Break Efficiency of her own and Ruan's does stack additively with that but even so, it's a huge damage increase. On top of this, Ruan Mei offers not only Break Effect and Speed to the team but also RES SHRED which of course massively increases BREAK and SUPER BREAK damage as well. Ruan's Speed buff specifically can make gearing up Firefly for the correct Speed breakpoints much easier."
+        },
+        {
+            "character": "gallagher",
+            "notes": "Gallagher is Firefly's ideal sustain offering her utility, damage, sustain, and consistency. One of Firefly's (and her teams) biggest issues at E0 is not having enough Skill Points. Firefly herself is an extremely fast character with an action advance built into her kit, Harmony Trailblazer would ideally use their skill whenever possible to maximize their damage and energy regeneration, and Ruan Mei wants to maintain her skill at all times. The result of this is not a lot of Skill Points to go around - something Gallagher as a character (with the potential to have the most positive skill point rotation of any sustain) helps immensely with. Another thing Firefly is constantly on the lookout for is keeping as many enemies broken as frequently and for as long as possible, allowing her to Super Break them every action - Gallagher being a Breaker himself also helps with this thanks to his incredible toughness damage. Finally, Gallagher also amplifies Break Damage as well, boosting the overall team's damage."
+        },
+        {
+            "character": "pela",
+            "notes": "If you don't have access to Ruan Mei.... yet, you can use Pela or Silver Wolf in the meantime, leveraging their enemy debuffs to amplify the team's Super and standard Break damage against enemies whilst generating some skill points for your core duo of Firefly and Harmony Trailblazer."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "During the Complete Combustion, attacking enemies that have no Fire Weakness can also reduce their Toughness, with the effect being equivalent to <b>55%</b> of the original Toughness Reduction from abilities.",
+            "name": "Module \u03b1: Antilag Outburst"
+        },
+        {
+            "req": "A4",
+            "desc": "When SAM is in Complete Combustion with a Break Effect that is equal to or greater than <b>200%/360%</b>, attacking a Weakness-Broken enemy target will convert the Toughness Reduction of this attack into 1 instance of <b>35%/50%</b> Super Break DMG.",
+            "name": "Module \u03b2: Autoreactive Armor"
+        },
+        {
+            "req": "A6",
+            "desc": "For every <b>10</b> of SAM's ATK that exceeds <b>1800</b>, increases SAM's Break Effect by <b>0.8%</b>.",
+            "name": "Module \u03b3: Core Overload"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firefly is a remarkable Break-focused unit.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" She can regain her Ultimate extremely fast with her Skill's percentage restore and has a natural 25% Action Advance when using said Skill, though it also consumes HP to use. With her Ultimate, she immediately Advances her turn by 100% and gains vastly increased SPD, Damage Reduction, Effect RES, and Weakness Break Efficiency when attacking enemies. During her Ultimate, she will also be able to heal herself when using her Enhanced attacks, and she will implant a Fire Weakness onto the main target of her Enhanced Skill. She has a very synergistic kit that lends itself to having many ways of improving over time.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ah, finally, everyone's favourite Kamen Rider, Gundam, Orbital Frame, Samfly soon will become playable! There's a frightening lot about her that's great and a little about her that's somewhat rigid for now, but all of this culminates in one of the highest ceiling characters we've gotten so far. To leave it at that wouldn't be telling the whole story, but make no mistake, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firefly is definitely on par - or even better - than the likes of Acheron and has no trouble wiping the floor with pretty much everything that breathes. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her kit is very interlinked, so We'll start with Firefly's Ultimate. It has a colossal cost of 240 Energy, though this is not as limiting as it may initially seem. Upon using the Ultimate, Firefly enters the Complete Combustion state. She gets a 100% Action Advance, meaning it is now her turn, and she gains up to 60 SPD. She gains access to an Enhanced Basic ATK and Enhanced Skill, and the Weakness Break Efficiency of these Enhanced attacks is increased by 50% and the Break DMG received by enemies is increased by up to 20%.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This Ultimate state gets a separate countdown timer in the Action Order, much like Robin's Ultimate, with a fixed SPD of 70. The Ultimate may not be recast before it expires, but if you defeat all enemies within a cycle in Memory of Chaos, you can extend the effects of the Ultimate as the fixed SPD countdown gets thrown back down the Action Order. By default, this allows SAM to perform 3 Enhanced attacks per Ultimate usage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Talent provides her with DMG Reduction based on how low her health is, capping out when her health is at or below 20% Max HP and giving her up to a 40% DMG Reduction. However, during her Ultimate she will always have the maximum amount, and additionally gain 30% Effect RES on top. When her Energy reaches 100% in combat, all of her debuffs will be dispelled, meaning she will almost never be subject to pesky stat-reducing debuffs when she goes to destroy enemies in her Ultimate. This Talent will also ensure Firefly starts every fight with at least 50% Max Energy if she is below 50% when combat starts.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Firefly's Skill consumes 40% Max HP to deal up to 200% ATK to a single target, and recovers up to 60% Max Energy on use. If there's not enough HP, the HP is set to 1. Using this Skill will also Action Advance Firefly by 25%. This is why the aforementioned 240 Energy cost of the Ultimate is less relevant, as it will always take at most 2 Skill uses to regain Firefly's Ultimate, and with the Action Advance she can further expedite the process of getting back into her Complete Combustion state.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"While she is in the Complete Combustion state, this Skill is Enhanced. It will now restore 25% Max HP on use, and will apply Fire Weakness to the primary target. It becomes a Blast AoE, dealing... Oh, huh. (0.2 x Break Effect + 200% ATK) to the primary target, and half of this to adjacent targets. The Break Effect taken into account for this attack caps at 360%.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Okay, this is the point at which I have to remind you that \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firefly is an entirely Break-focused unit with no inherent CRIT scaling in her kit\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" - you\u2019re hitting for peanuts before an enemy is Broken. Samfly is designed to take advantage of the Weakness Broken state by dealing Super Break DMG, stacking a lot of SPD and Break Effect to maximize the damage you can deal and speed up the process of Breaking foes again. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The immense bonuses she gets from her kit make her expertly suited for the task of abusing Broken foes, especially with the guaranteed Fire Implant on her Enhanced Skill, as well as the ATK conversion Bonus Trace.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"We'll skip ahead to her Bonus Traces since it's relevant to illustrate her Break focus. Her A2 will allow SAM in Complete Combustion to deal 55% of the original Toughness damage to enemies that are not weak to Fire. This is not always useful since her Enhanced Skill Implants Fire Weakness, but it will affect the adjacent that don't get Implanted. The A4 states that while SAM is in the Complete Combustion state with 200%/360% Break Effect or more, attacking a Broken enemy will convert the Toughness reducing damage of this into a single instance of 35%/50% Super Break DMG. The A6 also has a stat conversion, turning every 10 points of ATK beyond 1800 into an extra 0.8% Break Effect.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"So what does all this mean? \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Samfly is designed to take advantage of the Weakness Broken state by dealing Super Break DMG, stacking a lot of SPD and Break Effect to maximize the damage you can deal and speed up the process of Breaking foes again. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"The immense bonuses she gets from her kit make her expertly suited for the task of abusing Broken foes, especially with the guaranteed Fire Implant on her Enhanced Skill, as well as the ATK conversion Bonus Trace.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Here's the primary issue: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Firefly's intrinsic Super Break is not that strong on its own.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" It sounds like it'd be quite strong but it's surprisingly weaker than her kit would imply. This is exacerbated by the completely fake damage her upfront multipliers give because, as mentioned before, she is an entirely Break-focused unit. She can very quickly and easily get enemies Broken, but she appreciates some assistance to continue the decimation after they're already Broken. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This means Firefly needs her emotional support raccoon, the Harmony Trailblazer. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"The immense amount of Break Effect that the Harmony Trailblazer grants alongside the Super Break provided by the Backup Dancer effect is exactly what Firefly needs to destroy enemies. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"The Super Break from both characters are two separate instances, so it results in a lot of damage after enemies are Broken.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" The Trailblazer's A6 also results in enemies getting delayed further after allies Break them, giving even more time to deal Super Break.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This is the only truly non-negotiable teammate for Firefly. The difference with and without Harmony MC is staggering, like, Firefly is not the same character without the Trailblazer by her side. To better illustrate this, Firefly\u2019s Super Break is at 50%, while Harmony MC\u2019s Super Break can be as high as 160%. It\u2019s genuinely not close.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The upside is that everyone has the Harmony Trailblazer, so as far as being tied to a single support character goes, it could be much worse. They provide everything that Firefly wants and also contributes a significant amount of both Toughness damage and Super Break damage of their own.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"In terms of sustain characters, it's also fairly cut and dry as it's just shrimply the best to bring Gallagher, for all the usual reasons: great sustain, very sp positive, and massive Toughness damage and bonus team Break damage. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"That last point is particularly relevant as Firefly is constantly Implanting Fire Weakness onto enemies, meaning Gallagher is also able to exert his full power at every turn. Gallagher does a lot of the heavy lifting in terms of regaining SP for Firefly, so it\u2019s a big difference if you don\u2019t have him.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"You do have other options if Gallagher is occupied by another team or if you don't have him; the usual suite of premium sustains are always good, though due to Firefly's rather exorbitant SP spending, I'd recommend going for the fully SP positive sustain options.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"For the last teammate slot, you do have options, but the obvious best choice is Ruan Mei. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"She is the best choice for this slot. Granting Firefly even more SPD, even more Weakness Break Efficiency, and RES PEN on top of all of that results in the team dishing out frankly absurd damage. Thanatoplum keeps enemies Broken for longer as well, and Weakness Break Efficiency acts as a multiplier on the damage of Super Break. Do note that Ruan Mei's and Firefly's Weakness Break Efficiency bonuses are additive with each other, but it's still extremely potent.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"To give some context on the other options for this team slot, there are two other issues that Firefly has at base; \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"the first is that she is extraordinarily fast with additional Action Advance to boot, making her consume substantially more SP than you may be expecting.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Ruan Mei is not massively SP-positive, but the damage she provides makes it worth the extra hassle. You really have to carefully consider your SP economy, or you'll end up in a terrible spot without being able to continue your offence right as the enemy gets Broken, leading to a colossal loss of damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The second issue is that Firefly's Weakness Implant may make an enemy weak to Fire, but it does not apply the associated RES Down that comes with natural Elemental Weaknesses, meaning if an enemy is highly resistant to Fire, even if they're now taking Toughness damage, they'll still end up reducing Firefly's Super Break DMG once they're Broken; if an enemy has 60% RES to Fire, Implanting Fire Weakness with Firefly will not really do much to alleviate the issue, but Ruan Mei\u2019s RES PEN can greatly assist with this.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"To that end, if you do not have Ruan Mei available for the team, the next best choices are the classic debuffing supports of Pela and Silver Wolf. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"They\u2019re both definitively worse than Ruan Mei, but they are passable alternatives.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Both of them provide massive DEF Shred which vastly improves the damage of Super Break and can also alleviate the natural Resistances of an enemy if you are trying to use Firefly to brute force content, and both of them are relatively SP positive, allowing Firefly to stay on the offensive for much longer. In addition to that, since they debuff the enemies, it's not possible for SAM to outspeed the benefits these actions provide.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Some supports that don't really work as well would be Bronya and Asta, primarily because they're too SP hungry and their buffs disappear in a flash on SAM. To illustrate this point, there is a certain SPD breakpoint that SAM can reach to act an extra time in the Complete Combustion state, and it's around 210 SPD. That's... quite a ridiculous amount of SPD, and it does need a certain amount of investment to reach, but with that kind of frequency of attacking, any buffs applied directly to SAM will vanish before you know it, making it largely redundant to even try it. If you are a completely, absolutely new player without access to anything else, Asta may be used, but please endeavour to replace her with at least Pela as soon as you can, it is night and day.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"There aren't that many dedicated Break supports at the moment, so the optimal setup for Firefly at this point in time is extremely specific and inflexible,\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" with the only team slot that does have some flexibility being limited to 3 of the most highly coveted support characters in the game. It is not that easy to substitute characters beyond that point, and results in a steep drop off in damage and ease of play. That said, Firefly's kit is so overloaded with fantastic free effects that any new characters that can facilitate this Super Break playstyle will mesh extremely well with what SAM can do.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I've left Eidolons for last, because as usual I don't think they're necessary, but Firefly in particular has a very appealing set for people looking to vertically invest. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"E1 is the one to go for; when using the Enhanced Skill, the DMG dealt ignores 15% DEF, and more importantly, the Enhanced Skill will no longer consume Skill Points.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This alone opens up the possibility for far more SP-heavy support characters like Bronya, and makes it that much easier to reach 100% DEF reduction with the right setups. E2 is also extremely impressive, making it so that whenever an enemy is defeated or Broken while under Complete Combustion, SAM gets an Extra Turn, with a 1-turn cooldown between triggering this effect. Basically, you get Seele's Resurgence but without the need to worry about SP (since you're already past E1 at this stage).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"E3, E4, and E5 are largely filler on the way to E6 (though E4's 50% Effect RES is quite nice). E6 grants SAM 20% Fire RES PEN under Complete Combustion, and provides an additional 50% Weakness Break Efficiency when using either Enhanced attack, for a new total of 100% Weakness Break Efficiency, literally doubling the Toughness damage of the attacks. This is arguably not as impressive as the likes of Acheron E6 or Boothill E6, but factoring in what you got along the way, SAM is basically completely unstoppable at this point.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Light Cone options are also surprisingly cut and dry this time around, as there's only really one choice for you if you're not going for her signature, and that's On the Fall of an Aeon.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" It just gives her everything that she needs and is completely free for everyone, the only downside is that it's hotly contested so you may need to yoink it from another Destruction character if you want to have the best on Firefly.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The conversation surrounding the choice between E1 and S1 is always tricky because it's really ultimately up to the individual player. Both choices are very good with both providing a great amount of benefit to Firefly. S1 is easier to go for because the odds of pulling it are higher, but for Firefly, E1 is probably the stronger choice overall albeit more expensive on average. By no means do you need either, and we're not evaluating her with these in consideration, it's just for the devoted few. As always 'make a choice you know you won't regret' etc etc, you know the drill by now.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Actually, if you don\u2019t already have Ruan Mei, get Ruan Mei. She\u2019s getting rerun with Firefly so do yourself a favour, like actually, real.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With Firefly's release, we've had back to back to back-banger characters, able to tackle pretty much everything in the game without reprieve. This is one of the best characters to go for and have on hand because, like with Acheron and Boothill, it's borderline impossible to stop Firefly from eviscerating everything. Enemy without Fire Weakness? No problem at all, here's a Fire Weakness. Enemy with really high Fire RES? Ruan Mei sends her regards. Multiple Break bars and shared HP pools? Firefly missed the part where that's her problem.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It would take enemies permanently locking their Toughness bars or having full immunity to Fire for Firefly to be completely put out of commission, and that's unlikely to happen because it'd affect almost every other DPS character as well. This coupled with the fact that Firefly's kit is extremely easy to scale with future characters, and this may well be one of the best characters to invest in in the entire game.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"She truly will set the seas ablaze.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Near unparalleled damage output with her proper team setup, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely overloaded and synergistic kit, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can apply Fire Weakness easily and regularly, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Deals tremendous Toughness damage consistently, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Entirely self-sufficient when it comes to Energy, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lots of free SPD boosts and Action Advances, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increased durability with near-constant free Damage Reduction and Effect RES.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Non-functional without the Harmony Trailblazer, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The best final teammate option is Ruan Mei, an already extremely contested character, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Needs a lot of specific stat investments to reach her peak, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Absolutely useless against enemies who lock their Toughness bars. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2600+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Speed:\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 150 (outside Combustion) / 210 (in Combustion)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"165 Speed (or higher) outside the Combustion state guarantees you an extra action in Cycle 0 of Memory of Chaos.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Break Effect: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"360%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Analesa Fisher & Adin Rudd ",
+        "kr": "Yu Hye-ji (\uc720\ud61c\uc9c0) & Jang Seo-hwa (\uc7a5\uc11c\ud654)",
+        "jpn": "Kusunoki Tomori (\u6960\u6728\u3068\u3082\u308a) & Kasama Jun (\u7b20\u9593\u6df3)",
+        "cn": "Song Yuanyuan (\u5b8b\u5a9b\u5a9b) &  Gan Ziqi (\u6de6\u5b50\u9f50)"
+    },
+    "ratings": {
+        "moc": "11",
+        "moc_special": "11",
+        "pure": "9",
+        "pure_special": "9",
+        "apo": "11",
+        "apo_special": "11"
+    },
+    "energyUltimate": "240",
+    "conesNew": [
+        {
+            "cone": "whereabouts-should-dreams-rest",
+            "super": "1",
+            "percent": "116.91%",
+            "notes": "Firefly's signature offers her a tremendous 60% Break Effect and a 24% damage taken debuff that multiplies all of her Break damage. Both of these are ideal for amplifying Firefly's damage but aren't something she cannot get elsewhere from the rest of her team. Break Effect can be acquired from her relics and teammates and as for the damage-taken debuff, she already has one that stacks additively with the Cone attached to her ultimate and Gallagher's damage-taken debuff also stacks additively with this as well. The combination of these facts means that while this Cone amplifies Firefly's personal damage fairly well, its value can drop off depending on which teammates you decide to pair with her."
+        },
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Best free-to-play option for Firefly, offering up an incredible amount of ATK% and a strong amount of base ATK resulting in a sizable amount of Break Effect from her bonus ability as a result. The raw Break Effect gained thanks to her conversion is enough to make this Cone a strong option if you're not in the market for going for her Signature, especially if you make up for some of the lost damage multipliers through effective use of team building (you can gain damage taken multiplier similar to the one on the Signature from Gallagher shrinking the gap between the two Cones)."
+        },
+        {
+            "cone": "indelible-promise",
+            "super": "5",
+            "percent": "97.32%",
+            "notes": "An option for those who do not have Fall of An Aeon S5 available either due to it being used on another character or still waiting in the Herta's Shop (you should get on that for Firefly's sake!)"
+        },
+        {
+            "cone": "something-irreplaceable",
+            "super": "1",
+            "percent": "94.73%",
+            "notes": ""
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Iron Cavalry Against the Scourge",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": "Best and most consistent set for Firefly by a significant margin, granting her BREAK EFFECT% but more importantly DEF SHRED for her Break and Super Breaks. As a break-focused character, stats that boost that damage are rare making DEF SHRED absurdly valuable for her."
+                },
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "",
+                    "value": "96.32%",
+                    "comment": "QUA Weak",
+                    "notes": "A set with similar potential albeit a little bit lower than 4P Iron Cavalry, but with the big caveat that it's only at half power when against enemies that aren't Quantum weak and also is missing 16% break effect. In Firefly's best teams, you won't have any way to guarantee Quantum Weakness on enemies, meaning unless the enemy is naturally weak this set will be at half power more often than not."
+                },
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "",
+                    "value": "90.88%",
+                    "comment": "",
+                    "notes": ""
+                },
+                {
+                    "relic": "Thief of Shooting Meteor",
+                    "relic_2": "",
+                    "value": "90.72%",
+                    "comment": "",
+                    "notes": "Mixing two 2P Break Effect bonuses or using a 4P Thief set is never bad on Firefly, especially while trying to hit her bonus ability goal of 360%. But ultimately Break is a stat she can gain a large amount of from her ideal teammates and other sources like her ATK% conversion bonus ability. This means she would much rather DEF SHRED or similar debuffing stats as they scale much better in full team scenarios."
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Forge of the Kalpagni Lantern",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": "Best Planar Set for Firefly, offering her some much-appreciated Speed so she can reach the desired Speed breakpoint easier and tremendous amount of Break Effect on top of that."
+                },
+                {
+                    "planar": "Talia: Kingdom of Banditry",
+                    "value": "96.45%",
+                    "comment": "",
+                    "notes": "A reasonable alternative to Forge of Kalpagni with a similar Break% but no Speed bonus. If you've already got Speed covered and aren't looking for more this set isn't much of a downgrade."
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "94.10%",
+                    "comment": "",
+                    "notes": "A stop-gap option that isn't terrible but isn't great on Firefly and relies heavily on you having a Cone with reasonable base Attack to compete. Should be used only until you have one of the better options."
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "before-dawn",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Break Effect"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "Stack Speed until you have enough to achieve Firefly's 210 Speed goal (or higher if you're aiming for 0 cycles) while fully buffed in combat, then stack Break Effect wherever possible while picking up any ATK% you can here and there for additional benefits.",
+            "substats": "SPD (Until Breakpoint) > Break Effect% > ATK%",
+            "skill_priority": "Ultimate > Skill = Talent > Basic",
+            "traces_priority": "Module \u03b1: Antilag Outburst (A2) > Module \u03b2: Autoreactive Armor (A4) > Module \u03b3: Core Overload (A6)",
+            "name": "General DPS"
+        }
+    ],
+    "videos": [
+        {
+            "video": "2Rw90T30ayw"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Premium Firefly Team",
+            "member_1": "firefly",
+            "member_2": "ruan-mei",
+            "member_3": "trailblazer-imaginary",
+            "member_4": "gallagher"
+        },
+        {
+            "name": "F2P Firefly Team",
+            "member_1": "firefly",
+            "member_2": "pela",
+            "member_3": "trailblazer-imaginary",
+            "member_4": "gallagher"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "Break Effect",
+            "value": 37.3
+        },
+        "traceStat2": {
+            "stat": "speed",
+            "value": 5
+        },
+        "traceStat3": {
+            "stat": "effectRes",
+            "value": 18
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "June 19th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "Break",
+        "SP-",
+        "ADV"
+    ]
+}

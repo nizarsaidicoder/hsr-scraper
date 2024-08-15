@@ -1,0 +1,58 @@
+{
+    "id": "81cf1a7b-66b5-5511-aefb-bac587f1ae98",
+    "updatedAt": "2023-04-25T18:45:23.256Z",
+    "createdAt": "2023-01-27T13:48:50.649Z",
+    "coneId": 34,
+    "name": "But the Battle Isn't Over",
+    "slug": "but-the-battle-isnt-over",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/931875d55a673889750eebabbace080c/bf8e1/34_sm.png",
+                            "srcSet": "/static/931875d55a673889750eebabbace080c/914ee/34_sm.png 32w,\n/static/931875d55a673889750eebabbace080c/1c9ce/34_sm.png 64w,\n/static/931875d55a673889750eebabbace080c/bf8e1/34_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/931875d55a673889750eebabbace080c/ef6ff/34_sm.webp 32w,\n/static/931875d55a673889750eebabbace080c/8257c/34_sm.webp 64w,\n/static/931875d55a673889750eebabbace080c/6766a/34_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1164"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "529"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Heir",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's Energy Regeneration Rate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/12/14/16/18\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" and regenerates 1 Skill Point when the wearer uses their Ultimate on an ally. This effect can be triggered after every 2 uses of the wearer's  Ultimate. When the wearer uses their Skill, the next ally taking action (except the wearer) deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/35/40/45/50\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" more DMG for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

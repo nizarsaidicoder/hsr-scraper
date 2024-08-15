@@ -1,0 +1,424 @@
+{
+    "id": "58f01ba5-294f-5f8c-b1d5-60ff68d58dce",
+    "updatedAt": "June 27th, 2024",
+    "createdAt": "2023-01-30T08:00:38.796Z",
+    "unitId": 29,
+    "name": "Fu Xuan",
+    "slug": "fu-xuan",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8e8e8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e454e011effe543ecd5f2706541c8cbb/e9a79/29_sm.png",
+                            "srcSet": "/static/e454e011effe543ecd5f2706541c8cbb/f31ef/29_sm.png 40w,\n/static/e454e011effe543ecd5f2706541c8cbb/1f8a1/29_sm.png 80w,\n/static/e454e011effe543ecd5f2706541c8cbb/e9a79/29_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/e454e011effe543ecd5f2706541c8cbb/e73fe/29_sm.webp 40w,\n/static/e454e011effe543ecd5f2706541c8cbb/61ca6/29_sm.webp 80w,\n/static/e454e011effe543ecd5f2706541c8cbb/60b4d/29_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/00adf40a5ba9319042dff5fbdce15b4a/c9885/fuxuan.png",
+                            "srcSet": "/static/00adf40a5ba9319042dff5fbdce15b4a/2aab7/fuxuan.png 94w,\n/static/00adf40a5ba9319042dff5fbdce15b4a/0a986/fuxuan.png 187w,\n/static/00adf40a5ba9319042dff5fbdce15b4a/c9885/fuxuan.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/00adf40a5ba9319042dff5fbdce15b4a/84550/fuxuan.webp 94w,\n/static/00adf40a5ba9319042dff5fbdce15b4a/34f80/fuxuan.webp 187w,\n/static/00adf40a5ba9319042dff5fbdce15b4a/b26e2/fuxuan.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ec68111d7da8a88f806d76a52328be50/3c5dc/29_full.png",
+                            "srcSet": "/static/ec68111d7da8a88f806d76a52328be50/ca8fd/29_full.png 200w,\n/static/ec68111d7da8a88f806d76a52328be50/de50c/29_full.png 400w,\n/static/ec68111d7da8a88f806d76a52328be50/3c5dc/29_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ec68111d7da8a88f806d76a52328be50/213b2/29_full.webp 200w,\n/static/ec68111d7da8a88f806d76a52328be50/413c5/29_full.webp 400w,\n/static/ec68111d7da8a88f806d76a52328be50/cf6d0/29_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The head of the Xianzhou Luofu's Divination Commission. A confident and blunt sage. Using her third eye and the Matrix of Prescience, Fu Xuan calculates the Xianzhou's route and predicts the fortune of future events. She firmly believes that everything she does is the \\\"best solution\\\" for the situation. Fu Xuan is waiting for the general's promised \\\"abdication.\\\" However, that day still seems... very far away.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Relic Main stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Body - HP >>> DEF%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP% is preferred on Fu Xuan but in order to be durable enough she needs enough DEF to mitigate incoming damage she takes herself but also from apportion. If you already have high HP and or need more DEF in order to balance out your stats you can use a DEF % chest instead. It is not recommended to use more than 1 DEF% main stat and with good gear and DEFe sub stats you'd ideally run 0.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Feet - Speed >= HP%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD in endgame will be Fu Xuan's best stat on boots - hitting specific speed breakpoints for MoC and moving faster in tough content like Swarm Disaster grants substantially more ultimates, break and a few more Skill Points all of which are incredibly strong.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP% is also an excellent choice especially before your Fu Xuan has insane gear - having more Speed isn't going to help if she is constantly dying. If you're struggling with survival or you need to increase the HP buff for your teammates from Fu Xuan's Matrix consider HP% boots instead.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Planar Sphere - HP >>> DEF%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Similar to the chest HP% is preferred but if you need DEF to tank up some more then you can use a DEF% sphere instead. It is not recommended to use more than 1 DEF% main stat and with good gear and DEFe sub stats you'd ideally run 0.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Link Rope - Energy Regen >>> HP% > DEF%\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Fu Xuan does not generate much energy and her ultimate is quite expensive so Energy Regen rope improves her ability to access her ultimate substantially and will allow you to more easily keep her alive thanks to maintaining more charges of her talent to heal her up when she gets low. If you don't have a gold Energy Regen rope you can use HP% or DEF% in the meantime to make up for having access to fewer ultimates.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Additional notes for Stats\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Speed is desirable but not mandatory on Fu Xuan. The primary purpose of building Speed is to supply her with more frequent ultimates to grant her charges of her talent and spot heal the team with her traces. After your Fu Xuan is sufficiently tanky aim for the following Speed breakpoints (it will benefit you in Memory of Chaos but also other content like Simulated Universe and Swarm Disaster):\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100 Speed (Base)\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" = No bonus actions,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"121 Speed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" = Bonus action on the 2nd cycle of every new wave,\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 Speed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" = Bonus action on the 1st and 4th cycle of every new wave.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"More Speed can be built but picking up other stats is potentially more beneficial for Fu Xuan as she is not a fully SP positive unit and she only needs enough ultimates to keep herself and the team alive - more HP% or a stat of your choice is could be preferred.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Total HP is what keep your Fu Xuan alive and also scales all of her abilities and party buffs/healing so it is by far her most important stat. In endgame when challenging difficult Simulated Universe content or Memory of Chaos 9-10 aim for your Fu Xuan to have \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6500-8000\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"HP\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" with her Matrix active.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF is crucial for ensuring your Fu Xuan survives hits from enemies but also the damage apported from her allies while the Matrix is active. Without it she will die to large area of effect attacks. Aim for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1400-1600 DEF\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", if you need to swap out an HP% or SPD main stat piece to get your DEF up!\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "relicsComments": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Longevous Disciple + Guard of Wuthering Snow\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best setup for maximum tankiness for Fu Xuan - the 8% damage reduction from the 2-piece Wuthering Snow is incredibly powerful and if you want the tankiest Fu Xuan possible this setup is recommended.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Longevous Disciple + Messenger Traversing Hackerspace\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Sacrifices tankiness and damage for ease of building and hitting the required Speed breakpoints easier. Recommended for players who are missing Speed sub stats on the rest of their gear but want to hit the 121 or 134 speed MoC breakpoints for extra ultimates, break and SP generation.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Guard of Wuthering Snow + Messenger Traversing Hackerspace\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Combines the great damage mitigation of Wuthering Snow with the Speed quality of life from Hackerspace. It's a very effective combination but lacks the HP scaling that benefits Fu Xuan and her team - still a very good option if you have access to good pieces to form the set.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Longevous Disciple\",\"nodeType\":\"text\"}],\"nodeType\":\"heading-6\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best set up for getting a bit more damage on Fu Xuan in most scenarios. The 16% crit rate buff from the 4-piece easily has 100% uptime and stacks very quickly thanks to her kit. This setup should only be considered for absolute min-maxing as in most scenarios more tankiness would be preferred.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "120801",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "120802",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "120803",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "120804",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "120807",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Support",
+    "affiliation": "Xianzhou Luofu",
+    "rarity": "5",
+    "element": "Quantum",
+    "path": "Preservation",
+    "stats": {
+        "hp_base": 200.64,
+        "def_base": 82.5,
+        "atk_base": 63.36,
+        "speed_base": 100
+    },
+    "ascensionMaterials": {
+        "mats_1": "artifex-module",
+        "mats_2": "artifex-cogwheel",
+        "mats_3": "nail-of-the-ape",
+        "mats_4": "artifex-gyreheart"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "29",
+            "name": "Fu xuan",
+            "upgrade1Name": "Dominus Pacis",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The Knowledge effect increases CRIT DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Optimus Felix",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If any team member is struck by a killing blow while Matrix of Prescience is active, then all allies who were struck by a killing blow during this action will not be knocked down, and \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"70%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of their Max HP is immediately restored. This effect can trigger 1 time per battle.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Apex Nexus",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "Fortuna Stellaris",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When other allies under Matrix of Prescience are attacked, Fu Xuan regenerates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Arbiter Primus",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 10.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Omnia Vita",
+            "upgrade6Desc": {
+                "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Once Matrix of Prescience is activated, it will keep a tally of the total HP lost by all team members in the current battle. Fu Xuan's Ultimate DMG will increase by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"200%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of this tally of HP loss. This tally is also capped at \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"120%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" of Fu Xuan's Max HP and the tally value will reset and re-accumulate after Fu Xuan's Ultimate is used.\",\"marks\":[],\"data\":{}}]}]}"
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "blade",
+            "notes": "Blade wants to get hit as often as possible to trigger his passive and Fu Xuan will not only decrease the damage he takes, but also the CC immunity helps with staying 'active' and dealing damage."
+        },
+        {
+            "character": "clara",
+            "notes": "Clara wants to get hit as often as possible to trigger her passive and Fu Xuan will not only decrease the damage she takes, but also the CC immunity helps with staying 'active' and dealing damage."
+        },
+        {
+            "character": "jing-yuan",
+            "notes": "Since Jing Yuan's damage is backloaded and CC is his bane as it stops LL from attacking, Fu Xuan's makes a great partner for our general."
+        },
+        {
+            "character": "All DPS",
+            "notes": "The free 12% Crit Rate Fu Xuan provides makes a massive difference because it not only allows you to hit important breakpoints (Salsotto or Rutilant) but it may also allow you to switch from Crit Rate chest to Crit DMG one, which would drastically improve the damage output."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When Matrix of Prescience is active, Fu Xuan will regenerate <b>20</b> extra Energy when she uses her Skill.",
+            "name": "Taiyi, the Macrocosmic"
+        },
+        {
+            "req": "A4",
+            "desc": "When Fu Xuan's Ultimate is used, heals all other allies by an amount equal to <b>5%</b> of Fu Xuan's Max HP plus <b>133</b>.",
+            "name": "Dunjia, the Metamystic"
+        },
+        {
+            "req": "A6",
+            "desc": "If a target enemy applies Crowd Control debuffs to allies while the Matrix of Prescience is active, all allies will resist all Crowd Control debuffs applied by the enemy target during the current action. This effect can only be triggered once. When Matrix of Prescience is activated again, the number of times this effect can be triggered will reset.",
+            "name": "Liuren, the Sexagenary"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Fu Xuan is a superb defensive support.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Boasting the highest base HP value in the game, she provides teamwide damage reduction from her Talent at all times, and 65% damage redirection from her Skill, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"meaning that 65% of the damage an ally takes will instead be taken by Fu Xuan.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" She is able to restore HP with her Ultimate and also provides Max HP and CRIT Rate bonuses from her Skill. She even protects the whole team from crowd control debuffs. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Altogether this makes Fu Xuan a fantastic and near universally applicable unit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The head of the Luofu\u2019s Divination Commission and Qingque\u2019s boss, Fu Xuan is a confident and compelling character. Fu Xuan is capable of greatly reducing the team\u2019s total damage taken and can significantly reduce the need for a second defensive unit, potentially eliminating the need altogether due to the strength of her own kit.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Fu Xuan accomplishes this through multiple avenues. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Her Talent provides a teamwide buff that grants everyone damage reduction, up to 18% at max Trace level.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" There is no prerequisite for this to be active beyond \u2018have Fu Xuan be alive\u2019. Damage reduction is a very underestimated stat in general\u2014even the small 8% provided by the Guard of Wuthering Snow Relic set is significant after even only a couple of cycles, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"so to have a permanently active 18% courtesy of Fu Xuan\u2019s Talent is extraordinarily powerful.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Her Talent also has an interaction with her Ultimate, but we\u2019ll get to that.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Fu Xuan\u2019s Skill applies a buff called Matrix of Prescience, which we\u2019ll naturally refer to as \u2018Matrix\u2019 from now on. The Matrix lasts for 3 turns and redirects 65% of all damage other allies take towards Fu Xuan, and this is before factoring in any shields. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"This means allies only take 35% of the intended damage, turning previously lethal hits into laughable ones.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Factoring in the damage reduction from Fu Xuan\u2019s Talent, this reduces the damage even further still. As an added benefit to this, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Matrix will also provide up to a 6% Max HP increase as well as a 12% CRIT Rate increase at max Trace level\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", further reducing effective damage taken, and even providing some offensive value to the team.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"It is important at this point to mention that Fu Xuan\u2019s Basic ATK and Ultimate deal damage based on Fu Xuan\u2019s Max HP, meaning she is a pure HP-scaling unit.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Coupled with her having the highest base HP value in the game, it makes it very easy to get to ridiculous HP values that even Blade would be amazed at. The player is further incentivized to go all in on HP due to the damage redirection provided by Matrix, because the unprepared Fu Xuan may find herself suddenly taking a massive AoE hit three times more than she ordinarily would have. Having said that, being able to contribute \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"very\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" meaningful damage in addition to all her other benefits makes Lady Fu an even more powerful addition to your team.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Fu Xuan\u2019s Ultimate deals up to 100% of her Max HP to all enemies, and obtains 1 trigger count for her Talent. As a part of her Talent, she also has a special self-heal that will automatically activate if she falls to or below 50% of her Max HP, and will restore up to 90% of the HP she is \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"missing.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" This won\u2019t overheal you, and won\u2019t activate if Fu Xuan suffers a killing blow. She has 1 trigger count for this effect by default, and can possess a maximum of 2, and the way to regain these is through the use of her Ultimate. It should be noted that Fu Xuan\u2019s Ultimate has an above average Energy cost of 135, meaning it\u2019s important to manage her abilities in a way where you can get this often enough to ensure both your team\u2019s and Fu Xuan\u2019s combined safety.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Bonus Traces improve upon her Skill and Ultimate in exceptional ways. A2 will provide Fu Xuan with an extra 20 Energy if she uses her Skill while Matrix is still active, resulting in a huge influx of Energy for free by just refreshing Matrix when you would have been doing so anyway, and making it far easier to get more frequent uses of her Ultimate. Her A4 gives her Ultimate a small AoE heal when used, healing 5% of Fu Xuan\u2019s Max HP plus 133 to all other allies besides Fu Xuan herself. This is not a colossal heal by any stretch, but with the damage reduction and redirection Fu Xuan provides, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"it can potentially be significant enough to sustain the whole team on its own if Fu Xuan\u2019s Max HP is high enough. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"This also means that Fu Xuan demands a very high level of investment to be able to utilise as the solo defensive option for your team should you wish to do that, though with her offensive utilities and personal damage, using her alongside another defensive unit is still perfectly viable.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Fu Xuan\u2019s A6 is of particular note as it will prevent Crowd Control debuffs from being applied to allies while the Matrix is active. This can happen once per Matrix usage and will be refreshed upon refreshing the Matrix. This means that for the turn that Crowd Control goes out, no ally will be affected by it under any circumstances for the current action. Examples include Decaying Shadow\u2019s Imprisoning spikes and Ice Out of Space\u2019s AoE Freezing attack. Since this does not prevent general debuffs such as DoT, this effect will not be erroneously wasted by such minor debuffs, making this a very efficient way of mitigating dangerous AoE Crowd Control effects, or even circumventing them entirely if they\u2019re infrequent enough that Matrix recasts can cover them.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"As you can see, Fu Xuan is already extraordinarily powerful on her own at E0.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Her Eidolons are entirely unnecessary, and honestly not too noteworthy. E1 is probably the most meaningful upgrade, \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"allowing her Matrix of Prescience to additionally provide 30% CRIT DMG.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Fu Xuan is already somewhat consolidating defensive unit with offensive Harmony support, and this Eidolon fully leans into that. E2 essentially provides Fu Xuan\u2019s Matrix with Bailu\u2019s entire revive portion of her Talent; allies killed while Matrix is active will not fall and will regain 70% of their Max HP, and this can happen once per fight. The other Eidolons are not really worth chasing as they do not significantly improve Fu Xuan\u2019s performance beyond this point. E6 is obviously a big damage boost to her Ultimate but it\u2019s really there for flair and will not suddenly make Fu Xuan a damage-dealing menace comparable to dedicated damage options.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"There\u2019s not much more to say about Fu Xuan, she\u2019s really powerful and quite self-contained. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"However, I will mention that Fu Xuan is also extremely flexible with how you utilise her in combat. Ideally, Fu Xuan is SP positive since she only needs to use her Skill every 2 turns to benefit from the extra Energy from her A2, but there\u2019s nothing to stop you from refreshing her Matrix even earlier if you have the SP to spare. Doing so will give even more Energy and allow you to Ultimate more frequently, or maybe you decide you need her Ultimate this very turn. Perhaps you feel you need to refresh the Crowd Control immunity before the enemy\u2019s next turn. There\u2019s a lot of flexibility in terms of her SP usage, and it\u2019s up to the runner to notice if they have the SP to spare. Fu Xuan\u2019s skill ceiling is therefore quite high, and as one gets more comfortable using her, one will notice just how powerful she truly is.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Lady Fu is formidable, and usable on pretty much every team. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"Her strong defensive utility coupled with her offensive benefits and decent personal damage make her a wonderful pairing with almost every damage dealer in the game. She sees all, and it is up to you to decide what you will do with her information\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Significant teamwide damage mitigation, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extremely durable with very high HP, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Provides Max HP and CRIT Rate bonuses passively with her Skill, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Provides Crowd Control immunity with each Skill usage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Unlikely to be powercrept any time soon.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Value is substantially lower in the early game since she needs all her skills leveled to reach her peak, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Not fully SP positive like other supports in her slot, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High skill ceiling with SP usage, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Team healing can be insufficient if she is not well invested.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP:  \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6500 - 8000 (\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"With Matrix active)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1400 - 1600\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPEED: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"134 (Recommended) / 143 / 160\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ENERGY REGEN\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\": 19.44%+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Sarah Wiedenheft",
+        "kr": "\uc774\uc9c0\ud604 (Lee Ji-hyeon)",
+        "jpn": "\u4f0a\u85e4\u7f8e\u6765 (Miku It\u014d)",
+        "cn": "\u82b1\u73b2 (Hu\u0101 L\u00edng)"
+    },
+    "ratings": {
+        "moc": "10",
+        "moc_special": "10",
+        "pure": "10",
+        "pure_special": "10",
+        "apo": "10",
+        "apo_special": "10"
+    },
+    "energyUltimate": "135",
+    "conesNew": [
+        {
+            "cone": "she-already-shut-her-eyes",
+            "super": "1",
+            "percent": "-",
+            "notes": "Increased Energy Regen can allow for faster Ultimates to heal the team, with the best healing potential due to high HP. Also grants the team a small DMG Bonus."
+        },
+        {
+            "cone": "moment-of-victory",
+            "super": "1",
+            "percent": "-",
+            "notes": "Massive DEF Bonus allows her to sustain much more damage, and increased Taunt can indirectly accelerate her Ultimate rotation."
+        },
+        {
+            "cone": "landaus-choice",
+            "super": "5",
+            "percent": "-",
+            "notes": "Another Taunting Cone that directly decreases DMG Taken by her, allowing for more survivability."
+        },
+        {
+            "cone": "day-one-of-my-new-life",
+            "super": "5",
+            "percent": "-",
+            "notes": "Helps with team survivability by reducing all allies' DMG Taken including her."
+        },
+        {
+            "cone": "texture-of-memories",
+            "super": "5",
+            "percent": "-",
+            "notes": "Best Defensive option for Fu Xuan, granting her a massive shield based on HP, and reduces incoming DMG while active. Helps with Broken Keel requirements."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Longevous Disciple",
+                    "relic_2": "Guard of Wuthering Snow",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Longevous Disciple",
+                    "relic_2": "Messenger Traversing Hackerspace",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Guard of Wuthering Snow",
+                    "relic_2": "Messenger Traversing Hackerspace",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "time-waits-for-no-one",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "comments": "Ensure your Fu Xuan is tanky enough to survive by prioritizing HP% and DEF%. Next, try to hit key Speed breakpoints (121 and 134) through the combination of Speed boots, SPD 2-piece set, and sub-stats. Also, it is not recommended to use more than 1 DEF% main stat Relic - ideally, you want to use HP% as the main stats and hunt for DEF% on your subs. If you want numbers, aim for 6500-8000 HP (with Matrix Active) and 1400-1600 DEF and then focus on Speed.",
+            "substats": "SPD (breakpoint) = HP% >= DEF% > EFF RES%",
+            "skill_priority": "Talent > Skill > Ultimate = Basic",
+            "traces_priority": "Taiyi, the Macrocosmic (A2) > Dunjia, the Metamystic (A4) > Liuren, the Sexagenary (A6)",
+            "name": "Pure Tank"
+        }
+    ],
+    "videos": [
+        {
+            "video": "0c6J3mYskdE"
+        }
+    ],
+    "teams": null,
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "effect_res",
+            "value": 10
+        },
+        "traceStat2": {
+            "stat": "critRate",
+            "value": 18.7
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 18
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Sustain",
+    "releaseDate": "September 20th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "Buff"
+    ]
+}

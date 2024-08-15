@@ -1,0 +1,58 @@
+{
+    "id": "9db19be2-ed16-5237-b2cb-ed68d77ddbc2",
+    "updatedAt": "2023-10-09T13:54:35.165Z",
+    "createdAt": "2023-01-27T12:10:22.408Z",
+    "coneId": 10,
+    "name": "Day One of My New Life",
+    "slug": "day-one-of-my-new-life",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/0d224a47f84785e4a325d27b74facaa8/bf8e1/10_sm.png",
+                            "srcSet": "/static/0d224a47f84785e4a325d27b74facaa8/914ee/10_sm.png 32w,\n/static/0d224a47f84785e4a325d27b74facaa8/1c9ce/10_sm.png 64w,\n/static/0d224a47f84785e4a325d27b74facaa8/bf8e1/10_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/0d224a47f84785e4a325d27b74facaa8/ef6ff/10_sm.webp 32w,\n/static/0d224a47f84785e4a325d27b74facaa8/8257c/10_sm.webp 64w,\n/static/0d224a47f84785e4a325d27b74facaa8/6766a/10_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "21",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "At This Very Moment",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's DEF by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/18/20/22/24\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". After entering battle, increases DMG RES of all allies by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/9/10/11/12\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Effects of the same type cannot stack.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

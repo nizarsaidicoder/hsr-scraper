@@ -1,0 +1,58 @@
+{
+    "id": "cebcd792-4fef-5440-a5ad-b49072604813",
+    "updatedAt": "2023-05-03T06:30:22.662Z",
+    "createdAt": "2023-01-27T11:57:37.770Z",
+    "coneId": 5,
+    "name": "Before Dawn",
+    "slug": "before-dawn",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ed10a998d72942e18a1bef873c7e8f77/bf8e1/5_sm.png",
+                            "srcSet": "/static/ed10a998d72942e18a1bef873c7e8f77/914ee/5_sm.png 32w,\n/static/ed10a998d72942e18a1bef873c7e8f77/1c9ce/5_sm.png 64w,\n/static/ed10a998d72942e18a1bef873c7e8f77/bf8e1/5_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ed10a998d72942e18a1bef873c7e8f77/ef6ff/5_sm.webp 32w,\n/static/ed10a998d72942e18a1bef873c7e8f77/8257c/5_sm.webp 64w,\n/static/ed10a998d72942e18a1bef873c7e8f77/6766a/5_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "48",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "28",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Long Night",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's CRIT DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"36/42/48/54/60%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Increases the wearer's Skill and Ultimate DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"18/21/24/27/30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". After the wearer uses their Skill or Ultimate, they gain Somnus Corpus. Upon triggering a follow-up attack, Somnus Corpus will be consumed and the follow-up attack DMG increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"48/56/64/72/80%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\\n\\n\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

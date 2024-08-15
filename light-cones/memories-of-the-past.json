@@ -1,0 +1,58 @@
+{
+    "id": "eab3472c-de81-5566-a178-9e6e0b2178cb",
+    "updatedAt": "2023-10-06T14:57:26.249Z",
+    "createdAt": "2023-01-27T13:09:08.125Z",
+    "coneId": 22,
+    "name": "Memories of the Past",
+    "slug": "memories-of-the-past",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/72ae0c1d1c7399b609b7138f5d9a801e/bf8e1/22_sm.png",
+                            "srcSet": "/static/72ae0c1d1c7399b609b7138f5d9a801e/914ee/22_sm.png 32w,\n/static/72ae0c1d1c7399b609b7138f5d9a801e/1c9ce/22_sm.png 64w,\n/static/72ae0c1d1c7399b609b7138f5d9a801e/bf8e1/22_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/72ae0c1d1c7399b609b7138f5d9a801e/ef6ff/22_sm.webp 32w,\n/static/72ae0c1d1c7399b609b7138f5d9a801e/8257c/22_sm.webp 64w,\n/static/72ae0c1d1c7399b609b7138f5d9a801e/6766a/22_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Old Photo",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's Break Effect by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"28/35/42/49/56%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When the wearer attacks, additionally regenerates \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"4/5/6/7/8\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" Energy. This effect can only be triggered 1 time per turn.\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

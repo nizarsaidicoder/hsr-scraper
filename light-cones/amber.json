@@ -1,0 +1,58 @@
+{
+    "id": "a2b77f46-e9db-5cb4-97f7-322ea0072f7e",
+    "updatedAt": "2023-05-07T09:37:59.148Z",
+    "createdAt": "2023-01-27T11:27:23.879Z",
+    "coneId": 2,
+    "name": "Amber",
+    "slug": "amber",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/59d25f3f6b31c075dd2b61bc6fae02c2/bf8e1/2_sm.png",
+                            "srcSet": "/static/59d25f3f6b31c075dd2b61bc6fae02c2/914ee/2_sm.png 32w,\n/static/59d25f3f6b31c075dd2b61bc6fae02c2/1c9ce/2_sm.png 64w,\n/static/59d25f3f6b31c075dd2b61bc6fae02c2/bf8e1/2_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/59d25f3f6b31c075dd2b61bc6fae02c2/ef6ff/2_sm.webp 32w,\n/static/59d25f3f6b31c075dd2b61bc6fae02c2/8257c/2_sm.webp 64w,\n/static/59d25f3f6b31c075dd2b61bc6fae02c2/6766a/2_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Stasis",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's DEF by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/20/24/28/32\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". If the wearer's current HP is lower than \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", increases their DEF by a further \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"/20/24/28/32\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}

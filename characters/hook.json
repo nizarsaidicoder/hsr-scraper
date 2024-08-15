@@ -1,0 +1,442 @@
+{
+    "id": "434f4f68-4dc7-5733-92d8-0a307bde6987",
+    "updatedAt": "June 28th, 2024",
+    "createdAt": "2023-01-26T16:22:22.399Z",
+    "unitId": 20,
+    "name": "Hook",
+    "slug": "hook",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/fb5d610b2d0eb7b35b461f4ae5166bca/e9a79/20_sm.png",
+                            "srcSet": "/static/fb5d610b2d0eb7b35b461f4ae5166bca/f31ef/20_sm.png 40w,\n/static/fb5d610b2d0eb7b35b461f4ae5166bca/1f8a1/20_sm.png 80w,\n/static/fb5d610b2d0eb7b35b461f4ae5166bca/e9a79/20_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/fb5d610b2d0eb7b35b461f4ae5166bca/e73fe/20_sm.webp 40w,\n/static/fb5d610b2d0eb7b35b461f4ae5166bca/61ca6/20_sm.webp 80w,\n/static/fb5d610b2d0eb7b35b461f4ae5166bca/60b4d/20_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ec84d82831255949c2293bd350b01311/c9885/1109.png",
+                            "srcSet": "/static/ec84d82831255949c2293bd350b01311/2aab7/1109.png 94w,\n/static/ec84d82831255949c2293bd350b01311/0a986/1109.png 187w,\n/static/ec84d82831255949c2293bd350b01311/c9885/1109.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ec84d82831255949c2293bd350b01311/84550/1109.webp 94w,\n/static/ec84d82831255949c2293bd350b01311/34f80/1109.webp 187w,\n/static/ec84d82831255949c2293bd350b01311/b26e2/1109.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e5b622282805dd45bb9750710edec470/3c5dc/20_full.png",
+                            "srcSet": "/static/e5b622282805dd45bb9750710edec470/ca8fd/20_full.png 200w,\n/static/e5b622282805dd45bb9750710edec470/de50c/20_full.png 400w,\n/static/e5b622282805dd45bb9750710edec470/3c5dc/20_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/e5b622282805dd45bb9750710edec470/213b2/20_full.webp 200w,\n/static/e5b622282805dd45bb9750710edec470/413c5/20_full.webp 400w,\n/static/e5b622282805dd45bb9750710edec470/cf6d0/20_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Who am I? Heh, I'm the boss around here, you can call me... Pitch-Dark Hook the Great! Don't underestimate her, she's the boss of The Moles adventure squad! If you stand out on your adventure, maybe Pitch-Dark Hook the Great will invite you to join The Moles. You'll have to find out for yourself what kind of experience that would be~\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "110901",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "110902",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "110909",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "ult": {
+            "id": "110903",
+            "energy_gen": "5",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "110904",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "110907",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Belobog",
+    "rarity": "4",
+    "element": "Fire",
+    "path": "Destruction",
+    "stats": {
+        "hp_base": 182.4,
+        "def_base": 48,
+        "atk_base": 84,
+        "speed_base": 94
+    },
+    "ascensionMaterials": {
+        "mats_1": "ancient-part",
+        "mats_2": "ancient-spindle",
+        "mats_3": "endotherm-chitin",
+        "mats_4": "ancient-engine"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "20",
+            "name": "Hook",
+            "upgrade1Name": "Early to Bed. Early to Rise",
+            "upgrade1Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Enhanced Skill deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" increased DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade2Name": "Happy Tummy. Happy Body",
+            "upgrade2Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Extends the duration of Burn caused by Skill by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade3Name": "Don\u2019t Be Picky. Nothing\u2019s Icky",
+            "upgrade3Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Skill Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Basic ATK Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". up to a maximum of Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade4Name": "It's Okay to Not Know",
+            "upgrade4Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When Talent is triggered, there is a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"100%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" base chance to Burn enemies adjacent to the target enemy, equivalent to that of Skill.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade5Name": "Let the Moles' Deeds Be Known",
+            "upgrade5Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Ultimate Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15. Talent Lv. \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"+2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", up to a maximum of Lv. 15.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            },
+            "upgrade6Name": "Always Ready to Punch and Kick",
+            "upgrade6Desc": {
+                "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hook deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" more DMG to enemies inflicted with Burn.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Hook restores HP equal to <b>5%</b> of her Max HP whenever her Talent is triggered.",
+            "name": "Innocence"
+        },
+        {
+            "req": "A4",
+            "desc": "The chance to resist Crowd Control Debuffs increases by <b>35%</b>.",
+            "name": "Naivete"
+        },
+        {
+            "req": "A6",
+            "desc": "When using her Ultimate, Hook has her action Advanced Forward by <b>20%</b> and Hook additionally regenerates <b>5</b> Energy.",
+            "name": "Playing With Fire"
+        }
+    ],
+    "review": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hook is a mostly single-target focused damage dealer with some occasional Blast AoE thrown in. She is focused on inflicting Burn on enemies and then dealing increased damage against them, while also recovering some HP for herself and even regenerating some extra Energy. Her infrequent AoE results in her being more of an honorary Hunt unit, rather than a fully fledged Destruction character.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"We\u2019ve got characters like Qingque that are \u2018Erudition\u2019 in point size 50 inverted commas, and then we\u2019ve got Hook who is \u2018Destruction question mark?\u2019 and doesn\u2019t really seem to be doing Destruction things as well as she probably should do. Even still, she\u2019s a decent damage dealer and a relatively accessible source of Fire DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hook\u2019s Skill deals up to 240% ATK to a single enemy and has a 100% base chance to Burn them for 2 turns, with the Burn dealing 65% ATK at the start of each turn. This Skill has an Enhanced version after using her Ultimate that deals up to 280% ATK to a single enemy and 80% ATK to adjacent foes, with the same Burn chance and damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Her Ultimate deals up to 400% ATK to a single enemy and Enhances her next Skill. That\u2019s it, that\u2019s all it does. Would have been nice for it to be AoE but at least it has a good damage multiplier. It also has an average Energy cost of 120 meaning it\u2019s up more than you\u2019d think, especially when factoring in Hook\u2019s Talent. Hook\u2019s Talent will deal additional Fire DMG of up to 100% ATK when Hook attacks a target afflicted with Burn, and will also regenerate 5 extra Energy.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With this, it\u2019s plain to see that Hook is really not that complicated of a character, perhaps even to her detriment in some regards. What I mean by this is that there\u2019s nothing to really optimise or play around with. Our collective galaxybrains are mostly useless here since Hook\u2019s kit really is just this simple. Her upsides and downsides are as presented, and that\u2019s a little unfortunate since it results in her potential being really quite low by comparison to other characters.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"There can be no new support character that is beneficial to Hook\u2019s performance without also \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"always\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" being better for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"other \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"damage dealers. She\u2019s a competent dps, but with her being quote unquote \u2018Destruction\u2019 and more like a Hunt character, she naturally struggles in many of the scenarios we see in the endgame these days. If there\u2019s ever a Fire-weak Boss that needs to be pounded into the ground, then Pitch Dark Hook the Great will undoubtedly have a good time against them \u2014 provided they don\u2019t summon reinforcements all the time.\u00a0\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Hook\u2019s Bonus Ability Traces definitely help out quite a bit with her performance but are really equally as boring as the rest of her kit. A2 restores 5% Max HP to Hook whenever her Talent is triggered, A4 increases the chance to resist Crowd Control debuffs by 35%, and A6 will Action Advance Hook by 20% when using her Ultimate, and additionally restore an extra 5 Energy.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"It\u2019s a lot of extra Energy coming Hook\u2019s way for just playing the game as you normally would, and it definitely contributes a fair bit to even more frequent Ultimates, thus reducing the downtime on her only source of AoE in her Enhanced Skill. Especially if you include teammates like Tingyun or Huohuo with Hook, you can end up getting extraordinarily frequent Ultimates that are dealing 500% ATK with her Talent included. It\u2019s definitely nothing to scoff at, and Hook\u2019s base stats are also surprisingly good.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"With Eidolons, Hook\u2019s performance actually goes up a fair bit. E1 grants a 20% DMG bonus to her Enhanced Skill, and E2 extends the duration of her Skill\u2019s Burn by 1 turn. This leads to greatly increased consistency especially since you\u2019re not likely to be building for Effect Hit Rate on purpose on Hook. E4 continues the trend by having a 100% base chance to burn adjacent enemies whenever her Talent is triggered, and finally E6 caps things off with a 20% DMG bonus against Burned enemies.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"She\u2019s definitely one of the forgotten characters of this game, and it\u2019s a bit unfortunate because she\u2019s really not bad at all. It\u2019s just that there are plenty of characters that are \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"italic\"}],\"value\":\"better\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". If Hook was given out for free to players like Qingque or more recently Lynx, I think people would be much more likely to actually use her, especially since there aren\u2019t really many strong accessible Fire units, even more so early on. What, you\u2019re gonna bring Fire Trailblazer as your solo damage option to the endgame? Yeah, good luck with that, I literally tried that already buddy. I\u2019ll give you one guess as to how it turned out.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you\u2019re lacking a Fire option but are sitting by an unlevelled Hook with potentially even E6, I may even recommend using her until you get something better. You may even be pleasantly surprised by her performance.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "pros": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Great single-target damage output, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Lots of free Energy from her kit, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Faster than you may expect due to Action Advance from A6, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"High single-target Toughness damage.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "cons": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Not really a Destruction unit in any way, more like a Hunt with occasional AoE, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Reliant on Burn to land for maximum power, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Can\u2019t really be optimised beyond her apparent strength, \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"More and better generalist characters exist.\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\"\\n\\n\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "endgameStats": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"HP: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"3500+ \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"DEF: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"700 - 800+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2400 - 2800+\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT RATE: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60% - 70%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"CRIT DMG: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"120% - 140%+\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"SPD: \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"Base Speed (H\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"yperspeed\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" Sparkle/Bronya) / 134 (Recommended) / 143\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "voiceActors": {
+        "en": "Felecia Angelle",
+        "kr": "",
+        "jpn": "Tokui Sora (\u5fb3\u4e95\u9752\u7a7a)",
+        "cn": ""
+    },
+    "ratings": {
+        "moc": "5",
+        "moc_special": "5",
+        "pure": "5",
+        "pure_special": "5",
+        "apo": "6",
+        "apo_special": "6"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes you maintain the full 4 attack stacks (64% ATK) at all times and maintain the weakness break bonus 50% of the time. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "93.88%",
+            "notes": "On the Fall of An Aeon with 0% uptime is calculated assuming you maintain the full 4 attack stacks (64% ATK) at all times and the weakness break bonus is never active - which is the case in most fights the enemy is not vulnerable to the wearer of the Cone."
+        },
+        {
+            "cone": "under-the-blue-sky",
+            "super": "5",
+            "percent": "93.04%",
+            "notes": "Assumes to have 100% uptime of its on-kill buff at all times. In fights where this is not the case for the majority of the duration, its damage will be lower."
+        },
+        {
+            "cone": "the-moles-welcome-you",
+            "super": "5",
+            "percent": "92.74%",
+            "notes": "Assumes to have 100% uptime of all 3 components of its buff requiring a Basic ATK, Skill and Ultimate. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "woof-walk-time",
+            "super": "5",
+            "percent": "88.30%",
+            "notes": "Assumes enemy always has a Bleed or Rurn applied to them at all times for the damage bonus. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "the-moles-welcome-you",
+            "super": "5",
+            "percent": "84.66%",
+            "notes": "Assumes to have 100% uptime of 2 components of its buff requiring two of Basic ATK, Skill and Ultimate. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "a-secret-vow",
+            "super": "5",
+            "percent": "83.37%",
+            "notes": "Assumes to only have its base 40% damage increase active as enemies almost always have higher lower HP than your units. In fights where this is not the case and your units end up at lower HP than the enemy its performance will increase."
+        },
+        {
+            "cone": "under-the-blue-sky",
+            "super": "5",
+            "percent": "79.26%",
+            "notes": "Assumes to have 0% uptime of its on-kill buff."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "",
+                    "value": "106.91%",
+                    "comment": "100% uptime",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Firesmith of Lava-Forging",
+                    "relic_2": "Pioneer Diver of Dead Waters",
+                    "value": "98.32%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Firesmith of Lava-Forging",
+                    "relic_2": "",
+                    "value": "96.79%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "103.23%",
+                    "comment": "160 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "100.20%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "98.21%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "woof-walk-time",
+                    "super": "5"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Fire DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "This is your typical DPS build that focuses on the holy trifecta - ATK, Crit Rate, and Crit DMG. For every 1% of Crit try to have 2% of Crit DMG.",
+            "substats": "SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Skill > Ultimate > Talent > Basic",
+            "traces_priority": "Playing With Fire (A6) > Innocence (A2) > Naivete (A4)",
+            "name": "General DPS"
+        }
+    ],
+    "videos": null,
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "hook",
+            "member_2": "natasha",
+            "member_3": "trailblazer-fire",
+            "member_4": "serval"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "hp",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "critDmg",
+            "value": 13.3
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": null
+}

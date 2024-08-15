@@ -1,0 +1,52 @@
+{
+    "id": "53596056-0f7a-5898-bfc7-0de4e5e4d489",
+    "updatedAt": "2024-08-14T05:03:27.136Z",
+    "createdAt": "2024-07-21T07:17:01.598Z",
+    "coneId": 129,
+    "name": "Those Many Springs",
+    "slug": "those-many-springs",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b82ade90b52bfd9dc6fb704bde219e09/6766a/129_sm.webp",
+                            "srcSet": "/static/b82ade90b52bfd9dc6fb704bde219e09/ef6ff/129_sm.webp 32w,\n/static/b82ade90b52bfd9dc6fb704bde219e09/8257c/129_sm.webp 64w,\n/static/b82ade90b52bfd9dc6fb704bde219e09/6766a/129_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "August 21st, 2024",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "529"
+        }
+    },
+    "skillName": "Unknown",
+    "skillDescription": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's Effect Hit Rate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". After the wearer uses Basic ATK, Skill, or Ultimate to attack an enemy target, there is a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" base chance to inflict \\\"Unarmored\\\" on the target. While in the Unarmored state, the enemy target receives \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" increased DMG, lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). If the target is under a DoT state inflicted by the wearer, there is a \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"60%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" base chance to upgrade the \\\"Unarmored\\\" state inflicted by the wearer to the \\\"Cornered\\\" state, which additionally increases the DMG the target enemy receives by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"14%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). During this period, the wearer cannot inflict \\\"Unarmored\\\" on the target. \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    }
+}
