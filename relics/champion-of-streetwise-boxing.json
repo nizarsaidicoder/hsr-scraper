@@ -1,0 +1,55 @@
+{
+    "id": "f9f4118a-e9e7-5efe-a9b9-4bcef1d97f1e",
+    "updatedAt": "2023-04-10T07:05:54.198Z",
+    "createdAt": "2023-02-16T13:32:27.222Z",
+    "relicId": "5",
+    "name": "Champion of Streetwise Boxing",
+    "type": "Relic Set",
+    "element": "Physical",
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Physical DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"After the wearer attacks or is hit, their ATK increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for the rest of the battle. This effect can stack up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" time(s).\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/0c9857e8c7ae23ff8186946d2e7afe19/15e42/set_5.png",
+                            "srcSet": "/static/0c9857e8c7ae23ff8186946d2e7afe19/88208/set_5.png 25w,\n/static/0c9857e8c7ae23ff8186946d2e7afe19/e9fba/set_5.png 50w,\n/static/0c9857e8c7ae23ff8186946d2e7afe19/15e42/set_5.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/0c9857e8c7ae23ff8186946d2e7afe19/2fa99/set_5.webp 25w,\n/static/0c9857e8c7ae23ff8186946d2e7afe19/dbc4a/set_5.webp 50w,\n/static/0c9857e8c7ae23ff8186946d2e7afe19/d8057/set_5.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "physicalDmg",
+            "value": 10
+        },
+        "relicSet4pc": {
+            "stat": "atk",
+            "value": 25
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

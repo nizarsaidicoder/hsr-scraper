@@ -1,0 +1,55 @@
+{
+    "coneId": 6,
+    "name": "Chorus",
+    "slug": "chorus",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/93782c5e3eda4ca14e5b7a6248e5b9ad/bf8e1/6_sm.png",
+                            "srcSet": "/static/93782c5e3eda4ca14e5b7a6248e5b9ad/914ee/6_sm.png 32w,\n/static/93782c5e3eda4ca14e5b7a6248e5b9ad/1c9ce/6_sm.png 64w,\n/static/93782c5e3eda4ca14e5b7a6248e5b9ad/bf8e1/6_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/93782c5e3eda4ca14e5b7a6248e5b9ad/ef6ff/6_sm.webp 32w,\n/static/93782c5e3eda4ca14e5b7a6248e5b9ad/8257c/6_sm.webp 64w,\n/static/93782c5e3eda4ca14e5b7a6248e5b9ad/6766a/6_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "14",
+            "value_level_max": "317"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Concerted",
+    "skillDescription": {
+        "formatted": "After entering battle, increases the ATK of all allies by 8/9/10/11/12%. Effects of the same type cannot stack."
+    }
+}

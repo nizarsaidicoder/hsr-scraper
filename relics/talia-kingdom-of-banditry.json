@@ -1,0 +1,53 @@
+{
+    "id": "74a9d15f-20c6-5970-b0e3-c335b702d861",
+    "updatedAt": "2023-05-07T09:07:35.745Z",
+    "createdAt": "2023-02-16T13:45:26.125Z",
+    "relicId": "19",
+    "name": "Talia: Kingdom of Banditry",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's Break Effect by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When the wearer's SPD reaches \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"145\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" or higher, the wearer's Break effect increases by an extra \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/bdb64774a8d30ab84af3e519718526b0/15e42/planar_7.png",
+                            "srcSet": "/static/bdb64774a8d30ab84af3e519718526b0/88208/planar_7.png 25w,\n/static/bdb64774a8d30ab84af3e519718526b0/e9fba/planar_7.png 50w,\n/static/bdb64774a8d30ab84af3e519718526b0/15e42/planar_7.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/bdb64774a8d30ab84af3e519718526b0/2fa99/planar_7.webp 25w,\n/static/bdb64774a8d30ab84af3e519718526b0/dbc4a/planar_7.webp 50w,\n/static/bdb64774a8d30ab84af3e519718526b0/d8057/planar_7.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "breakEffect",
+            "value": 16
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

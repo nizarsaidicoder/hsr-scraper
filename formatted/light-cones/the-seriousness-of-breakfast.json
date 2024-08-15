@@ -1,0 +1,57 @@
+{
+    "coneId": 47,
+    "name": "The Seriousness of Breakfast",
+    "slug": "the-seriousness-of-breakfast",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/1a13f10fd98d3bc272a30bf3488c32a7/bf8e1/47_sm.png",
+                            "srcSet": "/static/1a13f10fd98d3bc272a30bf3488c32a7/914ee/47_sm.png 32w,\n/static/1a13f10fd98d3bc272a30bf3488c32a7/1c9ce/47_sm.png 64w,\n/static/1a13f10fd98d3bc272a30bf3488c32a7/bf8e1/47_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/1a13f10fd98d3bc272a30bf3488c32a7/ef6ff/47_sm.webp 32w,\n/static/1a13f10fd98d3bc272a30bf3488c32a7/8257c/47_sm.webp 64w,\n/static/1a13f10fd98d3bc272a30bf3488c32a7/6766a/47_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Mission Reward",
+        "Forgotten Hall Store",
+        "Echo of War"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Get Ready",
+    "skillDescription": {
+        "formatted": "Increases the wearer's DMG by 12/15/18/21/24%. For every defeated enemy, the wearer's ATK increases by 4/5/6/7/8%, stacking up to 3 time(s).\n\n"
+    }
+}

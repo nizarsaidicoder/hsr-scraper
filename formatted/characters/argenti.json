@@ -1,0 +1,489 @@
+{
+    "unitId": 41,
+    "name": "Argenti",
+    "slug": "argenti",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#886858",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/6f3ad2228d4d02953475c5452230ef63/e9a79/45_sm.png",
+                            "srcSet": "/static/6f3ad2228d4d02953475c5452230ef63/f31ef/45_sm.png 40w,\n/static/6f3ad2228d4d02953475c5452230ef63/1f8a1/45_sm.png 80w,\n/static/6f3ad2228d4d02953475c5452230ef63/e9a79/45_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/6f3ad2228d4d02953475c5452230ef63/e73fe/45_sm.webp 40w,\n/static/6f3ad2228d4d02953475c5452230ef63/61ca6/45_sm.webp 80w,\n/static/6f3ad2228d4d02953475c5452230ef63/60b4d/45_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/c041cdddabd3991cffc3a8b688cfdbbf/c9885/argenti.png",
+                            "srcSet": "/static/c041cdddabd3991cffc3a8b688cfdbbf/2aab7/argenti.png 94w,\n/static/c041cdddabd3991cffc3a8b688cfdbbf/0a986/argenti.png 187w,\n/static/c041cdddabd3991cffc3a8b688cfdbbf/c9885/argenti.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/c041cdddabd3991cffc3a8b688cfdbbf/84550/argenti.webp 94w,\n/static/c041cdddabd3991cffc3a8b688cfdbbf/34f80/argenti.webp 187w,\n/static/c041cdddabd3991cffc3a8b688cfdbbf/b26e2/argenti.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/33404e7b6681e4aaaf8a1c9732074959/3c5dc/41_full.png",
+                            "srcSet": "/static/33404e7b6681e4aaaf8a1c9732074959/ca8fd/41_full.png 200w,\n/static/33404e7b6681e4aaaf8a1c9732074959/de50c/41_full.png 400w,\n/static/33404e7b6681e4aaaf8a1c9732074959/3c5dc/41_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/33404e7b6681e4aaaf8a1c9732074959/213b2/41_full.webp 200w,\n/static/33404e7b6681e4aaaf8a1c9732074959/413c5/41_full.webp 400w,\n/static/33404e7b6681e4aaaf8a1c9732074959/cf6d0/41_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "A classic knight of the Knights of Beauty. Forthright and candid, this noble and admirable man wanders the cosmos alone, resolutely following the Path of Beauty. Upholding the good name of Beauty is Argenti's duty. To fulfill this responsibility, one's must be pious when one initiates battle, and one must make their opponent yield willingly when one strikes with one's spear."
+    },
+    "statsComments": {
+        "formatted": "Relic Main statsBody - CRIT DMG >= CRIT RateCRIT RATE and CRIT DMG are both ideal for Argenti - choose the one that offers you the best CRIT ratio.Feet - Speed > ATK%Speed is the safest option but ATK% can be strong when combining Argenti with supports that offer him speed like Hanya or Asta.Planar Sphere - Physical DMG > ATK%Physical% is best in most cases but ATK% isn't far behind so an ATK% orb with excellent sub-stats can be used.Link Rope - ATK%ATK% Rope is recommended as it is the only offensive scaling option available in this slot.Additional notes for sub-statsCRIT RATE & CRIT DMG: Those are Argenti's best damage scaling stats - shoot for the standard 1% CRIT RATE per 2% CRIT DMG. Argenti can afford to be below the usual CRIT RATE ratio thanks to his Talent granting a sizeable amount depending on the level it's at, level 10 grants a bonus 25% CRIT RATE which should be considered when deciding which CRIT stat to aim for.ATK%: Argenti has limited ATK% in his kit making it a reasonable stat to chase but only after a solid CRIT ratio has been established - think of it more like a bonus stat on the way to getting your CRIT pieces.DMG%: Argenti doesn't have much increased DMG% in his kit but his signature Cone and his next best option (Today Is Another Peaceful Day) make up for it. If you're using these Cones the value of dmg% diminishes somewhat especially compared to CRIT RATE stats.Speed: Speed as with most standard direct damage carries is incredibly important on Argenti - hitting a strong Memory of Chaos breakpoint is also advised when aiming to achieve the fastest and most comfortable endgame clears. Stacking Speed past your desired breakpoint isn't advised though. Higher breakpoints can more easily be achieved consistently by pairing Argenti with characters like Hanya and Asta. They may even allow you to switch out some gear pieces like your Speed boots in favor of more damage stats. Aim for any of the Speed breakpoints below baseline or with consistent support Speed buffs."
+    },
+    "relicsComments": {
+        "formatted": "Champion of Streetwise BoxingBest damaging set for Argenti when fully stacked. Stacking up the buffs can take some time though which is a slight downside but it still beats out the competition.Musketeer of Wild WheatThe next best set for Argenti, offering a Speed bonus that eliminates the need for Argenti to get Speed sub-stats altogether to hit the most common Speed breakpoint 134. Also offers Attack which is a nice bonus.Musketeer of Wild Wheat + Champion of Streetwise BoxingAn alternative to the 4-piece Musketeer of Wild Wheat that depending on the Speed sub-stats or supports you have access to can be a better option situationally.Messenger Traversing Hackerspace + Champion of Streetwise BoxingAnother speed-based option and alternative to 4-piece Musketeer of Wild Wheat with the same upsides and downsides but offers 10% increased Physical Damage instead of 12% increased Attack which may be better or worse depending on your gears stats and the supports you are using.Firmament Frontline: GlamothStrongest stand-alone Planar Set for Argenti when at 135 speed but even more powerful at 160 speed if your team comp can achieve it. Does not have CRIT though so can fall behind other options in certain team compositions.Rutilant ArenaA strong CRIT option for AoE-based fights, offering a 20% damage increase to skills. The more enemies in the fight the more Argenti's skill becomes a large part of his damage making this set stronger.Space Sealing StationIn his base kit, Argenti has limited access to increased ATK% making Space Sealing Station a decent option for him if you already have it. This set falls behind CRIT sets when combining Argenti with a team of supports with a large amount of ATK% buffs. Inert SalsottoAnother strong CRIT set close in power to Rutilant arena that buffs Argenti's Ultimate instead of skill but only for 15% instead of 20% making it slightly weaker in AoE fights. If you use Argenti's signature this set loses a little value as his ultimate already receives so much increased % damage already."
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "130201",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "130202",
+            "energy_gen": "30",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "130203",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "130214",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": "5"
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "130204",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "130207",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "The Knights of Beauty",
+    "rarity": "5",
+    "element": "Physical",
+    "path": "Erudition",
+    "stats": {
+        "hp_base": 142.56,
+        "def_base": 49.5,
+        "atk_base": 100.32,
+        "speed_base": 103
+    },
+    "ascensionMaterials": {
+        "mats_1": "extinguished-core",
+        "mats_2": "glimmering-core",
+        "mats_3": "netherworld-pass",
+        "mats_4": "squirming-core"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "40",
+            "name": "Argenti",
+            "upgrade1Name": "A Lacuna in Kingdom of Aesthetics",
+            "upgrade1Desc": {
+                "formatted": "Each stack of Apotheosis additionally increases CRIT DMG by 4%."
+            },
+            "upgrade2Name": "Agate's Humility",
+            "upgrade2Desc": {
+                "formatted": "If the number of enemies on the field equals to 3 or more when the Ultimate is used, ATK increases by 40% for 1 turn(s)."
+            },
+            "upgrade3Name": "Thorny Road's Glory",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade4Name": "Trumpet's Dedication",
+            "upgrade4Desc": {
+                "formatted": "At the start of battle, gains 2 stack(s) of Apotheosis and increases the maximum stack limit of the Talent's effect by 2."
+            },
+            "upgrade5Name": "Snow, From Somewhere in Cosmos",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10,"
+            },
+            "upgrade6Name": "\"Your\" Resplendence",
+            "upgrade6Desc": {
+                "formatted": "When using Ultimate, ignores 30% of enemy targets' DEF."
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "huohuo",
+            "notes": "Huohuo is the most synergistic healer with Argenti thanks to her Ultimate granting him a percentage of his total energy. At max rank Huo Huo regenerates 20% energy and for Argenti which is equal to 36 energy. But she regenerates energy not just for him but for his entire team which includes other critical supports which further increases the synergy. Huohuo's main downside is her Skill Point consumption but this also is easily mitigated by Argenti and his possible team combinations as he himself doesn't use many Skill Points - he can also be run alongside Hanya for even more Skill Points creating an incredibly powerful combo."
+        },
+        {
+            "character": "tingyun",
+            "notes": "Tingyun is Argenti's best supportive option, granting him massive damage but also Energy recharge with absurd synergy with his preferred sustain Huohuo. Combining Tingyun with Huohuo, Argenti can access his Ultimate absurdly quickly and frequently, boosting his combat potential and damage substantially."
+        },
+        {
+            "character": "hanya",
+            "notes": "Hanya has excellent synergy with Argenti - due to his AoE-focused kit, he will always activate Hanya's Burden regardless of which enemy it is on at the time and is also Physical the same element as Hanya allowing for additional Lightcone, Break and Relic synergies. Hanya's Ultimate is also a great boost for Argenti giving him ATK% but most importantly some bonus Speed allowing him to hit higher Speed breakpoints all while complimenting his other best supports with additional skill point generation from her skill."
+        },
+        {
+            "character": "bronya",
+            "notes": "Bronya is a powerful support for Argenti but doesn't have any specific synergies with him. Speed tuning Bronya 1 speed slower than him will allow for traditional Bronya gameplay which gives Argenti double actions and substantially more energy - all with huge buffs. But Bronya is likely more at home and has higher synergy with other teams. Playing Bronya in this way with Argenti also can limit Skill Points available to the team making some supportive options like one of his most powerful combos with Huohuo more challenging to play."
+        },
+        {
+            "character": "pela",
+            "notes": "Both Pela and Silver wolf provide Argenti an alterntive way of scaling his damage through DEF Shred and in Silver Wolf's case RES shred. Pela is preferred for Argenti when looking to specialise in AoE fights as her ultimate can be applied on her very first action and affects every enemy on the field where Silver Wolf is the more powerful option for single target offering larger debuffs, Physical vulnerability implant and resistance shred for fights where you need argenti to take out a single target quickly."
+        },
+        {
+            "character": "silver-wolf",
+            "notes": "Both Pela and Silver wolf provide Argenti an alterntive way of scaling his damage through DEF Shred and in Silver Wolf's case RES shred. Pela is preferred for Argenti when looking to specialise in AoE fights as her ultimate can be applied on her very first action and affects every enemy on the field where Silver Wolf is the more powerful option for single target offering larger debuffs, Physical vulnerability implant and resistance shred for fights where you need argenti to take out a single target quickly."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "At the start of a turn, immediately gains <b>1</b> stack(s) of Apotheosis.",
+            "name": "Piety"
+        },
+        {
+            "req": "A4",
+            "desc": "When enemy targets enter battle, immediately regenerates <b>2</b> Energy for self.",
+            "name": "Generosity"
+        },
+        {
+            "req": "A6",
+            "desc": "Deals <b>15%</b> more DMG to enemies whose HP percentage is 50% or less.",
+            "name": "Courage"
+        }
+    ],
+    "review": {
+        "formatted": "Argenti boasts the highest AoE damage in the game alongside remarkable ease of use. He does not deal the highest damage in single-target scenarios, but he is unmatched in AoE. His Ultimate can be used at 90 Energy for fast access to AoE damage, but is best used at the huge cost of 180 to be at maximum effectiveness, skyrocketing its upfront damage output and providing 6 extra damage Bounces. This makes his Ultimate powerful in all scenarios, and each Bounce will also deal some Toughness damage as well. With extra CRIT Rate and additional Energy gains from his Talent, Argenti is an exceptional damage dealer.With flowing locks and just the right amount of comedic cringe, Argenti certainly makes an interesting first impression. Erudition units are steadily becoming more and more appreciated, and Argenti is poised for success. He is a remarkably powerful damage dealer with a simple, yet effective kit.Argenti\u2019s Skill deals damage to all enemies on the field, up to 120% of his ATK at max Trace level. It\u2019s not exactly the most riveting ability in the game, but out of the similar Erudition Skills across the other characters, it does have the highest multiplier; 120% compared to the common 100% may not seem like a big improvement, but it starts to make a very big difference very quickly as the number of enemies increases.Argenti\u2019s Ultimate is the first of its kind. It is usable at two different Energy amounts, 90 and 180. At 90 Energy, he will deal minor damage to all enemies, a pretty decent amount for a low cost Ultimate. However, if you use his Ultimate at 180 Energy, he will instead deal substantially more damage to all enemies and subsequently deal 6 extra instances of single-target damage to a random enemy. This extra damage is in the form of a Bounce attack much like Asta or Sampo\u2019s Skills, meaning each hit will deal its own instance of Toughness damage. It is vitally important to note that each of these Bounces will ignore \u2018dead\u2019 targets, meaning no damage is going to be wasted on enemies whose health is already 0 after the first big swing.Combining these means that Argenti\u2019s 180-cost Ultimate deals an absurd amount of total damage, even against just a single target. If you\u2019re hitting 5 enemies, this Ultimate is nothing short of nuclear. Against AoE content, Argenti\u2019s going to be reaching damage numbers that belong in the Simulated Universe. Even in single-target scenarios, this Ultimate will deal very impressive damage as well as 120 Toughness damage, equivalent Toughness damage to that of an Imbibitor Lunae\u2019s Fulgurant Leap.Understandably, you want to be utilising the max cost Ultimate as often as possible, but an Energy cost of 180 is excruciatingly steep. Luckily, Argenti\u2019s Talent helps to offset this somewhat. Every enemy that is hit by one of Argenti\u2019s attacks will restore 3 Energy. Again, this seems somewhat underwhelming but in conjunction with the Energy gains from using Argenti\u2019s Skill and the potential to get an extra 15 Energy per turn against 5 enemies, this talent goes a very long way to facilitating the otherwise exorbitant cost of Argenti\u2019s full Ultimate.Argenti\u2019s Talent will also grant a stack of Apotheosis per enemy hit, increasing his CRIT Rate by 2.5%. Apotheosis can stack up to 10 times, granting a total of 25% CRIT Rate permanently for the rest of the encounter. Due to the AoE nature of Argenti\u2019s damage, this is very easy to stack up to maximum within only a few turns, and having that much extra CRIT Rate for free is highly potent and very much appreciated.Argenti\u2019s Bonus Ability Traces are mostly nice bonuses. A2 will grant Argenti a stack of Apotheosis every time his turn starts, which is definitely good, but with the rate at which Apotheosis will stack during combat, this particular Bonus Ability goes largely unnoticed. A6 will let Argenti deal 15% more damage to targets whose health is at or below 50% of their maximum, which is largely self-explanatory.His A4 is particularly interesting. It states \u2018When enemy targets enter battle, immediately regenerates 2 Energy for self.\u2019 What this means is that any time a new enemy appears on the field for seemingly any reason, Argenti will get 2 Energy instantly. This understandably includes the start of a new enemy wave, but more impressive is that it also includes any summoned enemies or other reinforcements, such as those called by Boss Gepard or the unending slew of IPC goons called by the IPC Team Leader.Argenti\u2019s Eidolons are strong but unnecessary, as he\u2019s already going to be decimating pretty much everything the game can come up with to throw at the player. E1 is particularly good value, as it allows Apotheosis to also accumulate CRIT DMG bonuses in addition to its CRIT Rate.This Knight of Beauty is really quite simple to use, and that\u2019s arguably his best trait; Argenti doesn\u2019t need to worry about things like gaining stacks on a summoned entity, or making sure he has a large amount of Skill Points to be at full power, or making sure the enemy has been properly primed with damage over time. He just\u2026 does the thing. It just works\u2122. For some this may actually be a negative thing, since this simplicity also extends to his team setups and may become stale quickly, but over time, I\u2019m certain everyone can learn to appreciate the value of a straightforward unit.Units that help offset his tremendous Ultimate cost are naturally good pairs, such as Tingyun and Huohuo. Characters that can grant Argenti more actions can also offset the Ultimate\u2019s cost by proxy; Asta, Bronya, and Hanya can allow Argenti more opportunities to make use of his own Energy restoring Talent, thus increasing his total damage by quite a lot. Because of Argenti\u2019s simplicity, you can really kind of just do whatever you like when it comes to team setups and you\u2019ll probably be okay.\u00a0Argenti is honestly pretty great. You may not feel inclined to pull for him if you\u2019ve already got the super heavy hitters like Jingliu, Imbibitor Lunae, or Kafka, but trust, nobody destroys AoE like Argenti destroys AoE. What the hell is Idrila feeding her Knights, seriously, like damn."
+    },
+    "pros": {
+        "formatted": "Strongest AoE damage potential in the game while still having good single-target output, Two Ultimates gives the player more choice \u2014 you can use the cheaper Ultimate in a pinch to finish off a wave, His kit makes him increasingly stronger based on the number of enemies on the field,Gets a lot of free CRIT Rate from his Talent,Compared to many other limited damage dealers, his Eidolons aren't that good and he's already strong at E0,Most of his best offensive supports are 4-stars, so it's easy to build his best teams."
+    },
+    "cons": {
+        "formatted": "His kit is pretty simple as he just uses a big stick to bonk enemies, which may be a con for some, His stronger Ultimate has the absolute highest cost in the game,His damage output noticeably drops on turns where he doesn't have his Ultimate, since a majority of his damage comes from it, Huohuo is his best sustain partner and significantly improves his performance,Erudition units have some of the weakest Light Cone options in the game, meaning you don't have many choices if you don't go for his Signature Cone."
+    },
+    "endgameStats": {
+        "formatted": "HP: 2900 - 3000+ DEF: 800+ATK: 2600 - 3000+CRIT RATE: 75% - 80% (Including Talent)CRIT DMG: 150% - 160%+ (With buffs up)SPD: Base Speed (Hyperspeed Sparkle/Bronya) / 134 (Recommended) / 143 / 160"
+    },
+    "voiceActors": {
+        "en": "Adam Michael Gold",
+        "kr": "\ucd5c\uc2b9\ud6c8 (Choi Seung-hoon)",
+        "jpn": "\u7acb\u82b1\u614e\u4e4b\u4ecb (Tachibana Shinnosuke)",
+        "cn": "\u6881\u8fbe\u4f1f (Liang Dawei)"
+    },
+    "ratings": {
+        "moc": "6",
+        "moc_special": "6",
+        "pure": "10",
+        "pure_special": "10",
+        "apo": "7",
+        "apo_special": "7"
+    },
+    "energyUltimate": "90",
+    "conesNew": [
+        {
+            "cone": "an-instant-before-a-gaze",
+            "super": "1",
+            "percent": "113.36%",
+            "notes": "Best Light Cone option for Argenti but not by as massive of a margin as some other characters Signature Cones."
+        },
+        {
+            "cone": "night-on-the-milky-way",
+            "super": "1",
+            "percent": "110.31%",
+            "notes": "Assumes full uptime on the break damage buff which is incredibly difficult to achieve outside of Pure Fiction. This result is also calculated as if there were 3 targets present for the duration of the fight. A reduction in either of these factors will sharply lower this Cone's performance."
+        },
+        {
+            "cone": "today-is-another-peaceful-day",
+            "super": "5",
+            "percent": "109.95%",
+            "notes": "Second best Light Cone option for Argenti that is a bit weaker, but it buffs the whole of his kit instead of just the Ultimate."
+        },
+        {
+            "cone": "geniuses-repose",
+            "super": "5",
+            "percent": "105.98%",
+            "notes": "Assumes full uptime on the on-kill CRIT DMG% boost at all times. Failing to keep this buff active will lower this Cone's performance."
+        },
+        {
+            "cone": "before-dawn",
+            "super": "1",
+            "percent": "105.94%",
+            "notes": "A decent option due to the CRIT DMG and DMG% increases, but sadly Argenti can't use the Follow-Up part of it, so it's wasted on him."
+        },
+        {
+            "cone": "eternal-calculus",
+            "super": "5",
+            "percent": "105.27%",
+            "notes": "A F2P option that provides great ATK% and SPD bonuses as long as you're hitting 3 targets consistently (which you always will in PF)."
+        },
+        {
+            "cone": "the-day-the-cosmos-fell",
+            "super": "5",
+            "percent": "100.00%",
+            "notes": "Assumes constant uptime of the CRIT DMG% buff granted by attacking 2 or more enemies at once with an element they are weak to. Failing to keep this buff active will lower this Cone's performance."
+        },
+        {
+            "cone": "the-seriousness-of-breakfast",
+            "super": "5",
+            "percent": "98.33%",
+            "notes": "Assumes immediate uptime on the on-kill ATK% boost. Not having access to easily defeatable enemies at the start of the fight or being slow to slay enemies will lower this Cone's performance."
+        },
+        {
+            "cone": "night-on-the-milky-way",
+            "super": "1",
+            "percent": "94.75%",
+            "notes": "Assumes no uptime of the break damage buff which can occur against fights in which you have no elemental advantage. This result is also calculated as if there were 3 targets present for the duration of the fight. When facing fewer than 3 enemies this Cone's performance will reduce."
+        },
+        {
+            "cone": "make-the-world-clamor",
+            "super": "5",
+            "percent": "92.61%",
+            "notes": ""
+        },
+        {
+            "cone": "geniuses-repose",
+            "super": "5",
+            "percent": "89.58%",
+            "notes": "Assumes 0% uptime on-kill CRIT DMG% boost."
+        },
+        {
+            "cone": "the-seriousness-of-breakfast",
+            "super": "5",
+            "percent": "89.30%",
+            "notes": "Assumes 0 stacks of the ATK% bonus."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Champion of Streetwise Boxing",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": "95.19%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Champion of Streetwise Boxing",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "94.47%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "100%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "99.95%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "99.34%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "99.24%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "patience-is-all-you-need",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT DMG"
+                },
+                {
+                    "stat": "CRIT Rate"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Physical DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "Stack as much CRIT RATE and CRIT DMG as possible to achieve a ratio of 2% Crit DMG per 1% CRIT RATE while also getting enough Speed to hit your desired breakpoint. After maxing out as many of these stats as possible search for ATK% as a bonus.",
+            "substats": "SPD (Breakpoint) > CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Ultimate > Skill = Talent > Basic",
+            "traces_priority": "Courage (A6) > Peity (A2) > Generosity (A4)",
+            "name": "Default build"
+        }
+    ],
+    "videos": [
+        {
+            "video": "M-omzfYK9GQ"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Best Team",
+            "member_1": "argenti",
+            "member_2": "tingyun",
+            "member_3": "hanya",
+            "member_4": "huohuo"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "physicalDmg",
+            "value": 14.4
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "December 6th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": null
+}

@@ -1,0 +1,52 @@
+{
+    "relicId": "12",
+    "name": "Wastelander of Banditry Desert",
+    "type": "Relic Set",
+    "element": "Imaginary",
+    "bonus2": {
+        "formatted": "Increases Imaginary DMG by 10%."
+    },
+    "bonus4": {
+        "formatted": "When attacking debuffed enemies, the wearer's CRIT Rate increases by 10%, and their CRIT DMG increases by 20% against Imprisoned enemies."
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/af89f71092b0e8e1882a7d29659f0807/15e42/set_12.png",
+                            "srcSet": "/static/af89f71092b0e8e1882a7d29659f0807/88208/set_12.png 25w,\n/static/af89f71092b0e8e1882a7d29659f0807/e9fba/set_12.png 50w,\n/static/af89f71092b0e8e1882a7d29659f0807/15e42/set_12.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/af89f71092b0e8e1882a7d29659f0807/2fa99/set_12.webp 25w,\n/static/af89f71092b0e8e1882a7d29659f0807/dbc4a/set_12.webp 50w,\n/static/af89f71092b0e8e1882a7d29659f0807/d8057/set_12.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "imaginaryDmg",
+            "value": 10
+        },
+        "relicSet4pc": {
+            "stat": "critRate",
+            "value": 10
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "critDmg",
+            "value": 20
+        }
+    }
+}

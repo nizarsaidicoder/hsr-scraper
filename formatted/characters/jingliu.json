@@ -1,0 +1,501 @@
+{
+    "unitId": 36,
+    "name": "Jingliu",
+    "slug": "jingliu",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/90e9d33472fcc0b7fbd1251cd0beb6e5/e9a79/35_sm.png",
+                            "srcSet": "/static/90e9d33472fcc0b7fbd1251cd0beb6e5/f31ef/35_sm.png 40w,\n/static/90e9d33472fcc0b7fbd1251cd0beb6e5/1f8a1/35_sm.png 80w,\n/static/90e9d33472fcc0b7fbd1251cd0beb6e5/e9a79/35_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/90e9d33472fcc0b7fbd1251cd0beb6e5/e73fe/35_sm.webp 40w,\n/static/90e9d33472fcc0b7fbd1251cd0beb6e5/61ca6/35_sm.webp 80w,\n/static/90e9d33472fcc0b7fbd1251cd0beb6e5/60b4d/35_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/994a0dc82234f56051e70612b8299d46/c9885/jingliu.png",
+                            "srcSet": "/static/994a0dc82234f56051e70612b8299d46/2aab7/jingliu.png 94w,\n/static/994a0dc82234f56051e70612b8299d46/0a986/jingliu.png 187w,\n/static/994a0dc82234f56051e70612b8299d46/c9885/jingliu.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/994a0dc82234f56051e70612b8299d46/84550/jingliu.webp 94w,\n/static/994a0dc82234f56051e70612b8299d46/34f80/jingliu.webp 187w,\n/static/994a0dc82234f56051e70612b8299d46/b26e2/jingliu.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/2530fc295a5e41a948bb8424c434d5e4/3c5dc/36_full.png",
+                            "srcSet": "/static/2530fc295a5e41a948bb8424c434d5e4/ca8fd/36_full.png 200w,\n/static/2530fc295a5e41a948bb8424c434d5e4/de50c/36_full.png 400w,\n/static/2530fc295a5e41a948bb8424c434d5e4/3c5dc/36_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/2530fc295a5e41a948bb8424c434d5e4/213b2/36_full.webp 200w,\n/static/2530fc295a5e41a948bb8424c434d5e4/413c5/36_full.webp 400w,\n/static/2530fc295a5e41a948bb8424c434d5e4/cf6d0/36_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "One of the legendary heroes making up the High-Cloud Quintet, and bestowed with the title \"Transcendent Flash.\" Having ascended beyond mortal concepts of victory, she chose to walk a different path to obtain the power capable of slaying gods. Thereafter, one Sword Champion of the Luofu was removed from the Xianzhou's records, and one traitor erased from the annuals was added."
+    },
+    "statsComments": {
+        "formatted": "Relic Main statsBody - CRIT DMG >= CRIT RateCRIT DMG is by far her best in slot Body main stat at high gear levels. Jingliu can hit the CRIT Rate cap far easier than other characters thanks to getting 50% for free, meaning stacking massive amounts of CRIT DMG% is insanely effective in the end-game. Hitting 50% CRIT Rate from set bonuses and sub-stats can be challenging without highly invested good relics meaning until that point a CRIT Rate body might be preferred.Feet - SpeedHitting the 134 Speed breakpoint for Jingliu is recommended for strong performance in Memory of Chaos and without Speed boots that is challenging. The alternative ATK% boots are also not appealing as Jingliu gets a lot of ATK% for free from her kit.Planar Sphere - Ice DMG > ATK%Ice DMG% is recommended for her Sphere in almost all scenarios as even with her Signature Cone equipped she does not gain that much access to generic increases to damage. While on the other hand, she gains access to an immense amount of % ATK.Link Rope - ATK%ATK% Rope is recommended as it is the only offensive scaling option available in this slot. Energy Recharge can be used as an experimental option but assuming Jingliu gets hit once or gets 1 kill in her 4-action rotation she requires no additional energy for standard gameplay.Additional notes for sub-statsJingliu gains 50% CRIT Rate for free while in the Transcendent state. Almost the entirety of Jingliu's damage occurs in the Transcendent state so you can assume your Jingliu has 50% CRIT Rate for free at all times.Like all damage dealers Jingliu wants enough Speed to hit the meaningful Memory of Chaos breakpoints to maximize her damage. Unlike other damage dealers, Speed is a little more important to Jingliu to smooth out her rotation and ensure she can access the Transcendent state as frequently as possible to line up more easily with team-wide buffs from Harmony or Nihility units. Hitting the 134 Speed breakpoint is a priority and not too difficult to achieve - with her Traces unlocked and level 15 gold Speed boots you'll have 130 Speed only requiring just 4 more which can be gained from 2-piece Hackerspace or 4-piece Musketeer or a couple of sub stats.Additional notes for Speed breakpoints105 Speed (Base) = No Bonus Actions (only recommended for incredibly low gear levels before you get any speed boots or for specific Bronya team compositions)121 Speed - gain a bonus action on the 2nd cycle of every new wave (only recommended for lower gear levels before getting level 15 gold Speed boots),134 Speed - gain a bonus action on the 1st and 4th cycle of every new wave (MOST RECOMMENDED).Team HP RequirementWith a max level talent in order to gain the full 180% increased ATK boost your other 3 team members need to have a combined total HP pool of 10500 for Jingliu to draw from, ensuring you meet this requirement is essential for maximizing your Jingliu's damage potential!Trace ImportanceUnlike some other 5-star characters, Jingliu gains a massive amount of damage from leveling her Traces - specifically her Skill and Talent - and maxing them out is incredibly important for achieving her full potential."
+    },
+    "relicsComments": {
+        "formatted": "Pioneer Diver of Dead WatersGives a lot of CRIT and considering you often run Pela with Jingliu, it's easy to fully activate all the set features.Genius of Brilliant StarsGreat set for Jingliu when combined with other sources of DEF Shred - like her Signature Cone, Pela, Silver Wolf, or the Pearls of Sweat Cone. The set is strongest when the enemy is weak to Quantum, but it still is great when the enemy is not weak to Quantum. When there is no other source of Defense shred the Quantum set can provide less damage than other sets however these scenarios should be rare with proper team-building.Hunter of Glacial ForestGood set for Jingliu but is in a niche Cavern of Corrosion and not that much of an upgrade compared to other relic sets making it less of a priority to farm.Hunter of Glacial Forest + Pioneer Diver of Dead WatersThe 2-piece bonuses of both sets are enough to make it competitive - Jingliu gain enough ATK% from her kit, so the DMG% increase help her more.Messenger Traversing Hackerspace + Hunter of Glacial ForestGood combo if you have the pieces to support it but not enough of an improvement over other easier-to-acquire sets to farm for it specifically. The Speed helps hit the 134-speed breakpoint while also granting some increased damage.Musketeer of Wild WheatEasiest set to farm for. Likely you already have some decent pieces as you get some each week for free. 6% speed is welcome to more easily hit the 134 Speed breakpoint and while the Attack isn't her best stat it is an okay damage increase.Rutilant ArenaBy far Jingliu's best option. Provides her the most damage overall but also contributes 8% CRIT Rate to her goal of hitting 50% CRIT Rate to achieve 100% CRIT cap while in the Transcendent state which is quite difficult to hit while using a CRIT DMG body armor.Firmament Frontline: GlamothA good alternative to Rutilant even if you can only hit the first Speed breakpoint.Inert SalsottoHas 8% CRIT Rate similar to Rutilant Arena but boosts Ultimates and Follow-up attacks which is worse for Jingliu. Despite being a downgrade still her 2nd best option and does make gearing easier.Space Sealing StationHas no CRIT Rate making using the CRIT DMG chest incredibly difficult without insane gear. Also focuses on the ATK% stat which is not the greatest for Jingliu as she already gains 180% increased ATK from her Talent. Overall not a terrible option but makes gearing harder and only after you have insane gear to make up for it will it come close to Inert Salsotto's performance and will never beat Rutilant Arena."
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "121201",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "121202",
+            "energy_gen": "20",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "121209",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "ult": {
+            "id": "121203",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": "60"
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "121204",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "121207",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Xianzhou Luofu",
+    "rarity": "5",
+    "element": "Ice",
+    "path": "Destruction",
+    "stats": {
+        "hp_base": 195.36,
+        "def_base": 66,
+        "atk_base": 92.4,
+        "speed_base": 96
+    },
+    "ascensionMaterials": {
+        "mats_1": "immortal-scionette",
+        "mats_2": "immortal-aeroblossom",
+        "mats_3": "gelid-chitin",
+        "mats_4": "immortal-lumintwig"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "36",
+            "name": "Jingliu",
+            "upgrade1Name": "Moon Crashes Tianguan Gate",
+            "upgrade1Desc": {
+                "formatted": "When using her Ultimate or Enhanced Skill, Jingliu's CRIT DMG increases by 24% for 1 turn(s). If only one enemy target is attacked, the target will additionally be dealt Ice DMG equal to 100% of Jingliu's ATK."
+            },
+            "upgrade2Name": "Crescent Shadows Qixing Dipper",
+            "upgrade2Desc": {
+                "formatted": "After using Ultimate, increases the DMG of the next Enhanced Skill by 80%."
+            },
+            "upgrade3Name": "Halfmoon Gapes Mercurial Haze",
+            "upgrade3Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade4Name": "Lunarlance Shines Skyward Dome",
+            "upgrade4Desc": {
+                "formatted": "During the Spectral Transmigration state, the ATK gained from consuming allies' HP is additionally increased by 90% of the total HP consumed from the entire team. The cap for ATK gained this way also increases by 30%."
+            },
+            "upgrade5Name": "Night Shades Astral Radiance",
+            "upgrade5Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10"
+            },
+            "upgrade6Name": "Eclipse Hollows Corporeal Husk",
+            "upgrade6Desc": {
+                "formatted": "When Jingliu enters the Spectral Transmigration state, the Syzygy stack limit increases by 1, and Jingliu obtains 1 stack(s) of Syzygy. While she is in the Spectral Transmigration state, her CRIT DMG increases by 50%."
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "bronya",
+            "notes": "Best Support for Jingliu thanks to her massive damage boosts but mostly because of her Speed modification capabilities. Due to Jingliu not consuming many skill points her main cost is almost completely mitigated. Bronya Jingliu can be played in one of two ways. <br/> <br/> <b>Wheelchair Bronya</b>: This Bronya build stacks as much Speed as possible (161 minimum) and has Jingliu stack no Speed. Bronya will use her Skill on Jingliu every action to drag her along the action order and grant Bronya's Speed to Jingliu along with all of Bronya's buffs. This build lets Jingliu use her sub-stats, Boots main stat, and set bonus on something other than Speed all while getting all of Bronya's buffs. <br/> <br/> <b>Speed Sync Bronya</b>: Harder to setup but considered much stronger. The Speed sync Bronya build aims to sync up both Jingliu and Bronya's Speeds with only 1 Speed difference. Jingliu should be at 135/136 speed with Bronya at 134 speed. With this combo Jingliu will move first using her skill then right after Bronya will move and grant another turn straight to Jingliu allowing her to move again (with Bronya's buffs). This essentially grants Jingliu double the actions as normal assuming you have enough skill points to fuel it (thanks to Jingliu's kit you will have). This pairing allows Jingliu to permanently be in the Transcendent state - when she falls out of it her very next turn she'll use 1 normal skill to be immediately boosted by Bronya and use another normal skill to re-enter it."
+        },
+        {
+            "character": "pela",
+            "notes": "Incredible support for Jingliu especially at E4. Offers a massive AoE DEF% Shred which similar to Silver Wolf has great synergy with the Quantum 4-piece set or her Signature Cone while also not being diluted and subject to diminishing returns from her kit's massive amount of buffs. Pela is mostly skill point positive granting some Skill Point starved compositions (like ones containing Fuxuan as the sustain unit of choice) some much-needed skill points. At E4, Ice shred is added to her skill granting her a massive single target debuff for Jingliu to take advantage of, making Pela great for AoE clearing and single target damage!"
+        },
+        {
+            "character": "tingyun",
+            "notes": "A great 4-star partner for Jingliu granting her increased damage, ATK%, and most importantly a source of additional base damage. Jingliu's multipliers are on the lower side but she has massive increases to all of her stats so Tingyun's Benediction Lightning damage gets amplified a ton. Jingliu only wants to use her ultimate while in the Transcendent state so timing Tingyun's Ultimate to grant her energy can be a little more challenging but with careful planning and alignment you can set up Jingliu and Tingyun's Ultimate in such a way that you can achieve 2 Jingliu ultimates in a single Transcendent state for massive burst damage (Enter State: Ultimate (5) + Tingyun Ult (50) + Enh Skill (30) + Enh Skill (30) + Enh Skill (30) = 145)."
+        },
+        {
+            "character": "silver-wolf",
+            "notes": "Good single target support that provides damage boosts that are not subject to heavy diminishing returns from Jingliu's kit. Also further enables the Quantum 4-piece set bonus making it more consistent and powerful. Silver's DEF shred ultimate also stacks incredibly well with both Jingliu's kit and her Signature Cone."
+        },
+        {
+            "character": "fu-xuan",
+            "notes": "One of the strongest sustaining options for Jingliu assuming your team is able to survive only off Fuxuan's minor heals while being drained by Jingliu. Thanks to Jingliu not using too many skill points, Fuxuan's main downside is eliminated - due to her large HP pool and HP buffing effect she instantly satisfies Jingliu's talent ATK% boost requirement even at lower gear levels and she provides some much-needed CRIT Rate which can help with hitting Jingliu's CRIT cap."
+        },
+        {
+            "character": "blade",
+            "notes": "Every time Jingliu attacks she drains the team's HP and this drain counts as dealing damage to Blade triggering his Talent. Jingliu causes Blade to trigger his Talent far more frequently (in certain team compositions up to 3 times more than usual) turning him into an absolute AoE monster and granting him additional energy and near immortality thanks to all his healing."
+        },
+        {
+            "character": "asta",
+            "notes": "Provides Jingliu and the team incredible amounts of SPD and ATK%. SPD can be fantastic if you're able to tune your Jingliu to take advantage of it and the ATK% isn't bad (although it is certainly not Jingliu's best stat). To fully take advantage of Asta you'll want to build more Speed than 134 to try and hit some of the higher Speed breakpoints that can be achieved from having access to Asta's ultimate."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "While in the Spectral Transmigration state, increases Effect RES by <b>35%</b>",
+            "name": "Deathrealm"
+        },
+        {
+            "req": "A4",
+            "desc": "After using Transcendent Flash, the next action will be Advanced Forward by <b>10%</b>.",
+            "name": "Sword Champion"
+        },
+        {
+            "req": "A6",
+            "desc": "While in the Spectral Transmigration state, increases Ultimate DMG by <b>20%</b>.",
+            "name": "Frost Wraith"
+        }
+    ],
+    "review": {
+        "formatted": "Jingliu is a highly competitive damage dealer. She follows in the footsteps of Blade, and has many intrinsic ways to boost her damage output. She also naturally has Action Advance in her kit, granting her substantially more actions over time. These two things combined make her one of the most flexible units in the game, having a plethora of teammate options to choose from as well.The mysterious moonlit woman formerly renowned as the Sword Champion of the Luofu, Jingliu repeatedly proves that she is deserving of that title, and her feats in game are no exception.Jingliu\u2019s kit revolves primarily around her Talent. Jingliu can accumulate stacks of Syzygy, up to 3 in total. Whenever she has at least 2 stacks of Syzygy, she enters the Spectral Transmigration state. Entering this Spectral state will immediately advance her action by 100%, meaning it is now her turn. Note that this is different from an Extra Action; any kind of buffs or debuffs will continue to tick down on this advanced action as normal. Under the Spectral state, Jingliu gains up to 50% CRIT Rate at max Trace level, and her Skill is replaced by a special Enhanced version.Using attacks under Spectral Transmigration will siphon 4% Max HP from all other allies to increase Jingliu\u2019s ATK for the current attack. This part is written confusingly but it takes the total HP it steals from allies and multiplies it by 540% to get the total ATK increase it provides to Jingliu, up to a cap of 180% base ATK at max Trace level. With well-built characters in your team, this cap is pretty much attainable each and every time you attack in the Spectral state, resulting in far greater damage values than you\u2019d otherwise expect.Ordinarily, Jingliu\u2019s Skill is a single-target attack dealing up to 200% of her ATK. At the same time, it grants her 1 stack of Syzygy. This is her primary way of obtaining stacks of Syzygy for the purposes of her Talent. Under her Spectral state, this Skill becomes Enhanced, becoming a Blast AoE dealing 250% ATK to the primary target and 125% to adjacent foes. Most importantly, this Enhanced Skill does not cost a Skill Point, instead consuming 1 Stack of Syzygy. Her Spectral state will end upon reaching 0 stacks of Syzygy.Jingliu\u2019s Ultimate deals 300% ATK to a single enemy and 150% to adjacent foes. This will also grant 1 stack of Syzygy after the attack ends. While this can help her more quickly enter her Spectral state from base, it\u2019s far more effective to use it while already within the Spectral Transmigration state, as this will allow her Ultimate to benefit from the ATK increase from the HP syphon, as well as the increased CRIT Rate. This has the additional benefit of extending Spectral Transmigration for an extra turn, meaning you can get a third Enhanced Skill in before you run out of Syzygy.Usually, I don\u2019t mention characters\u2019 Techniques unless they\u2019re of particular note, and Jingliu\u2019s most definitely is. She creates a dimension around herself for 20s, freezing all enemies around you. Entering combat while the dimension is active will immediately regenerate 15 Energy for Jingliu and grant a stack of Syzygy. This head start is nothing particularly new since a lot of characters have something like this, but it also has a 100% base chance of Freezing all enemies for 1 turn. Because this is a dimension effect, this Freeze will also be reapplied at the start of every new enemy wave, which is exceptionally powerful, especially in Memory of Chaos.Jingliu\u2019s Bonus Traces are pretty impactful for her. A2 provides Jingliu a 35% increase to Effect RES during Spectral Transmigration, helping combat Crowd Control effects somewhat. A6 provides her Ultimate with 20% extra damage if used during Spectral Transmigration, further incentivizing using it during that state. A4 is potentially quite significant as well, offering a 10% Action Advance upon using her ordinary Skill, reducing the downtime between the end of the previous Spectral Transmigration and the beginning of her next one.Jingliu also has the first instance of SPD Minor Traces, giving her an additional 9 SPD. Note that like all Minor Traces, this is not added to the base value and is instead additional. She\u2019s also got an absurd 37% CRIT DMG from Traces, the highest of any character thus far. Coupled with her 50% CRIT Rate from Spectral Transmigration, she has a lot of free stats to work with.This can create an interesting dilemma however. These stats encourage going for a CRIT DMG chest piece which is likely to be her best choice, but because of the free CRIT Rate she gets, it\u2019s actually quite possible to reach 100% and reach the fabled realm of guaranteed crits. Attaining this with a CRIT DMG chest piece, so as to retain a high CRIT DMG stat along with the 100% CRIT Rate, can be quite challenging. However, while this can become a pretty big investment sink, the payoff if you actually achieve this is astonishing and well worth the effort. If that doesn\u2019t sound like something you want to subject yourself to though, rest easy knowing that Jingliu really doesn\u2019t require this to be spectacular.Eidolons are not necessary at all, but E1 is potentially quite enticing; it gives Jingliu 24% extra CRIT DMG for 1 turn when using her Ultimate or Enhanced Skill, and if only a single target is attacked, the target will receive additional damage which drastically increases Jingliu's single target damage potential.Just like Blade, Jingliu is very flexible in her team setups; because of Jingliu\u2019s low and infrequent SP usage, she can take advantage of some quite SP-hungry supports like Yukong or Bronya. Bronya especially is a very potent pairing due to Jingliu\u2019s kit revolving around total action count, and with both of them having a way to fully Turn Advance Jingliu to the front, Jingliu ends up having a ridiculous amount of turns over the course of a fight, leading to more damage and significantly more Toughness damage.Additionally, because of the low SP expenditure, Jingliu is also highly capable of acting as a secondary damage dealer for a team. Similarly, she is also able to have a secondary damage dealer act alongside her, potentially even one that also occasionally enjoys using SP, provided you still generate enough through your other two party members. This makes Jingliu\u2019s application near limitless, just like Blade.Clearly, Jingliu and Blade have many similarities, as I\u2019ve mentioned relentlessly by this point. Jingliu deals slightly more damage, but Blade is unkillable, and both of them perform exceptionally. But you know what\u2019s better than using just one of the two? Wink wink, nudge nudge?Yeah\u2026 Turns out that even though they hate each other in the lore, Jingliu and Blade have a particularly strong synergy with each other. Both are completely self-sufficient in their damage, and already highly competitive, but Jingliu can enhance Blade\u2019s capabilities substantially. Blade\u2019s Talent gains a stack whenever he takes damage, and Jingliu has a way of facilitating this through attacks during Spectral Transmigration. 3 Enhanced Skills and an Ultimate from Jingliu during Spectral will provide 4 separate instances of HP syphon, meaning she provides 4 stacks for Blade\u2019s Talent every time she enters Spectral Transmigration. Combining this with Blade\u2019s natural HP consumption and any potential incoming enemy damage makes for extremely frequent follow-ups from Blade.Just these two together already make the team remarkably potent, and as soon as you start adding in other support options, it just gets more and more powerful and ridiculous. This may even potentially be Jingliu\u2019s best team, and it ends up being pretty universally applicable too. Of course, it\u2019s a tad expensive and relies on you having two limited rate-up characters, but even if you don\u2019t have this exact setup, Jingliu is a more than capable damage dealer all on her own.Imbibitor Lunae will likely always have the higher upfront damage numbers per turn because his multipliers are just too high, but over the course of a fight, Jingliu can do a substantial\u2014and more importantly, comparable\u2014amount of total damage as well. You just have to take your pick: death by a thousand cuts, or death by sledgehammer. Same same but different. She\u2019s well worth your time, even if it\u2019s just for the remarkable flexibility in her design.\u00a0Now if you\u2019ll excuse me, I need to look up how to pronounce \u2018Syzygy\u2019. "
+    },
+    "pros": {
+        "formatted": "Extremely competitive damage output, Low SP expenditure makes her extraordinarily flexible, Acts very frequently due to her own 100% Turn Advance, Wide array of teammates to choose from thanks to low SP usage, Absurd amount of free and powerful stats, High frequency of Ice Toughness damage leading to frequent Freezing."
+    },
+    "cons": {
+        "formatted": "Requires knowledge and awareness of when to use Ultimate or you can lose out on Enhanced Skill uses, Turn Advance plays poorly with buffs causing them to run out sooner which can lead to uptime issues, Requires heavy investment into Jingliu and the rest of her team\u2014Jingliu, in particular, wants maxed-out Traces as even a single level makes a big difference, The potential for 100% CRIT Rate can bait you into an investment black hole. "
+    },
+    "endgameStats": {
+        "formatted": "HP: 3400+DEF: 800 - 900+ATK: 2200 - 2600+CRIT RATE: 50% (Without Talent)CRIT DMG: 180% - 220% +SPD: Base Speed (Hyperspeed Bronya) / 134 / 135 (-1 Speed Bronya) / 143 / 160"
+    },
+    "voiceActors": {
+        "en": "AmaLee",
+        "kr": "\ubc15\uc774\uc11c (Park Yi-seo)",
+        "jpn": "\u6851\u5c9b\u6cd5\u5b50 (Houko Kuwashima)",
+        "cn": "\u675c\u51a5\u9e26 (Du Mingya)"
+    },
+    "ratings": {
+        "moc": "9",
+        "moc_special": "9",
+        "pure": "7",
+        "pure_special": "7",
+        "apo": "8",
+        "apo_special": "8"
+    },
+    "energyUltimate": "140",
+    "conesNew": [
+        {
+            "cone": "i-shall-be-my-own-sword",
+            "super": "1",
+            "percent": "111.99%",
+            "notes": "With a full team, Jingliu will always fully benefit from the Lightcone passive. Works well with additional sources of DEF Shred/Ignore."
+        },
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes you maintain the full 4 attack stacks (64% ATK) at all times and maintain the weakness break bonus 50% of the time. In fights where this is not the case for the majority of the duration its damage will be lower."
+        },
+        {
+            "cone": "under-the-blue-sky",
+            "super": "5",
+            "percent": "94.69%",
+            "notes": "Assumes to have 100% uptime of its on-kill buff at all times. In fights where this is not the case for the majority of the duration, its damage will be lower."
+        },
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "93.36%",
+            "notes": "On the Fall of An Aeon with 0% uptime is calculated assuming you maintain the full 4 attack stacks (64% ATK) at all times and the weakness break bonus is never active - which is the case in most fights the enemy is not vulnerable to the wearer of the Cone."
+        },
+        {
+            "cone": "a-secret-vow",
+            "super": "5",
+            "percent": "92.78%",
+            "notes": "Assumes to only have its base 40% damage increase active as enemies almost always have higher lower HP than your units. In fights where this is not the case and your units end up at lower HP than the enemy its performance will increase."
+        },
+        {
+            "cone": "under-the-blue-sky",
+            "super": "5",
+            "percent": "87.15%",
+            "notes": "Assumes to have 0% uptime of its on-kill buff."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "",
+                    "value": "102.55%",
+                    "comment": "QUA Weak",
+                    "notes": null
+                },
+                {
+                    "relic": "Hunter of Glacial Forest",
+                    "relic_2": "",
+                    "value": "102.12%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Hunter of Glacial Forest",
+                    "value": "101.09%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "Hunter of Glacial Forest",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "",
+                    "value": "96.75%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "96.35%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "93.77%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "92.51%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "patience-is-all-you-need",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Ice DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "Get to 50% CRIT Rate as a priority then try to get your Speed to 134. After that, focus on stacking as much CRIT DMG as possible. A good rule of thumb is to have your final CRIT DMG to be double your final CRIT Rate",
+            "substats": "SPD (breakpoint) > CRIT RATE (until 50%) = CRIT DMG > ATK%",
+            "skill_priority": "Skill = Talent > Ultimate > Basic",
+            "traces_priority": "Frost Wraith (A6) > Sword Champion (A4) > Deathrealm (A2)",
+            "name": "Default build"
+        }
+    ],
+    "videos": [
+        {
+            "video": "TLF278aUTv8"
+        },
+        {
+            "video": "bFO2uwxfw4g"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Best Burst Team",
+            "member_1": "jingliu",
+            "member_2": "bronya",
+            "member_3": "tingyun",
+            "member_4": "fu-xuan"
+        },
+        {
+            "name": "Best Consistent Team (Fu Xuan variant)",
+            "member_1": "jingliu",
+            "member_2": "bronya",
+            "member_3": "pela",
+            "member_4": "fu-xuan"
+        },
+        {
+            "name": "Best Consistent Team (Luocha variant)",
+            "member_1": "jingliu",
+            "member_2": "bronya",
+            "member_3": "pela",
+            "member_4": "luocha"
+        },
+        {
+            "name": "Double DPS Team",
+            "member_1": "jingliu",
+            "member_2": "blade",
+            "member_3": "bronya",
+            "member_4": "luocha"
+        },
+        {
+            "name": "F2P Team",
+            "member_1": "jingliu",
+            "member_2": "tingyun",
+            "member_3": "pela",
+            "member_4": "lynx"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "critDmg",
+            "value": 37.3
+        },
+        "traceStat2": {
+            "stat": "speed",
+            "value": 9
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "October 11th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "SP+"
+    ]
+}

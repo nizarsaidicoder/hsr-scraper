@@ -1,0 +1,55 @@
+{
+    "coneId": 50,
+    "name": "This Is Me!",
+    "slug": "this-is-me",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/a1dc853200a37a6c0d2cb90edb432af4/bf8e1/50_sm.png",
+                            "srcSet": "/static/a1dc853200a37a6c0d2cb90edb432af4/914ee/50_sm.png 32w,\n/static/a1dc853200a37a6c0d2cb90edb432af4/1c9ce/50_sm.png 64w,\n/static/a1dc853200a37a6c0d2cb90edb432af4/bf8e1/50_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/a1dc853200a37a6c0d2cb90edb432af4/ef6ff/50_sm.webp 32w,\n/static/a1dc853200a37a6c0d2cb90edb432af4/8257c/50_sm.webp 64w,\n/static/a1dc853200a37a6c0d2cb90edb432af4/6766a/50_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Nameless Glory"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "529"
+        }
+    },
+    "skillName": "New Chapter",
+    "skillDescription": {
+        "formatted": "Increases the wearer's DEF by 16/20/24/28/32%. Increases the DMG of the wearer when they use their Ultimate by 60/75/90/105/120% of the wearer's DEF. This effect only apply 1 time per enemy target."
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "coneId": 31,
+    "name": "Shattered Home",
+    "slug": "shattered-home",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/35ea9a876859ef0f9a7e159c613c28af/bf8e1/31_sm.png",
+                            "srcSet": "/static/35ea9a876859ef0f9a7e159c613c28af/914ee/31_sm.png 32w,\n/static/35ea9a876859ef0f9a7e159c613c28af/1c9ce/31_sm.png 64w,\n/static/35ea9a876859ef0f9a7e159c613c28af/bf8e1/31_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/35ea9a876859ef0f9a7e159c613c28af/ef6ff/31_sm.webp 32w,\n/static/35ea9a876859ef0f9a7e159c613c28af/8257c/31_sm.webp 64w,\n/static/35ea9a876859ef0f9a7e159c613c28af/6766a/31_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "9",
+            "value_level_max": "198"
+        }
+    },
+    "skillName": "Eradication",
+    "skillDescription": {
+        "formatted": "Deals 20/25/30/35/40% increased DMG to any enemies whose HP is above 50%."
+    }
+}

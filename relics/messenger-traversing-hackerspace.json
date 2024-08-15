@@ -1,0 +1,55 @@
+{
+    "id": "f4c73df4-4466-5e0e-94fe-efac88ca6aa0",
+    "updatedAt": "2023-07-17T10:55:57.605Z",
+    "createdAt": "2023-07-08T13:09:23.419Z",
+    "relicId": "22",
+    "name": "Messenger Traversing Hackerspace",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases SPD by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When the wearer uses their Ultimate on an ally, SPD for all allies increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"12%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for 1 turn(s). This effect cannot be stacked.\",\"marks\":[],\"data\":{}}]}]}"
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/3492934f6ad2964f6871bef04d85bad2/15e42/set_22.png",
+                            "srcSet": "/static/3492934f6ad2964f6871bef04d85bad2/88208/set_22.png 25w,\n/static/3492934f6ad2964f6871bef04d85bad2/e9fba/set_22.png 50w,\n/static/3492934f6ad2964f6871bef04d85bad2/15e42/set_22.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/3492934f6ad2964f6871bef04d85bad2/2fa99/set_22.webp 25w,\n/static/3492934f6ad2964f6871bef04d85bad2/dbc4a/set_22.webp 50w,\n/static/3492934f6ad2964f6871bef04d85bad2/d8057/set_22.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "speed",
+            "value": 18
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

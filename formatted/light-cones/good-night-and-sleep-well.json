@@ -1,0 +1,55 @@
+{
+    "coneId": 15,
+    "name": "Good Night and Sleep Well",
+    "slug": "good-night-and-sleep-well",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/49e01383ee891e54e310cab9f266ae97/bf8e1/15_sm.png",
+                            "srcSet": "/static/49e01383ee891e54e310cab9f266ae97/914ee/15_sm.png 32w,\n/static/49e01383ee891e54e310cab9f266ae97/1c9ce/15_sm.png 64w,\n/static/49e01383ee891e54e310cab9f266ae97/bf8e1/15_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/49e01383ee891e54e310cab9f266ae97/ef6ff/15_sm.webp 32w,\n/static/49e01383ee891e54e310cab9f266ae97/8257c/15_sm.webp 64w,\n/static/49e01383ee891e54e310cab9f266ae97/6766a/15_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Toiler",
+    "skillDescription": {
+        "formatted": "For every debuff the target enemy has, the DMG dealt by the wearer increases by 12/15/18/21/24%, stacking up to 3 time(s). This effect also applies to DoT."
+    }
+}

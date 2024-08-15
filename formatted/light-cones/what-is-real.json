@@ -1,0 +1,55 @@
+{
+    "coneId": 110,
+    "name": "What Is Real?",
+    "slug": "what-is-real",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/846fb4733efeff65735367c762636f3c/bf8e1/110_sm.png",
+                            "srcSet": "/static/846fb4733efeff65735367c762636f3c/914ee/110_sm.png 32w,\n/static/846fb4733efeff65735367c762636f3c/1c9ce/110_sm.png 64w,\n/static/846fb4733efeff65735367c762636f3c/bf8e1/110_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/846fb4733efeff65735367c762636f3c/ef6ff/110_sm.webp 32w,\n/static/846fb4733efeff65735367c762636f3c/8257c/110_sm.webp 64w,\n/static/846fb4733efeff65735367c762636f3c/6766a/110_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Forgotten Hall Store"
+    ],
+    "releaseDate": "February 29th, 2024",
+    "path": "Abundance",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "331"
+        }
+    },
+    "skillName": "Hypothesis",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Break Effect by 24/30/36/42/48%. Wearer's Basic ATKs restore an amount equal to 2/2.5/3/3.5/4% of Max HP plus 800 for themselves."
+    }
+}

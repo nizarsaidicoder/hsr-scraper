@@ -1,0 +1,50 @@
+{
+    "relicId": "15",
+    "name": "Pan-Cosmic Commercial Enterprise",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "Increases the wearer's Effect Hit Rate by 10%. Meanwhile, the wearer's ATK increases by an amount that is equal to 25% of the current Effect Hit Rate, up to a maximum of 25%."
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/4da5662d09f780439bdeca82bb0ea5b2/15e42/planar_3.png",
+                            "srcSet": "/static/4da5662d09f780439bdeca82bb0ea5b2/88208/planar_3.png 25w,\n/static/4da5662d09f780439bdeca82bb0ea5b2/e9fba/planar_3.png 50w,\n/static/4da5662d09f780439bdeca82bb0ea5b2/15e42/planar_3.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/4da5662d09f780439bdeca82bb0ea5b2/2fa99/planar_3.webp 25w,\n/static/4da5662d09f780439bdeca82bb0ea5b2/dbc4a/planar_3.webp 50w,\n/static/4da5662d09f780439bdeca82bb0ea5b2/d8057/planar_3.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "effectHitRate",
+            "value": 10
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

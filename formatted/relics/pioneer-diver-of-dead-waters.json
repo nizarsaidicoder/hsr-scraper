@@ -1,0 +1,39 @@
+{
+    "relicId": "29",
+    "name": "Pioneer Diver of Dead Waters",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "Increases DMG dealt to enemies with debuff by 12%."
+    },
+    "bonus4": {
+        "formatted": "Increases CRIT Rate by 4%. The wearer deals 8%/12% increased CRIT DMG to enemies with at least 2/3 debuffs. After the wearer inflicts a debuff on enemy targets, the aforementioned effects increase by 100%, lasting for 1 turn."
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/4bb4611740f96127dddc8f04b98ab81a/15e42/29.png",
+                            "srcSet": "/static/4bb4611740f96127dddc8f04b98ab81a/88208/29.png 25w,\n/static/4bb4611740f96127dddc8f04b98ab81a/e9fba/29.png 50w,\n/static/4bb4611740f96127dddc8f04b98ab81a/15e42/29.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/4bb4611740f96127dddc8f04b98ab81a/2fa99/29.webp 25w,\n/static/4bb4611740f96127dddc8f04b98ab81a/dbc4a/29.webp 50w,\n/static/4bb4611740f96127dddc8f04b98ab81a/d8057/29.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": null
+}

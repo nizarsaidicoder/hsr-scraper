@@ -1,0 +1,55 @@
+{
+    "coneId": 18,
+    "name": "Incessant Rain",
+    "slug": "incessant-rain",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/1c446bb409f3a23b07ff8176f3a14d79/bf8e1/18_sm.png",
+                            "srcSet": "/static/1c446bb409f3a23b07ff8176f3a14d79/914ee/18_sm.png 32w,\n/static/1c446bb409f3a23b07ff8176f3a14d79/1c9ce/18_sm.png 64w,\n/static/1c446bb409f3a23b07ff8176f3a14d79/bf8e1/18_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/1c446bb409f3a23b07ff8176f3a14d79/ef6ff/18_sm.webp 32w,\n/static/1c446bb409f3a23b07ff8176f3a14d79/8257c/18_sm.webp 64w,\n/static/1c446bb409f3a23b07ff8176f3a14d79/6766a/18_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "June 7th, 2023",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "48",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "26",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "21",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Mirage of Reality",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Effect Hit Rate by 24/28/32/36/40%. When the wearer deals DMG to an enemy with 3 or more debuffs, increases CRIT Rate by 12/14/16/18/20%. After the wearer uses their Basic ATK, Skill, or Ultimate, there is a 100% base chance to implant Aether Code on a random target that does not have it yet. Targets with Aether Code receive 12/14/16/18/20% increased DMG for 1 turn."
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "id": "5266619d-a52c-5727-a24b-23a9706e23e6",
+    "updatedAt": "2023-04-25T18:50:55.301Z",
+    "createdAt": "2023-02-16T13:31:19.294Z",
+    "relicId": "3",
+    "name": "Knight of Purity Palace",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases DEF by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the max DMG that can be absorbed by the shield created by the wearer by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/df8616a2e787105462da7b45b2ef602e/15e42/set_3.png",
+                            "srcSet": "/static/df8616a2e787105462da7b45b2ef602e/88208/set_3.png 25w,\n/static/df8616a2e787105462da7b45b2ef602e/e9fba/set_3.png 50w,\n/static/df8616a2e787105462da7b45b2ef602e/15e42/set_3.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/df8616a2e787105462da7b45b2ef602e/2fa99/set_3.webp 25w,\n/static/df8616a2e787105462da7b45b2ef602e/dbc4a/set_3.webp 50w,\n/static/df8616a2e787105462da7b45b2ef602e/d8057/set_3.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "def",
+            "value": 15
+        },
+        "relicSet4pc": {
+            "stat": "shieldPower",
+            "value": 20
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

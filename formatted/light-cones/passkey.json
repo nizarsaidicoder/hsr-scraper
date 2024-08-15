@@ -1,0 +1,55 @@
+{
+    "coneId": 27,
+    "name": "Passkey",
+    "slug": "passkey",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/8f6c733c02d32be5562688947d036213/bf8e1/27_sm.png",
+                            "srcSet": "/static/8f6c733c02d32be5562688947d036213/914ee/27_sm.png 32w,\n/static/8f6c733c02d32be5562688947d036213/1c9ce/27_sm.png 64w,\n/static/8f6c733c02d32be5562688947d036213/bf8e1/27_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/8f6c733c02d32be5562688947d036213/ef6ff/27_sm.webp 32w,\n/static/8f6c733c02d32be5562688947d036213/8257c/27_sm.webp 64w,\n/static/8f6c733c02d32be5562688947d036213/6766a/27_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "33",
+            "value_level_max": "740"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Epiphany",
+    "skillDescription": {
+        "formatted": "After the wearer uses their Skill, additionally regenerates 8/9/10/11/12 Energy. This effect can only be triggered 1 time per turn."
+    }
+}

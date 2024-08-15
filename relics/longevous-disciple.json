@@ -1,0 +1,55 @@
+{
+    "id": "5941fe23-e88d-5091-9cfd-81fe0d8d0bc4",
+    "updatedAt": "2023-07-17T10:54:59.380Z",
+    "createdAt": "2023-07-08T13:06:34.613Z",
+    "relicId": "21",
+    "name": "Longevous Disciple",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases Max HP by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When the wearer is hit or has their HP consumed by an ally or themselves, their CRIT Rate increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for 2 turn(s) and up to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" stacks.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/28a63c61d5feec8b495a3ddfaf99df82/15e42/set_21.png",
+                            "srcSet": "/static/28a63c61d5feec8b495a3ddfaf99df82/88208/set_21.png 25w,\n/static/28a63c61d5feec8b495a3ddfaf99df82/e9fba/set_21.png 50w,\n/static/28a63c61d5feec8b495a3ddfaf99df82/15e42/set_21.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/28a63c61d5feec8b495a3ddfaf99df82/2fa99/set_21.webp 25w,\n/static/28a63c61d5feec8b495a3ddfaf99df82/dbc4a/set_21.webp 50w,\n/static/28a63c61d5feec8b495a3ddfaf99df82/d8057/set_21.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "hp",
+            "value": 12
+        },
+        "relicSet4pc": {
+            "stat": "critRate",
+            "value": 16
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

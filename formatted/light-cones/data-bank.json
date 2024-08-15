@@ -1,0 +1,55 @@
+{
+    "coneId": 55,
+    "name": "Data Bank",
+    "slug": "data-bank",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/8af2d3130d2f0b18a28cafdd51dc8ee5/bf8e1/55_sm.png",
+                            "srcSet": "/static/8af2d3130d2f0b18a28cafdd51dc8ee5/914ee/55_sm.png 32w,\n/static/8af2d3130d2f0b18a28cafdd51dc8ee5/1c9ce/55_sm.png 64w,\n/static/8af2d3130d2f0b18a28cafdd51dc8ee5/bf8e1/55_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/8af2d3130d2f0b18a28cafdd51dc8ee5/ef6ff/55_sm.webp 32w,\n/static/8af2d3130d2f0b18a28cafdd51dc8ee5/8257c/55_sm.webp 64w,\n/static/8af2d3130d2f0b18a28cafdd51dc8ee5/6766a/55_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "3",
+            "value_level_max": "740"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Learned",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Ultimate DMG by 28/35/42/49/56%."
+    }
+}

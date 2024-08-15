@@ -1,0 +1,50 @@
+{
+    "relicId": "23",
+    "name": "Rutilant Arena",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "Increases the wearer's CRIT Rate by 8%. When the wearer's current CRIT Rate reaches 70% or higher, the wearer's Basic ATK and Skill DMG increase by 20%.\n"
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/57bfb3c7a330602465de035d54a6c4dd/15e42/set_23.png",
+                            "srcSet": "/static/57bfb3c7a330602465de035d54a6c4dd/88208/set_23.png 25w,\n/static/57bfb3c7a330602465de035d54a6c4dd/e9fba/set_23.png 50w,\n/static/57bfb3c7a330602465de035d54a6c4dd/15e42/set_23.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/57bfb3c7a330602465de035d54a6c4dd/2fa99/set_23.webp 25w,\n/static/57bfb3c7a330602465de035d54a6c4dd/dbc4a/set_23.webp 50w,\n/static/57bfb3c7a330602465de035d54a6c4dd/d8057/set_23.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "critRate",
+            "value": 8
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

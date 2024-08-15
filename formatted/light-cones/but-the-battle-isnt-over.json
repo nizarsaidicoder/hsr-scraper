@@ -1,0 +1,55 @@
+{
+    "coneId": 34,
+    "name": "But the Battle Isn't Over",
+    "slug": "but-the-battle-isnt-over",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/931875d55a673889750eebabbace080c/bf8e1/34_sm.png",
+                            "srcSet": "/static/931875d55a673889750eebabbace080c/914ee/34_sm.png 32w,\n/static/931875d55a673889750eebabbace080c/1c9ce/34_sm.png 64w,\n/static/931875d55a673889750eebabbace080c/bf8e1/34_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/931875d55a673889750eebabbace080c/ef6ff/34_sm.webp 32w,\n/static/931875d55a673889750eebabbace080c/8257c/34_sm.webp 64w,\n/static/931875d55a673889750eebabbace080c/6766a/34_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1164"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "529"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Heir",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Energy Regeneration Rate by 10/12/14/16/18% and regenerates 1 Skill Point when the wearer uses their Ultimate on an ally. This effect can be triggered after every 2 uses of the wearer's  Ultimate. When the wearer uses their Skill, the next ally taking action (except the wearer) deals 30/35/40/45/50% more DMG for 1 turn(s)."
+    }
+}

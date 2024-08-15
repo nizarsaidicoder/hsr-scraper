@@ -1,0 +1,49 @@
+{
+    "coneId": 129,
+    "name": "Those Many Springs",
+    "slug": "those-many-springs",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b82ade90b52bfd9dc6fb704bde219e09/6766a/129_sm.webp",
+                            "srcSet": "/static/b82ade90b52bfd9dc6fb704bde219e09/ef6ff/129_sm.webp 32w,\n/static/b82ade90b52bfd9dc6fb704bde219e09/8257c/129_sm.webp 64w,\n/static/b82ade90b52bfd9dc6fb704bde219e09/6766a/129_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "August 21st, 2024",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "529"
+        }
+    },
+    "skillName": "Unknown",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Effect Hit Rate by 60%. After the wearer uses Basic ATK, Skill, or Ultimate to attack an enemy target, there is a 60% base chance to inflict \"Unarmored\" on the target. While in the Unarmored state, the enemy target receives 10% increased DMG, lasting for 2 turn(s). If the target is under a DoT state inflicted by the wearer, there is a 60% base chance to upgrade the \"Unarmored\" state inflicted by the wearer to the \"Cornered\" state, which additionally increases the DMG the target enemy receives by 14%, lasting for 2 turn(s). During this period, the wearer cannot inflict \"Unarmored\" on the target. "
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "coneId": 4,
+    "name": "Arrows",
+    "slug": "arrows",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/fe4aae6f7bd99e3e09ef18a732e22af5/bf8e1/4_sm.png",
+                            "srcSet": "/static/fe4aae6f7bd99e3e09ef18a732e22af5/914ee/4_sm.png 32w,\n/static/fe4aae6f7bd99e3e09ef18a732e22af5/1c9ce/4_sm.png 64w,\n/static/fe4aae6f7bd99e3e09ef18a732e22af5/bf8e1/4_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/fe4aae6f7bd99e3e09ef18a732e22af5/ef6ff/4_sm.webp 32w,\n/static/fe4aae6f7bd99e3e09ef18a732e22af5/8257c/4_sm.webp 64w,\n/static/fe4aae6f7bd99e3e09ef18a732e22af5/6766a/4_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "14",
+            "value_level_max": "317"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Crisis",
+    "skillDescription": {
+        "formatted": "At the beginning of the battle, increases the wearer's CRIT Rate by 12/15/18/21/24% for 3 turn(s)."
+    }
+}

@@ -1,0 +1,418 @@
+{
+    "unitId": 52,
+    "name": "Robin",
+    "slug": "robin",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8e8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/887bd7ed4c8537a52cd285d35931ab4d/60b4d/52_sm.webp",
+                            "srcSet": "/static/887bd7ed4c8537a52cd285d35931ab4d/e73fe/52_sm.webp 40w,\n/static/887bd7ed4c8537a52cd285d35931ab4d/61ca6/52_sm.webp 80w,\n/static/887bd7ed4c8537a52cd285d35931ab4d/60b4d/52_sm.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/9b973adb6648aa097cac0333af504e63/b26e2/robin_card.webp",
+                            "srcSet": "/static/9b973adb6648aa097cac0333af504e63/84550/robin_card.webp 94w,\n/static/9b973adb6648aa097cac0333af504e63/34f80/robin_card.webp 187w,\n/static/9b973adb6648aa097cac0333af504e63/b26e2/robin_card.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/97724870b40ece6cf174ced4fe3a086c/e0b44/robin_full.webp",
+                            "srcSet": "/static/97724870b40ece6cf174ced4fe3a086c/1b3ee/robin_full.webp 265w,\n/static/97724870b40ece6cf174ced4fe3a086c/9106c/robin_full.webp 529w,\n/static/97724870b40ece6cf174ced4fe3a086c/e0b44/robin_full.webp 1058w",
+                            "sizes": "(min-width: 1058px) 1058px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 1058,
+                    "height": 1005.0000000000001
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "A Halovian singer born in Penacony and rose to cosmic fame. An elegant and demure young lady. This time, she has been invited home by The Family to grace everyone with a song at the Charmony Festival. She can use the power of Harmony to broadcast her music, manifesting \"resonance\" among not only her fans but all manner of lifeforms."
+    },
+    "statsComments": {
+        "formatted": "Additional notes for sub-statsSPEED:Unlike some other supports, Robin doesn't \"need\" Speed as during her Ultimate her Speed is fixed at 90 and she spends a good amount of time within that state. She also doesn't rely solely on her own actions for generating Energy and in many cases generates more Energy from her team and taking damage than herself. For these reasons, Speed is not essential.It is recommended however that you build enough Speed on your Robin so that she always takes the first action in combat and applies her 50% damage increase to all allies. Thanks to her 25% action advance bonus ability it doesn't take much for Robin to outspeed even the fastest team setups. Generally, 120/121 Speed will allow you to outspeed allies at around 160 Speed (you can use even less Speed than this if you're running a slow team and a non-speed scaling planar).If you're using supports that similarly start with action advances like Robin you may want to look into running Sprightly Vonwacq to ensure she always moves first. Outside of ensuring Robin moves first, Speed is no longer essential but can still hold value in allowing Robin quicker actions outside of her ultimate which may or may not be the difference between landing an Ultimate at a more opportune time or gaining another one entirely.ATK% & DMG%Robin's biggest buffs and all her damage can be scaled with ATK%, making it by far her best stat and the one you should focus on stacking as much as possible of.If you're interested in seeking out more personal damage for Robin though, DMG% and PHYS% can in many cases be more valuable than ATK%. Many Robin builds end up with 180%-200%+ increased ATK% easily and the only source of DMG% Robin has naturally is her skill which grants her 50% (+ whatever she can manage from her Light Cone). This means the DMG% multiplier ends up being much lower compared to ATK%.For maximizing damage experimenting with a PHYS% orb or other sources of DMG% can help you gain more from your Robin as long as you're not giving up too much in the form of ATK and losing out on Robin's supportive capabilities.Energy Recharge%Exactly how much Energy you need to achieve casting Robin's Ultimate every 1, 2 or 3 actions will change based on your team, the fight, and random chance. As the more your team is able to hit the more energy Robin will gain, the more the enemy attacks, and the more of their attacks are AoE, the higher chance Robin has to gain substantial energy from taking damage. And of course, based on luck she may or may not get hit by more or less attacks. For all these reasons, it's not possible to say exactly how much Energy Regeneration you need but getting as much as possible without sacrificing Robin's personal damage and team buffs is advised."
+    },
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "130901",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "130902",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "130903",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "130904",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "130907",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Support",
+    "affiliation": null,
+    "rarity": "5",
+    "element": "Physical",
+    "path": "Harmony",
+    "stats": {
+        "hp_base": 174.24,
+        "def_base": 66,
+        "atk_base": 87.12,
+        "speed_base": 102
+    },
+    "ascensionMaterials": {
+        "mats_1": "dream-collection-component",
+        "mats_2": "dream-flow-valve",
+        "mats_3": "ipc-work-permit",
+        "mats_4": "dream-making-engine"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "52",
+            "name": "Robin",
+            "upgrade1Name": "Land of Smiles",
+            "upgrade1Desc": {
+                "formatted": "While the Concerto state is active, all allies' All-Type RES PEN increases by 24%."
+            },
+            "upgrade2Name": "Afternoon Tea For Two",
+            "upgrade2Desc": {
+                "formatted": "While the Concerto state is active, all allies' SPD increases by 16%. The Talent's Energy\u00a0Regeneration effect additionally increases by 1."
+            },
+            "upgrade3Name": "Inverted Tuning",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Ultimate Lv. +2, up to a maximum of Lv. 15. "
+            },
+            "upgrade4Name": "Raindrop Key",
+            "upgrade4Desc": {
+                "formatted": "When using the Ultimate, dispels Crowd Control debuffs from all allies. While Robin is in the Concerto state, increases the Effect RES of all allies by 50%."
+            },
+            "upgrade5Name": "Lonestar's Lament",
+            "upgrade5Desc": {
+                "formatted": "Basic ATK Lv. +1, up to a maximum of Lv. 10. Talent Lv. +2, up to a maximum of Lv. 15. "
+            },
+            "upgrade6Name": "Moonless Midnight",
+            "upgrade6Desc": {
+                "formatted": "While the Concerto state is active, the CRIT DMG of\u00a0the Additional Physical DMG caused by the Ultimate increases by 450%. The effect of Moonless\u00a0Midnight can trigger up to 8 time(s). And the trigger count resets each time the Ultimate is used."
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "topaz",
+            "notes": "Topaz is a an exceptional partner for Robin with absurd two-way synergy between them. Topaz and Numby's frequent follow-up attacks grants Robin much higher amounts of additional energy while also triggering her Ultimate Concerto damage much more often. The majority of Topaz's damage fortunately is also Follow-up meaning she can take full advantage of a full 45% CRIT DMG boost from Robin's kit!"
+        },
+        {
+            "character": "dr-ratio",
+            "notes": "Similar to Topaz, Dr. Ratio launches over double the amount of usual attacks compared to a non-FUA damage dealer, meaning he will be generating more energy and damage for Robin. A large portion of Ratio's damage is also Follow-Up so similar to Topaz, he can gain full value of 45% CRIT DMG from Robin."
+        },
+        {
+            "character": "aventurine",
+            "notes": "Aventurine is a Sustain that attacks more frequently than other Sustains and even more damage dealers. Under the right circumstances, Aventurine is the perfect teammate for Robin. Aventurine is no stranger to doing reasonable damage himself but during Robin's ultimate he can now seriously contribute to wearing down enemies and even killing some, thanks to her Concerto damage buffing each of his attacks."
+        },
+        {
+            "character": "huohuo",
+            "notes": "Huohuo is an alternative to Aventurine as she has a lot to offer to Robin thanks to her Ultimate. It recovers a percentage of the team's Energy based on their maximum which for Robin is a whopping 160. The one thing that really keeps Robin balanced is that energy cost, and Huohuo helps with its uptime. Huohuo's Ultimate also grants the team an ATK% boost which Robin herself can use to scale her own Attack, increasing her Concerto damage but also the buff she provides the rest of the team!"
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When the battle begins, this character's action is Advanced Forward by <b>25%</b>.",
+            "name": "Coloratura Cadenza"
+        },
+        {
+            "req": "A4",
+            "desc": "While the Concerto state is active, the CRIT DMG dealt when all allies launch follow-up attacks increases by <b>25%</b>.",
+            "name": "Impromptu Flourish"
+        },
+        {
+            "req": "A6",
+            "desc": "When using Skill, additionally regenerates <b>5</b> Energy.",
+            "name": "Sequential Passage"
+        }
+    ],
+    "review": {
+        "formatted": "Robin is an exceptionally potent Harmony support. She provides highly competitive teamwide buffs at relatively high SP efficiency, while also contributing a very significant amount of her own damage through her Ultimate. She possesses the highly coveted ability to Action Advance teammates, only she is capable of Advancing the entire party, excluding herself. Her method of contributing damage cannot be interrupted by enemy Crowd Control effects and is directly tied to how many attacks the team as a whole can launch, with even further benefits for follow-up-centric teams.I'll cut to the chase this time around, this is yet another unsurprising slam-dunk for Harmony. Robin is on a similar power level to that of Ruan Mei, being better in some particular specialized teams and worse in others. Even despite that, there is a fairly good amount of overlap where they can be used, and Robin may prove to be an even more enticing option for the practiced player. With that bar established, let's elaborate on why exactly Robin reaches these heights, starting with the less dramatic portion of her kit, her Skill. It's a simplistic teamwide DMG buff of up to 50%, lasting for 3 of Robin's turns. This makes it quite an efficient boost for the whole party as you're not having to constantly keep up a buff on specific teammates. Robin's Talent is also simple, providing a permanent CRIT DMG boost to the whole party of up to 20%. It also has the added effect of granting Robin 2 additional points of Energy whenever allies attack enemy targets.The iconic part of Robin's kit is her Ultimate. She brings an entire concert to life upon use, immediately Action Advancing all other characters by 100%, and Robin herself enters the Concerto state, increasing all allies' ATK by up to 22.8% of Robin's ATK plus a flat 200. She starts to sing and a countdown shows up in the Action Order bar, essentially acting as a way to keep track of when Robin's Concerto state will end. During Concerto, Robin has a fixed SPD of 90 with absolutely no way of affecting this; when the countdown ends, Robin will take her turn, but cannot be Action Advanced, Delayed, or affected by Crowd Control or SPD influencing effects.If you are familiar with how the likes of Bronya and Sparkle work, you may already understand why being able to instantly grant the entire rest of the party an immediate additional Action is so ridiculously powerful. You grant more total Actions over the course of a fight than you would otherwise be allowed, and can bring allies up into a cycle that's about to end, essentially cheating out extra time to finish the fight or potentially sparing yourself from a powerful enemy attack.Sending Robin to SPD purgatory by design may seem like a steep price to pay, especially since the cost of the Ultimate itself is a staggering 160 Energy, and this would definitely be the case were it not for the second part of the Ultimate. While Robin is in the Concerto state, in addition to the ATK increase and Action Advance, she will deal additional Physical DMG whenever any ally launches an attack against an enemy, dealing up to 120% ATK per attack action. This damage also has a fixed CRIT Rate of 100% and a fixed CRIT DMG of 150%.Now, in addition to the other benefits she's providing with her Ultimate, Robin is also dealing damage of her own, and let me tell you that it's very substantial \u2014 in other supports' reviews it's been mentioned that their damage output is 'non-negligible' meaning it's nice to have but shouldn't be likely to be a significant portion of the team's overall damage. This is absolutely not the case with Robin, her damage is absolutely a massive increase and is actually quite easy to account for.If upon reading 'per attack action' your mind immediately went to follow-up teams, you're right on the money. Any action that lands a hit on the enemy will cause Robin to chuck a treble-clef at the enemy, including Ultimates and especially follow-ups. The low SPD that the Concerto state enforces on Robin is therefore actually a boon, giving the team more opportunities to proc Robin's additional damage. Even better is that since her Skill's duration is based on Robin's own turns, she can keep a single Skill activation going for an incredibly long time, making her extremely SP efficient to boot, and of course thanks to her Talent, she is able to regain Energy even during the Concerto state.The steep Energy cost of the Ultimate is absolutely justified, and careful usage of it can result in downright illegal maneuvers against even the toughest enemies \u2014 heck, even haphazard usage is strong enough in pretty much all cases. It's unlikely that you will be able to keep up the Ultimate indefinitely even with outside sources of Energy like Turbulence effects, and even if you do regain enough to prolong the effects, you're usually better off waiting until the last character before Robin has acted before using Robin's Ultimate, as this is the most efficient way to utilise the 100% Action Advance the Ultimate provides. However, if you're pressed for time and overall Actions like in Pure Fiction, you may want to maximize how many Ultimates Robin can get off, in which case it's better not to wait.Robin's Bonus Ability Traces also tie into her powerful performance. The A2 will give Robin a 25% Action Advance at the beginning of a fight, making it much easier to use her Skill before any of your other DPS characters get their first actions off. A4 will improve upon the innate follow-up synergies by granting follow-up attacks a 25% CRIT DMG boost during the Concerto state, and A6 will make Robin's Skill regenerate an additional 5 Energy on use. A6 in particular can make it quite a compelling choice to use Robin's Skill even if she doesn't need to refresh it purely for the massive influx of Energy it provides.Talking about Eidolons for limited 5-star characters is becoming increasingly redundant as they all follow the same pattern for the most part. As always, absolutely no Eidolons are necessary for Robin to excel, and she is not rated with them in mind. E1 provides a teamwide 24% All-Type RES PEN while Robin is in the Concerto state, and E2 will also increase all allies' SPD by 16% also during Concerto, while also increasing the Energy gained from her Talent to 3. E4 will instantly dispel all Crowd Control debuffs on allies when they get Action Advanced by the Ultimate, and will also improve their Effect RES by 50% during Concerto. Finally, E6 makes Robin really put the 'Harm' in Harmony, giving herself 8 uses of a hyper-enhanced additional DMG instance during her Ultimate, having a 600% CRIT DMG bonus instead of the usual 150%, going back to the usual amount after 8 attacks have been launched and resetting the stack count when the Ultimate is used again. It, uh, destroys pretty much everything in the blink of an eye. Have fun with that, Anemone.Because of the unique way that Robin plays out, her stat requirements as a Harmony character are very non-standard; thanks to the Concerto state setting her SPD to a fixed value of 90, she doesn't really care about SPD that much beyond being able to get the first Action of a fight, something that is rather easy to achieve thanks to her A2 passive, meaning a paltry SPD value of around 120 is good enough in most cases unless your DPS character is a speed demon. Additionally, because the Concerto state\u2019s additional attacks have fixed CRIT values, literally any amount from stats or substats is entirely wasted. Robin cares almost exclusively about ATK, and can make very good use of it, meaning it's very reasonable to focus on defensive stats after you've hit the ATK and SPD values you were aiming for.Energy is a bit of a sore spot, not only because of the aforementioned high Energy cost of 160, but also because how much Energy exactly Robin will be getting depends entirely on the team you're running her with, as well as the enemies you happen to be facing. It's quite free-form and you'll have to get a feel for it for yourself, so the general recommendation is to get as much Energy Regeneration Rate as you can without it hindering Robin's supportive capabilities. For this reason, it's also recommended to place Robin in the middle of the team to increase the likelihood of her getting clipped by enemy AoE attacks for that sweet 'hit me' Energy \u2014 another good reason to invest in defensive stats. This makes Robin arguably the easiest support character to build in the entire game, almost laughably so. When pretty much every other support wants to be as fast as possible and aim for having around 160 SPD or even greater, the paltry requirements of Robin are a very, very welcome change of pace.In terms of teams, Robin is highly flexible. For clarity, Robin is not an exclusively follow-up centric support. She's giving Ruan Mei a run for her money in pretty much all teams that aren't explicitly Break focused. Having said that... Robin does see the greatest benefits in follow-up teams. Dr. Ratio, Topaz, and Aventurine all have easily accessed follow-up attacks that can frequently trigger Robin's extra DMG and self Energy restore, while also benefiting from the near-permanent 25% extra CRIT DMG offered exclusively to follow-up attacks, getting a total of 45% CRIT DMG from Robin just existing, really. Topaz especially will always be benefiting from this as all of her attacks count as follow-ups.Huohuo is also particularly noteworthy as a good general sustain to pair with Robin if one does not have Aventurine, as Huohuo's Ultimate restores a percentage of Energy to all other allies. With Robin having a Energy cost of 160, this results in a very significant amount of Energy coming back with just a single Huohuo Ultimate. The ATK buff provided by Huohuo will also naturally increase Robin's own damage output during the Concerto state. This is particularly amusing to see in the now classic Damage over Time (DoT) team with Kafka and Black Swan, where Robin feels surprisingly at home, mostly in part thanks to Kafka's extremely frequent and consistent follow-up and the rest due to DoT teams being naturally very SPD heavy in the first place. The sheer amount of ATK buffs in that team makes the DoT damage staggeringly high.If one does not have these other 5-star limited characters, Clara is also someone who benefits from Robin \u2014 extremely so, to the point where Robin could very well be a best-in-slot support for Clara moving forward. The only limit on how many follow-ups Clara can throw out is how often she can get hit, meaning in particularly enemy-dense encounters or against speed demon bosses, Clara can output a very impressive amount of damage when bolstered by Robin, and Robin can do much the same thanks to Clara. If you are of a\u2026 particularly driven nature, you can try assembling a team of alacritous assistants attempting to aid Robin's attacks, by which I mean: fast team makes Robin hit more, so more SPD is good. You'd be shifting the focus more onto Robin herself by trying to eke out as many additional hits from her Ultimate as possible, so Asta would see great value in this regard, especially as she herself offers a very powerful teamwide ATK buff that Robin can also benefit from. This support pairing works very well with a great many DPS characters and is highly accessible due to Asta being a free 4-star character. It's not the most recommended setup for more storied players with access to more limited 5-star characters, but it definitely does work, and it's funny when things go zoom.As I said in the beginning, Harmony stays winning, and Robin is another fantastic addition to the roster. I've made the analogy before of 'it's like comparing gold to platinum' when there's something great and something that's also great but slightly better, but when it comes to the Harmony characters, they\u2019re all so good that having any of them is going to be great for you. Sure there are cases where one shines more than the others, but for the overwhelming majority of people, it's the same picture. There are only winners in this race. Now if you'll excuse me, I'm going to go listen to Robin's Ultimate song for 10 hours. It's a bop and everyone knows it."
+    },
+    "pros": {
+        "formatted": "Top-tier offensive buffs, Toppest tier buffs for follow-up attackers, Has teamwide 100% Action Advance on her Ultimate, Contributes extremely substantial personal damage, Very SP efficient, Very easy to build. "
+    },
+    "cons": {
+        "formatted": "Personal damage benefits the most from fast-acting allies, Very high Ultimate cost at 160, Energy regeneration can be wildly inconsistent, Need galaxybrain to always fully benefit from teamwide Action Advance,Auto-battle is passable but highly inefficient with the Ultimate\u2019s Action Advance. "
+    },
+    "endgameStats": {
+        "formatted": "HP: 3200+ATK: 3000-4400+DEF: 800+SPD: 120+ (get a bit more if Robin isn't the first to act at the start of the battle)Energy Regeneration Rate: 19.44%+"
+    },
+    "voiceActors": {
+        "en": "Alice Himora & Chevy",
+        "kr": "\uc2e0\uc628\uc720 (Shin On-yu) & Chevy",
+        "jpn": "\u540d\u51a2\u4f73\u7ec7 (Nazuka Kaori) & Chevy",
+        "cn": "\u94b1\u741b (Qian Chen) & Chevy"
+    },
+    "ratings": {
+        "moc": "10",
+        "moc_special": "10",
+        "pure": "11",
+        "pure_special": "11",
+        "apo": "10",
+        "apo_special": "10"
+    },
+    "energyUltimate": "160",
+    "conesNew": [
+        {
+            "cone": "flowing-nightglow",
+            "super": "1",
+            "percent": "113.18%",
+            "notes": "By far the best option for Robin, granting her the most base ATK, ATK% and damage increases of any Harmony Light Cone. This maximizes her personal damage and team wide buffs. Also offers 15% Energy Regeneration with only a little downtime at the start of combat and right after she uses her Ultimate. Large amounts of energy regeneration can allow Robin to skip entire actions of her rotation, substantially shortening the gaps in between her ultimates and improving her performance at the same time."
+        },
+        {
+            "cone": "for-tomorrows-journey",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Offers lesser but comparable damage and teamwide buffs as Robin's signature but without any form of Energy Regeneration. The lack of energy means out of all of her standard Cone options, this one will have the least frequent Ultimates but this can be somewhat made up for by using an ERR set if desired."
+        },
+        {
+            "cone": "but-the-battle-isnt-over",
+            "super": "1",
+            "percent": "81.25%",
+            "notes": "Offers Robin strong base stats and 10% of the incredibly desirable Energy Regeneration stat which alone makes it a viable option. For many Robin setups, this Cone might perform better than most 4-star Cones, even when they are S5. The rest of the bonuses of this Light Cone are less impactful for Robin but not completely useless - granting the team occasionally a few free skill points and (if tuned correctly) an extra damage boost."
+        },
+        {
+            "cone": "memories-of-the-past",
+            "super": "5",
+            "percent": "74.86%",
+            "notes": "Sacrifices Robin's personal damage and team wide buffs in favour of Energy Regeneration when attacking enemies with her basic attacks. A decent option but the loss of personal stats is not ideal and in many scenarios (especially ones with high amounts of combat damage) Robin doesn't use her basic attack that frequently in between ultimates. Which means that other ERR Light Cones and the unique effect of Meshing Cogs can outperform this one for ultimate uptime."
+        },
+        {
+            "cone": "meshing-cogs",
+            "super": "5",
+            "percent": "68.53%",
+            "notes": "Sacrifices even more of Robin's potential damage and support than Memories of the Past, but for much greater potential Energy Regeneration. In fights with multiple AoE attacks that can frequently hit Robin, it's very easy to gain access to her Ultimate very quickly after it ends using this Light Cone. For raw Energy Regeneration in the right fight, this Light Cone may very well be the best choice but at the cost of the rest of Robin's kit."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "Prisoner in Deep Confinement",
+                    "value": "",
+                    "comment": "",
+                    "notes": "Comparable ATK buffing effect and slightly less Concerto damage than 4-piece Physical set but without the need to stack up any buffs and being much more accessible to farm."
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "Messenger Traversing Hackerspace",
+                    "value": "",
+                    "comment": "",
+                    "notes": "An alternative to pure damage sets when some extra Speed is needed due to lack of sub-stats or the desire for a higher Speed Robin. Needing less Speed sub-stats allows for more Attack sub-stats or simply higher Speed overall."
+                },
+                {
+                    "relic": "Champion of Streetwise Boxing",
+                    "relic_2": "",
+                    "value": "",
+                    "comment": "",
+                    "notes": "Best set for Robin when fully stacked, granting 25% ATK and 10% Physical Damage boosting both her Concerto damage and ATK buff the most compared to all other set options. The downside of this set is its ramp-up time - while not hard to fully achieve, the improvement of this set over others is small enough that it might not be worth farming specifically unless you already have it. Also, keep in mind that Concerto doesn't give stacks, so you need to use Basic or get hit to obtain them - that's the main reason behind the fact that while on paper it's the best set, stacking it to full effect takes time/depends on RNG."
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": "",
+                    "comment": "",
+                    "notes": "Best supportive buffing set for Robin, granting her some personal ATK from its bonus but more importantly an ATK bonus to the rest of the team that outweighs the benefit of increasing her own ATK further with other planar sets. Sacrifices a small amount of her personal damage for a small bonus to overall team damage."
+                },
+                {
+                    "planar": "Sprightly Vonwacq",
+                    "value": "",
+                    "comment": "",
+                    "notes": "Due to Robin's gigantic Ultimate cost (160 energy) and her ability to accrue energy from every teammate action - on top of her own Energy generation and standard combat generation - the little bit of extra ERR from this set can edge you just on the right side of specific breakpoints. This could allow you to gain an Ultimate where you otherwise wouldn't. The benefit of this set isn't guaranteed though as the Energy you generate maybe wasted - it's up to you whether the chance at that benefit is worth giving up some of Robin's supporting or personal damage options."
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": "",
+                    "comment": "",
+                    "notes": "Due to Robin's gigantic Ultimate cost (160 energy) and her ability to accrue energy from every teammate action - on top of her own Energy generation and standard combat generation - the little bit of extra ERR from this set can edge you just on the right side of specific breakpoints. This could allow you to gain an Ultimate where you otherwise wouldn't. The benefit of this set isn't guaranteed though as the Energy you generate maybe wasted - it's up to you whether the chance at that benefit is worth giving up some of Robin's supporting or personal damage options."
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": "",
+                    "comment": "",
+                    "notes": "Offers no benefit to Robin or her kit but can be used if no other alternatives are available or you specifically want CRIT DMG% over more damage and ATK boosting from Robin"
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "",
+                    "comment": "",
+                    "notes": "A reasonable option for more damage focussed Robin, granting her the highest personal ATK of all planar sets, offering strong Concerto damage and team ATK buffs."
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "patience-is-all-you-need",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "ATK"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "ATK%"
+                },
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "ATK%"
+                },
+                {
+                    "stat": "Physical DMG"
+                }
+            ],
+            "comments": "ATK% is the sole sub-stat that scales Robin's damaging and buffing kit as such stack as much of it as possible. While doing so it's recommended you ensure your Robin is fast enough alongside her action advance that she is always the first to act in combat. To guarantee this is always the case for almost all standard-built teams ensure she has 120-121 Speed. This will cover you even for fast compositions like 160-speed Sparkle (120 is good most of the time but if she's not first get a bit more). After stacking as much ATK as possible and satisfying your Speed needs, you can invest into Defence or invest into more Speed - although it is no longer essential after you've ensured Robin is moving first but can situationally still be helpful in certain teams and content.",
+            "substats": "ATK% >= SPD > HP% = DEF%",
+            "skill_priority": "Ultimate > Skill > Talent > Basic",
+            "traces_priority": "Coloratura Cadenza (A2) > Impromptu Flourish (A4) > Sequential Passage (A6)",
+            "name": "Default build"
+        }
+    ],
+    "videos": [
+        {
+            "video": "8FFl3oBg9jY"
+        }
+    ],
+    "teams": null,
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "hp",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "Speed",
+            "value": 5
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Amplifier",
+    "releaseDate": "May 8th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "ADV",
+        "FuA",
+        "Buff"
+    ]
+}

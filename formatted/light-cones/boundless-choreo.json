@@ -1,0 +1,49 @@
+{
+    "coneId": 120,
+    "name": "Boundless Choreo",
+    "slug": "boundless-choreo",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/58f7688ca7c7f512bec5991123315f9c/6766a/120_sm.webp",
+                            "srcSet": "/static/58f7688ca7c7f512bec5991123315f9c/ef6ff/120_sm.webp 32w,\n/static/58f7688ca7c7f512bec5991123315f9c/8257c/120_sm.webp 64w,\n/static/58f7688ca7c7f512bec5991123315f9c/6766a/120_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "May 8th, 2024",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "953"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "331"
+        }
+    },
+    "skillName": "Scrutinize",
+    "skillDescription": {
+        "formatted": "Increase the wearer's CRIT Rate by 8/10/12/14/16%. The wearer deals 24/30/36/42/48% more CRIT DMG to enemies that are currently DEF reduced or Slowed. "
+    }
+}

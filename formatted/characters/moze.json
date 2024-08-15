@@ -1,0 +1,106 @@
+{
+    "unitId": 62,
+    "name": "Moze",
+    "slug": "moze",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#484888",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/0d7e9553d9333f9636c40150e775be0e/60b4d/moze_sm.webp",
+                            "srcSet": "/static/0d7e9553d9333f9636c40150e775be0e/e73fe/moze_sm.webp 40w,\n/static/0d7e9553d9333f9636c40150e775be0e/61ca6/moze_sm.webp 80w,\n/static/0d7e9553d9333f9636c40150e775be0e/60b4d/moze_sm.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/d95fdd5ce9cf6431edc2774947ac3715/b26e2/hsr_card_moze.webp",
+                            "srcSet": "/static/d95fdd5ce9cf6431edc2774947ac3715/84550/hsr_card_moze.webp 94w,\n/static/d95fdd5ce9cf6431edc2774947ac3715/34f80/hsr_card_moze.webp 187w,\n/static/d95fdd5ce9cf6431edc2774947ac3715/b26e2/hsr_card_moze.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": null,
+    "description": {
+        "formatted": "A Shadow Guard of the Yaoqing. He is reticent and silent, always acting on his own. As an expert in intelligence services and other affairs that must remain obscure, Moze rarely shows himself before others. The moment he shows his true capacities is usually the moment for his enemies to face death. He has a wealth of knowledge regarding methods of assassination and seems to have an extraordinary obsession with tidiness and cleanliness."
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": null,
+    "defaultRole": "Support",
+    "affiliation": "The Xianzhou Laofu",
+    "rarity": "4",
+    "element": "Lightning",
+    "path": "Hunt",
+    "stats": {
+        "hp_base": 0,
+        "def_base": 0,
+        "atk_base": 0,
+        "speed_base": 0
+    },
+    "ascensionMaterials": {
+        "mats_1": "thiefs-instinct",
+        "mats_2": "usurpers-scheme",
+        "mats_3": "enigmatic-ectostella",
+        "mats_4": "conquerors-will"
+    },
+    "eidolon": null,
+    "synergy": null,
+    "traces": null,
+    "review": null,
+    "pros": null,
+    "cons": null,
+    "endgameStats": null,
+    "voiceActors": {
+        "en": "Ben Balmaceda",
+        "kr": "Choi Hyun-sik (\ucd5c\ud604\uc2dd)",
+        "jpn": "Sakata Shogo (\u5742\u7530\u5c06\u543e)",
+        "cn": "Huang Jinze (\u9ec4\u8fdb\u6cfd)"
+    },
+    "ratings": {
+        "moc": "1",
+        "moc_special": "1",
+        "pure": "1",
+        "pure_special": "1",
+        "apo": "1",
+        "apo_special": "1"
+    },
+    "energyUltimate": null,
+    "conesNew": null,
+    "buildData": null,
+    "videos": null,
+    "teams": null,
+    "characterBuilderInfo": null,
+    "tierCategory": "DPS",
+    "releaseDate": "August 28th, 2024",
+    "isReleased": false,
+    "isNew": false,
+    "hideSkills": true,
+    "isReviewPending": true,
+    "availableInCbt3": true,
+    "showBuild": false,
+    "tierListNew": null,
+    "tierListTags": null
+}

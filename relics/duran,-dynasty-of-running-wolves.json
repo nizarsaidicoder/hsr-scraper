@@ -1,0 +1,34 @@
+{
+    "id": "1173f12f-c5a3-5e12-b9d7-c0e6e803d585",
+    "updatedAt": "2024-06-16T07:33:02.478Z",
+    "createdAt": "2024-06-09T09:47:01.559Z",
+    "relicId": "35",
+    "name": "Duran, Dynasty of Running Wolves",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When allies use follow-up attacks, the wearer receives \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" stack of Merit, stacking up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" times. Every stack of Merit increases the DMG dealt by the wearer's follow-up attacks by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When there are \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" stacks, additionally increases the wearer's CRIT DMG by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"25%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". \",\"marks\":[],\"data\":{}}]}]}"
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/2c1263d0e014c129c33f10cf1b81f3bd/d8057/set_35.webp",
+                            "srcSet": "/static/2c1263d0e014c129c33f10cf1b81f3bd/2fa99/set_35.webp 25w,\n/static/2c1263d0e014c129c33f10cf1b81f3bd/dbc4a/set_35.webp 50w,\n/static/2c1263d0e014c129c33f10cf1b81f3bd/d8057/set_35.webp 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": null
+}

@@ -1,0 +1,55 @@
+{
+    "coneId": 30,
+    "name": "Post-Op Conversation",
+    "slug": "post-op-conversation",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/980d0fe4dd4c0510ab19595b1939d984/bf8e1/30_sm.png",
+                            "srcSet": "/static/980d0fe4dd4c0510ab19595b1939d984/914ee/30_sm.png 32w,\n/static/980d0fe4dd4c0510ab19595b1939d984/1c9ce/30_sm.png 64w,\n/static/980d0fe4dd4c0510ab19595b1939d984/bf8e1/30_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/980d0fe4dd4c0510ab19595b1939d984/ef6ff/30_sm.webp 32w,\n/static/980d0fe4dd4c0510ab19595b1939d984/8257c/30_sm.webp 64w,\n/static/980d0fe4dd4c0510ab19595b1939d984/6766a/30_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Abundance",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Mutual Healing",
+    "skillDescription": {
+        "formatted": "Increases Energy Regeneration Rate of its wearer by 8/10/12/14/16% and increases Outgoing Healing when they use their Ultimate by 12/15/18/21/24%."
+    }
+}

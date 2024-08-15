@@ -1,0 +1,55 @@
+{
+    "coneId": 29,
+    "name": "Planetary Rendezvous",
+    "slug": "planetary-rendezvous",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b951f68b04b49c5ad8df6592fd4fdc6f/bf8e1/29_sm.png",
+                            "srcSet": "/static/b951f68b04b49c5ad8df6592fd4fdc6f/914ee/29_sm.png 32w,\n/static/b951f68b04b49c5ad8df6592fd4fdc6f/1c9ce/29_sm.png 64w,\n/static/b951f68b04b49c5ad8df6592fd4fdc6f/bf8e1/29_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/b951f68b04b49c5ad8df6592fd4fdc6f/ef6ff/29_sm.webp 32w,\n/static/b951f68b04b49c5ad8df6592fd4fdc6f/8257c/29_sm.webp 64w,\n/static/b951f68b04b49c5ad8df6592fd4fdc6f/6766a/29_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Departure",
+    "skillDescription": {
+        "formatted": "Upon battle entry, if an ally deals the same DMG Type as the wearer, DMG dealt increases by 12/15/18/21/24%."
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "coneId": 25,
+    "name": "Night on the Milky Way",
+    "slug": "night-on-the-milky-way",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e0407cd91e9c6a95d0ade9340902ddab/bf8e1/25_sm.png",
+                            "srcSet": "/static/e0407cd91e9c6a95d0ade9340902ddab/914ee/25_sm.png 32w,\n/static/e0407cd91e9c6a95d0ade9340902ddab/1c9ce/25_sm.png 64w,\n/static/e0407cd91e9c6a95d0ade9340902ddab/bf8e1/25_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/e0407cd91e9c6a95d0ade9340902ddab/ef6ff/25_sm.webp 32w,\n/static/e0407cd91e9c6a95d0ade9340902ddab/8257c/25_sm.webp 64w,\n/static/e0407cd91e9c6a95d0ade9340902ddab/6766a/25_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1164"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Meteor Swarm",
+    "skillDescription": {
+        "formatted": "For every enemy on the field, increases the wearer's ATK by 9/10.5/12/13.5/15%, up to 5 stacks. When an enemy is inflicted with Weakness Break, the DMG dealt by the wearer increases by 30/35/40/45/50% for 1 turn."
+    }
+}

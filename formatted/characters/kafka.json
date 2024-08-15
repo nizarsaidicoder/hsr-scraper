@@ -1,0 +1,457 @@
+{
+    "unitId": 7,
+    "name": "Kafka",
+    "slug": "kafka",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/5eaaf9ec3518805762b5f5a69091d86c/e9a79/7_sm.png",
+                            "srcSet": "/static/5eaaf9ec3518805762b5f5a69091d86c/f31ef/7_sm.png 40w,\n/static/5eaaf9ec3518805762b5f5a69091d86c/1f8a1/7_sm.png 80w,\n/static/5eaaf9ec3518805762b5f5a69091d86c/e9a79/7_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/5eaaf9ec3518805762b5f5a69091d86c/e73fe/7_sm.webp 40w,\n/static/5eaaf9ec3518805762b5f5a69091d86c/61ca6/7_sm.webp 80w,\n/static/5eaaf9ec3518805762b5f5a69091d86c/60b4d/7_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/99d4b1239f7661eafe20552a70cd9444/c9885/kafka.png",
+                            "srcSet": "/static/99d4b1239f7661eafe20552a70cd9444/2aab7/kafka.png 94w,\n/static/99d4b1239f7661eafe20552a70cd9444/0a986/kafka.png 187w,\n/static/99d4b1239f7661eafe20552a70cd9444/c9885/kafka.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/99d4b1239f7661eafe20552a70cd9444/84550/kafka.webp 94w,\n/static/99d4b1239f7661eafe20552a70cd9444/34f80/kafka.webp 187w,\n/static/99d4b1239f7661eafe20552a70cd9444/b26e2/kafka.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/951a54972ba6eee96d7ace270d717932/3c5dc/7_full.png",
+                            "srcSet": "/static/951a54972ba6eee96d7ace270d717932/ca8fd/7_full.png 200w,\n/static/951a54972ba6eee96d7ace270d717932/de50c/7_full.png 400w,\n/static/951a54972ba6eee96d7ace270d717932/3c5dc/7_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/951a54972ba6eee96d7ace270d717932/213b2/7_full.webp 200w,\n/static/951a54972ba6eee96d7ace270d717932/413c5/7_full.webp 400w,\n/static/951a54972ba6eee96d7ace270d717932/cf6d0/7_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "On the Interastral Peace Corporation's wanted list, Kafka's only has two things \u2014 her name, and a single sentence: \"Likes collecting coats.\" Little is known about this Stellaron Hunter, other than that she is one of Destiny's Slave Elio's most trusted members. In order to achieve Elio's envisioned future, Kafka gets to work. "
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "100501",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "skill": {
+            "id": "100502",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "100503",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "100504",
+            "energy_gen": "10",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "100507",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Stellaron Hunters",
+    "rarity": "5",
+    "element": "Lightning",
+    "path": "Nihility",
+    "stats": {
+        "hp_base": 147.84,
+        "def_base": 66,
+        "atk_base": 92.4,
+        "speed_base": 100
+    },
+    "ascensionMaterials": {
+        "mats_1": "thiefs-instinct",
+        "mats_2": "usurpers-scheme",
+        "mats_3": "shape-shifters-lightning-staff",
+        "mats_4": "conquerors-will"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "7",
+            "name": "Kafka",
+            "upgrade1Name": "Da Capo",
+            "upgrade1Desc": {
+                "formatted": "When the Talent triggers a follow-up attack, there is a 100% base chance to increase the DoT received by the target by 30% for 2 turn(s).\n\n\n\n"
+            },
+            "upgrade2Name": "Fortississimo",
+            "upgrade2Desc": {
+                "formatted": "While Kafka is on the field, DoT dealt by all allies increases by 25%.\n\n"
+            },
+            "upgrade3Name": "Capriccio",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "upgrade4Name": "Recitativo",
+            "upgrade4Desc": {
+                "formatted": "When an enemy target takes DMG from the Shock status inflicted by Kafka, Kafka additionally regenerates 2 Energy."
+            },
+            "upgrade5Name": "Doloroso ",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade6Name": "Leggiero",
+            "upgrade6Desc": {
+                "formatted": "The DMG multiplier for Shock DMG dealt by Ultimate, Technique, or the follow-up attack triggered by Talent increases by 156%, and extends the duration of Shock on the enemy target by 1 turn(s)."
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "ruan-mei",
+            "notes": "Ruan Mei is the best support for Kafka teams - both hypercarry and dual-carry. Kafka can make use of every type of buff provided by Ruan Mei -  Speed, DMG%, All-Type Res PEN and Weakness Break Efficiency."
+        },
+        {
+            "character": "black-swan",
+            "notes": "If you're not planning to play Hypercarry Kafka, then Black Swan is the best second DPS you can use in dual-carry Kafka teams. They have great synergy between each other and form the strongest DoT team available currently."
+        },
+        {
+            "character": "sampo",
+            "notes": "Sampo applies a great amount of DoT's to all enemies making him a great AoE DoT ally for Kafka really amping up her AoE potential. Sampo has no issue ramping his DoTs up quickly but most importantly keeping them active the entire fight on all priority targets. His Ultimate increases the damage enemies take from DoT further improving his own and Kafka's damage. On top of that, Sampo is skill point efficient as his Basic also applies Wind Shear, so you don't need to constantly spam his Skill to help the team."
+        },
+        {
+            "character": "luka",
+            "notes": "Luka's Bleeds and great single target damage provide Kafka teams with massive boost in single enemy scenarios - Kafka can Trigger Luka's Bleed but also any Physical Break Bleeds he applies. He also has a Damage Taken increase debuff as a part of his Ultimate which amplifies DoT damage greatly benefitting himself and Kafka. On top of that, Luka doesn't require many skill points in order to function which makes it easier to build the double DPS team."
+        },
+        {
+            "character": "pela",
+            "notes": "Pela is a completely skill point positive support that grants a massive amount of Defense Shred - one of the hardest to get but also most powerful ways to amplify DoT damage which only becomes more powerful the more of it you stack. She's also capable of freezing enemies on Break in a pinch and ripping off hazardous buffs from enemies with her skill."
+        },
+        {
+            "character": "tingyun",
+            "notes": "Tingyun is a reasonable option for granting Kafka additional damage but due to diminishing returns on ATK% and Increased Damage% can sometimes have a difficult time competing with Nihility counterparts. Thanks to Kafka's follow up attack she is able to activate Tingyun's Benediction damage on hit twice per action she performs - additionally the energy provided by Tingyun's Ultimate will accelerate Kafka's ultimate triggering of DoT's increasing her damage but also improving her shock uptime."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When the Ultimate is used, enemy targets will now receive DMG immediately from all currently applied DoT sources instead of just receiving DMG immediately from the currently applied Shock state.",
+            "name": "Torture"
+        },
+        {
+            "req": "A4",
+            "desc": "If an enemy is defeated while Shocked, Kafka additionally regenerates <b>5</b> Energy.",
+            "name": "Plunder"
+        },
+        {
+            "req": "A6",
+            "desc": "The base chance for Ultimate, Technique, or the follow-up attack triggered by the Talent to inflict Shock increases by 30%.",
+            "name": "Thorns"
+        }
+    ],
+    "review": {
+        "formatted": "The Spirit Whisperer and Destiny\u2019s Slave, Kafka expertly carries out large-scale devastation. She is capable of instantaneously triggering DoT damage on enemies, meaning that with some setup in applying several damage over time debuffs to enemies, Kafka can swoop in and snap enemies out of existence. Due to her DoT-heavy gameplay, Kafka also enjoys focusing almost exclusively on ATK% and some Effect Hit Rate, meaning she does not care for CRIT stats at all.Kafka\u2019s Skill is what acts as this metaphorical snap. She deals damage to a target enemy as a Blast AoE, hitting adjacent foes as well, and if the enemy you targeted has DoT debuffs on them, they will all immediately deal up to 75% of their original damage. Yes, all of them. Get yourself some DoT-applying teammates and watch the fireworks happen.Her Ultimate can help start the chain. She deals up to 80% of her ATK to all enemies and has a 100% base chance to apply Shock for 2 turns. In addition to this, enemies will also instantly take a damage instance from said Shock state upon application, a whopping 290% of Kafka\u2019s ATK at max Trace Level.Kafka\u2019s Talent is also quite a cheeky tool to apply Shock early. When any ally uses a Basic ATK on an enemy, Kafka will instantly perform a follow-up attack onto that target, dealing up to 140% of her ATK and having a 100% base chance to apply the same Shock debuff as the one on her Ultimate. She only gets to do this once per turn, but considering you\u2019re going to have some of your other teammates Basic Attacking a lot, this is pretty much guaranteed to be used at every available instance.Her Bonus Traces just add to this by improving her consistency with A6 by increasing the base chance for her own Shock debuffs to be applied by 30%, for a new base chance of 130%, and allowing her Ultimate to also explode all DoTs instead of just Shock with her A2. Her A4 grants 5 energy back when a Shocked enemy is defeated.Kafka really has no need for her Eidolons to be superb, but her E1 and E2 allow her to amplify overall DoT damage for herself and her allies, with E1 causing a target hit by her Talent to take 30% more DoT damage, and E2 increasing all allies\u2019 DoT damage by 25% while Kafka is alive and on the field. Again, Kafka does not need either of these but they are potentially valuable things to have and are comparatively quite accessible should you wish to pull for Eidolons.Kafka is really not that complicated; the game plan is simple, right? Just apply as many DoT debuffs on enemies as you can and then have Kafka obliterate them. Well\u2026 Sort of. Due to the nature of Kafka\u2019s kit, she can safely ignore the typically important stats like CRIT Rate and CRIT DMG, since DoTs simply aren\u2019t capable of hitting crits. However, again due to the nature of Kafka\u2019s kit, she wants SPD and she wants an obscene amount of it. Getting enough Effect Hit Rate and SPD without sacrificing ATK% can be genuinely quite hard.Adding to this, Kafka\u2019s preferred teammate lineup can also be very against the grain. For Harmony characters, Yukong is completely wasted on Kafka as the CRIT buffs do not help her. For Bronya, aside from the Turn Advance, Bronya\u2019s CRIT buffs are also entirely wasted on a DoT-centric team. Bronya is however still usable, and maybe even good in highly optimized settings, but is generally better used on your second side team.Instead, a great Harmony teammate is everyone\u2019s favorite Lead Researcher, Asta. She can increase everyone\u2019s ATK and SPD, two things that Kafka absolutely cannot have too much of. Tingyun is also great as her Ultimate can provide more Ultimate uptime for Kafka, and Tingyun\u2019s ATK% buff can be maintained on Kafka permanently, but Tingyun is exclusively buffing Kafka, so using other DoT characters in this situation can be unfavorable.Kafka can choose to instead be paired with more DoT-inflicting characters. In these situations, the most important thing for Kafka is to have enough DoTs on the enemy to actually dish out small nuclear detonations, meaning she wants to be paired with characters who apply said DoT. In particular, Sampo Koski\u2019s DoT enhancing Ultimate finally has a real use case, and seeing as he can apply up to 5 stacks of Wind Shear at a breakneck pace and also maintain them, he is a complete no-brainer pairing with Kafka. For tough single-target encounters, Luka also makes a fantastic teammate due to his absurdly high Max HP% damage from Bleed.Final good pairs are of course other Nihility units and debuffers. Pela and Silver Wolf can contribute immensely to increasing the team\u2019s overall damage, far more than a Harmony character (besides maybe Asta and Bronya) would be able to. Silver Wolf in particular being able to implant weaknesses into enemies allows Kafka to frequently get additional sources of DoT from Weakness Breaks, amplifying damage even further.The issue comes with maintaining these teams, as they tend to be really quite SP-intensive. Sampo can mostly switch to Basic Attacking after his Wind Shear is stacked, but if you\u2019re using Luka or Silver Wolf, you may struggle to keep up with the SP costs, and the absolute worst-case scenario is Kafka being unable to use her Skill because she is pretty much all of that team\u2019s damage. The teammates also need to be very well built since the DoT explosion from her Skill and Ultimate are based on your teammates\u2019 DoT stats, so don\u2019t expect Kafka to hit crazy hard in the late game if your Sampo is level 20.There\u2019s been a lot of mention of Sampo in this review, and that\u2019s no accident. Kafka does not currently have a true dedicated support for her style of gameplay. It just so happens that Sampo is the closest to being that for her, and as such is the next best thing. While Kafka can make do with someone like Serval, Kafka really wants to be paired with Sampo because he synergizes the best with what she wants to do, and not by a small margin. This may change in the future, and maybe a perfect support unit is released for Kafka, but please do not pull for Kafka with the hopes that that will occur, because there\u2019s absolutely no guarantee.\u00a0She is a great character already, and she can perform fantastically, especially with Sampo, or with Tingyun and Asta, having a theoretical damage ceiling far above the clouds of most other characters, and future DoT-based characters are likely to work well with her as well, but if you want to pull for her, do it for her and not for hypothetical future releases, even if they would, in theory, be amazing together.Besides, who doesn\u2019t love looking at fireworks? \u201cBoom.\u201d"
+    },
+    "pros": {
+        "formatted": "Strong single target and AoE damage, making her very versatile, Consistent damage output due to DoTs, Can force proc DoTs on enemies to frontload damage, Doesn\u2019t care about CRIT stats at all, Easy DoT application thanks to her Talent.\n\n"
+    },
+    "cons": {
+        "formatted": "Extremely high investment required for both her and her teammates,  Wants potentially unreasonable amounts of SPD, Greatly benefits from her A6 meaning she takes a while to reach her max."
+    },
+    "endgameStats": {
+        "formatted": "HP: 3000+ DEF: 900+ATK: 3400 - 3800+ SPD: 134 / 143 (Recommended) / 160EFFECT HIT RATE: 29%"
+    },
+    "voiceActors": {
+        "en": "Cheryl Texiera",
+        "kr": "Sa Moon-young (\uc0ac\ubb38\uc601)",
+        "jpn": "Itoh Shizuka (\u4f0a\u85e4\u9759)",
+        "cn": "Hui Xu (\u5f90\u6167)"
+    },
+    "ratings": {
+        "moc": "10",
+        "moc_special": "10",
+        "pure": "10",
+        "pure_special": "10",
+        "apo": "9",
+        "apo_special": "9"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "patience-is-all-you-need",
+            "super": "1",
+            "percent": "125.09%",
+            "notes": "Increased SPD can also result in more team DMG overall."
+        },
+        {
+            "cone": "good-night-and-sleep-well",
+            "super": "5",
+            "percent": "121.88%",
+            "notes": "Assumes 3 debuffs are present at all times on the enemy. Having less debuff at any point during the fight will lower this Cone's performance"
+        },
+        {
+            "cone": "eyes-of-the-prey",
+            "super": "5",
+            "percent": "102.43%",
+            "notes": "Usable when aiming for higher Effect Hit Rate (E1)."
+        },
+        {
+            "cone": "fermata",
+            "super": "5",
+            "percent": "100.00%",
+            "notes": "Assumes enemy is always debuffed with Wind Shear or Shock. When fighting enemies that are not constantly affected by Shock or Wind Shear this Cone's performance will reduce."
+        },
+        {
+            "cone": "solitary-healing",
+            "super": "5",
+            "percent": "97.52%",
+            "notes": "Baseline calcs with no kills. Can allow 2-Turn Ult on Kafka with 2 kills where her uptime on the buff will be 100% - will likely perform better than Fermata. Although out of the DoT breaks, Lightning break is generally considered the weakest and so this Cone should be better equipped on other DoT teammates."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Prisoner in Deep Confinement",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Band of Sizzling Thunder",
+                    "relic_2": "",
+                    "value": "97.70%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Band of Sizzling Thunder",
+                    "relic_2": "Pioneer Diver of Dead Waters",
+                    "value": "97.44%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "103.28%",
+                    "comment": "160 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "100%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "96.95%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "patience-is-all-you-need",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Lightning DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "Kafka needs 28% Effect Hit Rate to guarantee Shock on 40% Res enemies. Build as much SPD as possible so she can detonate DoTs. Break Effect Rope can also be considered in niche cases. Genius of Brilliant Stars set is great against Quantum weak enemies (and when you pair Kafka with Silver Wolf).",
+            "substats": "SPD (breakpoint) = EHR (Until Cap) >  ATK% > Break Effect",
+            "skill_priority": "Ultimate > Skill > Talent > Basic",
+            "traces_priority": "Torture (A2) > Thorns (A6) > Plunder (A4)",
+            "name": "Kafka DoT"
+        }
+    ],
+    "videos": [
+        {
+            "video": "IE8GM65W2E8"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Kafka Speed Abuse",
+            "member_1": "kafka",
+            "member_2": "tingyun",
+            "member_3": "asta",
+            "member_4": "luocha"
+        },
+        {
+            "name": "Kafka 2x DoT (Harmony variant)",
+            "member_1": "kafka",
+            "member_2": "sampo",
+            "member_3": "bronya",
+            "member_4": "luocha"
+        },
+        {
+            "name": "Kafka 2x DoT (Nihility variant)",
+            "member_1": "kafka",
+            "member_2": "sampo",
+            "member_3": "silver-wolf",
+            "member_4": "luocha"
+        },
+        {
+            "name": "Triple DPS",
+            "member_1": "kafka",
+            "member_2": "sampo",
+            "member_3": "luka",
+            "member_4": "luocha"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "effectHitRate",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "August 9th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "DoT"
+    ]
+}

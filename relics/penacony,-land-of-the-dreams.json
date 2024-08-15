@@ -1,0 +1,53 @@
+{
+    "id": "4a72eafa-a297-5fca-b754-f6bb23362747",
+    "updatedAt": "2023-11-12T08:03:07.910Z",
+    "createdAt": "2023-11-12T08:03:07.910Z",
+    "relicId": "28",
+    "name": "Penacony, Land of the Dreams",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases wearer's Energy Regeneration Rate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"5%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Increases DMG for all other allies with the same DMG Type as the wearer by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/cd8e299b04aaa4a12fe0684ae101e5ef/15e42/pena.png",
+                            "srcSet": "/static/cd8e299b04aaa4a12fe0684ae101e5ef/88208/pena.png 25w,\n/static/cd8e299b04aaa4a12fe0684ae101e5ef/e9fba/pena.png 50w,\n/static/cd8e299b04aaa4a12fe0684ae101e5ef/15e42/pena.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/cd8e299b04aaa4a12fe0684ae101e5ef/2fa99/pena.webp 25w,\n/static/cd8e299b04aaa4a12fe0684ae101e5ef/dbc4a/pena.webp 50w,\n/static/cd8e299b04aaa4a12fe0684ae101e5ef/d8057/pena.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

@@ -1,0 +1,461 @@
+{
+    "unitId": 50,
+    "name": "Aventurine",
+    "slug": "aventurine",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/dcca4d5456bea16990c25fe298a80e41/e9a79/50_sm.png",
+                            "srcSet": "/static/dcca4d5456bea16990c25fe298a80e41/f31ef/50_sm.png 40w,\n/static/dcca4d5456bea16990c25fe298a80e41/1f8a1/50_sm.png 80w,\n/static/dcca4d5456bea16990c25fe298a80e41/e9a79/50_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/dcca4d5456bea16990c25fe298a80e41/e73fe/50_sm.webp 40w,\n/static/dcca4d5456bea16990c25fe298a80e41/61ca6/50_sm.webp 80w,\n/static/dcca4d5456bea16990c25fe298a80e41/60b4d/50_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/2fe1120019473951ae87ab06b5861054/b26e2/ave_card.webp",
+                            "srcSet": "/static/2fe1120019473951ae87ab06b5861054/84550/ave_card.webp 94w,\n/static/2fe1120019473951ae87ab06b5861054/34f80/ave_card.webp 187w,\n/static/2fe1120019473951ae87ab06b5861054/b26e2/ave_card.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#685858",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/31fe18957cd5719c1b422c3fe3d4c785/67ded/aventurine_full.webp",
+                            "srcSet": "/static/31fe18957cd5719c1b422c3fe3d4c785/22bfc/aventurine_full.webp 256w,\n/static/31fe18957cd5719c1b422c3fe3d4c785/d689f/aventurine_full.webp 512w,\n/static/31fe18957cd5719c1b422c3fe3d4c785/67ded/aventurine_full.webp 1024w",
+                            "sizes": "(min-width: 1024px) 1024px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 1024,
+                    "height": 1024
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts. His Cornerstone is \"Aventurine of stratagems.\" He possesses an air of frivolity and doesn't shy away from taking risks. His constant smile makes it difficult for people to discern his true feelings. He won his current position by wagering against fate itself. He views life as a high-stakes, high-return investment, and he plays this particular gamble with masterful ease."
+    },
+    "statsComments": {
+        "formatted": "Relic Main statsBody - DEF% = CRIT DMG DEF% is recommended unless you can remain at or above 4000 DEF with a CRIT DMG Body Armour and Imaginary % Sphere equipped. If this is possible for your Aventurine you can choose to sacrifice larger shields for more damage. Feet - SPD = DEF% Both Speed and DEF% Boots are viable on Aventurine, depending on what your build and team need. Running Speed allows Aventurine to generate more skill points, have more frequent access to his skill and ultimate, and is essential in Follow-Up teams to ensure he continually gains Blind Bet stacks from his teammates without falling behind. If you're ok giving up the bonuses Speed provides, DEF% can be used to more easily reach 4000 DEF or in place of another main stat defensive piece like the Sphere or Body armour allowing a damaging option to be run in that slot. Planar Sphere - DEF% = IMG DMG% DEF% is recommended unless you can remain at or above 4000 DEF with an Imaginary % Sphere equipped. If this is possible for your Aventurine you can choose to sacrifice larger shields for more damage. Link Rope - DEF% In order to reach 4000 DEF, most Aventurine builds require a DEF% Rope and even the ones that don't would rather switch out other defensive main stat pieces for more damage before the Rope. This on top of the fact Aventurine's ultimate isn't essential to his gameplay like other sustains, means in most teams it's preferred not to use an energy recharge rope. Additional notes for Sub-statsSPEED: Unlike other sustains or supports Speed isn't an essential stat for Aventurine as he can achieve most of his goals without it - still it can be situationally powerful under the right circumstances. When playing Aventurine in teams with many Follow-Up attackers he'll gain substantially more Blind Bet stacks from their Follow-Up's but with a cap of 3 per one of his actions. In some teams for example ones that include Topaz that 3 Bet cap can easily be reached and exceeded if Aventurine isn't at least a comparable Speed to the follow-up attackers. If they're significantly faster than him they'll lap Aventurine wasting a portion of his kit - to avoid this grab some Speed. Speed also offers more skill points, ultimates, and opportunities for emergency shields in a pinch. DEF%: DEF% is Aventurine's best sustaining and damaging stat as it triple dips on stats he wants. It increases the base damage of all of his damage abilities, improves the total amount his shields can shield for, and also grants him a huge CRIT RATE boost stacking until he reaches 4000 DEF after which it caps. For these reasons stacking DEF single-mindedly is absolutely the correct thing to do up until you can reach 4000. At this point Aventurine should have more than enough shielding capabilities to keep the team alive in all content, has great base damage values on all of his attacks, and cannot gain more CRIT RATE from his bonus ability after which other stats shoot up the priority list. CRIT RATE & CRIT DMG: After reaching 4000 DEF, CRIT RATE and CRIT DMG become an enticing prospect for Aventurine allowing him to substantially boost his damage. As Aventurine gains so much CRIT RATE for free from his bonus ability CRIT DMG is the priority and should be stacked first to achieve a 1:2 CRIT / CRIT DMG ratio but after equalizing things they should be stacked in equal amounts to maximize your Aventurines damage. Additional notes for Speed breakpoints106 Speed (High Damage and Shields) 134+ Speed (General Purpose + Follow-Up Teams) "
+    },
+    "relicsComments": {
+        "formatted": "Knight of Purity PalaceMost powerful defensive set for Aventurine granting him 15% DEF% for an easier time reaching 4000 but more importantly improving all of his shields by 20% - an effect not found anywhere else in the game. This combo also has reasonable damage and is our top recommendation for general play if you have or are willing to farm it. Knight of Purity Palace + The Ashblazing Grand Duke / Pioneer Diver of Dead WatersA mix of DEF% from 2P Knight and damage from 2P Grand Duke or 2P Pioneer can yield the DEF Aventurine needs in order to reach the essential 4000 DEF breakpoint while also boosting his damage more than the purely defensive 4P Knight set. Pioneer Diver of Dead Waters + The Ashblazing Grand DukeSacrifices all DEF bonuses for a high and mostly unconditional damage boost which should only be considered if your Aventurine can reach 4000 defence without the help of the 2P Knight set. Ensure you can keep at least 1 debuff on all enemies to gain maximum effect from this combo. Pioneer Diver of Dead WatersA specialist set for Aventurine that can be used when his build and team are just right for a substantial personal damage boost. At a minimum when using this set you'll want at least 2 but ideally 3 debuffs on most targets to take advantage of the base level of the 4P set.Aventurine himself can apply debuffs with his ultimate, contributing to the debuffs needed and also activating the doubling effect of the 4P (but the uptime of this effect is quite limited). With Aventurine's Signature equipped, his Follow-Up attacks all apply debuffs making the doubling effect and debuff requirement of this set far far far more manageable and making this a top set compared to other Light Cones.Inert SalsottoBest damaging set for Aventurine, offering a noticeable jump in damage compared to other Planars without limiting his ability to easily hit 4000 DEF with most Cone options. Broken Keel Sacrifices Aventurine's maximum damage potential for the ability to grant the entire team 10% CRIT DMG. Best all-around option for most team compositions unless your Aventurine has exceptional investment, and as a result, damage output. Penacony, Land of Dreams Alternative team boosting set when Aventurine is supporting a pure Imaginary damage line-up while also granting him a small amount of Energy Recharge. Belobog of Architects Despite being a set that grants DEF%, a stat Aventurine loves, it loses in utility to supportive sets and in damage to Inert Salsotto. Only recommended for use with exceptional stats or to save stamina farming. Fleet of the Ageless Offers 0 benefit to Aventurine himself but can be used as a supportive set if no other options are present or with good sub-stats. "
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "130401",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "130402",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "130403",
+            "energy_gen": "5",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "130404",
+            "energy_gen": "1",
+            "break_primary": "10",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "130407",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Shielder",
+    "affiliation": "Interastral Peace Corporation",
+    "rarity": "5",
+    "element": "Imaginary",
+    "path": "Preservation",
+    "stats": {
+        "hp_base": 163.68,
+        "def_base": 89.1,
+        "atk_base": 60.72,
+        "speed_base": 106
+    },
+    "ascensionMaterials": {
+        "mats_1": "tatters-of-thought",
+        "mats_2": "fragments-of-impression",
+        "mats_3": "supressing-edict",
+        "mats_4": "shards-of-desires"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "500",
+            "name": "Aventurine",
+            "upgrade1Name": "Prisoner's Dilemma",
+            "upgrade1Desc": {
+                "formatted": "Increases CRIT DMG by 20% for allies with Fortified Wager. After using the Ultimate, provides all allies with a Fortified Wager shield, whose Shield effect is equal to 100% of the one provided by the Skill, lasting for 3 turn(s). "
+            },
+            "upgrade2Name": "Bounded Rationality",
+            "upgrade2Desc": {
+                "formatted": "When using Basic ATK, reduces the target's All-Type RES by 12% for 3 turn(s). "
+            },
+            "upgrade3Name": "Droprate Maxing",
+            "upgrade3Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10. "
+            },
+            "upgrade4Name": "Unexpected Hanging Paradox",
+            "upgrade4Desc": {
+                "formatted": "When triggering his Talent's follow-up attack, first increases Aventurine's DEF by 40% for 2 turn(s), and additionally increases the Hits Per Action for his talent's follow-up attack by 3. "
+            },
+            "upgrade5Name": "Ambiguity Aversion",
+            "upgrade5Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15. "
+            },
+            "upgrade6Name": "Stag Hunt Game",
+            "upgrade6Desc": {
+                "formatted": "For every ally with a Shield, the DMG dealt by Aventurine increases by 50%, up to a maximum of 150%. "
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "ruan-mei",
+            "notes": "The universal Support Queen, Ruan Mei is an exceptional pairing with Aventurine especially against enemies weak to Imaginary damage. Aventurine does tremendous amounts of break damage for a sustaining character, especially against single targets, something Ruan Mei can not only capitalize on but also enhance with her kit allowing the pair to shred Imaginary weak enemies without even needing to bother the dps. Thanks to Ruan Mei's full team buffs Aventurine can also enjoy substantial increases to his own damage thanks to her RES SHRED and Increased DMG%. Luckily enough Ruan Mei also combines nicely with some of Aventurines other best partners in the DPS department making for a great supportive package."
+        },
+        {
+            "character": "dr-ratio",
+            "notes": "Frequent Follow-up attacks allow Aventurine to gain additional stacks of Blind Bet thanks to his bonus ability fueling his sustain and damaging capabilities greatly. Dr Ratio gains a bonus from Aventurine in the form of one or many debuffs needed for his 3-5 requirement. Depending on the Eidolon or Light Cone your Aventurine improves the flexibility of Ratio's teams."
+        },
+        {
+            "character": "topaz",
+            "notes": "Frequent Follow-up attacks allow Aventurine to gain additional stacks of Blind Bet thanks to his bonus ability fueling his sustain and damaging capabilities greatly. Topaz not only grants Aventurine buffs but also receives them in return from him in the form of Numby action advances every time his Follow-Up attack hits an enemy inflicted with Proof of Debt, this combo creates a sort of feedback loop. Numby grants Aventurine more Follow-Ups which grant Numby more attacks which grants Aventurine more Follow-Ups etc. etc."
+        },
+        {
+            "character": "clara",
+            "notes": "Frequent Follow-up attacks allow Aventurine to gain additional stacks of Blind Bet thanks to his bonus ability fueling his sustain and damaging capabilities greatly."
+        },
+        {
+            "character": "acheron",
+            "notes": "Acheron is fueled by debuffs and as a Preservation character Aventurine can equip one of the most powerful sustaining Cones for Acheron and her teams *Trend of the Universal Market) which grants Acheron energy every time Aventurine is hit. What makes this combo more powerful than normal though is that Aventurine also applies a debuff with his Ultimate, has a higher than normal chance to break enemies thanks to his large break unit values (and as a result debuff them) and for investors even has an Eidolon which allows him to apply a debuff on every basic attack all allowing him to stand out as a sustain for her teams."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "For every <b>100</b> of Aventurine's DEF that exceeds <b>1600</b>, increases his own CRIT Rate by <b>2%</b>, up to a maximum increase of <b>48%</b>.",
+            "name": "Leverage"
+        },
+        {
+            "req": "A4",
+            "desc": "When battle starts, grants all allies a Fortified Wager shield, whose Shield effect is equal to <b>100%</b> of the one provided by the Skill, lasting for <b>3</b> turn(s).",
+            "name": "Hot Hand"
+        },
+        {
+            "req": "A6",
+            "desc": "After an ally with Fortified Wager launches a follow-up attack, Aventurine accumulates <b>1</b> Blind Bet point. This effect can trigger up to <b>3</b> time(s). And its trigger count resets at the start of Aventurine's turn. After Aventurine launches his Talent's follow-up attack, provides all allies with a Fortified Wager that can block DMG equal to <b>7.2%</b> of Aventurine's DEF plus <b>96</b>, and additionally grants a Fortified Wager that can block DMG equal to <b>7.2%</b> of Aventurine's DEF plus <b>96</b> to the ally with the lowest Shield effect, lasting for <b>3</b> turns.",
+            "name": "Bingo!"
+        }
+    ],
+    "review": {
+        "formatted": "Aventurine is an extremely potent Preservation sustain character. He has tremendously powerful shielding available to him through both his Skill and Talent follow-up, and will grant a large amount of Effect RES to shielded allies. Having shielded allies attacked will charge his follow-up, and both the follow-up and direct Skill use will stack the shield effect up to 200%. Ally follow-up attacks will also charge his follow-up. All of Aventurine's damage scales off of DEF, and he gains a large amount of free CRIT Rate for building for DEF.Everyone's favourite gambling enthusiast and certified lucky boy is finally here for us to take home. Aventurine boasts arguably the best team survivability in the game while also contributing actually good amounts of damage. He's got good synergy with follow-up teams, and since he's got a debuff that he can apply with his Ultimate, he's got some intrinsic value for teams with Acheron or Ratio as well. His kit is a little wordy, but his game plan is extremely simple \u2014 a nice change of pace from many of the other Penacony characters.Aventurine's Skill will grant all allies a shield that can block up to 24% DEF plus 320, lasting for 3 turns. This shield is referred to as Fortified Wager, and this will be important for later. This Fortified Wager shield can be stacked on top of itself, meaning using it again will add the new shield on top of the old shield, providing even greater protection. This can be stacked up to 200% of the original shield value, and it updates dynamically in case your DEF value changes.This is the first instance of a shield being able to stack outside of the Simulated Universe, and it's just as powerful as it sounds. An AoE shield having the value Aventurine's does is already very good since it's easily applied through a single Skill use, but more ridiculous is that a fully stacked shield will be equal to 48% DEF plus 640 \u2014 a value higher than that of Gepard's Ultimate! Since it lasts for 3 turns and can be easily reapplied and stacked on top of itself, keeping the team alive is really rather easy.Aventurine's Talent also plays into this, turning the dial on his shield value from 'high' to 'immense'. While an ally has a Fortified Wager shield, they will gain up to 50% Effect RES, and whenever an ally with Fortified Wager is attacked, Aventurine will gain 1 point of Blind Bet, and when Aventurine himself is attacked with Fortified Wager, he will gain an additional point of Blind Bet on top. Blind Bet can stack up to 10 times, and will immediately launch a follow-up attack when it reaches 7 points, consuming 7 points in the process. This follow-up hits 7 times dealing up to 25% DEF per hit, and hits a single random enemy each time. Aventurine himself also gains a one-time Crowd Control immunity while he has Fortified Wager, and this effect has a 2 turn cooldown.This follow-up attack is actually quite strong, dealing a total damage of 175% DEF and an impressive 70 Toughness Damage, 10 per hit. Especially against low amounts of targets, Aventurine can quite quickly shred through their Toughness gauges. The free Effect RES for allies is also extremely potent and can greatly reduce the chances of anyone ever getting inflicted with a pesky Crowd Control debuff, but equally worth mentioning is that this Effect RES will also greatly help against various non Crowd Control debuffs as well, such as DEF downs or enemy DoT effects. The follow-up also regenerates 7 Energy at base, so Aventurine's energy economy is actually better than one might expect. The condition for gaining points of Blind Bet is extremely lenient as well, since all you need is to have any ally with Fortified Wager get hit, including himself.Aventurine's Ultimate will grant him a random number of Blind Bet points upon use, anywhere from 1 to 7. He then inflicts a single enemy with the Unnerved debuff for 3 turns. Unnerved enemies will receive up to 15% increased CRIT DMG. This is a rather nice increase to overall team damage, especially since it\u2019s coming from a sustain unit and not a dedicated support. This attack will deal up to 270% DEF, and since it's a single-target Ultimate, will also deal 90 Toughness damage.This is why his Blind Bet can stack up to 10, since using his Ultimate could consistently overcap you heavily otherwise. A 3 turn duration on such a powerful debuff is very uncommon, and it's no slouch in the damage department either. Together with his Talent's follow-up, he can deal 160 Toughness damage in quick succession to a single foe, decimating their Toughness bar. Surprisingly, his Ultimate only has a meagre cost of 110 Energy, meaning he can have it up quite frequently, especially considering he's likely to be getting hit more than the rest of the team due to being a Preservation unit. Factoring in his follow-up's Energy regeneration as well, and it's well within reason to have this debuff near permanently active on all but the absolute fastest foes.Up until this point you may have been thinking 'well, that's all great, but if I need to use SP to stay alive, why would I choose this guy over one of our other excellent sustains?', and the answer to that becomes apparent when you look at his Bonus Ability Traces. His A2 will provide a bonus to his CRIT Rate, 2% CRIT Rate for every 100 points of DEF that Aventurine has that exceeds 1600. He can gain a maximum increase of 48%, achieved at 4000 DEF. Achieving this value is actually quite easy, especially since you\u2019re likely to be building with DEF in mind. You get a significant bump to his personal damage while still maximising the strength of his shields.His A4 and A6 are what bump his team survivability up to extremely competitive levels. A4 will automatically grant every ally a Fortified Wager shield when entering combat, equal to 100% of the Skill's value for 3 turns. This sets up strong defences very early on at no cost. Continuing the trend, A6 will provide all allies a weaker Fortified Wager shield upon launching Aventurine's follow-up attack, blocking 7% DEF plus 96, and providing double the value to the ally with the lowest HP. Aventurine will now also get a point of Blind Bet every time an ally with Fortified Wager launches a follow-up attack, up to 3 times between Aventurine's turns.I should remind you now that all of Aventurine's Fortified Wager shields stack, meaning it is very easy to go for long stretches of time where Aventurine doesn't have to use his Skill whatsoever to keep allies from taking damage. This immediately raises his SP efficiency to be more similar to that of Fu Xuan, only occasionally needing to use his Skill before beefy AoE hits. If you don't need to do that, then Aventurine could very well even be fully SP positive, all while still providing his strong offensive utility and follow-up synergy, putting him firmly on par with the likes of Fu Xuan \u2014 potentially even stronger.It should be pretty clear now that Aventurine is one of the outright strongest sustains we've ever gotten. Free stacking shields with the potential for SP flexibility to adapt to situations, coupled with fantastic no-cost offensive utility and an Ultimate that debuffs an enemy into taking more damage from your CRIT DPS. This guy has no trouble going toe-to-toe with the nastiest foes we've got, and that's unlikely to ever change, especially given that actually playing him is the simplest thing in the world. Need shield? Skill. Don't need shield? Don't Skill. You'll get a shield soon either way.Aventurine really doesn't need his Eidolons, but I personally know at least one person who's going all-in for Best Boy\u2122, so best of luck to her and here's the breakdown. E1 will provide a passive 20% increase to CRIT DMG for allies with Fortified Wager, and will instantly provide a full strength Fortified Wager to all allies after using his Ultimate, and E2 will have Aventurine's Basic ATK reduce his target's All-Type RES by 12% for 3 turns. Both of these first two Eidolons have tremendous value should you choose to go for them, especially E2, but again they\u2019re not at all necessary. E4 will increase Aventurine's DEF by 40% after using his follow-up and will increase the Hits Per Action of his follow-up by 3, and E6 will grant Aventurine one of the most ridiculous DMG boosts in the game, 50% per shielded ally up to 150% maximum.Now, I should clarify that Aventurine actually does really good damage, especially for a sustain unit. It\u2019s not going to eclipse any actual DPS characters, but it's certainly enough to be noticeable and to have a meaningful impact on the overall combat result. To that end, I wouldn't really recommend going all-in on offensive main stat Relics. Going for DEF will improve both his shield strength and his damage, and he maxes out his A2 bonuses at the 4000 DEF mark. Beyond this any DEF will start to suffer from some diminishing returns, but more DEF is never bad. If you\u2019re really looking to optimise his damage, you can start searching for offensive stats beyond this point, but this only really starts to matter if you\u2019ve got his signature Light Cone.At the end of the day, Aventurine is a sustain unit, and no matter how good his damage may or may not be, he needs to be able keep your team alive first and foremost. If you are unable to do that because you botched his build to deal 200 more damage per hit, that\u2019s entirely on you. If you\u2019re looking to get that much more oomph from this party slot, you\u2019d probably be better going without a sustain unit at all, so just be careful falling into the trap of forgetting why he\u2019s on your team, especially if you don\u2019t have his signature Light Cone.Having said that, Aventurine's got great Light Cone choices so you shouldn't feel pressured into getting his signature unless you really want to reach the maximum damage possible. Without his signature, his damage will fall quite considerably though, so it may not be worth fully pursuing damage on him if you\u2019re not using at least a 5-star Light Cone. He's universally usable, and especially because he has the potential to be fully SP positive, you can really just slot him into any team and not have to worry about dying from that point on. He's even got some synergy for Acheron and Dr. Ratio since his Ultimate applies a debuff; it's not as good as what Gallagher provides to Acheron specifically, and is quite a ways below what the Preservation Trailblazer can provide with Trend of the Universal Market equipped, but Aventurine is also a Preservation unit and so can also utilise the synergy Trend provides, albeit at a far lesser rate than Fire MC.Aventurine is probably the best universal sustain in the game now, he\u2019s just got everything you could ask for and more, and especially when it comes to follow-up teams, this is where Aventurine completely blows away the competition. He\u2019s already very SP efficient and deals great damage and Toughness damage, but it\u2019s dialled up to 11 when paired with frequent follow-up attackers like Dr. Ratio and Topaz.Thanks to his A6, Aventurine gets so many points of Blind Bet that he\u2019s constantly dropping chips on his enemies at an expeditious rate, skyrocketing his Toughness damage to be the highest of any sustain unit in the game, even beating out Gallagher. The increased frequency of follow-ups also means he\u2019s constantly stacking and refreshing the Fortified Wager shield, making the team damn near invincible. Under the right planets-align circumstances, the amount of Toughness damage can actually be so high that it has the potential to eclipse pretty much every other character as well, though how often one gets to experience this depends on the exact team and the enemy lineup.While Aventurine does have specific synergies with follow-up characters, he's entirely self-sufficient and should not be regarded as only a sustain for these teams. Like I said before, he's universal, and anyone who says otherwise is... incorrect. The gambler knows what's what, and he's an excellent addition to any team. I would consider him to be quite possibly the best sustain unit we've gotten so far, so especially if you're a newer player or a meta-chaser, you should definitely look into acquiring this golden boy. He\u2019s going to be a staple of follow-up teams for a very long time.The only question that remains is how does he get such a crisp fingersnap while wearing gloves?"
+    },
+    "pros": {
+        "formatted": "Excellent and consistent shielding, Strong team resistance to Crowd Control and debuffs, Surprisingly good damage output, Very SP positive and flexible, Strong debuff on his Ultimate, Obscene amounts of Toughness damage from his Ultimate and follow-up, Best-in-slot sustain for follow-up teams. "
+    },
+    "cons": {
+        "formatted": "Signature Light Cone provides the highest damage output, Strong debuff is single-target only, Wants to get hit to speed up getting his follow-up but has no way to taunt enemies. "
+    },
+    "endgameStats": {
+        "formatted": "HP: 2900-3000+ DEF: 4000+ CRIT RATE: 60-90%+ (including the Trace)CRIT DMG: 110-170%+ SPD: 106 or 134+ "
+    },
+    "voiceActors": {
+        "en": "Camden Sutkowski",
+        "kr": "\ubc15\uc900\uc6d0 (Park Jun-won)",
+        "jpn": "\u6cb3\u897f\u5065\u543e (Kawanishi Kengo)",
+        "cn": "\u6768\u8d85\u7136 (Yang Chaoran)"
+    },
+    "ratings": {
+        "moc": "11",
+        "moc_special": "11",
+        "pure": "11",
+        "pure_special": "11",
+        "apo": "11",
+        "apo_special": "11"
+    },
+    "energyUltimate": "110",
+    "conesNew": [
+        {
+            "cone": "inherently-unjust-destiny",
+            "super": "1",
+            "percent": "-",
+            "notes": "Aventurine's Signature is by far his best option offering colossal base DEF and 40% increased DEF% which not only trivializes reaching 4000 DEF but does so while allowing him to wear both a damage-focused Sphere and Body armour. The result of this is not only ease of building but also an extreme damage boost which is further boosted by this Cone's 40% CRIT DMG and the ability to apply a 10% damage taken debuff to enemies. The debuff this Cone provides not only helps Aventurine but also his teammates boosting their damage and in some cases their viability (Dr Ratio, Acheron). This debuff also enables him to more effectively use the Pioneer relic set bonus for even more damage."
+        },
+        {
+            "cone": "moment-of-victory",
+            "super": "1",
+            "percent": "-",
+            "notes": "Offers an above average amount of base DEF on top of a nice DEF% boost allowing Aventurine to easily hit 4000 DEF and in most cases also use 1 damaging piece instead of DEF% making up for the lack of damage on this Cone. This Cone also has a conditional DEF boosting effect which while not up consistently enough to be relied on, is a nice boost in combat increasing shield size and damage slightly. Additionally, this Cone will increase Aventurine's chance to be targetted by enemy attacks, increasing the general tankiness of your team and Blind Bet generation as Aventurine gains 2 stacks when he is hit as opposed to the 1 stack he gains when his allies are hit."
+        },
+        {
+            "cone": "concert-for-two",
+            "super": "5",
+            "percent": "-",
+            "notes": "A Cone with acceptable base DEF but a strong DEF% boost at S5 allowing for reasonably easy access to 4000 DEF. Also offers a substantial damage-boosting effect to Aventurine while all his allies are shielded which should be almost always. Comparable in power to S1 Moment of Victory but without the extra taunting effect or conditional boosts putting it a step behind."
+        },
+        {
+            "cone": "destinys-threads-forewoven",
+            "super": "5",
+            "percent": "-",
+            "notes": "Best F2P Cone for Aventurine with enough Base DEF to allow him to reach 4000 DEF despite not having any DEF% boosts present on it. Also has an excellent damage-boosting effect that grants him increased damage based on how much DEF he possesses up to a cap of 32% which Aventurine can easily maximise. A very competitive Cone only slightly behind S5 Concert and S1 Moment."
+        },
+        {
+            "cone": "trend-of-the-universal-market",
+            "super": "5",
+            "percent": "-",
+            "notes": "A specialist Cone choice for Aventurine when supporting Acheron. Used to apply frequent debuffs to enemies that strike Aventurine in order to grant Acheron energy. Has enough DEF to allow Aventurine to reach 4k DEF but foregoes many other bonuses meaning it should only be used in its niche."
+        },
+        {
+            "cone": "day-one-of-my-new-life",
+            "super": "5",
+            "percent": "-",
+            "notes": "A Cone that enables the usual 4000 DEF Aventurine needs but sacrifices some of his signature damage potential for a team-wide damage protection effect which can be situationally valuable. "
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Knight of Purity Palace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Knight of Purity Palace",
+                    "relic_2": "The Ashblazing Grand Duke",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Belobog of the Architects",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "echoes-of-the-coffin",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "DEF%"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "DEF%"
+                },
+                {
+                    "stat": "Imaginary DMG"
+                }
+            ],
+            "comments": "Stack DEF as a priority until you hit 4000, while doing so aim for the most appropriate Speed breakpoint for your teams. After reaching 4k DEF, stack CRIT DMG and CRIT Rate aiming for a 1:2 CRIT Ratio in-game (Aventurine only gains his CRIT Boost in combat). Alternatively, extra DEF% can be stacked for bigger shields.",
+            "substats": "DEF% (aim for 4k) >= SPD > CRIT DMG > CRIT Rate > Effect RES",
+            "skill_priority": "Skill > Talent > Ultimate >  Basic",
+            "traces_priority": "Leverage (A2) > Bingo! (A6) > Hot Hand (A4)",
+            "name": "Default Build"
+        }
+    ],
+    "videos": [
+        {
+            "video": "pBFFcQpUB6k"
+        }
+    ],
+    "teams": [
+        {
+            "name": "FUA Team",
+            "member_1": "dr-ratio",
+            "member_2": "topaz",
+            "member_3": "ruan-mei",
+            "member_4": "aventurine"
+        },
+        {
+            "name": "FUA Team - Budget",
+            "member_1": "dr-ratio",
+            "member_2": "pela",
+            "member_3": "tingyun",
+            "member_4": "aventurine"
+        },
+        {
+            "name": "Acheron Team",
+            "member_1": "acheron",
+            "member_2": "silver-wolf",
+            "member_3": "pela",
+            "member_4": "aventurine"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "DEF",
+            "value": 35
+        },
+        "traceStat2": {
+            "stat": "Imaginary DMG",
+            "value": 14.4
+        },
+        "traceStat3": {
+            "stat": "Effect RES",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Sustain",
+    "releaseDate": "April 17th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "FuA",
+        "Debuff",
+        "SP+"
+    ]
+}

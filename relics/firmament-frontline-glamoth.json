@@ -1,0 +1,53 @@
+{
+    "id": "12c1edc8-81ab-58ed-9920-412a78d68c5c",
+    "updatedAt": "2023-11-12T08:00:15.037Z",
+    "createdAt": "2023-11-12T08:00:15.037Z",
+    "relicId": "27",
+    "name": "Firmament Frontline: Glamoth",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's ATK by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When the wearer's SPD is equal to or higher than 135/160, the wearer deals \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12%/18%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" more DMG.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/22c63c0e24d04a2e4a7a1bbdf28cafd6/15e42/firm.png",
+                            "srcSet": "/static/22c63c0e24d04a2e4a7a1bbdf28cafd6/88208/firm.png 25w,\n/static/22c63c0e24d04a2e4a7a1bbdf28cafd6/e9fba/firm.png 50w,\n/static/22c63c0e24d04a2e4a7a1bbdf28cafd6/15e42/firm.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/22c63c0e24d04a2e4a7a1bbdf28cafd6/2fa99/firm.webp 25w,\n/static/22c63c0e24d04a2e4a7a1bbdf28cafd6/dbc4a/firm.webp 50w,\n/static/22c63c0e24d04a2e4a7a1bbdf28cafd6/d8057/firm.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

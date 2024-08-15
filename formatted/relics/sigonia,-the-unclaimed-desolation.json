@@ -1,0 +1,31 @@
+{
+    "relicId": "31",
+    "name": "Sigonia, the Unclaimed Desolation",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "Increases the wearer's CRIT Rate by 4%. When an enemy target gets defeated, the wearer's CRIT DMG increases by 4%, stacking up to 10 time(s). "
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/714c5db5c177dd31194e1e5cc76ab449/d8057/sidonia.webp",
+                            "srcSet": "/static/714c5db5c177dd31194e1e5cc76ab449/2fa99/sidonia.webp 25w,\n/static/714c5db5c177dd31194e1e5cc76ab449/dbc4a/sidonia.webp 50w,\n/static/714c5db5c177dd31194e1e5cc76ab449/d8057/sidonia.webp 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": null
+}

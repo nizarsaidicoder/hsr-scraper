@@ -1,0 +1,56 @@
+{
+    "coneId": 65,
+    "name": "We Are Wildfire",
+    "slug": "we-are-wildfire",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#b8a8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/8230bfde3f38e2ac2adb0e201dff9257/bf8e1/65.png",
+                            "srcSet": "/static/8230bfde3f38e2ac2adb0e201dff9257/914ee/65.png 32w,\n/static/8230bfde3f38e2ac2adb0e201dff9257/1c9ce/65.png 64w,\n/static/8230bfde3f38e2ac2adb0e201dff9257/bf8e1/65.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/8230bfde3f38e2ac2adb0e201dff9257/ef6ff/65.webp 32w,\n/static/8230bfde3f38e2ac2adb0e201dff9257/8257c/65.webp 64w,\n/static/8230bfde3f38e2ac2adb0e201dff9257/6766a/65.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Echo of War",
+        "Forgotten Hall Store"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "33",
+            "value_level_max": "740"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "21",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Teary-Eyed",
+    "skillDescription": {
+        "formatted": "At the start of the battle, the DMG dealt to all allies decreases by 8/10/12/14/16% for 5 turn(s). At the same time, immediately restores HP to all allies equal to 30/35/40/45/50% of the respective HP difference between the characters' Max HP and current HP."
+    }
+}

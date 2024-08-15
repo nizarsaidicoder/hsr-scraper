@@ -1,0 +1,55 @@
+{
+    "coneId": 103,
+    "name": "Night of Fright",
+    "slug": "night-of-fright",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ab8bc07509a5c5d06c93d624ef9c6578/bf8e1/86_sm.png",
+                            "srcSet": "/static/ab8bc07509a5c5d06c93d624ef9c6578/914ee/86_sm.png 32w,\n/static/ab8bc07509a5c5d06c93d624ef9c6578/1c9ce/86_sm.png 64w,\n/static/ab8bc07509a5c5d06c93d624ef9c6578/bf8e1/86_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ab8bc07509a5c5d06c93d624ef9c6578/ef6ff/86_sm.webp 32w,\n/static/ab8bc07509a5c5d06c93d624ef9c6578/8257c/86_sm.webp 64w,\n/static/ab8bc07509a5c5d06c93d624ef9c6578/6766a/86_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "November 15th, 2023",
+    "path": "Abundance",
+    "stats": {
+        "hp": {
+            "value_level_1": "52",
+            "value_level_max": "1164"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "24",
+            "value_level_max": "529"
+        }
+    },
+    "skillName": "Deep, Deep Breaths",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Energy Regeneration Rate by 12/14/16/18/20%. When any ally uses their Ultimate, the wearer restores HP for the ally currently with the lowest HP percentage by an amount equal to 10/11/12/13/14% of the healed ally's Max HP. When the wearer provides healing for an ally, increases the healed ally's ATK by 2.4/2.8/3.2/3.6/4%. This effect can stack up to 5 times and lasts for 2 turn(s)."
+    }
+}

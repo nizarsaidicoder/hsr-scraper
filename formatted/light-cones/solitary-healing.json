@@ -1,0 +1,55 @@
+{
+    "coneId": 80,
+    "name": "Solitary Healing",
+    "slug": "solitary-healing",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/58a82d543b9c11f215bac9b440e78390/bf8e1/80_sm.png",
+                            "srcSet": "/static/58a82d543b9c11f215bac9b440e78390/914ee/80_sm.png 32w,\n/static/58a82d543b9c11f215bac9b440e78390/1c9ce/80_sm.png 64w,\n/static/58a82d543b9c11f215bac9b440e78390/bf8e1/80_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/58a82d543b9c11f215bac9b440e78390/ef6ff/80_sm.webp 32w,\n/static/58a82d543b9c11f215bac9b440e78390/8257c/80_sm.webp 64w,\n/static/58a82d543b9c11f215bac9b440e78390/6766a/80_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Herta's Store"
+    ],
+    "releaseDate": "August 30th, 2023",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "48",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "24",
+            "value_level_max": "529"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Chaos Elixir",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Break Effect by 20/25/30/35/40%. When the wearer unleashes their Ultimate, increases DoT dealt by the wearer by 24/30/36/42/48% for 2 turn(s). Defeating the target suffering from the wearer's DoT allows the wearer to regenerate 4/4.5/5/5.5/6 Energy."
+    }
+}

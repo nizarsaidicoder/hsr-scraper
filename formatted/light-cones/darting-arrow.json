@@ -1,0 +1,55 @@
+{
+    "coneId": 9,
+    "name": "Darting Arrow",
+    "slug": "darting-arrow",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/79929e7bed1376496e774d32422d108f/bf8e1/9_sm.png",
+                            "srcSet": "/static/79929e7bed1376496e774d32422d108f/914ee/9_sm.png 32w,\n/static/79929e7bed1376496e774d32422d108f/1c9ce/9_sm.png 64w,\n/static/79929e7bed1376496e774d32422d108f/bf8e1/9_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/79929e7bed1376496e774d32422d108f/ef6ff/9_sm.webp 32w,\n/static/79929e7bed1376496e774d32422d108f/8257c/9_sm.webp 64w,\n/static/79929e7bed1376496e774d32422d108f/6766a/9_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "33",
+            "value_level_max": "740"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "War Cry",
+    "skillDescription": {
+        "formatted": "When the wearer defeats an enemy, increase ATK by 24/30/36/42/48% for 3 turn(s)."
+    }
+}

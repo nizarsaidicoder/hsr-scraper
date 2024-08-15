@@ -1,0 +1,50 @@
+{
+    "relicId": "14",
+    "name": "Fleet of the Ageless",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "Increases the wearer's Max HP by 12%. When the wearer's SPD reaches 120 or higher, all allies' ATK increases by 8%."
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/1acd76da714090b4450723cf81c6ddf2/15e42/planar_2.png",
+                            "srcSet": "/static/1acd76da714090b4450723cf81c6ddf2/88208/planar_2.png 25w,\n/static/1acd76da714090b4450723cf81c6ddf2/e9fba/planar_2.png 50w,\n/static/1acd76da714090b4450723cf81c6ddf2/15e42/planar_2.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/1acd76da714090b4450723cf81c6ddf2/2fa99/planar_2.webp 25w,\n/static/1acd76da714090b4450723cf81c6ddf2/dbc4a/planar_2.webp 50w,\n/static/1acd76da714090b4450723cf81c6ddf2/d8057/planar_2.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "hp",
+            "value": 12
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

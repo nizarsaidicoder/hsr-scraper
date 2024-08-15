@@ -1,0 +1,439 @@
+{
+    "unitId": 4,
+    "name": "Dan Heng",
+    "slug": "dan-heng",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/857b2b1906680674db70981176f31474/e9a79/4_sm.png",
+                            "srcSet": "/static/857b2b1906680674db70981176f31474/f31ef/4_sm.png 40w,\n/static/857b2b1906680674db70981176f31474/1f8a1/4_sm.png 80w,\n/static/857b2b1906680674db70981176f31474/e9a79/4_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/857b2b1906680674db70981176f31474/e73fe/4_sm.webp 40w,\n/static/857b2b1906680674db70981176f31474/61ca6/4_sm.webp 80w,\n/static/857b2b1906680674db70981176f31474/60b4d/4_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/d3b737975ee520bf2ad2e0b726f37f66/c9885/1002.png",
+                            "srcSet": "/static/d3b737975ee520bf2ad2e0b726f37f66/2aab7/1002.png 94w,\n/static/d3b737975ee520bf2ad2e0b726f37f66/0a986/1002.png 187w,\n/static/d3b737975ee520bf2ad2e0b726f37f66/c9885/1002.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/d3b737975ee520bf2ad2e0b726f37f66/84550/1002.webp 94w,\n/static/d3b737975ee520bf2ad2e0b726f37f66/34f80/1002.webp 187w,\n/static/d3b737975ee520bf2ad2e0b726f37f66/b26e2/1002.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/78a6404252106144837fb74ad3774a9b/3c5dc/4_full.png",
+                            "srcSet": "/static/78a6404252106144837fb74ad3774a9b/ca8fd/4_full.png 200w,\n/static/78a6404252106144837fb74ad3774a9b/de50c/4_full.png 400w,\n/static/78a6404252106144837fb74ad3774a9b/3c5dc/4_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/78a6404252106144837fb74ad3774a9b/213b2/4_full.webp 200w,\n/static/78a6404252106144837fb74ad3774a9b/413c5/4_full.webp 400w,\n/static/78a6404252106144837fb74ad3774a9b/cf6d0/4_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "A cold and reserved young man who wields a spear known as Cloud-Piercer. He acts as the train's guard on its long Trailblaze journey. He carefully observes the changes in everything around him, albeit with a calm demeanor that may appear to be indifference. He faithfully records everything they encounter on the Trailblaze path in the Express's archives. Danheng never talks much about his past. In fact, he joined the crew of the Express to escape from it.But will the Express really be able to take him far away from his past?"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "100201",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "100202",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "100203",
+            "energy_gen": "5",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "100204",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "100207",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Astral Express",
+    "rarity": "4",
+    "element": "Wind",
+    "path": "Hunt",
+    "stats": {
+        "hp_base": 120,
+        "def_base": 54,
+        "atk_base": 74.4,
+        "speed_base": 110
+    },
+    "ascensionMaterials": {
+        "mats_1": "extinguished-core",
+        "mats_2": "glimmering-core",
+        "mats_3": "storm-eye",
+        "mats_4": "squirming-core"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "4",
+            "name": "Danheng",
+            "upgrade1Name": "The Higher You Fly, the Harder You Fall",
+            "upgrade1Desc": {
+                "formatted": "When the target enemy's current HP percentage is greater than or equal to 50%, CRIT Rate increases by 12%."
+            },
+            "upgrade2Name": "Quell the Venom Octet, Quench the Vice O'Flame",
+            "upgrade2Desc": {
+                "formatted": "Reduces Talent cooldown by 1 turn."
+            },
+            "upgrade3Name": "Seen and Unseen",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1. up to a maximum of Lv. 10."
+            },
+            "upgrade4Name": "Roaring Dragon and Soaring Sun",
+            "upgrade4Desc": {
+                "formatted": "When Dan Heng uses his Ultimate to defeat an enemy, his next action is Advanced Forward by 100%."
+            },
+            "upgrade5Name": "A Drop of Rain Feeds a Torrent",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade6Name": "The Troubled Soul Lies in Wait",
+            "upgrade6Desc": {
+                "formatted": "The Slow state triggered by Skill reduces the enemy's SPD by an extra 8%. "
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When current HP percentage is <b>50%</b> or lower, reduces the chance of being attacked by enemies. ",
+            "name": "Hidden Dragon"
+        },
+        {
+            "req": "A4",
+            "desc": "After launching an attack, there is a 50% fixed chance to increase own SPD by <b>20%</b> for 2 turn(s).",
+            "name": "Faster Than Light"
+        },
+        {
+            "req": "A6",
+            "desc": "Basic ATK deals <b>40%</b> more damage to Slowed enemies.",
+            "name": "High Gale"
+        }
+    ],
+    "review": {
+        "formatted": "Dan Heng is a purely single-target damage dealer who is quite strong in the early stages of the game. He is unable to activate his Talent\u2019s RES PEN on his own, requiring an ally to target him with an Ability first, and also requires his primary target to also be Slowed to make the most of his Ultimate. He remains a solid damage dealer throughout most stages of the game, but can struggle to keep up in the late game without very heavy investment.Dan Heng is one of the first characters the player gains access to and is the third of the main trio of characters. He is the complementary single-target focused damage dealer to Destruction Trailblazer\u2019s generalist spread and March\u2019s defensive utility. As such, he is designed with the early story and subsequent fights in mind, meaning he can quite easily start to fall off if the player does not continue to invest in him.Dan Heng\u2019s Skill deals up to 260% ATK to a single enemy, with a 100% base chance to Slow the enemy by 12% for 2 turns on a CRIT Hit. The upfront multiplier is a little higher than equivalent Skills, but Dan Heng has fewer ways to increase it further. The Slow itself is important for Dan Heng\u2019s Ultimate and relies on you landing CRITs with the actual Skill. It\u2019s not too bad as the Skill hits 4 times in total and each one can roll the Slow, so this offsets the fact that Dan Heng will never want to build for Effect Hit Rate.Enemies naturally get faster and faster as the player levels up and reaches later stages of the game, but a 12% Slow is very rarely going to be the difference maker and this is not something that should be relied on for any meaningful reduction in enemy action or efficacy. This Slow should pretty much exclusively be considered as a priming tool for Dan Heng\u2019s Ultimate.Dan Heng\u2019s Ultimate deals a single large hit of 400% ATK to an enemy. If the target enemy is Slowed, the Ultimate\u2019s Multiplier increases by 120%, for a new total of 520%. This actually is a very impressive multiplier as very few other abilities hit this hard, especially at such a measly Energy cost of only 100. It is very easy for Dan Heng to have his Ultimate up very frequently because of this Energy cost, and additions of teammates such as Tingyun or Huohuo can easily give Dan Heng near back to back Ultimates.An issue that can arise is the small minigame of trying to optimise his Ultimate\u2019s damage, needing the enemy to be Slowed for maximum effect. Even though his Skill hits 4 times, they still need to be CRITs to have a chance of applying the Slow, and there is a non-zero chance that even if all 4 hits are CRITs you still don\u2019t end up getting the Slow. Another potential thing to occur is that the enemy\u2019s Slow duration runs out before you are able to reapply it.\u00a0This leads to the very real issue of having Dan Heng\u2019s Ultimate ready to be used but the enemy is not primed, and so you lose out on an Ability multiplier of 120%. This is a colossal damage loss when it occurs, and there is not always a way to avoid it. You could of course hold off on using Dan Heng\u2019s Ultimate for a turn to try and inflict the Slow on the enemy, but with such a low cost Ultimate this leads to very significant overcapping of Energy, and doing so can very easily cost you entire uses of his Ultimate later in the fight.Dan Heng\u2019s Talent is also very strong. When Dan Heng is targeted by an ally Ability, his next attack gains 36% Wind RES PEN. This has a 2 turn cooldown before it can be activated again. Resistance Penetration is a separate part of the DMG Formula, meaning this is a very powerful effect to have, and it\u2019s extraordinarily rare. Unfortunately, it\u2019s a lot more difficult for Dan Heng to make use of this powerful Talent because of its punishing requirements.To clarify, the Talent will only activate if Dan Heng is explicitly targeted by an ally Ability, meaning you have to see the blue targeting reticle on top of Dan Heng. Any Abilities that affect allies without first targeting them will not activate this Talent; Yukong\u2019s Roaring Bowstrings, Preservation Trailblazer\u2019s Talent, any Regeneration effects \u2014 none of these will trigger his Talent.\u2018But what if I want to get an Ultimate on an enemy that is already Slowed while also having my Talent ready to go to give the Ultimate the 36% RES PEN?\u2019 We have now arrived at the crux of the issue: how the heck are you supposed to reliably get this to happen? Yes, having a single attack dealing 520% ATK with 36% RES PEN attached is undoubtedly going to hit absurdly hard, especially since the RES PEN is not going to be diluted by support character\u2019s buffs, but the conditions to meet it consistently are perhaps edging closer to unreasonable.Because you will inevitably experience a situation in which you cannot Ult onto a Slowed enemy, or maybe you get Dan Heng\u2019s Talent back before his Ultimate is ready, the way to handle this is to simply not care. No, really, in the grand scheme of things it doesn\u2019t matter what order you choose to do things in, and Dan Heng\u2019s Skill can also benefit greatly from his Talent\u2019s effects. Try to activate his Talent every time you can and you\u2019ll naturally see a large damage increase; the 2 turn cooldown makes trying to fully optimise it to be used with his Ultimate near impossible in practice, and most assuredly not worth the headache.Dan Heng\u2019s Major Traces do not assist in alleviating these issues, but do provide noticeable bonuses. A2 reduces the chances of Dan Heng being attacked while he is at or below 50% Max HP, which is pretty much useless later on as there is still an element of luck involved, and staying below 50% health is pretty much asking to die in one more hit. A6 will increase the DMG of his Basic ATK by 40% against Slowed enemies. Ideally you should never need to use his Basic ATK but in the rare event you do, this will make it less of a damage loss.His A4 is very significant as it has a 50% fixed chance to increase Dan Heng\u2019s SPD by 20% for 2 turns after launching any attack. Percentage SPD increases only care about the character\u2019s Base SPD, and Dan Heng\u2019s happens to be the second highest in the game at 110, meaning this gives him a free 22 SPD. As it\u2019s a fixed chance, it\u2019s relatively easy to maintain as well so long as you\u2019re not holding off on using his Ultimate, making Dan Heng quite the speedy damage dealer if you have other SPD boosts.His Eidolons are not technically necessary for him to do well, but they are definitely welcome as they can quite significantly improve his performance. E2 in particular is a huge damage boost if the player is able to make use of it; his Talent\u2019s cooldown is reduced to only 1 turn, meaning every other turn can be buffed by the Wind RES PEN. This not only makes it a lot easier to have it available for his Ultimate, but also to improve his damage outside of his Ultimate.\u00a0Dan Heng can perform very well, like shockingly well, if well invested and if the player takes the time to learn his intricacies. Alas, it is undeniable that the amount of effort he demands is usually better used on other characters that are more generally usable. The complicated nature of his damage optimisations coupled with being exclusively single-target means he is rarely going to be players\u2019 first choice. Especially if the player only has enough patience for one complex unit at a time, Qingque is vastly more deserving of that attention, as not only is she also entirely free but has the potential to challenge limited 5-star characters in terms of overall power.\u00a0Again, if you like him or wish to use him for some other reasons, your loyalty can definitely be rewarded. He can deal stupidly impressive damage as long as you\u2019re willing to give him a fair shot. If you have Eidolons for him, consider giving him a try, especially if you\u2019re lacking Wind options. He may only be single target in nature, but he can make sure that those singular targets become dust."
+    },
+    "pros": {
+        "formatted": "High Ability multipliers, Naturally very speedy, Has rare Resistance Penetration in his kit, Scales well with Eidolons.\n\n"
+    },
+    "cons": {
+        "formatted": "Very steep learning curve, Cannot proc his own Talent without allies,No AoE means he can struggle without help, Requires high investment to stay relevant."
+    },
+    "endgameStats": {
+        "formatted": "HP: 2800 - 3000+ DEF: 800 - 900+ATK: 2100 - 2500+CRIT RATE: 65% - 75%+CRIT DMG: 130% - 150%+SPD: Base Speed (Hyperspeed Sparkle/Bronya) / 134 (Recommended) / 143 / 160"
+    },
+    "voiceActors": {
+        "en": "Nicholas Leung",
+        "kr": "Kim Hye-sung (\uae40\ud61c\uc131)",
+        "jpn": "Kento It\u014d (\u4f0a\u6771\u5065\u4eba)",
+        "cn": "Y\u00fa D\u00f2ng (\u9b5a\u51cd)"
+    },
+    "ratings": {
+        "moc": "5",
+        "moc_special": "5",
+        "pure": "4",
+        "pure_special": "4",
+        "apo": "5",
+        "apo_special": "4"
+    },
+    "energyUltimate": "100",
+    "conesNew": [
+        {
+            "cone": "in-the-night",
+            "super": "1",
+            "percent": "113.15%",
+            "notes": "Calcs contain some reallocation of ATK%, CRIT RATE and CRIT DMG% to SPD in order to achieve 4-6 stacks of the bonus. Each character is configured to reach the Speed breakpoint that grants them the most damage with this Cone. under the simulation conditions. With better relics and teams that grant more Speed this lightcones performance will improve comparatively."
+        },
+        {
+            "cone": "swordplay",
+            "super": "5",
+            "percent": "109.43%",
+            "notes": "Assumes full access to all 5 stacks throughout the entire duration of the fight. In fights where target swapping is required this Cone performance can be reduced substantially."
+        },
+        {
+            "cone": "only-silence-remains",
+            "super": "5",
+            "percent": "105.04%",
+            "notes": "Assumes the fight is limited to 2 or fewer enemies at all times. In fights where more than two enemies are present for any portion of it, this Cone performance will drop."
+        },
+        {
+            "cone": "cruising-in-the-stellar-sea",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes the on-kill ATK% boost can be maintained 66% of the time in the fight and only considers the base CRIT RATE % in these calculations not the additional CRIT on low life. In fights where the ATK% buff cannot be maintained the performance of this Cone will reduce."
+        },
+        {
+            "cone": "sleep-like-the-dead",
+            "super": "1",
+            "percent": "97.20%",
+            "notes": ""
+        },
+        {
+            "cone": "return-to-darkness",
+            "super": "5",
+            "percent": "94.13%",
+            "notes": "-"
+        },
+        {
+            "cone": "cruising-in-the-stellar-sea",
+            "super": "5",
+            "percent": "88.99%",
+            "notes": "Assumes the on-kill ATK% boost uptime is 0% and only considers the base CRIT RATE % in these calculations not the additional CRIT on low life."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "",
+                    "value": "107.08%",
+                    "comment": "100% uptime",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "98.45%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "Eagle of Twilight Line",
+                    "value": "98.37%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "103.16%",
+                    "comment": "160 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "99.92%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "98.33%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "97.64%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "in-the-night",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "ATK%"
+                },
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Wind DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "This is your typical DPS build that focuses on the holy trifecta - ATK, Crit Rate, and Crit DMG. For every 1% of Crit try to have 2% of Crit DMG.",
+            "substats": "SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Skill = Ultimate > Talent > Basic",
+            "traces_priority": "Faster Than Light (A4) > Hidden Dragon (A2) > High Gale (A6)",
+            "name": "General DPS"
+        }
+    ],
+    "videos": [
+        {
+            "video": "da6DjttBuGc"
+        }
+    ],
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "dan-heng",
+            "member_2": "natasha",
+            "member_3": "trailblazer-fire",
+            "member_4": "serval"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "windDmg",
+            "value": 22.4
+        },
+        "traceStat2": {
+            "stat": "atk",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "def",
+            "value": 12.5
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "Debuff",
+        "ADV"
+    ]
+}

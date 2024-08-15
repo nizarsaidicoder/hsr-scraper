@@ -1,0 +1,55 @@
+{
+    "coneId": 32,
+    "name": "Something Irreplaceable",
+    "slug": "something-irreplaceable",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/234a1966d56fa7c386a0fd9bc5969cef/bf8e1/32_sm.png",
+                            "srcSet": "/static/234a1966d56fa7c386a0fd9bc5969cef/914ee/32_sm.png 32w,\n/static/234a1966d56fa7c386a0fd9bc5969cef/1c9ce/32_sm.png 64w,\n/static/234a1966d56fa7c386a0fd9bc5969cef/bf8e1/32_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/234a1966d56fa7c386a0fd9bc5969cef/ef6ff/32_sm.webp 32w,\n/static/234a1966d56fa7c386a0fd9bc5969cef/8257c/32_sm.webp 64w,\n/static/234a1966d56fa7c386a0fd9bc5969cef/6766a/32_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1164"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Kinship",
+    "skillDescription": {
+        "formatted": "Increases the wearer's ATK by 24/28/32/36/40%. When the wearer defeats an enemy or is hit, immediately restores HP equal to 8/9/10/11/12% of the wearer's ATK. At the same time, the wearer's DMG is increased by 24/28/32/36/40% until the end of their next turn. This effect cannot stack and can only trigger 1 time per turn."
+    }
+}

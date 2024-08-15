@@ -1,0 +1,36 @@
+{
+    "id": "47b28840-58f6-5523-ac22-dba7b6830555",
+    "updatedAt": "2024-06-09T10:13:10.114Z",
+    "createdAt": "2024-06-09T09:46:38.782Z",
+    "relicId": "34",
+    "name": "The Wind-Soaring Valorous",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"ATK increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's CRIT Rate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When the wearer uses a follow-up attack, increase the DMG dealt by their Ultimate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"36%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\", lasting for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"1\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). \",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/02010aeb948ad671e93b2a75e051a0dd/d8057/set_34.webp",
+                            "srcSet": "/static/02010aeb948ad671e93b2a75e051a0dd/2fa99/set_34.webp 25w,\n/static/02010aeb948ad671e93b2a75e051a0dd/dbc4a/set_34.webp 50w,\n/static/02010aeb948ad671e93b2a75e051a0dd/d8057/set_34.webp 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": null
+}

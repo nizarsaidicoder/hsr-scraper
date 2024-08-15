@@ -1,0 +1,50 @@
+{
+    "relicId": "17",
+    "name": "Celestial Differentiator",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "Increases the wearer's CRIT DMG by 16%. When the wearer's current CRIT DMG reaches 120% or higher, after entering battle, the wearer's CRIT Rate increases by 60% until the end of their first attack."
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/344c33e7412a8c35f26c3bbb274554cf/15e42/planar_5.png",
+                            "srcSet": "/static/344c33e7412a8c35f26c3bbb274554cf/88208/planar_5.png 25w,\n/static/344c33e7412a8c35f26c3bbb274554cf/e9fba/planar_5.png 50w,\n/static/344c33e7412a8c35f26c3bbb274554cf/15e42/planar_5.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/344c33e7412a8c35f26c3bbb274554cf/2fa99/planar_5.webp 25w,\n/static/344c33e7412a8c35f26c3bbb274554cf/dbc4a/planar_5.webp 50w,\n/static/344c33e7412a8c35f26c3bbb274554cf/d8057/planar_5.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "critDmg",
+            "value": 16
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

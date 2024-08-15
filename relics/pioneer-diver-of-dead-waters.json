@@ -1,0 +1,42 @@
+{
+    "id": "8273daa0-8607-5830-997a-d7a3506498a2",
+    "updatedAt": "2024-02-02T08:20:06.437Z",
+    "createdAt": "2024-02-02T08:20:06.437Z",
+    "relicId": "29",
+    "name": "Pioneer Diver of Dead Waters",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases DMG dealt to enemies with debuff by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"12%.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases CRIT Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". The wearer deals \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8%/12%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" increased CRIT DMG to enemies with at least \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"2/3\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" debuffs. After the wearer inflicts a debuff on enemy targets, the aforementioned effects increase by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"100%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", lasting for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turn.\",\"marks\":[],\"data\":{}}]}]}"
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/4bb4611740f96127dddc8f04b98ab81a/15e42/29.png",
+                            "srcSet": "/static/4bb4611740f96127dddc8f04b98ab81a/88208/29.png 25w,\n/static/4bb4611740f96127dddc8f04b98ab81a/e9fba/29.png 50w,\n/static/4bb4611740f96127dddc8f04b98ab81a/15e42/29.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/4bb4611740f96127dddc8f04b98ab81a/2fa99/29.webp 25w,\n/static/4bb4611740f96127dddc8f04b98ab81a/dbc4a/29.webp 50w,\n/static/4bb4611740f96127dddc8f04b98ab81a/d8057/29.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": null
+}

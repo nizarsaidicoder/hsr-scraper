@@ -1,0 +1,55 @@
+{
+    "id": "809cfdc3-4b3a-5e7c-9ef8-fa2f5864dd03",
+    "updatedAt": "2023-04-25T18:51:30.897Z",
+    "createdAt": "2023-02-16T13:35:06.698Z",
+    "relicId": "9",
+    "name": "Band of Sizzling Thunder",
+    "type": "Relic Set",
+    "element": "Lightning",
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"underline\"}],\"value\":\"Lightning DMG\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When the wearer uses Skill, increases the wearer's ATK by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turn(s).\",\"marks\":[],\"data\":{}}]}]}"
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ead9470f7f552c4c7831ca1cea95cda4/15e42/set_9.png",
+                            "srcSet": "/static/ead9470f7f552c4c7831ca1cea95cda4/88208/set_9.png 25w,\n/static/ead9470f7f552c4c7831ca1cea95cda4/e9fba/set_9.png 50w,\n/static/ead9470f7f552c4c7831ca1cea95cda4/15e42/set_9.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ead9470f7f552c4c7831ca1cea95cda4/2fa99/set_9.webp 25w,\n/static/ead9470f7f552c4c7831ca1cea95cda4/dbc4a/set_9.webp 50w,\n/static/ead9470f7f552c4c7831ca1cea95cda4/d8057/set_9.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "lightningDmg",
+            "value": 10
+        },
+        "relicSet4pc": {
+            "stat": "atk",
+            "value": 20
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 1
+        }
+    }
+}

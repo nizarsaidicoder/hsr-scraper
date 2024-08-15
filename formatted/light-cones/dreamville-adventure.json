@@ -1,0 +1,55 @@
+{
+    "coneId": 111,
+    "name": "Dreamville Adventure",
+    "slug": "dreamville-adventure",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b597df9999e6ae4ee581534115f69581/bf8e1/111_sm.png",
+                            "srcSet": "/static/b597df9999e6ae4ee581534115f69581/914ee/111_sm.png 32w,\n/static/b597df9999e6ae4ee581534115f69581/1c9ce/111_sm.png 64w,\n/static/b597df9999e6ae4ee581534115f69581/bf8e1/111_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/b597df9999e6ae4ee581534115f69581/ef6ff/111_sm.webp 32w,\n/static/b597df9999e6ae4ee581534115f69581/8257c/111_sm.webp 64w,\n/static/b597df9999e6ae4ee581534115f69581/6766a/111_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Forgotten Hall Store"
+    ],
+    "releaseDate": "February 29th, 2024",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "953"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "397"
+        }
+    },
+    "skillName": "Solidarity",
+    "skillDescription": {
+        "formatted": "After the wearer uses a Basic ATK, Skill, or Ultimate, all allies gain Childishness, which increases the DMG dealt by the corresponding ability they used by 12/14/16/18/20%. Childishness only takes effect with the most recent ability used by the wearer and cannot be stacked."
+    }
+}

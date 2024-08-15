@@ -1,0 +1,34 @@
+{
+    "id": "12eee2c6-e4ea-56b8-b5c2-904f32bbe291",
+    "updatedAt": "2024-03-25T13:36:56.462Z",
+    "createdAt": "2024-03-17T08:15:14.563Z",
+    "relicId": "31",
+    "name": "Sigonia, the Unclaimed Desolation",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's CRIT Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When an enemy target gets defeated, the wearer's CRIT DMG increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"4%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", stacking up to \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"10\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" time(s). \",\"marks\":[],\"data\":{}}]}]}"
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/714c5db5c177dd31194e1e5cc76ab449/d8057/sidonia.webp",
+                            "srcSet": "/static/714c5db5c177dd31194e1e5cc76ab449/2fa99/sidonia.webp 25w,\n/static/714c5db5c177dd31194e1e5cc76ab449/dbc4a/sidonia.webp 50w,\n/static/714c5db5c177dd31194e1e5cc76ab449/d8057/sidonia.webp 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": null
+}

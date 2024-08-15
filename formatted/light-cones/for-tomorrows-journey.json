@@ -1,0 +1,49 @@
+{
+    "coneId": 121,
+    "name": "For Tomorrow's Journey",
+    "slug": "for-tomorrows-journey",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/f2a3ae86473dc27596b5c2f485c8e03a/6766a/121_sm.webp",
+                            "srcSet": "/static/f2a3ae86473dc27596b5c2f485c8e03a/ef6ff/121_sm.webp 32w,\n/static/f2a3ae86473dc27596b5c2f485c8e03a/8257c/121_sm.webp 64w,\n/static/f2a3ae86473dc27596b5c2f485c8e03a/6766a/121_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Mission Reward"
+    ],
+    "releaseDate": "May 8th, 2024",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "953"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "331"
+        }
+    },
+    "skillName": "Bonds",
+    "skillDescription": {
+        "formatted": "Increases the wearer's ATK by 16/20/24/28/32%. After the wearer uses their Ultimate, increases their DMG dealt by 18/21/24/27/30%, lasting for 1 turn. "
+    }
+}

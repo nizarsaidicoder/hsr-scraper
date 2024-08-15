@@ -1,0 +1,415 @@
+{
+    "unitId": 19,
+    "name": "Sampo",
+    "slug": "sampo",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/0b758a75ced25955b92c9f055b71c87f/e9a79/19_sm.png",
+                            "srcSet": "/static/0b758a75ced25955b92c9f055b71c87f/f31ef/19_sm.png 40w,\n/static/0b758a75ced25955b92c9f055b71c87f/1f8a1/19_sm.png 80w,\n/static/0b758a75ced25955b92c9f055b71c87f/e9a79/19_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/0b758a75ced25955b92c9f055b71c87f/e73fe/19_sm.webp 40w,\n/static/0b758a75ced25955b92c9f055b71c87f/61ca6/19_sm.webp 80w,\n/static/0b758a75ced25955b92c9f055b71c87f/60b4d/19_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/2269e8d1134c31590127852b17e97dae/c9885/1108.png",
+                            "srcSet": "/static/2269e8d1134c31590127852b17e97dae/2aab7/1108.png 94w,\n/static/2269e8d1134c31590127852b17e97dae/0a986/1108.png 187w,\n/static/2269e8d1134c31590127852b17e97dae/c9885/1108.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/2269e8d1134c31590127852b17e97dae/84550/1108.webp 94w,\n/static/2269e8d1134c31590127852b17e97dae/34f80/1108.webp 187w,\n/static/2269e8d1134c31590127852b17e97dae/b26e2/1108.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/f8e75db831bcfe66b9f02dd44474cf01/3c5dc/19_full.png",
+                            "srcSet": "/static/f8e75db831bcfe66b9f02dd44474cf01/ca8fd/19_full.png 200w,\n/static/f8e75db831bcfe66b9f02dd44474cf01/de50c/19_full.png 400w,\n/static/f8e75db831bcfe66b9f02dd44474cf01/3c5dc/19_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/f8e75db831bcfe66b9f02dd44474cf01/213b2/19_full.webp 200w,\n/static/f8e75db831bcfe66b9f02dd44474cf01/413c5/19_full.webp 400w,\n/static/f8e75db831bcfe66b9f02dd44474cf01/cf6d0/19_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "A silver-tongued salesman, where there is profit to be made, you can be sure Sampo is nearby. Sampo's unique knowledge makes it hard not to approach him for help, but becoming his \"customer\" is not necessarily a good thing.After all, \"customers\" can quickly turn into \"commodities\" for the right price. "
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "110801",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "110802",
+            "energy_gen": "6",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "110803",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "110804",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "110807",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Sub DPS",
+    "affiliation": "Belobog",
+    "rarity": "4",
+    "element": "Wind",
+    "path": "Nihility",
+    "stats": {
+        "hp_base": 139.2,
+        "def_base": 54,
+        "atk_base": 84,
+        "speed_base": 102
+    },
+    "ascensionMaterials": {
+        "mats_1": "ancient-part",
+        "mats_2": "ancient-spindle",
+        "mats_3": "storm-eye",
+        "mats_4": "ancient-engine"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "19",
+            "name": "Sampo",
+            "upgrade1Name": "Rising Love",
+            "upgrade1Desc": {
+                "formatted": "When using Skill, deals DMG for 1 extra time(s) to a random enemy."
+            },
+            "upgrade2Name": "Infectious Enthusiasm",
+            "upgrade2Desc": {
+                "formatted": "When an enemy with Wind Shear is defeated, there is a 100% base chance to inflict 1 stack(s) of Wind Shear, equivalent to the Talent's Wind Shear."
+            },
+            "upgrade3Name": "Big Money!",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1. up to a maximum of Lv. 10."
+            },
+            "upgrade4Name": "The Deeper the Love, the Stronger the Hate",
+            "upgrade4Desc": {
+                "formatted": "When Skill hits an enemy with 5 or more stack(s) of Wind Shear, the enemy immediately takes 8% of current Wind Shear DMG."
+            },
+            "upgrade5Name": "Huuuuge Money!",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade6Name": "Increased Spending",
+            "upgrade6Desc": {
+                "formatted": "Talent's Wind Shear DMG multiplier increases by 15%."
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Extends the duration of <u>Wind Shear</u> caused by Talent by <b>1</b> turn.",
+            "name": "Trap"
+        },
+        {
+            "req": "A4",
+            "desc": "Using Ultimate additionally regenerates <b>10</b> Energy.",
+            "name": "Defensive Position"
+        },
+        {
+            "req": "A6",
+            "desc": "Enemies with <u>Wind Shear</u> effect deal <b>15%</b> less damage to Sampo.",
+            "name": "Spice Up"
+        }
+    ],
+    "review": {
+        "formatted": "Sampo is a surprisingly powerful and consistent damage dealer specialising in Damage over Time (DoT). He has no issues hitting every single enemy on the field and rapidly applying and maintaining 5 stacks of Wind Shear with a high DMG multiplier. In addition to this, he also deals absurd amounts of Toughness Damage and can even be played fully SP positive if the situation calls for it. His Ultimate will also greatly increase the DoT that afflicted enemies will take, further improving his own damage as well as for any allies with DoT.Ah, Sam-po Kos-ki, was it? What an excellent character. Either you love him or you love to hate him, but whichever way you spin it, everyone loves Sampo, and for good reason! However, our good and definitely honourable friend has been flying under the radar for far too long, and I\u2019m here to remedy that. Prepare yourselves for some fully warranted shilling, baby.Sampo\u2019s Talent grants all of Sampo\u2019s attacks a 65% base chance to inflict Wind Shear for 3 turns. This Wind Shear can stack up to 5 times with each stack dealing up to 52% ATK at the start of each turn, for a total DMG multiplier of 260% at 5 stacks. I said it before and I\u2019ll say it again, that is an absurd amount of damage to be doing completely passively. For context, Kafka\u2019s Shock deals 290% and she\u2019s a fully fledged 5-star unit, and Sampo gets unreasonably close.The way this Wind Shear works is also extremely favourable to Sampo; you need only reapply the Wind Shear once to refresh the duration of the entire stack of Wind Shear, meaning you have 3 turns at base to keep your 5 stacked Wind Shear going, which is incredibly generous. Additionally, all of Sampo\u2019s attacks hit multiple times, meaning it is very easy to apply multiple stacks of Wind Shear with a single action, meaning the expected ramp-up time can also be a lot shorter than expected \u2014 his Basic ATK hits 3 times, his Skill hits 5-6 times, and his Ultimate hits 4 times against all foes.Sampo\u2019s Skill is a Bounce Ability, meaning it hits the primary target once guaranteed and then proceeds to Bounce its remaining hits across all enemies randomly. It hits 5 times in total with each hit dealing up to 56% ATK to the enemy it strikes. The initial Toughness damage is 30, with each subsequent hit being 15. This results in this Skill dealing a total of 280% ATK and 90 Toughness damage. Yes this is as absurd as it seems. Especially when going up against tougher Elites or Bosses, Sampo has no issues racking up the Toughness damage against them, and Wind-weak foes will be weeping in their Weakness Broken tears in no time.Sampo\u2019s Ultimate deals up to 160% ATK to all enemies on the field, hitting them 4 times each, and has a 100% base chance to apply a debuff that increases their DoT taken by up to 30% for 2 turns. This debuff applies to all DoT, including Sampo and his teammates\u2019, as well as any Break DoT on the enemy. This is an incredibly easy way to stack Wind Shear on many foes at once, and it has an average cost of 120 Energy. Since you\u2019re likely to be using Sampo\u2019s Skill often anyway, you can get this back very quickly.Sampo has some of the better Bonus Ability Traces among the early characters. A2 extends the duration of his Talent\u2019s Wind Shear by 1 turn, resulting in a new duration of 4 turns. 4 turns of Wind Shear. That means even the absolute fastest enemies in the game cannot escape the Wind Shear wrath, as they would need to take 4 entire turns before Sampo is able to even take one or use his Ultimate, which just isn\u2019t possible \u2014 nobody has a high enough skill issue to where this can ever happen, and if you say otherwise then you better be prepared with audiovisual proof bucko.A4 will refund an additional 10 Energy upon using his Ultimate, meaning the cost effectively goes down to 110, which is even more accessible and powerful. A6 I think is the one that people gloss over a lot because they don\u2019t read\u2026 Ehm, I guess this is a good time to say thank you if you\u2019re actually still reading this far, that must have been tough on you, proud of you.Anyway, Sampo\u2019s A6 makes it so that any enemies affected by Wind Shear will deal 15% less DMG to him. DMG reduction is an incredibly powerful and rare defensive stat \u2014 the Guard of Wuthering Snow Relic Set 2 piece effect is only 8% and that\u2019s already lowkey busted. Having a quite literally permanent 15% DMG reduction is absolutely invaluable because it raises Sampo\u2019s survivability by such an extent that he can actually get away with even more offensive substats. Even his Minor Traces reflect this, not having any DEF or HP Traces at all.Sampo is already strong without Eidolons, as a lot of his damage comes from the consistent nature of DoT without the need for CRIT stats. It\u2019s definitely not as flashy as seeing those big CRIT hits from other characters, but the sheer quantity of damage coupled with his Breaking ability makes for a fairly reliable teammate.However, he goes to another level with Eidolons. E1 will add an extra 6th Bounce to his Skill, increasing damage, Toughness damage and even Energy gain further. This is probably one of the most value E1s in the entire game, and is highly recommended for Sampo enjoyers. E2 will cause a defeated enemy with Wind Shear to have a 100% base chance to inflict all enemies on the field with 1 stack of Wind Shear, meaning Sampo can keep Wind Shear going quite easily even against respawning enemies.E4 is where the real juice is. When Sampo\u2019s Skill hits an enemy with 5 or more stacks of Wind Shear, the enemy immediately takes 8% of the current Wind Shear DMG. \u2018What? How is this the juice? A measly 8%?\u2019 Look closer, friend\u2026 It\u2019s 8% per hit. Sampo is able to detonate 48% of the current Wind Shear damage on enemies, and it even shows up as additional damage, meaning you\u2019ll see an absolute mess of damage numbers on enemies.\u00a0Finally at E6, he gets a permanent additional 15% DMG multiplier on his Talent\u2019s Wind Shear. Not DMG percent, DMG multiplier. So his Wind Shear goes from dealing, at this stage thanks to E5, 57.2% ATK to now dealing 72.2% ATK, for a new total of 361% ATK at 5 stacks of Wind Shear. Yeah.It\u2019s pretty clear that Sampo does an absurd amount of damage at virtually no cost now, and because of this it\u2019s very easy to build a team for him. Obviously pairing him with Kafka creates one of the strongest teams in the game thanks to Kafka being the DoT character, but by no means is Sampo shackled to only being a DoT teammate for Kafka.Sampo is fully capable on his own. Pair him with the standard hypercarry affair and watch the fireworks spark. Ruan Mei in particular is a great teammate for him due to her increased Weakness Break Efficiency, making Sampo\u2019s already oppressive Toughness damage even higher. SPD boosters like Hanya or Bronya can also greatly improve Sampo\u2019s overall damage, especially when he\u2019s at E4 or higher, and Tingyun can greatly improve his AoE consistency in modes like Pure Fiction.Sampo Koski is the archetypal jester character; he plays the fool for all to see because pretending to be weak amuses him\u2026 Sampo Koski is many things, friends, but weak is most assuredly not one of them. His facade is most impressive, but all it takes is a single look behind the curtain to ascertain the truth.Sampo Koski will see you for the next one!"
+    },
+    "pros": {
+        "formatted": "Exceptional Breaking capabilities, Extremely high and consistent damage with DoT, Works against all forms of content, DoT scales favourably against stronger and faster foes, Scales fantastically with Eidolons, Can be SP-positive if needed.\n"
+    },
+    "cons": {
+        "formatted": "Needs a bit of ramp-up time in combat, Requires a fair bit of investment, Free Light Cone options are limited, Some people seem to dislike him a fair bit.\n"
+    },
+    "endgameStats": {
+        "formatted": "HP: 3000+ DEF: 800 - 900+ATK: 2800 - 3200+SPD: 134 / 143 (Recommended) / 160EFFECT HIT RATE: 67% -  80%"
+    },
+    "voiceActors": {
+        "en": "Roger Rose",
+        "kr": "\uc815\uc7ac\ud5cc",
+        "jpn": "Hirakawa Daisuke (\u5e73\u5ddd\u5927\u8f14)",
+        "cn": "\u5218\u5723\u535a"
+    },
+    "ratings": {
+        "moc": "6",
+        "moc_special": "5",
+        "pure": "7",
+        "pure_special": "6",
+        "apo": "7",
+        "apo_special": "6"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "good-night-and-sleep-well",
+            "super": "5",
+            "percent": "113.44%",
+            "notes": "Assumes 3 debuffs are present at all times on the enemy. Having less debuff at any point during the fight will lower this Cone's performance."
+        },
+        {
+            "cone": "eyes-of-the-prey",
+            "super": "5",
+            "percent": "104.93%",
+            "notes": ""
+        },
+        {
+            "cone": "its-showtime",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Calcs contain some reallocation of ATK% and SPD if required to hit 80% EHR in order to activate this Cone's main effect."
+        },
+        {
+            "cone": "fermata",
+            "super": "5",
+            "percent": "93.07%",
+            "notes": "Assumes enemy is always debuffed with Wind Shear or Shock. When fighting enemies that are not constantly affected by Shock or Wind Shear this Cone's performance will reduce."
+        },
+        {
+            "cone": "solitary-healing",
+            "super": "5",
+            "percent": "89.95%",
+            "notes": ""
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Prisoner in Deep Confinement",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Prisoner in Deep Confinement",
+                    "relic_2": "Pioneer Diver of Dead Waters",
+                    "value": "96.37%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Prisoner in Deep Confinement",
+                    "relic_2": "Eagle of Twilight Line",
+                    "value": "95.37%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "103.32%",
+                    "comment": "160 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "100%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Pan-Cosmic Commercial Enterprise",
+                    "value": "98.39%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "97.02%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "good-night-and-sleep-well",
+                    "super": "5"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Effect Hit Rate"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Wind DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "Sampo's Talent has a rather low base chance to hit, so EHR will help with consistency in AoE situations. Build at least 67% Effect Hit Rate to guarantee the DoT Vulnerability debuff. Pan-Galatic has slightly more value in term of substats but can be inefficient to farm.",
+            "substats": "SPD (breakpoint) = EHR (Until recommended) > ATK% > Break Effect",
+            "skill_priority": "Talent > Skill > Ultimate > Basic",
+            "traces_priority": "Trap (A2) > Defensive Position (A4) > Spice Up (A6)",
+            "name": "Pure DoT"
+        }
+    ],
+    "videos": null,
+    "teams": [
+        {
+            "name": "DoT team",
+            "member_1": "sampo",
+            "member_2": "kafka",
+            "member_3": "silver-wolf",
+            "member_4": "luocha"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "effectHitRate",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "effectRes",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "DoT",
+        "Break",
+        "Debuff"
+    ]
+}

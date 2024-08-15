@@ -1,0 +1,55 @@
+{
+    "coneId": 86,
+    "name": "Sagacity",
+    "slug": "sagacity",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/093ac77f3c7b056fb9a397469f99e702/bf8e1/86.png",
+                            "srcSet": "/static/093ac77f3c7b056fb9a397469f99e702/914ee/86.png 32w,\n/static/093ac77f3c7b056fb9a397469f99e702/1c9ce/86.png 64w,\n/static/093ac77f3c7b056fb9a397469f99e702/bf8e1/86.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/093ac77f3c7b056fb9a397469f99e702/ef6ff/86.webp 32w,\n/static/093ac77f3c7b056fb9a397469f99e702/8257c/86.webp 64w,\n/static/093ac77f3c7b056fb9a397469f99e702/6766a/86.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "33",
+            "value_level_max": "740"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Genius",
+    "skillDescription": {
+        "formatted": "When the wearer uses their Ultimate, increases ATK by 24/30/36/42/48% for 2 turn(s)."
+    }
+}

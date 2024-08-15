@@ -1,0 +1,52 @@
+{
+    "relicId": "8",
+    "name": "Genius of Brilliant Stars",
+    "type": "Relic Set",
+    "element": "Quantum",
+    "bonus2": {
+        "formatted": "Increases Quantum DMG by 10%."
+    },
+    "bonus4": {
+        "formatted": "When the wearer deals DMG to the target enemy, ignores 10% DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores 10% DEF."
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/98e6821f34d5ee03f3e3a05b3e5494d8/15e42/set_8.png",
+                            "srcSet": "/static/98e6821f34d5ee03f3e3a05b3e5494d8/88208/set_8.png 25w,\n/static/98e6821f34d5ee03f3e3a05b3e5494d8/e9fba/set_8.png 50w,\n/static/98e6821f34d5ee03f3e3a05b3e5494d8/15e42/set_8.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/98e6821f34d5ee03f3e3a05b3e5494d8/2fa99/set_8.webp 25w,\n/static/98e6821f34d5ee03f3e3a05b3e5494d8/dbc4a/set_8.webp 50w,\n/static/98e6821f34d5ee03f3e3a05b3e5494d8/d8057/set_8.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "quantumDmg",
+            "value": 10
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

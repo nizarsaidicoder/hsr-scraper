@@ -1,0 +1,55 @@
+{
+    "coneId": 58,
+    "name": "Resolution Shines As Pearls of Sweat",
+    "slug": "resolution-shines-as-pearls-of-sweat",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/1e31ed68f3897ad7be84f972f48cf243/bf8e1/58.png",
+                            "srcSet": "/static/1e31ed68f3897ad7be84f972f48cf243/914ee/58.png 32w,\n/static/1e31ed68f3897ad7be84f972f48cf243/1c9ce/58.png 64w,\n/static/1e31ed68f3897ad7be84f972f48cf243/bf8e1/58.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/1e31ed68f3897ad7be84f972f48cf243/ef6ff/58.webp 32w,\n/static/1e31ed68f3897ad7be84f972f48cf243/8257c/58.webp 64w,\n/static/1e31ed68f3897ad7be84f972f48cf243/6766a/58.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Glance Back",
+    "skillDescription": {
+        "formatted": "When the wearer hits an enemy and if the hit enemy is not already Ensnared, then there is a 60/70/80/90/100% base chance to Ensnare the hit enemy. Ensnared enemies' DEF decreases by 12/13/14/15/16% for 1 turn(s)."
+    }
+}

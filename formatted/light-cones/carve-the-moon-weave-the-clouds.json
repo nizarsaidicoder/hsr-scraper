@@ -1,0 +1,55 @@
+{
+    "coneId": 52,
+    "name": "Carve the Moon, Weave the Clouds",
+    "slug": "carve-the-moon-weave-the-clouds",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/3a56d3253b7fa6a34b8a47ef83dc75d0/bf8e1/52_sm.png",
+                            "srcSet": "/static/3a56d3253b7fa6a34b8a47ef83dc75d0/914ee/52_sm.png 32w,\n/static/3a56d3253b7fa6a34b8a47ef83dc75d0/1c9ce/52_sm.png 64w,\n/static/3a56d3253b7fa6a34b8a47ef83dc75d0/bf8e1/52_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/3a56d3253b7fa6a34b8a47ef83dc75d0/ef6ff/52_sm.webp 32w,\n/static/3a56d3253b7fa6a34b8a47ef83dc75d0/8257c/52_sm.webp 64w,\n/static/3a56d3253b7fa6a34b8a47ef83dc75d0/6766a/52_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Nameless Glory"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Secret",
+    "skillDescription": {
+        "formatted": "At the start of the battle and whenever the wearer's turn begins, one of the following effects is applied randomly: All allies' ATK increases by 10/12.5/15/17.5/20%, all allies' CRIT DMG increases by 12/15/18/21/24%, or all allies' Energy Regeneration Rate increases by 6/7.5/9/10.5/12%. The applied effect cannot be identical to the last effect applied, and will replace the previous effect. The applied effect will be removed when the wearer has been knocked down. Effects of the similar type cannot be stacked.\n\n\n\n"
+    }
+}

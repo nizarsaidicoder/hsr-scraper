@@ -1,0 +1,621 @@
+{
+    "unitId": 8,
+    "name": "Silver Wolf",
+    "slug": "silver-wolf",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/46b350599121f6a83272a0635061d071/e9a79/8_sm.png",
+                            "srcSet": "/static/46b350599121f6a83272a0635061d071/f31ef/8_sm.png 40w,\n/static/46b350599121f6a83272a0635061d071/1f8a1/8_sm.png 80w,\n/static/46b350599121f6a83272a0635061d071/e9a79/8_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/46b350599121f6a83272a0635061d071/e73fe/8_sm.webp 40w,\n/static/46b350599121f6a83272a0635061d071/61ca6/8_sm.webp 80w,\n/static/46b350599121f6a83272a0635061d071/60b4d/8_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/1d4b595cee035da8060a90b34ed197e6/c9885/1006.png",
+                            "srcSet": "/static/1d4b595cee035da8060a90b34ed197e6/2aab7/1006.png 94w,\n/static/1d4b595cee035da8060a90b34ed197e6/0a986/1006.png 187w,\n/static/1d4b595cee035da8060a90b34ed197e6/c9885/1006.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/1d4b595cee035da8060a90b34ed197e6/84550/1006.webp 94w,\n/static/1d4b595cee035da8060a90b34ed197e6/34f80/1006.webp 187w,\n/static/1d4b595cee035da8060a90b34ed197e6/b26e2/1006.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/72d7425c64d044e81ff078ecdb4aec2f/3c5dc/8_full.png",
+                            "srcSet": "/static/72d7425c64d044e81ff078ecdb4aec2f/ca8fd/8_full.png 200w,\n/static/72d7425c64d044e81ff078ecdb4aec2f/de50c/8_full.png 400w,\n/static/72d7425c64d044e81ff078ecdb4aec2f/3c5dc/8_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/72d7425c64d044e81ff078ecdb4aec2f/213b2/8_full.webp 200w,\n/static/72d7425c64d044e81ff078ecdb4aec2f/413c5/8_full.webp 400w,\n/static/72d7425c64d044e81ff078ecdb4aec2f/cf6d0/8_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "The universe is just another game to this super hacker. No matter how thorny the defense system, Silver Wolf can crack it with ease. Her hacking battle with Screwllum of the Genius Society has become stuff of legends in the hacking world. How many more levels are there to beat in the universe? Silver Wolf looks forward to finding out."
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "100601",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "100602",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "100603",
+            "energy_gen": "5",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "100604",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "100607",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Sub DPS",
+    "affiliation": "Stellaron Hunters",
+    "rarity": "5",
+    "element": "Quantum",
+    "path": "Nihility",
+    "stats": {
+        "hp_base": 142.56,
+        "def_base": 62.7,
+        "atk_base": 87.12,
+        "speed_base": 107
+    },
+    "ascensionMaterials": {
+        "mats_1": "ancient-part",
+        "mats_2": "ancient-spindle",
+        "mats_3": "void-cast-iron",
+        "mats_4": "ancient-engine"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "8",
+            "name": "Silver Wolf",
+            "upgrade1Name": "Social Engineering",
+            "upgrade1Desc": {
+                "formatted": "After using her Ultimate to attack enemies, Silver Wolf regenerates 7 Energy for every debuff that the target enemy currently has. This effect can be triggered up to 5 time(s) in each use of her Ultimate."
+            },
+            "upgrade2Name": "Zombie Network ",
+            "upgrade2Desc": {
+                "formatted": "When an enemy enters battle, reduces their Effect RES by 20%."
+            },
+            "upgrade3Name": "Payload",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade4Name": "Bounce Attack   ",
+            "upgrade4Desc": {
+                "formatted": "After using her Ultimate to attack enemies, deals Additional Quantum DMG equal to 20% of Silver Wolf's ATK for every debuff currently on the enemy target. This effect can be triggered for a maximum of 5 time(s) during each use of her Ultimate."
+            },
+            "upgrade5Name": "Brute Force Attack",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10.\n\n"
+            },
+            "upgrade6Name": "Overlay Network",
+            "upgrade6Desc": {
+                "formatted": "For every debuff the target enemy has, the DMG dealt by Silver Wolf increases by 20%, up to a limit of 100%."
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Bug's duration is extended for <b>1</b> turn(s). Every time an enemy is inflicted with Weakness Break, Silver Wolf has a 65% base chance of implanting a random Bug in the enemy.",
+            "name": "Generate"
+        },
+        {
+            "req": "A4",
+            "desc": "The duration of the Weakness implanted by Silver Wolf's Skill increases by <b>1</b> turn(s).",
+            "name": "Inject"
+        },
+        {
+            "req": "A6",
+            "desc": "If there are 3 or more debuff(s) affecting the enemy when the Skill is used, then the Skill decreases the enemy's All-Type RES by an additional 3%.",
+            "name": "Side Note"
+        }
+    ],
+    "review": {
+        "formatted": "Silver Wolf is a tremendously frightening support character who can circumvent enemy Weaknesses and dramatically debilitate her opponents. She is exclusively single-target focused, but she makes sure to completely dominate lone foes.Because of how Silver Wolf\u2019s abilities function, she essentially punishes enemies by simply existing within the same space as them. Her Talent has a moderately high base chance to inflict a Bug debuff onto any enemy that she attacks, up to 72% at max Trace level. These Bugs can reduce an enemy\u2019s ATK, DEF, and even their SPD, whilst not being mutually exclusive with each other; you can potentially have all three of these Bugs on a single enemy at the same time. Even more ridiculous perhaps, these last for a hilarious 3 turns, so maintaining these debuffs is hardly a challenge for our spry hacker.The Bug debuff strength is not particularly huge, but considering it costs nothing to apply, and can be applied by literally any of Silver Wolf\u2019s attacks, this is a very generous boost, especially once we talk about the rest of her kit.Silver Wolf\u2019s Skill deals modest damage and has a high base chance to add 1 Weakness of an on-field ally\u2019s Type to an enemy you target. This means the regular limitations of certain teams can be potentially ignored by including Silver Wolf in the party. Not only can you just point at an enemy and say \u2018You are now weak to [insert element here]\u2019, you also reduce their RES to that element by 20%, meaning it\u2019s truly as though they had that Weakness inherently.Clearly, this isn\u2019t strong enough already, so there is a separate chance to reduce the enemy\u2019s RES to all damage by up to a further 10% so that everyone in the party can benefit from the debuff. However, it\u2019s important to note that both the Weakness implant as well as the RES reductions only last for 2 turns by default, and the base chances to inflict them are modest at best, so Silver Wolf will need a healthy supply of SP to continue to refresh these powerful effects. You cannot have more than one implanted Weakness per foe, so don\u2019t try. You\u2019ll just overwrite your previous implant, or refresh it if there\u2019s only one choice.Already Silver Wolf is appearing to be a highly competitive and powerful support option, but here comes her Ultimate with the strength of a freight train to make sure we know for sure how good she is. Her Ultimate has up to a 100% base chance to decrease a target enemy\u2019s DEF by up to 45% for 3 turns. It also has a surprisingly generous multiplier on it too, dealing up to 380% of her ATK to said enemy on top.Considering each of these aspects of her kit separately already paints a beautiful picture, but realising that all of these effects can coexist simultaneously is nothing short of absurd. Silver Wolf is one the best supports for virtually any situation, especially for units with strong single-target damage and, even more than that, she creates the potential for mono-elemental teams.Since you can safely ignore the intrinsic weaknesses of an enemy if you get to just implant a new one, you can construct your \u2018perfect team\u2019 and take it pretty much wherever you damn well, please. Obviously, there are situations in which this is still less preferable than just making a different team that\u2019s more tailored to specific enemies, especially since Silver Wolf can get very SP-hungry very quickly, but the mere existence of such a possibility is what makes this character one of the strongest and likely longest-lasting units in this game.Silver Wolf can get even better thanks to her Bonus Traces. Her A2 extends her Bugs\u2019 duration by an extra turn, for a new total of 4 turns. It also lets Silver Wolf piggyback off of Weakness Break to potentially inflict a random Bug onto the enemy for free. This becomes quite relevant for her A6, where she will gain an extra 3% All-Type RES shred on her Skill if the enemy she attacks has at least 3 debuffs on them.The big one is her A4, which extends the duration of the Weakness implant from her Skill by an extra turn, for a new total of 3 turns. This very significantly reduces Silver Wolf\u2019s SP expenditure, and so this now extra SP can instead be used by the rest of her team.Because so much of Silver Wolf\u2019s kit revolves around applying debuffs, Effect Hit Rate is an incredibly valuable stat, and is likely a stat she wants to prioritize in order to consistently fill her support debuffer role. If you spend most of her turns throwing valuable SP at an enemy that keeps resisting everything, you\u2019re looking at an easy \u2018retreat and reset\u2019 scenario.Silver Wolf does get a few Minor Traces that improve her Effect Hit Rate for free, but this is not enough for the high-level foes you\u2019re likely to see in Memory of Chaos. Without her debuffs, Silver Wolf is not going to be contributing much damage of her own, but even if you only get to apply debuffs intermittently, their extremely generous durations mean you won\u2019t need to worry about reapplying them often.Silver Wolf has absolutely no need of her Eidolons, but if you really feel the need to go for more, Silver Wolf\u2019s Eidolons transform her into an obscene damage dealer, possibly one of the absolute best. This is not hyperbole\u2014with E6 it\u2019s quite likely she even beats out Seele in single-target, but really,\u00a0There is genuinely almost no scenario in which Silver Wolf isn\u2019t a fantastic option. Because she afflicts enemies with debuffs that reduce their resistances, she skyrockets teammates\u2019 damage beyond what other supports may be able to achieve by themselves.\u00a0She can elevate a team to reach damage numbers you\u2019ll likely never see without her, but you must not forget that Silver Wolf is exclusively single-target focused. There are times when Pela may be more beneficial for your team setup due to having an AoE DEF shred on her Ultimate that isn\u2019t notably weaker than Silver Wolf\u2019s Ultimate, or perhaps you\u2019d benefit more from turbo-buffing a single character who has AoE capabilities with Tingyun.\u00a0As good as Silver Wolf\u2019s debuffing is, the most important part is being able to build a team to make proper use of what she can offer; she\u2019s not going to be very useful if she\u2019s spending valuable SP to apply a Physical weakness when your only Physical unit is Natasha and you desperately need to apply an Ice weakness for your Yanqing, for example. Carefully choosing your teammates to maximize the likelihood of applying the correct weaknesses with her Skill is the key to success, because otherwise, she\u2019ll be hemorrhaging Skill Points for no discernable benefit.It is unlikely we will ever see a character with such remarkable capabilities again, and for that reason, it is highly likely that Silver Wolf will stay relevant for a very long time."
+    },
+    "pros": {
+        "formatted": "Ridiculous debuffs that can hugely amplify damage, Tons of Breaking,Rare debuffs to enemy ATK and SPD, Can give enemies new Weaknesses, Enables Single-Type teams and Mono-Quantum team, Unlikely to get powercrept any time soon.\n\n"
+    },
+    "cons": {
+        "formatted": "Potentially SP hungry if unlucky,Requires investment for improved consistency.\n\n"
+    },
+    "endgameStats": {
+        "formatted": "HP: 3500 - 4000+DEF: 1000+SPD: 134 / 143 (Recommended) / 160+ENERGY REGEN: 19.44%+ EFFECT HIT RATE: 68% - 96% (Recommended)"
+    },
+    "voiceActors": {
+        "en": "Melissa Fahn",
+        "kr": "\uc7a5\ubbf8",
+        "jpn": "Asumi Kana (\u963f\u6f84\u4f73\u5948)",
+        "cn": "Hanser"
+    },
+    "ratings": {
+        "moc": "9",
+        "moc_special": "9",
+        "pure": "6",
+        "pure_special": "6",
+        "apo": "10",
+        "apo_special": "10"
+    },
+    "energyUltimate": "110",
+    "conesNew": null,
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "Messenger Traversing Hackerspace",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "Thief of Shooting Meteor",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Thief of Shooting Meteor",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Talia: Kingdom of Banditry",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "resolution-shines-as-pearls-of-sweat",
+                    "super": "1+"
+                },
+                {
+                    "cone": "before-the-tutorial-mission-starts",
+                    "super": "5"
+                },
+                {
+                    "cone": "incessant-rain",
+                    "super": "1"
+                },
+                {
+                    "cone": "eyes-of-the-prey",
+                    "super": "5"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Effect Hit Rate"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Quantum DMG"
+                }
+            ],
+            "comments": "Silver Wolf can still function as a Debuffer on Break Effect build. Stacking DEF Shred and Break Effect means her Entanglement can do lots of DMG. You can run 4pc Quantum which results in 5% higher break DMG, or 4pc Thief for more action delay and extra energy. Her Break DMG is highly reliant on her level, so make sure to level her up ideally to max.",
+            "substats": "EHR% (Until Cap) = SPD (Until breakpoint) > HP = DEF = Break Effect% > EFF RES% (30% If Keel)",
+            "skill_priority": "Skill > Ultimate > Talent > Basic",
+            "traces_priority": "Generate (A2) > Inject (A4) > Side Note (A6)",
+            "name": "E0/E1 Break Effect Build"
+        },
+        {
+            "relics": [
+                {
+                    "relic": "Eagle of Twilight Line",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Genius of Brilliant Stars",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Talia: Kingdom of Banditry",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "resolution-shines-as-pearls-of-sweat",
+                    "super": "1+"
+                },
+                {
+                    "cone": "before-the-tutorial-mission-starts",
+                    "super": "5"
+                },
+                {
+                    "cone": "incessant-rain",
+                    "super": "1"
+                },
+                {
+                    "cone": "eyes-of-the-prey",
+                    "super": "5"
+                },
+                {
+                    "cone": "in-the-name-of-the-world",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Effect Hit Rate"
+                },
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "comments": "If you have Silver Wolf at E0 or E1, you are forced to build a lot of EHR on her if you want to increase the chance to land her debuffs in MoC. This build focuses on her being a debuffer who can stay alive even in the hardest content.",
+            "substats": "EHR% (Until Cap) = SPD (Until breakpoint) > HP = DEF = Break Effect% > EFF RES% (30% If Keel)",
+            "skill_priority": "Skill > Ultimate > Talent > Basic",
+            "traces_priority": "Generate (A2) > Inject (A4) > Side Note (A6)",
+            "name": "E0/E1 Debuffer"
+        },
+        {
+            "relics": [
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Genius of Brilliant Stars",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "incessant-rain",
+                    "super": "1"
+                },
+                {
+                    "cone": "resolution-shines-as-pearls-of-sweat",
+                    "super": "1"
+                },
+                {
+                    "cone": "good-night-and-sleep-well",
+                    "super": "5"
+                },
+                {
+                    "cone": "we-will-meet-again",
+                    "super": "5"
+                },
+                {
+                    "cone": "in-the-name-of-the-world",
+                    "super": "1"
+                },
+                {
+                    "cone": "before-the-tutorial-mission-starts",
+                    "super": "5"
+                },
+                {
+                    "cone": "eyes-of-the-prey",
+                    "super": "5"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Quantum DMG"
+                }
+            ],
+            "comments": "If you have Silver Wolf at E2 or higher, the EHR requirements are cut more than in half, so you can build her as a sub-damage dealer instead.",
+            "substats": "Effect Hit Rate (until 47%) > Speed = Crit DMG = Crit Rate > ATK%",
+            "skill_priority": "Skill > Ultimate > Talent > Basic",
+            "traces_priority": "Generate (A2) > Inject (A4) > Side Note (A6)",
+            "name": "E2+ Sub-DPS"
+        }
+    ],
+    "videos": [
+        {
+            "video": "hxsYAQA6VaY"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Faux Physical",
+            "member_1": "silver-wolf",
+            "member_2": "natasha",
+            "member_3": "sushang",
+            "member_4": "clara"
+        },
+        {
+            "name": "Faux Fire",
+            "member_1": "silver-wolf",
+            "member_2": "himeko",
+            "member_3": "asta",
+            "member_4": "trailblazer-fire"
+        },
+        {
+            "name": "Faux Ice",
+            "member_1": "silver-wolf",
+            "member_2": "yanqing",
+            "member_3": "pela",
+            "member_4": "gepard"
+        },
+        {
+            "name": "Faux Lightning",
+            "member_1": "silver-wolf",
+            "member_2": "jing-yuan",
+            "member_3": "tingyun",
+            "member_4": "bailu"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "effectHitRate",
+            "value": 18
+        },
+        "traceStat2": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat3": {
+            "stat": "quantumDmg",
+            "value": 8
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Amplifier",
+    "releaseDate": "June 7th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "Break",
+        "Debuff"
+    ]
+}

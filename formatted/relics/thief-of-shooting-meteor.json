@@ -1,0 +1,52 @@
+{
+    "relicId": "11",
+    "name": "Thief of Shooting Meteor",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "Increases Break Effect by 16%"
+    },
+    "bonus4": {
+        "formatted": "Increases the wearer's Break Effect by 16%. When the wearer inflicts Weakness Break on an enemy, regenerates 3 Energy."
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/1784ea4b4158a6e47b428e0fcc902438/15e42/set_11.png",
+                            "srcSet": "/static/1784ea4b4158a6e47b428e0fcc902438/88208/set_11.png 25w,\n/static/1784ea4b4158a6e47b428e0fcc902438/e9fba/set_11.png 50w,\n/static/1784ea4b4158a6e47b428e0fcc902438/15e42/set_11.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/1784ea4b4158a6e47b428e0fcc902438/2fa99/set_11.webp 25w,\n/static/1784ea4b4158a6e47b428e0fcc902438/dbc4a/set_11.webp 50w,\n/static/1784ea4b4158a6e47b428e0fcc902438/d8057/set_11.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "breakEffect",
+            "value": 16
+        },
+        "relicSet4pc": {
+            "stat": "breakEffect",
+            "value": 16
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

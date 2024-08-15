@@ -1,0 +1,55 @@
+{
+    "coneId": 85,
+    "name": "Mediation",
+    "slug": "mediation",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/9c38eb9c3de403a0826ecab8f8e7dfbc/bf8e1/85.png",
+                            "srcSet": "/static/9c38eb9c3de403a0826ecab8f8e7dfbc/914ee/85.png 32w,\n/static/9c38eb9c3de403a0826ecab8f8e7dfbc/1c9ce/85.png 64w,\n/static/9c38eb9c3de403a0826ecab8f8e7dfbc/bf8e1/85.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/9c38eb9c3de403a0826ecab8f8e7dfbc/ef6ff/85.webp 32w,\n/static/9c38eb9c3de403a0826ecab8f8e7dfbc/8257c/85.webp 64w,\n/static/9c38eb9c3de403a0826ecab8f8e7dfbc/6766a/85.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "14",
+            "value_level_max": "317"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Family",
+    "skillDescription": {
+        "formatted": "Upon battle entry, all allies receive 12/14/16/18/20 increased SPD for 1 turn(s)."
+    }
+}

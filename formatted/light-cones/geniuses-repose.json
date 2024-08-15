@@ -1,0 +1,55 @@
+{
+    "coneId": 64,
+    "name": "Geniuses' Repose",
+    "slug": "geniuses-repose",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/792a8fee5e0d6aac4e776b08da5fcb55/bf8e1/64_1_.png",
+                            "srcSet": "/static/792a8fee5e0d6aac4e776b08da5fcb55/914ee/64_1_.png 32w,\n/static/792a8fee5e0d6aac4e776b08da5fcb55/1c9ce/64_1_.png 64w,\n/static/792a8fee5e0d6aac4e776b08da5fcb55/bf8e1/64_1_.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/792a8fee5e0d6aac4e776b08da5fcb55/ef6ff/64_1_.webp 32w,\n/static/792a8fee5e0d6aac4e776b08da5fcb55/8257c/64_1_.webp 64w,\n/static/792a8fee5e0d6aac4e776b08da5fcb55/6766a/64_1_.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Each Now Has a Role to Play",
+    "skillDescription": {
+        "formatted": "Increases the wearer's ATK by 16/20/24/28/32%. When the wearer defeats an enemy, the wearer's CRIT DMG increases by 24/30/36/42/48% for 3 turn(s)."
+    }
+}

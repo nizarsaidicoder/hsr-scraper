@@ -1,0 +1,55 @@
+{
+    "coneId": 33,
+    "name": "Swordplay",
+    "slug": "swordplay",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/68ff0c5fe7ed671b1ce0191f0109e4c4/bf8e1/33_sm.png",
+                            "srcSet": "/static/68ff0c5fe7ed671b1ce0191f0109e4c4/914ee/33_sm.png 32w,\n/static/68ff0c5fe7ed671b1ce0191f0109e4c4/1c9ce/33_sm.png 64w,\n/static/68ff0c5fe7ed671b1ce0191f0109e4c4/bf8e1/33_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/68ff0c5fe7ed671b1ce0191f0109e4c4/ef6ff/33_sm.webp 32w,\n/static/68ff0c5fe7ed671b1ce0191f0109e4c4/8257c/33_sm.webp 64w,\n/static/68ff0c5fe7ed671b1ce0191f0109e4c4/6766a/33_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Answers of Their Own",
+    "skillDescription": {
+        "formatted": "For each time the wearer hits the same target, DMG dealt increases by 8/10/12/14/16%, stacking up to 5 time(s). This effect will be dispelled when the wearer changes targets."
+    }
+}

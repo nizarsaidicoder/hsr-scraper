@@ -1,0 +1,55 @@
+{
+    "coneId": 116,
+    "name": "The Day The Cosmos Fell",
+    "slug": "the-day-the-cosmos-fell",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/81864d061aafa6716a543a1d33a4b39e/bf8e1/116_sm.png",
+                            "srcSet": "/static/81864d061aafa6716a543a1d33a4b39e/914ee/116_sm.png 32w,\n/static/81864d061aafa6716a543a1d33a4b39e/1c9ce/116_sm.png 64w,\n/static/81864d061aafa6716a543a1d33a4b39e/bf8e1/116_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/81864d061aafa6716a543a1d33a4b39e/ef6ff/116_sm.webp 32w,\n/static/81864d061aafa6716a543a1d33a4b39e/8257c/116_sm.webp 64w,\n/static/81864d061aafa6716a543a1d33a4b39e/6766a/116_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Forgotten Hall Store"
+    ],
+    "releaseDate": "February 29th, 2024",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "953"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "331"
+        }
+    },
+    "skillName": "Stratagem",
+    "skillDescription": {
+        "formatted": "Increases the wearer's ATK by 16/18/20/22/24%. When the wearer uses an attack and affects no fewer than 2 attacked enemies with a corresponding Weakness, the wearer's CRIT DMG increases by 20/25/30/35/40% for 2 turn(s)."
+    }
+}

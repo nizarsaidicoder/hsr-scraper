@@ -1,0 +1,449 @@
+{
+    "unitId": 35,
+    "name": "Lynx",
+    "slug": "lynx",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/033124afa0122cd8b0ae20b533140ec5/e9a79/35_sm.png",
+                            "srcSet": "/static/033124afa0122cd8b0ae20b533140ec5/f31ef/35_sm.png 40w,\n/static/033124afa0122cd8b0ae20b533140ec5/1f8a1/35_sm.png 80w,\n/static/033124afa0122cd8b0ae20b533140ec5/e9a79/35_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/033124afa0122cd8b0ae20b533140ec5/e73fe/35_sm.webp 40w,\n/static/033124afa0122cd8b0ae20b533140ec5/61ca6/35_sm.webp 80w,\n/static/033124afa0122cd8b0ae20b533140ec5/60b4d/35_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/31134cd4e7b186604fbc6349f71002f8/c9885/lynx.png",
+                            "srcSet": "/static/31134cd4e7b186604fbc6349f71002f8/2aab7/lynx.png 94w,\n/static/31134cd4e7b186604fbc6349f71002f8/0a986/lynx.png 187w,\n/static/31134cd4e7b186604fbc6349f71002f8/c9885/lynx.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/31134cd4e7b186604fbc6349f71002f8/84550/lynx.webp 94w,\n/static/31134cd4e7b186604fbc6349f71002f8/34f80/lynx.webp 187w,\n/static/31134cd4e7b186604fbc6349f71002f8/b26e2/lynx.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/d86542a5b2616b6fea58248b618cebf1/3c5dc/35_full_1_.png",
+                            "srcSet": "/static/d86542a5b2616b6fea58248b618cebf1/ca8fd/35_full_1_.png 200w,\n/static/d86542a5b2616b6fea58248b618cebf1/de50c/35_full_1_.png 400w,\n/static/d86542a5b2616b6fea58248b618cebf1/3c5dc/35_full_1_.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/d86542a5b2616b6fea58248b618cebf1/213b2/35_full_1_.webp 200w,\n/static/d86542a5b2616b6fea58248b618cebf1/413c5/35_full_1_.webp 400w,\n/static/d86542a5b2616b6fea58248b618cebf1/cf6d0/35_full_1_.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "\"In the Landau family, things are quite simple: If you want to do something, just go ahead and do it.\" The youngest daughter of the Landau family, and one of Belobog's best extreme environments explorers. She is highly capable of action despite her apparent lack of motivation. She's only appears introverted and lazy to avoid unnecessary socialization. As for what counts as unnecessary socialization \u2014 \"Um, aren't all socialization unnecessary?\"\n\n"
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "111001",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "111002",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "111003",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "111004",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "111007",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Healer",
+    "affiliation": "Belobog",
+    "rarity": "4",
+    "element": "Quantum",
+    "path": "Abundance",
+    "stats": {
+        "hp_base": 144,
+        "def_base": 75,
+        "atk_base": 67.2,
+        "speed_base": 100
+    },
+    "ascensionMaterials": {
+        "mats_1": "extinguished-core",
+        "mats_2": "glimmering-core",
+        "mats_3": "nail-of-the-ape",
+        "mats_4": "squirming-core"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "35",
+            "name": "Lynx",
+            "upgrade1Name": "Morning of Snow Hike",
+            "upgrade1Desc": {
+                "formatted": "When healing allies with HP equal to or lower than 50%, Lynx's Outgoing Healing increases by 20%. This effect also works on continuous healing."
+            },
+            "upgrade2Name": "Noon of Portable Furnace",
+            "upgrade2Desc": {
+                "formatted": "A target with \"Survival Response\" can resist debuff application for 1 time(s)."
+            },
+            "upgrade3Name": "Afternoon of Avalanche Beacon",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "upgrade4Name": "Dusk of Warm Campfire",
+            "upgrade4Desc": {
+                "formatted": "When \"Survival Response\" is gained, increases the target's ATK by an amount equal to 3% of Lynx's Max HP for 1 turn(s)."
+            },
+            "upgrade5Name": "Night of Aurora Tea",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade6Name": "Dawn of Explorers' Chart",
+            "upgrade6Desc": {
+                "formatted": "Additionally boosts the Max HP increasing effect of \"Survival Response\" by an amount equal to 6% of Lynx's Max HP and increases Effect RES by 30%."
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "blade",
+            "notes": "Lynx has a great synergy with Blade - not only she will increase his Max HP, thus allowing him to do more damage, but also she will increase the chance for Blade being hit and that's exactly what he wants."
+        },
+        {
+            "character": "clara",
+            "notes": "Lynx has a great synergy with Clara - she will increase the chance for Clara being hit and that's exactly what she wants. Also, the Max HP buff and additional healing will keep Clara topped off while she counters the enemy to death."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "After a target with Survival Response is hit, Lynx regenerates <b>2</b> Energy immediately.",
+            "name": "Advance Surveying"
+        },
+        {
+            "req": "A4",
+            "desc": "Increases the chance to resist Crowd Control debuffs by <b>35%</b>.",
+            "name": "Exploration Techniques"
+        },
+        {
+            "req": "A6",
+            "desc": "Extends the duration of the continuous healing effect granted by Talent for 1 turn(s).",
+            "name": "Survival in the Extreme"
+        }
+    ],
+    "review": {
+        "formatted": "Lynx is an extremely competent healer. She combines the best aspects of Natasha and Bailu into one, providing healing over time from both her Skill and Ultimate, as well as being able to increase an ally\u2019s Max HP by a significant amount with her Skill. She can even increase an ally\u2019s aggro with her Skill if the ally is Destruction or Preservation, making her even better at mitigating damage for the team. Couple all of that with an AoE cleanse on her Ultimate and HP scaling Basic ATKs, and you\u2019ve got an exceptional healer, especially for a 4*.Many readily available defensive support options are insufficient on their own in difficult content like Memory of Chaos or Swarm Disaster, and all of the truly good options are 5*s, meaning they\u2019re largely inaccessible unless you get really really lucky. Enter Lynx, resident canned fish enjoyer, another member of the Landau family, and, most importantly, a 4* healer.An interesting thing to note right off the bat is that Lynx\u2019 Basic ATK scales with her Max HP instead of her ATK. She deals up to 50% of her Max HP at max Trace level, and since the rest of her kit also scales with HP, it\u2019s extremely likely that Lynx is going to be contributing surprisingly good amounts of damage as your dedicated healer, and this automatically puts her above the likes of Natasha and Bailu in terms of damage contribution\u2014even though Natasha\u2019s E6 adds a HP scaling to her Basic ATK, it\u2019s still only 40% of Nat\u2019s Max HP. Lynx gets to do it for free.Lynx\u2019 Skill targets a single ally and heals them for up to 12% of Lynx\u2019 Max HP plus 320 at max Trace level. This already makes it directly superior to Natasha\u2019s Skill, but it elevates it even further by also increasing the targeted ally\u2019s Max HP by up to 7.5% of Lynx\u2019 Max HP plus 200, meaning a well-invested Lynx can add a significant amount of HP to an ally. The added bonus is that if the targeted ally is on the Path of Destruction or Preservation, they are granted Survival Response, and have a vastly increased chance to be attacked, meaning that you can create a similar sort of effect as if you had Gepard in your team; pick a durable ally and turn them into the primary target for enemies to attack. These effects only last for 2 turns, however, so you need to be mindful of the SP you have available if you wish to maintain this playstyle.Her Ultimate heals all allies for up to 13.5% of Lynx\u2019 Max HP plus 360, putting it just barely below Natasha\u2019s Ultimate, but it has the added benefit of also being an AoE cleanse, something we\u2019ve not yet seen a character be capable of. This allows Lynx to essentially salvage the previously unsalvageable; if you had the other three members of your team Frozen or Imprisoned, you\u2019d likely be in a losing situation, but with Lynx you can nullify that harsh Crowd Control and get back into the fight. The only thing to note is that this cleanse applies to all debuffs, meaning that you can run into the same issue as always with multiple debuffs, where you can end up cleansing the wrong debuff and still dying. While having this AoE cleanse tied to an Ultimate is handy in a pinch, Natasha and Luocha can at least use a Skill back-to-back to cleanse things if necessary, and Lynx does not have this luxury.Lynx\u2019 Talent makes an appearance whenever she heals an ally. Her Skill and Ultimate will apply a regen effect for 2 turns, restoring up to 3.6% of Lynx\u2019 Max HP plus 96 at the start of the ally\u2019s turn. It increases by an additional 4.5% plus 120 if the targeted ally is affected by Survival Response, making this a very noticeable heal over time for the units you designate as your tank. Since this is applied on all healing, including her Ultimate, it makes Lynx a very SP efficient healer.With her Bonus Traces, Lynx\u2019 performance notably improves. Her A2 provides Lynx with a bonus 2 Energy each time a unit with Survival Response is hit, lessening the burden of Energy requirements and potentially allowing for more Ultimates, though it does require SP to be used to apply Survival Response in the first place. Her A4 provides a 35% chance to resist Crowd Control, making it less likely that she\u2019ll be taken out of the fight and allowing her to be ready to cleanse allies if necessary. Finally, her A6 extends the duration of her Talent\u2019s regen effect by 1 turn, for a new total of 3 turns. This just makes Lynx better at what she was already doing, and also helps bridge the gap between Ultimate usages, potentially allowing for permanent uptime on the healing over time.As a 4* character, it is entirely possible to get Eidolons for Lynx over time, but they\u2019re actually not a necessity for Lynx to be an excellent healer. Particularly noteworthy is her E2, which allows an ally with Survival Response to resist debuff application one time, and her E6, which further increases the Max HP boost by 6% of Lynx\u2019 Max HP and also increases the ally\u2019s Effect RES by 30%.Lynx is a simple but effective character, and one that players are going to want to get their hands on as soon as possible. While it is expected that Lynx is going to be compared to the other healers we have, currently it\u2019s surprisingly one-sided; really only Luocha is better than Lynx and that\u2019s because he monopolizes the hands-off healing approach and does it too well to ever be overtaken. The really impressive thing is that Lynx is next in the line, which is even more impressive seeing as she is a 4*. While Lynx lacks the Outgoing Healing boosts of Natasha and the reactive healing from Bailu\u2019s Invigoration, she is much stronger than Natasha already at E0 and she has the potential to be better than Bailu (at higher Eidolons). If Lynx ever becomes a freely accessible unit, F2P players will finally have enough healers to tackle Memory of Chaos without fear.Lynx is pretty phenomenal actually. She also appreciates the value of a Thermos, so you should definitely be able to appreciate her. Preparedness is a sign of great wisdom, you know."
+    },
+    "pros": {
+        "formatted": "Strong consistent AoE healing, Can be extremely SP positive with her A6, AoE Cleanse on her Ultimate, HP scaling Basic ATK contributes decent damage, Very durable, Stronger than Natasha and more accessible than 5* options.\n\n"
+    },
+    "cons": {
+        "formatted": "Really wants her A6 to reach maximum efficacy, Cleanse is on Ultimate meaning it might not be as accessible as you need it,Emergency healing can feel bad due to \u2018wasting\u2019 turns of her regen.\n\n"
+    },
+    "endgameStats": {
+        "formatted": "HP: 5000 - 5700+DEF: 900 - 1200+SPD: 134 (Recommended) / 143 / 160ENERGY REGEN: 19.44%+ "
+    },
+    "voiceActors": {
+        "en": "Risa Mei",
+        "kr": "\uc774\uc740\uc870 (Lee Eun-jo)",
+        "jpn": "\u7167\u4e95\u6625\u4f73 (Haruka Terui)",
+        "cn": "\u7c73\u7cca"
+    },
+    "ratings": {
+        "moc": "8",
+        "moc_special": "8",
+        "pure": "6",
+        "pure_special": "6",
+        "apo": "7",
+        "apo_special": "7"
+    },
+    "energyUltimate": "100",
+    "conesNew": [
+        {
+            "cone": "night-of-fright",
+            "super": "1",
+            "percent": "-",
+            "notes": "Offers exceptional base stats, energy regeneration and team-wide buffs. Most importantly this Cone offers an additional healing mechanic outside of the kit of the healer it is equipped to allow more flexible healing and the opportunity to keep your allies alive. All these factors combined make it the strongest in almost every scenario."
+        },
+        {
+            "cone": "time-waits-for-no-one",
+            "super": "1",
+            "percent": "-",
+            "notes": "Incredible base stats paired with an increase to healing and max HP% makes this a top option for all HP% based healers looking to increase their kits' healing output. Offers no other notable benefits outside of healing boosts though meaning it can lose out to other more specialised Cones easily."
+        },
+        {
+            "cone": "post-op-conversation",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a tremendous amount of energy regeneration and a boost to ultimate healing specifically. Suitable when aiming to access ultimate more quickly or when relying almost entirely on ultimate healing."
+        },
+        {
+            "cone": "perfect-timing",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a large amount of Effect Res and grants a % of your Effect Res as an Outgoing Healing Bonus (up to 27% at S5). To reach the maximum healing bonus at S5 you'll require a total of 60% Effect Res, this Cone and its huge healing bonus is one of the generically best Cones that can be used well on all healers."
+        },
+        {
+            "cone": "hey-over-here",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers increased HP% for healers that heal based on HP and a large Outgoing Gealing bonus after using a skill for 2 turns. Not suitable for healers that don't frequently use their skill but a good option for those that do, without permanent uptime on the buff this lightcone performs poorly."
+        },
+        {
+            "cone": "shared-feeling",
+            "super": "5",
+            "percent": "-",
+            "notes": "Provides a decent generic Healing Output boost making it usable in all scenarios regardless of its second effect. Its second effect grants all allies including the caster 4 additional energy per skill use which can be enough to alter some damage dealer and supports rotations dramatically."
+        },
+        {
+            "cone": "multiplication",
+            "super": "5",
+            "percent": "-",
+            "notes": "Advances the wearer's action forward 20% every basic attack dramatically accelerating their rotation compared to the rest of the team allowing for more frequent healing, ultimates but most importantly more skill point generation. Only recommended for use on healers that predominantly use their basic attacks e.g. Luocha."
+        },
+        {
+            "cone": "quid-pro-quo",
+            "super": "5",
+            "percent": "-",
+            "notes": "Grants an ally 16 energy semi-randomly. Unreliable as a means of energy regeneration but is exceptionally powerful when the bonus is granted to your main damage dealer/s making it a viable option if no additional healing boosts are required."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Passerby of Wandering Cloud",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Longevous Disciple",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Passerby of Wandering Cloud",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Sprightly Vonwacq",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "time-waits-for-no-one",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Outgoing Healing"
+                },
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "comments": "Focusing on Speed and HP% will make Lynx heal often and give her some bulk. Since Lynx's HP Buff on her Skill / ATK Increase from Eidolon 4 is based on her HP, HP chest can be considered over Outgoing Healing Bonus for more Team DPS, as the difference in healing output is insignificant.",
+            "substats": "SPD (breakpoint) > HP% > Effect RES > DEF%",
+            "skill_priority": "Ultimate > Talent >= Skill = Basic",
+            "traces_priority": "Advance Surveying (A2) > Survival in the Extreme (A6) > Exploration Techniques (A4)",
+            "name": "Pure Healer"
+        }
+    ],
+    "videos": null,
+    "teams": [
+        {
+            "name": "With Blade",
+            "member_1": "blade",
+            "member_2": "bronya",
+            "member_3": "pela",
+            "member_4": "lynx"
+        },
+        {
+            "name": "With Clara",
+            "member_1": "clara",
+            "member_2": "tingyun",
+            "member_3": "pela",
+            "member_4": "lynx"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "def",
+            "value": 22.5
+        },
+        "traceStat2": {
+            "stat": "hp",
+            "value": 28
+        },
+        "traceStat3": {
+            "stat": "effect_res",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Sustain",
+    "releaseDate": "September 20th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": null
+}

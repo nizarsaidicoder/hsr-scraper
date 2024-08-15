@@ -1,0 +1,55 @@
+{
+    "coneId": 60,
+    "name": "Trend of the Universal Market",
+    "slug": "trend-of-the-universal-market",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/5fde1224150bb187a40fdd0fe8d4e8f6/bf8e1/60.png",
+                            "srcSet": "/static/5fde1224150bb187a40fdd0fe8d4e8f6/914ee/60.png 32w,\n/static/5fde1224150bb187a40fdd0fe8d4e8f6/1c9ce/60.png 64w,\n/static/5fde1224150bb187a40fdd0fe8d4e8f6/bf8e1/60.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/5fde1224150bb187a40fdd0fe8d4e8f6/ef6ff/60.webp 32w,\n/static/5fde1224150bb187a40fdd0fe8d4e8f6/8257c/60.webp 64w,\n/static/5fde1224150bb187a40fdd0fe8d4e8f6/6766a/60.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "A New Round of Shuffling",
+    "skillDescription": {
+        "formatted": "Increases the wearer's DEF by 16/20/24/28/32%. When the wearer is attacked, there is a 100/105/110/115/120% base chance to Burn the enemy. For each turn, the wearer deals DoT that is equal to 40/50/60/70/80% of the wearer's DEF for 2 turn(s)."
+    }
+}

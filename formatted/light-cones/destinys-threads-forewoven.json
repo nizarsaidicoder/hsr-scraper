@@ -1,0 +1,55 @@
+{
+    "coneId": 114,
+    "name": "Destiny's Threads Forewoven",
+    "slug": "destinys-threads-forewoven",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/f1513fc5ee4ef2d2e192c9f817c51665/bf8e1/114_sm.png",
+                            "srcSet": "/static/f1513fc5ee4ef2d2e192c9f817c51665/914ee/114_sm.png 32w,\n/static/f1513fc5ee4ef2d2e192c9f817c51665/1c9ce/114_sm.png 64w,\n/static/f1513fc5ee4ef2d2e192c9f817c51665/bf8e1/114_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/f1513fc5ee4ef2d2e192c9f817c51665/ef6ff/114_sm.webp 32w,\n/static/f1513fc5ee4ef2d2e192c9f817c51665/8257c/114_sm.webp 64w,\n/static/f1513fc5ee4ef2d2e192c9f817c51665/6766a/114_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Forgotten Hall Store"
+    ],
+    "releaseDate": "February 29th, 2024",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Insight",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Effect RES by 12/14/16/18/20%. For every 100 of DEF the wearer has, increases the DMG dealt by 0.8/0.9/1/1.1/1.2% to a max increase of 32/36/40/44/48%."
+    }
+}

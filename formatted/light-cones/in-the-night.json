@@ -1,0 +1,55 @@
+{
+    "coneId": 17,
+    "name": "In the Night",
+    "slug": "in-the-night",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/af94d389d11987a11fa26addddb9a6c1/bf8e1/17_sm.png",
+                            "srcSet": "/static/af94d389d11987a11fa26addddb9a6c1/914ee/17_sm.png 32w,\n/static/af94d389d11987a11fa26addddb9a6c1/1c9ce/17_sm.png 64w,\n/static/af94d389d11987a11fa26addddb9a6c1/bf8e1/17_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/af94d389d11987a11fa26addddb9a6c1/ef6ff/17_sm.webp 32w,\n/static/af94d389d11987a11fa26addddb9a6c1/8257c/17_sm.webp 64w,\n/static/af94d389d11987a11fa26addddb9a6c1/6766a/17_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Flowers and Butterflies",
+    "skillDescription": {
+        "formatted": "Increases the wearer's CRIT Rate by 18/21/24/27/30%. While the wearer is in battle, for every 10 SPD that exceeds 100, the DMG of the wearer's Basic ATK and Skill is increased by 6/7/8/9/10% and the CRIT DMG of their Ultimate is increased by 12/14/16/18/20%. This effect can stack up to 6 time(s)."
+    }
+}

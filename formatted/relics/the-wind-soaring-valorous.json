@@ -1,0 +1,33 @@
+{
+    "relicId": "34",
+    "name": "The Wind-Soaring Valorous",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "ATK increases by 12%. "
+    },
+    "bonus4": {
+        "formatted": "Increases the wearer's CRIT Rate by 6%. When the wearer uses a follow-up attack, increase the DMG dealt by their Ultimate by 36%, lasting for 1 turn(s). "
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/02010aeb948ad671e93b2a75e051a0dd/d8057/set_34.webp",
+                            "srcSet": "/static/02010aeb948ad671e93b2a75e051a0dd/2fa99/set_34.webp 25w,\n/static/02010aeb948ad671e93b2a75e051a0dd/dbc4a/set_34.webp 50w,\n/static/02010aeb948ad671e93b2a75e051a0dd/d8057/set_34.webp 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": null
+}

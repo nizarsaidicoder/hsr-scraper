@@ -1,0 +1,489 @@
+{
+    "unitId": 40,
+    "name": "Huohuo",
+    "slug": "huohuo",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/35eddc3b09b3d2c610af2013992e732f/e9a79/40.png",
+                            "srcSet": "/static/35eddc3b09b3d2c610af2013992e732f/f31ef/40.png 40w,\n/static/35eddc3b09b3d2c610af2013992e732f/1f8a1/40.png 80w,\n/static/35eddc3b09b3d2c610af2013992e732f/e9a79/40.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/35eddc3b09b3d2c610af2013992e732f/e73fe/40.webp 40w,\n/static/35eddc3b09b3d2c610af2013992e732f/61ca6/40.webp 80w,\n/static/35eddc3b09b3d2c610af2013992e732f/60b4d/40.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/97e083ac27b920fc89f4e62894116953/c9885/huo.png",
+                            "srcSet": "/static/97e083ac27b920fc89f4e62894116953/2aab7/huo.png 94w,\n/static/97e083ac27b920fc89f4e62894116953/0a986/huo.png 187w,\n/static/97e083ac27b920fc89f4e62894116953/c9885/huo.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/97e083ac27b920fc89f4e62894116953/84550/huo.webp 94w,\n/static/97e083ac27b920fc89f4e62894116953/34f80/huo.webp 187w,\n/static/97e083ac27b920fc89f4e62894116953/b26e2/huo.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/621dc2b9f734b488c234c15dc4304695/3c5dc/40_full.png",
+                            "srcSet": "/static/621dc2b9f734b488c234c15dc4304695/ca8fd/40_full.png 200w,\n/static/621dc2b9f734b488c234c15dc4304695/de50c/40_full.png 400w,\n/static/621dc2b9f734b488c234c15dc4304695/3c5dc/40_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/621dc2b9f734b488c234c15dc4304695/213b2/40_full.webp 200w,\n/static/621dc2b9f734b488c234c15dc4304695/413c5/40_full.webp 400w,\n/static/621dc2b9f734b488c234c15dc4304695/cf6d0/40_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "A trainee Ten-Lords Commission Judge of the Xianzhou Luofu, she is a young Foxian girl possessed by a heliobus. She is a timid and weak girl who is afraid of all kinds of strange \nthings, but is responsible for luring and subduing evil spirits."
+    },
+    "statsComments": {
+        "formatted": "Relic Main statsBody - Healing Output > HP%Healing output provides the most healing potential. HP% can be used in the meantime but should always be replaced when possible.Feet - Speed > HP%SPD is a good stat on Huohuo and is preferred over a much easier-to-acquire stat HP%. HP% should only be used before getting suitable speed boots.Planar Sphere - HP%Best in slot.Link Rope - Energy Recharge% > HP%Energy Recharge is essential for ensuring that Huohuo can execute the 4-action SP positive rotation smoothly. It is always recommended to use an Energy Recharge rope. Even when using higher ER Light Cones and gear sets, Energy Recharge is still recommended as it can allow for a 3-action Ultimate instead of a 4-action depending on your team's composition and the enemy's attack pattern.Additional notes for sub-statsSPD and HP% both directly improve Huohuo's kit performance providing her with more healing, Ultimates, and in most cases, Skill Point generation - acquire these sub-stats as a priority. Effect resistance and DEF% are good secondary options but neither are required even for the hardest content in the game.SPEED: Speed allows Huohuo to complete her rotation faster generating more skill points and generating more ultimates which provide energy and an attack boost for the team. High speed means more energy recharge and higher uptime on the ATK% boost, but it's not quite as clear cut as on other characters as part of Huohuo's rotation is reliant on the team. Huohuo gains energy every time an ally moves while her talent is active and the faster she moves through her rotation the less actions her team will get compared to her lowering the total energy she'll get from this mechanic. If Huohuo moves way faster than the rest of your team her 4-action rotation can sometimes become a 5-action rotation unless you have suitable energy recharge on your build. This outcome only happens when there is a massive difference in Speed and can be fixed by causing Huohuo to take extra combat damage, building more speed on the team, or by building more Energy Recharge.HP%: Best stat outside of Speed to stack for Huohuo - will increase her total healing output and also her tankiness.EFFECT RES: A reasonable stat to pick up outside of Speed and HP% which doesn't provide any bonuses to Huohuo's kit but can smooth out her gameplay in tough endgame content where many debuffs can be present. This stat is a lower priority than on other supports and healers for Huohuo though as she has incredible access to universal cleanses on her skill and talent.DEF%: After all SPD and HP% sub-stats have been acquired defence can be looked for as a bonus to make Huohuo a little bit more tanky.Energy Recharge: Energy Recharge is essential for Huohuo and thankfully in most team compositions she can get away with a skill point positive 4-action rotation just using an Energy Recharge Rope. If you want to pursue the occasional 3-action rotation with Huo Huo or you find your Huo Huo sometimes missing 4-action ultimates you can pick up some extra energy recharge on a Light Cone and Relic Set if so desired but it shouldn't be needed."
+    },
+    "relicsComments": {
+        "formatted": "Passerby of Wandering CloudGrants good healing boosts but also an extra Skill Point at the start of battle, taking immense amounts of pressure off the opening turns for Huo Huo teams which normally have to make some very tough decisions on which skills to use on each character.Messenger Traversing Hackerspace + Passerby of Wandering CloudBest set combo that provides the most healing and utility to the team. 2-piece Cloud provides healing and 2-piece Hackerspace is fantastic thanks to its Speed bonus which allows Huo Huo to reach higher Speed breakpoint, granting additional ultimates and more frequent heals.Longevous Disciple + Passerby of Wandering CloudThis Relic combination yields the highest total healing output in singular heals but lacks the Speed bonus of other sets, which can affect Huohuo rotation if you don't reach the required Speed Breakpoints.Messenger Traversing Hackerspace + Longevous DiscipleAn alternative to 2P Hacker + 2P Passerby but provides less healing output overall.Messenger Traversing HackerspaceA viable support option that allows Huo Huo to provide a temporary small Speed boost after using her ultimate for 1 turn. Using this set will come at the cost of a small healing loss but for those interested in the buff it can be worth it. WARNING: 4P Hackerspace can ruin speed-tuned teams.Musketeer of Wild Wheat4P musket can be used as a generic last resort for the 4-piece Speed bonus but doesn't offer much else for Huo Huo - still at the very least will assist with speeding up her rotation.Fleet of The AgelessBest generic support set for Huohuo that also provides a decent healing boost thanks to the HP% bonus. Will fall behind other specialized sets under certain circumstances though.Broken KeelAn excellent supportive option for CRIT-based damage dealers - the set bonus is also easy to activate as Huo Huo has effect resistance traces.Penacony, Land of DreamsProvides Energy Recharge which can smooth out Huohuo 4 action-rotation especially if she's built fast and the rest of her team is slow. Also provides a big damage boost to allies of the same element (Wind) allowing it to compete as a supportive option with Broken Keel and Fleet of The Ageless but only for that element.Sprightly VonwacqAn Energy Recharge option but worse than Penacony Land of Dreams in almost every situation."
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "121701",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "121702",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "121703",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "121704",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "121707",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Healer",
+    "affiliation": "Xianzhou Luofu",
+    "rarity": "5",
+    "element": "Wind",
+    "path": "Abundance",
+    "stats": {
+        "hp_base": 184.8,
+        "def_base": 69.3,
+        "atk_base": 81.84,
+        "speed_base": 98
+    },
+    "ascensionMaterials": {
+        "mats_1": "immortal-scionette",
+        "mats_2": "immortal-aeroblossom",
+        "mats_3": "ascendant-debris",
+        "mats_4": "immortal-lumintwig"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "41",
+            "name": "huohuo",
+            "upgrade1Name": "Anchored to Vessel, Specters Nestled",
+            "upgrade1Desc": {
+                "formatted": "The duration of Divine Provision produced by the Talent is extended by 1 turn(s). When Huohuo possesses Divine Provision, all allies' SPD increases by 12%."
+            },
+            "upgrade2Name": "Sealed in Tail, Wraith Subdued",
+            "upgrade2Desc": {
+                "formatted": "If Huohuo possesses Divine Provision when an ally is struck by a killing blow, the ally will not be knocked down, and their HP will immediately be restored by an amount equal to 50% of their Max HP. This reduces the duration of Divine Provision by 1 turn. This effect can only be triggered 2 time(s) per battle."
+            },
+            "upgrade3Name": "Cursed by Fate, Moths to Flame",
+            "upgrade3Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade4Name": "Tied in Life, Bound to Strife",
+            "upgrade4Desc": {
+                "formatted": "When healing a target ally via Skill or Talent, the less HP the target ally currently has, the higher the amount of healing they will receive. The maximum increase in healing provided by Huohuo is 80%."
+            },
+            "upgrade5Name": "Mandated by Edict, Evils Evicted",
+            "upgrade5Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "upgrade6Name": "Woven Together, Cohere Forever",
+            "upgrade6Desc": {
+                "formatted": "When healing a target ally, increases the target ally's DMG dealt by 50% for 2 turn(s)."
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "tingyun",
+            "notes": "Huohuo can grant Tingyun additional energy with her Ultimate which Tingyun can use to get to her Ultimate faster which she can then use on your main damage dealer to grant them even more energy. Yes. This combo creates a miniature energy chain moving energy from Huo Huo to Tingyun and then to your carry."
+        },
+        {
+            "character": "bronya",
+            "notes": "Bronya rarely has 100% uptime on her Ultimate throughout a fight and with her signature Cone equipped this Ultimate also generates skill points. Combining Huohuo with Bronya will allow Bronya to gain her ultimate more frequently increasing the total number of burst windows your carry will have in a fight - the combo of Bronya and Huo Huo can be skill point intensive though so careful planning is advised."
+        },
+        {
+            "character": "welt",
+            "notes": "Welt's ultimate is one of the strongest controlling mechanics in the game forcing an Imprison onto every enemy. Thanks to how Imprison works, the more frequently you can cast it, the stronger it becomes. Huohuo grants increased access to Welt's ultimate increasing his ability to hinder the enemy and when played just right can lock out an enemy for multiple turns in a row."
+        },
+        {
+            "character": "kafka",
+            "notes": "Huohuo's ultimate grants a massive ATK% boost to the whole team which Kafka and her main partners absolutely want to make use of. Kafka is often played alongside another damage dealer meaning that Huohuo is not only buffing 2 characters but also providing them both energy as well as improving her overall value in these teams."
+        },
+        {
+            "character": "topaz",
+            "notes": "Topaz has an expensive ultimate which takes advantage of Huo Huo's Energy Regeneration nicely but also regenerates a good chunk of energy after using her ultimate herself. Topaz's teams are generally made up of two damage dealers meaning both of them can take advantage of Huohuo's ultimate ATK% boost, she is also able to play fully skill point positive meaning any SP pressure from Huo Huo and her rotation is completely manageable by Topaz switching up basics and skills."
+        },
+        {
+            "character": "jingliu",
+            "notes": "Jingliu deals all of her damage while in the Transmigation state which can be extended by her ultimate which unfortunately has an incredibly high energy cost of 130. Jingliu is balanced around moving in and out of the state but Huo Huo can break this balance by providing her additional energy to extend her state and when combined with Tingyun she can extend it far far longer than is intended meaning she is in her full burst window for an incredibly long duration."
+        },
+        {
+            "character": "seele",
+            "notes": "Huohuo's Ultimate ATK% boost only lasts 2 turns meaning it won't be active for the majority of a damage dealers rotation but Seele is able to bypass this using her Resurgeance. Getting a kill while Huo Huo's ultimate is active on Seele will grant her a bonus turn which won't consume the duration of the buff and chaining this together with her ultimate (which is more easily accessible thanks to Huohuo) she can retain this buff for an absurd amount of actions."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When battle starts, Huohuo gains Divine Provision, lasting for <b>1</b> turn(s).",
+            "name": "Fearful to Act"
+        },
+        {
+            "req": "A4",
+            "desc": "The chance to resist Crowd Control Debuffs increases by <b>35%</b>.",
+            "name": "The Cursed One"
+        },
+        {
+            "req": "A6",
+            "desc": "When her Talent is triggered to heal allies, Huohuo regenerates <b>1</b> Energy.",
+            "name": "Stress Reaction to Horror"
+        }
+    ],
+    "review": {
+        "formatted": "Huohuo consolidates strong Abundance healing with Harmony support. She can restore 20% Max Energy to all other allies as well as buff their ATK by 40% for 2 turns with her Ultimate. Her Skill\u2019s healing is AoE by default, and her Talent provides a high degree of strong passive healing akin to Luocha with the added benefit of cleansing allies both when their turn starts or when they use an Ultimate. Huohuo must use SP to keep her Talent active, so she is not fully SP-positive like Luocha, but she is able to maintain SP neutrality very easily.The timid trainee Ten-Lords Judge, Huohuo, is another addition to the Path of Abundance. Though she occupies a somewhat ironic position in-universe given her scaredy-cat disposition, she has no issues whatsoever when it comes to sustaining your party, and even comes with a few very unique perks that could potentially make her a more desirable pickup.Huohuo\u2019s Skill will target an ally and restore their HP by up to 21% of Huohuo\u2019s Max HP plus 560. This is actually a Blast Heal that also heals adjacent allies for up to 16.8% of Huohuo\u2019s Max HP plus 448. Given that Huohuo is an HP-scaling scaler, this ends up being a colossal amount of healing to be given out upfront, and better yet is that it naturally includes a debuff dispel for the main ally.Her Skill is important to mention first because it ties into her verbose but powerful Talent. Huohuo gains Divine Provision for 2 turns after using her Skill. While Huohuo has Divine Provision, she is able to provide passive healing to allies at the start of their turn or when they use their Ultimate, restoring up to 4.5% of Huohuo\u2019s Max HP plus 120. When this healing is triggered, it will also cleanse a debuff from the ally who was healed. The cleanse effect has 6 uses before it needs to be reset by using Huohuo\u2019s Skill. Adding onto this, every ally who is below 50% Max HP will also be healed in addition to the ally whose turn or Ultimate it was, meaning this is also a fairly effective emergency healing tool.This is a very impressive amount of passive healing over time, and since it requires that Huohuo use her Skill to refresh the number of uses, her total healing output is astonishing, giving Luocha\u2019s Abyss Flower a run for its money. More impressive however is the amount of free cleansing that Huohuo gives out; many enemies have pesky Crowd Control debuffs that stop your allies in their tracks, but many more have more subtle but equally dangerous debuffs like Damage over Time (DoT) or DEF Reduction, and the other Abundance characters are often not able to deal with them in a quick enough fashion at the end game.Against debuff-heavy enemies, this creates a battle of attrition that realistically only Luocha is capable of outhealing consistently (when considering Abundance characters specifically). Huohuo is capable of getting close to that level of healing whilst also providing extremely frequent debuff dispels at virtually no additional cost, but the activation criteria is more restrictive since it specifically requires a turn or an Ultimate, rather than just dealing damage.Huohuo also follows in Fu Xuan\u2019s footsteps of challenging what it means to be a part of her respective path; just as Fu Xuan is able to provide offensive utility with her Matrix of Prescience, so too is Huohuo able to provide that with her Ultimate. Huohuo\u2019s Ultimate will regenerate up to 20% of all other allies\u2019 respective Max Energy and provide a 40% ATK boost for 2 turns. Having your sustain unit provide benefits more akin to that of a Harmony is impressive, and allows the opportunity to have more intriguing and experimental team compositions.There are a few things to note about this Ultimate; the Energy restoration portion is a nice addition to have but can often be inconsequential, as 20% of a character\u2019s Max Energy is usually anywhere between an extra Skill or Basic ATK\u2019s worth of Energy. This means that for the majority of damage dealers, this will not significantly shift the needle on when they get their Ultimates, but it can actually be quite useful for your other support characters. The other big thing is that this Ultimate has an Energy cost of 140, meaning it\u2019s not going to be up super frequently.Huohuo\u2019s first Bonus Ability Trace A2 lets her start with a 1-turn Divine Provision, giving her a head start on healing, and her A4 increases her Crowd Control RES by 35%. Huohuo\u2019s A6 is of particular note as it restores 1 Energy to her whenever her Talent is triggered to heal allies. This actually ends up being a very significant increase to her overall energy gains and helps offset her high Ultimate cost.Because of her costly Ultimate, Huohuo is not as straightforward to play as other healers if you wish to maximize the usefulness of her Ultimate\u2019s buffs. There are many factors at play to try and reach a consistent timing on her Ultimate, including having speedy allies to trigger Huohuo\u2019s Talent frequently and having Huohuo herself getting hit semi-consistently to get more Energy back that way. Specific Light Cone options and Energy Regen Ropes can also help reach this more easily and should probably be considered to ease the burden of maximizing her.Compared to Luocha, she\u2019s got a somewhat similar performance floor due to her high healing output, however, Luocha is significantly more SP positive. Comparing to Fu Xuan, Fu Xuan unsurprisingly has an edge due to being completely effortless in both her party sustain and her offensive utility, but if the player is prepared to work a little for Huohuo\u2019s buffs, it\u2019s possible to see similar benefits, and both characters use about the same amount of SP, with Huohuo maybe needing a little more at times.\u00a0Luocha, Fu Xuan, and now Huohuo. All three of these characters are veritable giants and their performance for the vast majority of people is too similar to significantly matter. The game is steadily getting more challenging for the average player, and owning even a single one of these characters is likely to make your life substantially less painful.If you already have a well-built Fu Xuan, Luocha, or even Gepard, it is unlikely that Huohuo will open up any new avenues for you. But if you do not already own at least one of these aforementioned characters, or if you\u2019re just really enamoured by her design, then you should at the very least consider going for Huohuo."
+    },
+    "pros": {
+        "formatted": "Great healing and sustain, Extremely frequent debuff dispels, Has an ATK buff as a sustain character, Can also regenerate Energy for other allies, Has additional ways of restoring Energy for herself through her Talent."
+    },
+    "cons": {
+        "formatted": "Notably more effort to use compared to other top sustains, High Energy cost Ultimate reduces uptime on buffs, Relies on very fast allies and getting hit herself for consistent Ultimates, Cannot be fully SP-positive without greatly hindering Ultimate uptime, Harder to slot into whatever team you choose compared to other healers."
+    },
+    "endgameStats": {
+        "formatted": "HP: 5600 - 6400+DEF: 800 - 900+SPD: 134 (Recommended) / 143 / 160ENERGY REGEN: 119.44%+ "
+    },
+    "voiceActors": {
+        "en": "Courtney Lin & Adam Michael Gold",
+        "kr": "\uae40\ucc44\ub9b0 (Kim Chae-rin) & \ud55c\ubcf5\ud604 (Han Bok-hyun)",
+        "jpn": "\u9577\u7e04\u307e\u308a\u3042 (Naganawa Maria) & \u5e73\u6797\u525b (Hirabayashi Takeshi)",
+        "cn": "\u845b\u5b50\u745e (Ge Zirui ) & \u5218\u5317\u8fb0 (Liu Beichen)"
+    },
+    "ratings": {
+        "moc": "10",
+        "moc_special": "10",
+        "pure": "10",
+        "pure_special": "10",
+        "apo": "10",
+        "apo_special": "10"
+    },
+    "energyUltimate": "140",
+    "conesNew": [
+        {
+            "cone": "night-of-fright",
+            "super": "1",
+            "percent": "-",
+            "notes": "Offers exceptional base stats, energy regeneration and team-wide buffs. Most importantly this Cone offers an additional healing mechanic outside of the kit of the healer it is equipped to allow more flexible healing and the opportunity to keep your allies alive. All these factors combined make it the strongest in almost every scenario."
+        },
+        {
+            "cone": "shared-feeling",
+            "super": "5",
+            "percent": "-",
+            "notes": "Provides a decent generic Healing Output boost making it usable in all scenarios regardless of its second effect. Its second effect grants all allies including the caster 4 additional energy per skill use which can be enough to alter some damage dealer and supports rotations dramatically."
+        },
+        {
+            "cone": "post-op-conversation",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a tremendous amount of energy regeneration and a boost to ultimate healing specifically. Suitable when aiming to access ultimate more quickly or when relying almost entirely on ultimate healing."
+        },
+        {
+            "cone": "time-waits-for-no-one",
+            "super": "1",
+            "percent": "-",
+            "notes": "Incredible base stats paired with an increase to healing and max HP% makes this a top option for all HP% based healers looking to increase their kits' healing output. Offers no other notable benefits outside of healing boosts though meaning it can lose out to other more specialised Cones easily."
+        },
+        {
+            "cone": "perfect-timing",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a large amount of Effect Res and grants a % of your Effect Res as an Outgoing Healing Bonus (up to 27% at S5). To reach the maximum healing bonus at S5 you'll require a total of 60% Effect Res, this Cone and its huge healing bonus is one of the generically best Cones that can be used well on all healers."
+        },
+        {
+            "cone": "hey-over-here",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers increased HP% for healers that heal based on HP and a large Outgoing Gealing bonus after using a skill for 2 turns. Not suitable for healers that don't frequently use their skill but a good option for those that do, without permanent uptime on the buff this lightcone performs poorly."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Passerby of Wandering Cloud",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Passerby of Wandering Cloud",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Longevous Disciple",
+                    "relic_2": "Passerby of Wandering Cloud",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Sprightly Vonwacq",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "echoes-of-the-coffin",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Outgoing Healing"
+                },
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "comments": "SPD and HP% both directly improve Huohuo's kit performance providing her with more healing, ultimates and in most cases skill point generation - acquire these sub-stats as a priority. Effect RES and DEF% are good secondary options but neither are required even for the hardest content in the game.",
+            "substats": "SPD (breakpoint) > HP% > EFF RES% = DEF%",
+            "skill_priority": "Ultimate >= Skill = Talent > Basic",
+            "traces_priority": "Fearful to Act (A2) > Stress Reaction to Horror (A6) > The Cursed One (A4)",
+            "name": "Pure Healer"
+        }
+    ],
+    "videos": [
+        {
+            "video": "s2oqfkbNPjE"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Jingliu Hypercarry",
+            "member_1": "huohuo",
+            "member_2": "jingliu",
+            "member_3": "bronya",
+            "member_4": "pela"
+        },
+        {
+            "name": "Jingliu Duo-carry",
+            "member_1": "huohuo",
+            "member_2": "jingliu",
+            "member_3": "bronya",
+            "member_4": "blade"
+        },
+        {
+            "name": "Topaz Team",
+            "member_1": "huohuo",
+            "member_2": "asta",
+            "member_3": "topaz",
+            "member_4": "jing-yuan"
+        },
+        {
+            "name": "Kafka Team",
+            "member_1": "huohuo",
+            "member_2": "asta",
+            "member_3": "kafka",
+            "member_4": "guinaifen"
+        },
+        {
+            "name": "Seele Team",
+            "member_1": "huohuo",
+            "member_2": "seele",
+            "member_3": "bronya",
+            "member_4": "silver-wolf"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "hp",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "effectRes",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "Speed",
+            "value": 5
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Sustain",
+    "releaseDate": "November 15th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "Buff",
+        "Energy"
+    ]
+}

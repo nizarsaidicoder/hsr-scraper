@@ -1,0 +1,56 @@
+{
+    "coneId": 66,
+    "name": "River Flows in Spring",
+    "slug": "river-flows-in-spring",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#b8a8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/430e6fdb82d955253b27d8406d9fd71a/bf8e1/66_s.png",
+                            "srcSet": "/static/430e6fdb82d955253b27d8406d9fd71a/914ee/66_s.png 32w,\n/static/430e6fdb82d955253b27d8406d9fd71a/1c9ce/66_s.png 64w,\n/static/430e6fdb82d955253b27d8406d9fd71a/bf8e1/66_s.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/430e6fdb82d955253b27d8406d9fd71a/ef6ff/66_s.webp 32w,\n/static/430e6fdb82d955253b27d8406d9fd71a/8257c/66_s.webp 64w,\n/static/430e6fdb82d955253b27d8406d9fd71a/6766a/66_s.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Forgotten Hall Store",
+        "Echo of War"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Stave Off the Lingering Cold",
+    "skillDescription": {
+        "formatted": "After entering battle, increases the wearer's SPD by 8/9/10/11/12% and DMG by 12/15/18/21/24%. When the wearer takes DMG, this effect will disappear. This effect will resume after the end of the wearer's next turn."
+    }
+}

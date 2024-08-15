@@ -1,0 +1,55 @@
+{
+    "coneId": 26,
+    "name": "Only Silence Remains",
+    "slug": "only-silence-remains",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/c7e89e126089a44187b1a69794b255ba/bf8e1/26_sm.png",
+                            "srcSet": "/static/c7e89e126089a44187b1a69794b255ba/914ee/26_sm.png 32w,\n/static/c7e89e126089a44187b1a69794b255ba/1c9ce/26_sm.png 64w,\n/static/c7e89e126089a44187b1a69794b255ba/bf8e1/26_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/c7e89e126089a44187b1a69794b255ba/ef6ff/26_sm.webp 32w,\n/static/c7e89e126089a44187b1a69794b255ba/8257c/26_sm.webp 64w,\n/static/c7e89e126089a44187b1a69794b255ba/6766a/26_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Record",
+    "skillDescription": {
+        "formatted": "Increases ATK of its wearer by 16/20/24/28/32%. If there are 2 or fewer enemies on the field, increases wearer's CRIT Rate by 12/15/18/21/24%."
+    }
+}

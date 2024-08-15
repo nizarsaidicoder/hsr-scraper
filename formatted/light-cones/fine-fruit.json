@@ -1,0 +1,55 @@
+{
+    "coneId": 14,
+    "name": "Fine Fruit",
+    "slug": "fine-fruit",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/050612a4ace4566f197cbe37e74c09a6/bf8e1/14_sm.png",
+                            "srcSet": "/static/050612a4ace4566f197cbe37e74c09a6/914ee/14_sm.png 32w,\n/static/050612a4ace4566f197cbe37e74c09a6/1c9ce/14_sm.png 64w,\n/static/050612a4ace4566f197cbe37e74c09a6/bf8e1/14_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/050612a4ace4566f197cbe37e74c09a6/ef6ff/14_sm.webp 32w,\n/static/050612a4ace4566f197cbe37e74c09a6/8257c/14_sm.webp 64w,\n/static/050612a4ace4566f197cbe37e74c09a6/6766a/14_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Abundance",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "14",
+            "value_level_max": "317"
+        },
+        "def": {
+            "value_level_1": "9",
+            "value_level_max": "198"
+        }
+    },
+    "skillName": "Savor",
+    "skillDescription": {
+        "formatted": "At the beginning of battle, immediately regenerates 6/8/9/11/12 Energy for all allies."
+    }
+}

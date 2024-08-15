@@ -1,0 +1,55 @@
+{
+    "coneId": 78,
+    "name": "Patience Is All You Need",
+    "slug": "patience-is-all-you-need",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/8f3f24adc70cd9c88a46df3d60e074ee/bf8e1/48_sm.png",
+                            "srcSet": "/static/8f3f24adc70cd9c88a46df3d60e074ee/914ee/48_sm.png 32w,\n/static/8f3f24adc70cd9c88a46df3d60e074ee/1c9ce/48_sm.png 64w,\n/static/8f3f24adc70cd9c88a46df3d60e074ee/bf8e1/48_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/8f3f24adc70cd9c88a46df3d60e074ee/ef6ff/48_sm.webp 32w,\n/static/8f3f24adc70cd9c88a46df3d60e074ee/8257c/48_sm.webp 64w,\n/static/8f3f24adc70cd9c88a46df3d60e074ee/6766a/48_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "August 8th, 2023",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "48",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "26",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "21",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Spider Web",
+    "skillDescription": {
+        "formatted": "Increases DMG dealt by the wearer by 24/28/32/36/40%. After every attack launched by wearer, their SPD increases by 4.8/5.6/6.4/7.2/8%, stacking up to 3 times. If the wearer hits an enemy target that is not afflicted by Erode, there is a 100% base chance to inflict Erode to the target. Enemies afflicted with Erode are also considered to be Shocked and will receive Lightning DoT at the start of each turn equal to 60/70/80/90/100% of the wearer's ATK, lasting for 1 turn(s)."
+    }
+}

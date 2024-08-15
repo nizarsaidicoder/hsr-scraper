@@ -1,0 +1,49 @@
+{
+    "coneId": 128,
+    "name": "Dance at Sunset",
+    "slug": "dance-at-sunset",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/f99e8d2137626e4953e13a8c439fdab1/6766a/126_sm.webp",
+                            "srcSet": "/static/f99e8d2137626e4953e13a8c439fdab1/ef6ff/126_sm.webp 32w,\n/static/f99e8d2137626e4953e13a8c439fdab1/8257c/126_sm.webp 64w,\n/static/f99e8d2137626e4953e13a8c439fdab1/6766a/126_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "July 31st, 2024",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Unknown",
+    "skillDescription": {
+        "formatted": "Greatly increases the odds that the wearer will be attacked and increases the wearer's CRIT DMG by 36/42/48/54/60%. After the wearer uses their Ultimate, they receive 1 stack of Firedance, lasting for 2 turns and up to 2 stacks. Each stack of Firedance increases the DMG dealt by the wearer's follow-up attack by 36/42/48/54/60%."
+    }
+}

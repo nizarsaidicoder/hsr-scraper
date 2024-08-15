@@ -1,0 +1,55 @@
+{
+    "coneId": 23,
+    "name": "Meshing Cogs",
+    "slug": "meshing-cogs",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/c42a7c279683214a89ea28fac49be8b5/bf8e1/23_sm.png",
+                            "srcSet": "/static/c42a7c279683214a89ea28fac49be8b5/914ee/23_sm.png 32w,\n/static/c42a7c279683214a89ea28fac49be8b5/1c9ce/23_sm.png 64w,\n/static/c42a7c279683214a89ea28fac49be8b5/bf8e1/23_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/c42a7c279683214a89ea28fac49be8b5/ef6ff/23_sm.webp 32w,\n/static/c42a7c279683214a89ea28fac49be8b5/8257c/23_sm.webp 64w,\n/static/c42a7c279683214a89ea28fac49be8b5/6766a/23_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Harmony",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "14",
+            "value_level_max": "317"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Fleet Triumph",
+    "skillDescription": {
+        "formatted": "After the wearer uses attacks or gets hit, additionally regenerates 4/5/6/7/8 Energy. This effect can only be triggered 1 time per turn."
+    }
+}

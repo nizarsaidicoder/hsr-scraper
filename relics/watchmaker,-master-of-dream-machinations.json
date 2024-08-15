@@ -1,0 +1,42 @@
+{
+    "id": "ae9a9932-54b6-57f1-8b57-21a302fae8e5",
+    "updatedAt": "2024-02-15T14:32:17.595Z",
+    "createdAt": "2024-02-02T08:21:31.509Z",
+    "relicId": "30",
+    "name": "Watchmaker, Master of Dream Machinations",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases Break Effect by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"16%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"When the wearer uses their Ultimate on an ally, Break Effect for all allies increases by\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\" 30%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" for \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"2\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" turn(s). This effect cannot be stacked.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/2ebb5569a938778e5e7b590e48ec6626/15e42/30.png",
+                            "srcSet": "/static/2ebb5569a938778e5e7b590e48ec6626/88208/30.png 25w,\n/static/2ebb5569a938778e5e7b590e48ec6626/e9fba/30.png 50w,\n/static/2ebb5569a938778e5e7b590e48ec6626/15e42/30.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/2ebb5569a938778e5e7b590e48ec6626/2fa99/30.webp 25w,\n/static/2ebb5569a938778e5e7b590e48ec6626/dbc4a/30.webp 50w,\n/static/2ebb5569a938778e5e7b590e48ec6626/d8057/30.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": null
+}

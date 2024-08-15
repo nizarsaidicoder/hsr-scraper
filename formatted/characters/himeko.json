@@ -1,0 +1,471 @@
+{
+    "unitId": 5,
+    "name": "Himeko",
+    "slug": "himeko",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/f321ebceb88e9b1f2f0cff4861aca551/e9a79/5_sm.png",
+                            "srcSet": "/static/f321ebceb88e9b1f2f0cff4861aca551/f31ef/5_sm.png 40w,\n/static/f321ebceb88e9b1f2f0cff4861aca551/1f8a1/5_sm.png 80w,\n/static/f321ebceb88e9b1f2f0cff4861aca551/e9a79/5_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/f321ebceb88e9b1f2f0cff4861aca551/e73fe/5_sm.webp 40w,\n/static/f321ebceb88e9b1f2f0cff4861aca551/61ca6/5_sm.webp 80w,\n/static/f321ebceb88e9b1f2f0cff4861aca551/60b4d/5_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/381102619dff8402a8b2f4cd3e8aade2/c9885/1003.png",
+                            "srcSet": "/static/381102619dff8402a8b2f4cd3e8aade2/2aab7/1003.png 94w,\n/static/381102619dff8402a8b2f4cd3e8aade2/0a986/1003.png 187w,\n/static/381102619dff8402a8b2f4cd3e8aade2/c9885/1003.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/381102619dff8402a8b2f4cd3e8aade2/84550/1003.webp 94w,\n/static/381102619dff8402a8b2f4cd3e8aade2/34f80/1003.webp 187w,\n/static/381102619dff8402a8b2f4cd3e8aade2/b26e2/1003.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/5229eb21c45b43d25493197f19055345/3c5dc/5_full.png",
+                            "srcSet": "/static/5229eb21c45b43d25493197f19055345/ca8fd/5_full.png 200w,\n/static/5229eb21c45b43d25493197f19055345/de50c/5_full.png 400w,\n/static/5229eb21c45b43d25493197f19055345/3c5dc/5_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/5229eb21c45b43d25493197f19055345/213b2/5_full.webp 200w,\n/static/5229eb21c45b43d25493197f19055345/413c5/5_full.webp 400w,\n/static/5229eb21c45b43d25493197f19055345/cf6d0/5_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "An adventurous scientist who encountered the Astral Express as a child when it got stranded in her home world. At that time, some existence in the Express revealed to this young girl a whole world outside of her own \u2014 the universe. Years later, Himeko finally repaired the train and began her journey to the stars, but she realized that this was only the beginning. On the Trailblaze path, she would need many more companions...\n\nEven though such companions may have different destinations in mind, they all gaze at the same starry sky."
+    },
+    "statsComments": null,
+    "relicsComments": {
+        "formatted": "Himeko can be played in two ways:As a sub-DPS who focuses equally on doing damage via skills and FUA,As a dedicated FUA-DPS who is just there to use the Break-Attack as hard as possible.In the first case, you want to use Speed boots and FFG or Rutilant as this gets you the best out of both worlds, but if you're playing the Follow-Up variant, you're better off running ATK% boots and Inert Salsotto as this will translate to more FUA damage.Since the calculations we're doing assume solo performance, the default suggestions are tailored toward the first, more generic playstyle."
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "100301",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "100302",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "100303",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "100304",
+            "energy_gen": "10",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "100307",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Astral Express",
+    "rarity": "5",
+    "element": "Fire",
+    "path": "Erudition",
+    "stats": {
+        "hp_base": 142.56,
+        "def_base": 59.4,
+        "atk_base": 102.96,
+        "speed_base": 96
+    },
+    "ascensionMaterials": {
+        "mats_1": "extinguished-core",
+        "mats_2": "glimmering-core",
+        "mats_3": "endotherm-chitin",
+        "mats_4": "squirming-core"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "5",
+            "name": "Himeko",
+            "upgrade1Name": "Childhood",
+            "upgrade1Desc": {
+                "formatted": "After \"Victory Rush\" is triggered, Himeko's SPD increases by 20% for 2 turn(s).\n\n\n"
+            },
+            "upgrade2Name": "Convergence ",
+            "upgrade2Desc": {
+                "formatted": "Deals 15% more DMG to enemies whose HP percentage is 50% or less."
+            },
+            "upgrade3Name": "Poised",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "upgrade4Name": "Dedication ",
+            "upgrade4Desc": {
+                "formatted": "When Himeko's Skill inflicts Weakness Break on an enemy, she gains 1 extra point(s) of Charge."
+            },
+            "upgrade5Name": "Aspiration",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade6Name": "Trailblaze ",
+            "upgrade6Desc": {
+                "formatted": "Ultimate deals DMG 2 extra times, each of which deals Fire DMG equal to 40% of the original DMG to a random enemy."
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "After using an attack, there is a <b>50%</b> base chance to inflict Burn on enemies for 2 turn(s). When afflicted with Burn, enemies take <u>Fire DoT</u> equal to <b>30%</b> of Himeko's ATK at the start of each turn.",
+            "name": "Starfire"
+        },
+        {
+            "req": "A4",
+            "desc": "Skill deals <b>20%</b> more DMG to enemies currently afflicted with Burn.",
+            "name": "Magma"
+        },
+        {
+            "req": "A6",
+            "desc": "When current HP percentage is 80% or higher, CRIT Rate increases by <b>15%</b>.",
+            "name": "Benchmark"
+        }
+    ],
+    "review": {
+        "formatted": "Himeko is a strong AoE damage dealer with access to out-of-turn follow-up attacks. She is particularly powerful against numerous weaker enemies, able to wipe these smaller foes from the field relatively easily, and her Ultimate also refunds Energy for every enemy it kills, making her very good in content with respawning enemies. She has a reliance on the team being able to Break the enemy fairly consistently to be able to launch her follow-up attack, and her single-target damage is not particularly impressive.Himeko has typically been a rather scorned unit for her not particularly powerful kit. However, with Pure Fiction now in the game, as well as plenty of enemies who summon reinforcements as well, Himeko has had new life breathed into her.Himeko\u2019s Talent is the focal point of her kit. When an enemy is inflicted with Weakness Break, Himeko gains 1 point of Charge, up to a max of 3. At 3 stacks, she will immediately launch a follow-up attack on all enemies, dealing up to 140% ATK and consuming all stacks. She starts the battle with 1 stack, and she will instantly gain 3 stacks whenever an Elite or Boss is Broken.Naturally, this puts Himeko in a position where Breaking is of the utmost importance to make full use of this Talent. The Talent itself can also accrue stacks of Charge but its Toughness damage is on the lower end at only 30 \u2014 the same as a standard Basic ATK. This also skews Himeko much more in favour of many smaller enemies as opposed to fewer tougher ones. Even though she immediately gets a follow-up attack upon an Elite or Boss getting Broken, it is challenging for Himeko to be the one to do that herself and it usually takes too long to do so, so it\u2019s not preferred to take her in pure single-target scenarios for this reason.Himeko\u2019s Skill is a Blast AoE dealing up to 200% ATK to the main foe and 80% ATK to adjacent. Initially it may seem strange that an Erudition unit with a primary focus on AoE has a Skill only capable of hitting 3 targets at once, but you must remember that as a Blast AoE, the primary enemy takes more Toughness damage than they would if it was a truly AoE Skill. Even still, it limits how much coverage Himeko can provide without her Talent and again puts more emphasis on said Talent.Her Ultimate is an AoE attack dealing up to 230% ATK to all enemies. For every enemy defeated by this Ultimate, Himeko regains 5 Energy. With an average Energy cost of 120, this Ultimate is already up fairly frequently, and any kills will further accelerate the acquisition of the next Ultimate.As you can see, Himeko is all in on the AoE playstyle, both to her benefit and her detriment; it makes her exceptionally powerful if the content and enemy lineup favour her kit, but it makes her damn near useless if things don\u2019t go your way. There\u2019s not really any overlap like with some other units.The biggest issue is the activation criteria for her follow-up. Needing enemies to be Broken in order to build up to the attack is kind of a tall ask for how little damage it ends up dealing. Worse still is that it means you have no choice but to match the Weaknesses of the enemies you\u2019re facing \u2014 yes you should ideally be doing this anyway, but usually the only unit for whom this truly matters on a team is the primary damage dealer. For Himeko, you ideally want every single teammate to be capable of dealing Toughness damage to more quickly gain Talent stacks and be able to launch more follow-ups outside of her turn.This causes an interesting dilemma where Himeko is stuck trying to accommodate her own kit and losing efficacy as an actual Erudition unit as a result of that. Her Skill being Blast is good for the Toughness damage, but is actually quite a bit worse as an actual AoE clearing tool, especially since you\u2019re going in with the assumption of decimating minor foes, meaning you\u2019re also losing out on Energy from kills you could otherwise gain. It\u2019s a little tricky but it\u2019s possible to account for these issues with proper team building.\u00a0Compared to a unit like Herta, Himeko is more favorably tailored to dealing with Fire-weak foes, but Herta is arguably far more generally applicable due to Herta\u2019s Skill being fully AoE and her Talent only needing the criteria of an enemy falling below 50% HP. Both units struggle in single-target scenarios, but without the Weakness Break restriction, it\u2019s a lot easier to slot Herta into a team to deal with respawning adds than it is to slot Himeko, generally speaking.Himeko\u2019s Bonus Ability Traces are somewhat underwhelming to be frank. A2 makes it so that any of Himeko\u2019s attacks have a 50% base chance to inflict Burn on the enemies hit for 2 turns, with the Burn itself dealing 30% ATK at the start of enemies\u2019 turns. A4 causes her Skill to deal 20% more DMG to Burned foes, and A6 increases her CRIT Rate by 15% as long as Himeko is at or above 80% Max HP.With the exception of the CRIT Rate, these are kinda awful, actually. A 50% base chance to burn is basically not going to happen ever against endgame enemies, even if you did absolutely turbo invest into Effect Hit Rate (which you absolutely should not). Even if it does land, it\u2019ll be doing a laughable 30% ATK damage which is just not even worth looking at. Really the Burn is there to enable the DMG bonus on her Skill, but again with such a pitiful chance to actually Burn the enemy, the only way you\u2019re consistently taking advantage of the A4 is if you have a teammate constantly reapplying Burn.I should reiterate at this point that Himeko is definitely very strong when it comes to dealing AoE damage, just that it comes with certain caveats that perhaps other units don\u2019t have. As long as you account for these caveats, you\u2019ll have no trouble destroying AoE content.Himeko pairs quite nicely in a sort of \u2018mono-Fire\u2019 setup involving Topaz, as they both play off of each others\u2019 strengths and help to cover their weaknesses as well, with Topaz being an extraordinarily powerful single-target damage dealer. The comparison with Herta definitely puts Herta a step above in my opinion, but you can absolutely play them together and just watch the fireworks fly \u2014 you may think you were playing manually but if those two really get going, you may be led to question that.Naturally, because of the focus on Break, Ruan Mei is also unquestionably the best support to put with Himeko if you\u2019re seeking to get the most out of her kit. Dual carry setups with Himeko are also possible, but you would similarly need to make sure that whatever support character you choose is capable of buffing both damage characters at the same time, such as Asta or once again, Ruan Mei.As a standard 5-star character, it\u2019s possible to get Eidolons for Himeko over time. The performance boost that Himeko gets is not particularly noteworthy, and Himeko is fully functional at E0. Each Eidolon is a small overall boost but none of them are really worth chasing specifically.She\u2019s good. Pure Fiction definitely gave Himeko a much needed glow-up, but really she was just waiting for the right time. Definitely far from the worst character to lose your 50/50 to."
+    },
+    "pros": {
+        "formatted": "Very strong AoE damage, Very good against respawning adds and summoner-type enemies, Can be used in dual carry setups, One of the highest base ATK stats in the game.\n\n"
+    },
+    "cons": {
+        "formatted": "Doesn\u2019t exist in single-target content, Best teams are very expensive needing both Topaz and Ruan Mei, Needs quite heavy investment to be competitive, Struggles tremendously if enemies can\u2019t be Broken."
+    },
+    "endgameStats": {
+        "formatted": "HP: 2800 - 3000+DEF: 800+ATK: 2500 - 2900+CRIT RATE: 65% - 70%+CRIT DMG: 130% - 140%+SPD: Base Speed (Hyperspeed Sparkle/Bronya or pure FUA build) / 134 (Recommended) / 143 / 160"
+    },
+    "voiceActors": {
+        "en": "Cia Court",
+        "kr": "\uae40\ubcf4\ub098",
+        "jpn": "Tanaka Rie (\u7530\u4e2d\u7406\u6075)",
+        "cn": "Lin Su (\u6797\u7c0c)"
+    },
+    "ratings": {
+        "moc": "7",
+        "moc_special": "7",
+        "pure": "11",
+        "pure_special": "11",
+        "apo": "9",
+        "apo_special": "9"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "night-on-the-milky-way",
+            "super": "1",
+            "percent": "109.44%",
+            "notes": "Assumes full uptime on the break damage buff which is incredibly difficult to achieve outside of Pure Fiction. This result is also calculated as if there were 3 targets present for the duration of the fight. A reduction in either of these factors will sharply lower this Cone's performance."
+        },
+        {
+            "cone": "geniuses-repose",
+            "super": "5",
+            "percent": "106.34%",
+            "notes": "Assumes full uptime on the on-kill CRIT DMG% boost at all times. Failing to keep this buff active will lower this Cone's performance."
+        },
+        {
+            "cone": "before-dawn",
+            "super": "1",
+            "percent": "105.30%",
+            "notes": ""
+        },
+        {
+            "cone": "eternal-calculus",
+            "super": "5",
+            "percent": "105.11%",
+            "notes": "A F2P option that provides great ATK% and SPD bonuses as long as you're hitting 3 targets consistently (which you always will in PF)."
+        },
+        {
+            "cone": "today-is-another-peaceful-day",
+            "super": "5",
+            "percent": "100.89%",
+            "notes": ""
+        },
+        {
+            "cone": "an-instant-before-a-gaze",
+            "super": "1",
+            "percent": "100.10%",
+            "notes": "-"
+        },
+        {
+            "cone": "the-day-the-cosmos-fell",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes constant uptime of the CRIT DMG% buff granted by attacking 2 or more enemies at once with an element they are weak to. Failing to keep this buff active will lower this Cone's performance."
+        },
+        {
+            "cone": "the-seriousness-of-breakfast",
+            "super": "5",
+            "percent": "98.49%",
+            "notes": "Assumes immediate uptime on the on-kill ATK% boost. Not having access to easily defeatable enemies at the start of the fight or being slow to slay enemies will lower this Cone's performance."
+        },
+        {
+            "cone": "night-on-the-milky-way",
+            "super": "1",
+            "percent": "94.66%",
+            "notes": "Assumes no uptime of the break damage buff which can occur against fights in which you have no elemental advantage. This result is also calculated as if there were 3 targets present for the duration of the fight. When facing fewer than 3 enemies this Cone's performance will reduce."
+        },
+        {
+            "cone": "geniuses-repose",
+            "super": "5",
+            "percent": "90.66%",
+            "notes": "Assumes 0% uptime on-kill CRIT DMG% boost."
+        },
+        {
+            "cone": "the-seriousness-of-breakfast",
+            "super": "5",
+            "percent": "88.02%",
+            "notes": "Assumes 0 stacks of the ATK% bonus."
+        },
+        {
+            "cone": "make-the-world-clamor",
+            "super": "5",
+            "percent": "84.81%",
+            "notes": ""
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "The Ashblazing Grand Duke",
+                    "relic_2": "",
+                    "value": "111.78%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "",
+                    "value": "109.12%",
+                    "comment": "100% uptime",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "Firesmith of Lava-Forging",
+                    "value": "100.59%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Firesmith of Lava-Forging",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "100.39%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "99.54%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "98.92%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "before-dawn",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Fire DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "This is your typical DPS build that focuses on the holy trifecta - ATK, Crit Rate, and Crit DMG. For every 1% of Crit try to have 2% of Crit DMG.",
+            "substats": "SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Skill > Ultimate > Talent > Basic",
+            "traces_priority": "Starfire (A2) > Magma (A4) > Benchmark (A6)",
+            "name": "General DPS"
+        }
+    ],
+    "videos": [
+        {
+            "video": "Io-GLaN6Aps"
+        }
+    ],
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "himeko",
+            "member_2": "natasha",
+            "member_3": "trailblazer-fire",
+            "member_4": "dan-heng"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "fireDmg",
+            "value": 22.4
+        },
+        "traceStat2": {
+            "stat": "atk",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "effectRes",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "FuA"
+    ]
+}

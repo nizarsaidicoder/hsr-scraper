@@ -1,0 +1,55 @@
+{
+    "coneId": 7,
+    "name": "Collapsing Sky",
+    "slug": "collapsing-sky",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/7c396fbe543b48b7b00fd581ccd32474/bf8e1/7_sm.png",
+                            "srcSet": "/static/7c396fbe543b48b7b00fd581ccd32474/914ee/7_sm.png 32w,\n/static/7c396fbe543b48b7b00fd581ccd32474/1c9ce/7_sm.png 64w,\n/static/7c396fbe543b48b7b00fd581ccd32474/bf8e1/7_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/7c396fbe543b48b7b00fd581ccd32474/ef6ff/7_sm.webp 32w,\n/static/7c396fbe543b48b7b00fd581ccd32474/8257c/7_sm.webp 64w,\n/static/7c396fbe543b48b7b00fd581ccd32474/6766a/7_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "16",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "9",
+            "value_level_max": "198"
+        }
+    },
+    "skillName": "Havoc",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Basic ATK and Skill DMG by 20/25/30/35/40%."
+    }
+}

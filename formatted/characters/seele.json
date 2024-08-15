@@ -1,0 +1,439 @@
+{
+    "unitId": 13,
+    "name": "Seele",
+    "slug": "seele",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/7bf27624888af02b16ed1ad2fdec10f2/e9a79/13_sm.png",
+                            "srcSet": "/static/7bf27624888af02b16ed1ad2fdec10f2/f31ef/13_sm.png 40w,\n/static/7bf27624888af02b16ed1ad2fdec10f2/1f8a1/13_sm.png 80w,\n/static/7bf27624888af02b16ed1ad2fdec10f2/e9a79/13_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/7bf27624888af02b16ed1ad2fdec10f2/e73fe/13_sm.webp 40w,\n/static/7bf27624888af02b16ed1ad2fdec10f2/61ca6/13_sm.webp 80w,\n/static/7bf27624888af02b16ed1ad2fdec10f2/60b4d/13_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ab40a974a8ad1b507c437e9ba02d277a/c9885/1102.png",
+                            "srcSet": "/static/ab40a974a8ad1b507c437e9ba02d277a/2aab7/1102.png 94w,\n/static/ab40a974a8ad1b507c437e9ba02d277a/0a986/1102.png 187w,\n/static/ab40a974a8ad1b507c437e9ba02d277a/c9885/1102.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ab40a974a8ad1b507c437e9ba02d277a/84550/1102.webp 94w,\n/static/ab40a974a8ad1b507c437e9ba02d277a/34f80/1102.webp 187w,\n/static/ab40a974a8ad1b507c437e9ba02d277a/b26e2/1102.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/d9e381f3ee8c3eb7ea55b4e53757cb9d/3c5dc/13_full.png",
+                            "srcSet": "/static/d9e381f3ee8c3eb7ea55b4e53757cb9d/ca8fd/13_full.png 200w,\n/static/d9e381f3ee8c3eb7ea55b4e53757cb9d/de50c/13_full.png 400w,\n/static/d9e381f3ee8c3eb7ea55b4e53757cb9d/3c5dc/13_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/d9e381f3ee8c3eb7ea55b4e53757cb9d/213b2/13_full.webp 200w,\n/static/d9e381f3ee8c3eb7ea55b4e53757cb9d/413c5/13_full.webp 400w,\n/static/d9e381f3ee8c3eb7ea55b4e53757cb9d/cf6d0/13_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "A spirited and valiant member of Wildfire who grew up in the perilous Underworld of Belobog. She is accustomed to being on her own. As someone who once relied on others for protection, she now pursues strength. For the truth of the underground and her family's name, Seele can endure any kind of adversity. The protectors and the protected, the oppressors and the oppressed... The world Seele grew up knowing was just a simple dichotomy...That is, until that young girl appeared."
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "110201",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "110202",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "110203",
+            "energy_gen": "5",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "110204",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "110207",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Belobog",
+    "rarity": "5",
+    "element": "Quantum",
+    "path": "Hunt",
+    "stats": {
+        "hp_base": 126.72,
+        "def_base": 49.5,
+        "atk_base": 87.12,
+        "speed_base": 115
+    },
+    "ascensionMaterials": {
+        "mats_1": "thiefs-instinct",
+        "mats_2": "usurpers-scheme",
+        "mats_3": "void-cast-iron",
+        "mats_4": "conquerors-will"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "13",
+            "name": "Seele",
+            "upgrade1Name": "Extirpating Slash",
+            "upgrade1Desc": {
+                "formatted": "When dealing DMG to an enemy whose HP percentage is 80% or lower, CRIT Rate increases by 15%."
+            },
+            "upgrade2Name": "Dancing Butterfly",
+            "upgrade2Desc": {
+                "formatted": "The SPD Boost effect of Seele's Skill can stack up to 2 time(s)."
+            },
+            "upgrade3Name": "Dazzling Tumult",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade4Name": "Flitting Phantasm",
+            "upgrade4Desc": {
+                "formatted": "Seele regenerates 15 Energy when she defeats an enemy."
+            },
+            "upgrade5Name": "Piercing Shards",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "upgrade6Name": "Shattering Shambles",
+            "upgrade6Desc": {
+                "formatted": "After Seele uses her Ultimate, inflict the target enemy with Butterfly Flurry for 1 turn(s). Enemies suffering from Butterfly Flurry will take Additional Quantum DMG equal to 15% of Seele's Ultimate DMG every time they are attacked. If the target enemy is defeated by the Butterfly Flurry DMG triggered by other allies' attacks, Seele's Talent will not be triggered. When Seele is knocked down, the Butterfly Flurry inflicted on the enemies will be removed.\n\n"
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When current HP percentage is 50% or lower, reduces the chance of being attacked by enemies.",
+            "name": "Nightshade"
+        },
+        {
+            "req": "A4",
+            "desc": "While Seele is in the buffed state, her Quantum RES PEN increases by 20%.",
+            "name": "Lacerate"
+        },
+        {
+            "req": "A6",
+            "desc": "After using a Basic ATK, Seele's next action will be Advanced Forward by <b>20%</b>.",
+            "name": "Rippling Waves"
+        }
+    ],
+    "review": {
+        "formatted": "The hot-headed swallowtail of the Underworld is an immaculate single-target damage dealer on the Path of the Hunt, strong enough to overcome the intrinsic weakness of Hunt characters and hit hard enough to where even resistant foes need to be on the lookout for her attacks. Enemy reinforcements need to be impressive to go toe to toe with Seele, because deadweights will only serve to fuel Seele\u2019s destructive power further.Seele\u2019s skill deals damage to a single target, and will simultaneously increase Seele\u2019s speed by 25% for 2 turns. Maintaining this speed boost indefinitely is extremely easy, and the speed boost is already very significant, meaning Seele is automatically one of the fastest acting characters in the game. The multiplier may initially seem low, but with the help of Seele\u2019s talent, her damage shoots skyward.Seele\u2019s ultimate immediately puts Seele into a Buffed state before dealing single-target damage. This Buffed state will have its effects active for the actual ultimate hit and will also persist for 1 turn after, meaning Seele\u2019s ultimate always has the Buffed values in-game.Her talent describes what her Buffed state does; she gains up to an 80% damage boost at max trace level whilst Buffed for 1 turn. Additionally, if Seele defeats an enemy, she will instantly gain an Extra Turn (not turn advance, a true extra action) and will become Buffed. She cannot trigger this extra turn again by scoring a defeat with the previous extra turn. Buffs do not tick down after Extra Turns, unlike Turn Advances.This is where Seele\u2019s crazy damage comes from. By simply playing her as you would any other SP spending damage dealer, you will end up benefiting greatly from the impressive dmg% boost the Buffed state gives you; using her ultimate will immediately trigger the Buffed state for Seele, and combining it with the passive procs from her talent after scoring defeats, Seele can end up spending the majority of combat affected by this Buff.Seele\u2019s Bonus Traces are mostly nice bonuses to have, with the exception of A4, which gives Seele a huge 20% Quantum RES PEN while she\u2019s in her Buffed state. Resistance penetration is a rare and powerful boost to damage, as it affects a separate multiplier in the damage formula, leading to much larger increases in damage. Because of the way this specific bonus works, it makes Seele even more effective against foes that are already weak to Quantum, equalises the field against neutral enemies, and even goes a long way to allowing Seele to put in damage against resistant foes! (Don\u2019t actually bring Seele if you know you\u2019ll be against super resistant foes, obviously.)What\u2019s more, Seele can manage to circumvent the inherent weakness in AoE scenarios that the exclusively single-target Hunt characters have thanks to her talent; if there are enemy reinforcements during a tough encounter, Seele can actually use them as a springboard to deal extra damage against her primary target, since spending a turn to defeat them will instantly grant Seele an extra turn with which to attack said primary target, only this time you\u2019ve got the exceptional damage increase and Qua RES PEN from the Buffed state.\u00a0She can virtually ping-pong across the battlefield, simultaneously dealing increased damage to the main foe whilst also indirectly dealing aoe damage, making her the only Hunt character who arguably gets stronger in aoe scenarios. The only caveat to this is that she becomes inordinately SP hungry, and maintaining this sort of pace can become incredibly challenging, unless of course you\u2019re killing off the trash adds with Seele\u2019s basic attack to conserve SP, in which case, that is a certifiable gigachad play.Something to consider when forming teams is the potential to encounter diminishing returns, due to how many damage buffs she already has, but usually if there\u2019s more than just another generic damage boost from the other supporting character, it will still contribute a lot to boosting Seele\u2019s already impressive damage (so yes, feel free to pair her with Bronya, it is the law, after all).All of this together makes Seele one of the hardest scaling units currently in the game. Being a Hunt character, she naturally has higher than average crit stats that are only boosted further by Light Cones, and her passive bonuses give her a huge leg up on many other units. She\u2019s a fantastic choice to go for, and for all those pulling for her, good luck!\u2026 She does need to chill out though."
+    },
+    "pros": {
+        "formatted": "Top tier single-target damage output, Works astonishingly well in AoE scenarios due to the nature of her kit, making her a rare universal DPS, Quantum RES PEN allows her to be used effectively even outside of QUA weak foes.\n\n"
+    },
+    "cons": {
+        "formatted": "Potentially very skill-point-hungry if she\u2019s too fast.\n"
+    },
+    "endgameStats": {
+        "formatted": "HP: 2800 - 3000+ DEF: 800 - 900+ATK: 2900 - 3300+CRIT RATE: 80%+ (but we all know if it's not 100%, she will never crit)CRIT DMG: 160%+SPD: 115"
+    },
+    "voiceActors": {
+        "en": "Molly Zhang",
+        "kr": "\uc1a1\ud558\ub9bc",
+        "jpn": "Nakahara Mai (\u4e2d\u539f\u9ebb\u8863)",
+        "cn": "Yajing Tang (\u5510\u96c5\u83c1)"
+    },
+    "ratings": {
+        "moc": "8",
+        "moc_special": "8",
+        "pure": "7",
+        "pure_special": "7",
+        "apo": "8",
+        "apo_special": "8"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "in-the-night",
+            "super": "1",
+            "percent": "111.38%",
+            "notes": "Calcs contain some reallocation of ATK%, CRIT RATE and CRIT DMG% to SPD in order to achieve 4-6 stacks of the bonus. Each character is configured to reach the Speed breakpoint that grants them the most damage with this Cone. under the simulation conditions. With better relics and teams that grant more Speed this lightcones performance will improve comparatively."
+        },
+        {
+            "cone": "swordplay",
+            "super": "5",
+            "percent": "106.01%",
+            "notes": "Assumes full access to all 5 stacks throughout the entire duration of the fight. In fights where target swapping is required this Cone performance can be reduced substantially."
+        },
+        {
+            "cone": "only-silence-remains",
+            "super": "5",
+            "percent": "103.69%",
+            "notes": "Assumes the fight is limited to 2 or fewer enemies at all times. In fights where more than two enemies are present for any portion of it, this Cone performance will drop."
+        },
+        {
+            "cone": "cruising-in-the-stellar-sea",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes the on-kill ATK% boost can be maintained 66% of the time in the fight and only considers the base CRIT RATE % in these calculations not the additional CRIT on low life. In fights where the ATK% buff cannot be maintained the performance of this Cone will reduce."
+        },
+        {
+            "cone": "return-to-darkness",
+            "super": "5",
+            "percent": "95.62%",
+            "notes": "-"
+        },
+        {
+            "cone": "cruising-in-the-stellar-sea",
+            "super": "5",
+            "percent": "90.39%",
+            "notes": "Assumes the on-kill ATK% boost uptime is 0% and only considers the base CRIT RATE % in these calculations not the additional CRIT on low life."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "QUA Weak",
+                    "notes": null
+                },
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "93.26%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": "93.06%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "100.93%",
+                    "comment": "160 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "98.22%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "96.73%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "96.37%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "in-the-night",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Quantum DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "This is your typical DPS build that focuses on the holy trifecta - ATK, Crit Rate, and Crit DMG. For every 1% of Crit try to have 2% of Crit DMG.",
+            "substats": "CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Skill > Talent = Ultimate > Basic",
+            "traces_priority": "Lacerate (A4) > Rippling Waves (A6) > Nightshade (A2)",
+            "name": "General DPS"
+        }
+    ],
+    "videos": [
+        {
+            "video": "kTR1rlgYlq0"
+        },
+        {
+            "video": "JijCSaM1pgU"
+        }
+    ],
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "seele",
+            "member_2": "natasha",
+            "member_3": "trailblazer-fire",
+            "member_4": "asta"
+        },
+        {
+            "name": "Hypercarry Team",
+            "member_1": "seele",
+            "member_2": "bronya",
+            "member_3": "tingyun",
+            "member_4": "luocha"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "critDmg",
+            "value": 24
+        },
+        "traceStat3": {
+            "stat": "def",
+            "value": 12.5
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "ADV"
+    ]
+}

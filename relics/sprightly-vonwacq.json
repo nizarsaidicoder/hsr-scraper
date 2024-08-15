@@ -1,0 +1,53 @@
+{
+    "id": "3453bad5-5094-5942-871a-3080ec0a0e8a",
+    "updatedAt": "2023-04-25T18:51:31.529Z",
+    "createdAt": "2023-02-16T13:45:54.926Z",
+    "relicId": "20",
+    "name": "Sprightly Vonwacq",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's Energy Regeneration Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"5%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When the wearer's SPD reaches \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"120\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" or higher, the wearer's action is Advanced Forward by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" immediately upon entering battle.\",\"marks\":[],\"data\":{}}]}]}"
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/6d41619b621d9693530e36540e4a3a02/15e42/planar_8.png",
+                            "srcSet": "/static/6d41619b621d9693530e36540e4a3a02/88208/planar_8.png 25w,\n/static/6d41619b621d9693530e36540e4a3a02/e9fba/planar_8.png 50w,\n/static/6d41619b621d9693530e36540e4a3a02/15e42/planar_8.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/6d41619b621d9693530e36540e4a3a02/2fa99/planar_8.webp 25w,\n/static/6d41619b621d9693530e36540e4a3a02/dbc4a/planar_8.webp 50w,\n/static/6d41619b621d9693530e36540e4a3a02/d8057/planar_8.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "energyRegen",
+            "value": 5
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

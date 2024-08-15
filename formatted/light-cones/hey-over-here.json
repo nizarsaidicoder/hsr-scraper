@@ -1,0 +1,55 @@
+{
+    "coneId": 102,
+    "name": "Hey, Over Here",
+    "slug": "hey-over-here",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/40a0831c3dc37bdd9e4760dafb29c99b/bf8e1/85_sm.png",
+                            "srcSet": "/static/40a0831c3dc37bdd9e4760dafb29c99b/914ee/85_sm.png 32w,\n/static/40a0831c3dc37bdd9e4760dafb29c99b/1c9ce/85_sm.png 64w,\n/static/40a0831c3dc37bdd9e4760dafb29c99b/bf8e1/85_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/40a0831c3dc37bdd9e4760dafb29c99b/ef6ff/85_sm.webp 32w,\n/static/40a0831c3dc37bdd9e4760dafb29c99b/8257c/85_sm.webp 64w,\n/static/40a0831c3dc37bdd9e4760dafb29c99b/6766a/85_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Mission Reward"
+    ],
+    "releaseDate": "November 15th, 2023",
+    "path": "Abundance",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "19",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "18",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "I'm Not Afraid!",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Max HP by 8/9/10/11/12%. When the wearer uses Skill, increases Outgoing Healing by 16/19/22/25/28%, lasting for 2 turn(s)."
+    }
+}

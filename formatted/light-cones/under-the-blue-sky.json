@@ -1,0 +1,55 @@
+{
+    "coneId": 63,
+    "name": "Under the Blue Sky",
+    "slug": "under-the-blue-sky",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/3e985b4d44bc0d986bfba9746a2cf344/bf8e1/63_1_.png",
+                            "srcSet": "/static/3e985b4d44bc0d986bfba9746a2cf344/914ee/63_1_.png 32w,\n/static/3e985b4d44bc0d986bfba9746a2cf344/1c9ce/63_1_.png 64w,\n/static/3e985b4d44bc0d986bfba9746a2cf344/bf8e1/63_1_.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/3e985b4d44bc0d986bfba9746a2cf344/ef6ff/63_1_.webp 32w,\n/static/3e985b4d44bc0d986bfba9746a2cf344/8257c/63_1_.webp 64w,\n/static/3e985b4d44bc0d986bfba9746a2cf344/6766a/63_1_.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Rye Under the Sun",
+    "skillDescription": {
+        "formatted": "Increases the wearer's ATK by 16/20/24/28/32%. When the wearer defeats an enemy, the wearer's CRIT Rate increases by 12/15/18/21/24% for 3 turn(s)."
+    }
+}

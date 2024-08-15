@@ -1,0 +1,418 @@
+{
+    "unitId": 21,
+    "name": "Luocha",
+    "slug": "luocha",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/3db1e95f0be0c78a233f851614ff4620/e9a79/21_sm.png",
+                            "srcSet": "/static/3db1e95f0be0c78a233f851614ff4620/f31ef/21_sm.png 40w,\n/static/3db1e95f0be0c78a233f851614ff4620/1f8a1/21_sm.png 80w,\n/static/3db1e95f0be0c78a233f851614ff4620/e9a79/21_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/3db1e95f0be0c78a233f851614ff4620/e73fe/21_sm.webp 40w,\n/static/3db1e95f0be0c78a233f851614ff4620/61ca6/21_sm.webp 80w,\n/static/3db1e95f0be0c78a233f851614ff4620/60b4d/21_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ffbe2b4edb75443ce6e86a5697c28175/c9885/1203.png",
+                            "srcSet": "/static/ffbe2b4edb75443ce6e86a5697c28175/2aab7/1203.png 94w,\n/static/ffbe2b4edb75443ce6e86a5697c28175/0a986/1203.png 187w,\n/static/ffbe2b4edb75443ce6e86a5697c28175/c9885/1203.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ffbe2b4edb75443ce6e86a5697c28175/84550/1203.webp 94w,\n/static/ffbe2b4edb75443ce6e86a5697c28175/34f80/1203.webp 187w,\n/static/ffbe2b4edb75443ce6e86a5697c28175/b26e2/1203.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/bd765e53a8d5b55f5fd6d518fd1188c0/3c5dc/21_full.png",
+                            "srcSet": "/static/bd765e53a8d5b55f5fd6d518fd1188c0/ca8fd/21_full.png 200w,\n/static/bd765e53a8d5b55f5fd6d518fd1188c0/de50c/21_full.png 400w,\n/static/bd765e53a8d5b55f5fd6d518fd1188c0/3c5dc/21_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/bd765e53a8d5b55f5fd6d518fd1188c0/213b2/21_full.webp 200w,\n/static/bd765e53a8d5b55f5fd6d518fd1188c0/413c5/21_full.webp 400w,\n/static/bd765e53a8d5b55f5fd6d518fd1188c0/cf6d0/21_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "A blond-haired handsome young man who carries a coffin on his back. As a member of the intergalactic merchant guild, he was unfortunately caught in the Xianzhou Luofu's Stellaron crisis. Somehow, his superb medical skills are sure to be of use."
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "120301",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "120302",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "120303",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "120304",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "120307",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Healer",
+    "affiliation": "Xianzhou Luofu",
+    "rarity": "5",
+    "element": "Imaginary",
+    "path": "Abundance",
+    "stats": {
+        "hp_base": 174.24,
+        "def_base": 49.5,
+        "atk_base": 102.96,
+        "speed_base": 101
+    },
+    "ascensionMaterials": {
+        "mats_1": "artifex-module",
+        "mats_2": "artifex-cogwheel",
+        "mats_3": "golden-crown-of-the-past-shadow",
+        "mats_4": "artifex-gyreheart"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "21",
+            "name": "Luocha",
+            "upgrade1Name": "Ablution of the Quick",
+            "upgrade1Desc": {
+                "formatted": "While the Field is active, ATK of all allies increases by 20%."
+            },
+            "upgrade2Name": "Bestowal From the Pure",
+            "upgrade2Desc": {
+                "formatted": "When his Skill is triggered, if the target ally's HP is lower than 50%, Luocha's Outgoing Healing increases by 30%. If the target ally's HP is at 50% or higher, the ally receives a Shield that can absorb DMG equal to 18% of Luocha's ATK plus 240, lasting for 2 turns."
+            },
+            "upgrade3Name": "Surveyal by the Fool",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "upgrade4Name": "Heavy Lies the Crown",
+            "upgrade4Desc": {
+                "formatted": "When Luocha's Field is active, enemies become Weakened and deal 12% less DMG.\n\n"
+            },
+            "upgrade5Name": "Cicatrix 'Neath the Pain",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade6Name": "Reunion With the Dust",
+            "upgrade6Desc": {
+                "formatted": "When Ultimate is used, there is a 100% fixed chance to reduce all enemies' All-Type RES by 20% for 2 turn(s)."
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When the Skill's effect is triggered, removes 1 debuff(s) from a target ally.",
+            "name": "Cleansing Revival"
+        },
+        {
+            "req": "A4",
+            "desc": "When any enemy in the Field is attacked by an ally, all allies (except the attacker) restore HP equal to 7% of Luocha's ATK plus 93.",
+            "name": "Sanctified"
+        },
+        {
+            "req": "A6",
+            "desc": "The chance to resist Crowd Control debuffs increases by 70%.",
+            "name": "Through the Valley"
+        }
+    ],
+    "review": {
+        "formatted": "Luocha is a strong Abundance sustain with a high degree of comfort to his kit. His Talent maintains an AoE healing field called Abyss Flower that will heal allies who attack enemies, as well as healing a smaller amount to everyone else. His Ultimate will attack all enemies and dispelling one buff from them, and his Skill has a passive component that will automatically heal an ally who falls below 50% HP outside of Luocha's turn. Because of the ease of keeping his field active and his emergency heal on his Skill, Luocha is arguably the most SP positive sustain option in the game.The mysterious Raksha continues to be a solid performer in all metrics. His ease of use has kept him quite popular even in the midst of new sustain units with more of an offensive angle to them like Fu Xuan or Huohuo, and Luocha's excellent SP economy means he's still a prime pick for particularly SP hungry teams. His offensive Ultimate and lack of need for SP means he can also contribute a good bit of Toughness damage too.Luocha's Talent is the big draw. When he uses his Skill or his Ultimate, he will gain 1 stack of Abyss Flower, and at 2 stacks he will deploy his Abyss Flower field. While the field is active, allies who attack enemies will have their health restored by up to 18% of Luocha's *ATK* plus 240. Indeed, Luocha's healing scales with the ATK stat instead of with HP like many other Abundance units. This doesn't really translate to dealing more damage, mind you, it's just a different way to scale his healing.Abyss Flower lets the team stay on the offensive without needing to worry about chip damage from enemies or pesky DoT effects. It also means Luocha's healing throughput is virtually unparalleled as he's constantly healing the team on everyone's turn, assuming they're attacking something. Even better is that it's not like traditional life-steal you may be familiar with, it's a fixed healing value based on his Talent's Trace level, meaning even your zero-damage support characters can fully benefit from the effects of Abyss Flower.It's useful to note that this will consider all attacks for the healing, meaning any offensive Ultimates will also trigger the healing effect, potentially allowing for some very last-minute emergency healing that saves a teammate's life. This even extends to Luocha's own Ultimate, though this is a truly last resort action, as Luocha cannot gain any more Abyss Flower stacks while his field is already active.Luocha's Skill will heal a single ally for up to 60% ATK plus 800 and grant him 1 stack of Abyss Flower. Whenever an ally's HP percentage drops to 50% or below, he will automatically use this Skill at no cost, immediately as an Extra Action, and heal said ally. This emergency heal effect has a 2 turn cooldown. This emergency heal is functionally the same as if he'd used the Skill normally, meaning it also gives a stack of Abyss Flower, and more importantly, grants the same amount of Energy of 30.This emergency heal passive is what results in Luocha's vastly increased SP economy; with his Ultimate and Skill granting a stack of Abyss Flower each, he can maintain the field almost indefinitely, and anyone who loses too much HP at once will immediately be healed by the Skill's passive. This gives Luocha full freedom to only ever use his Basic ATK, contributing Toughness DMG and applying Abyss Flower's healing himself. With a Light Cone like Multiplication, this makes Luocha one of the fastest acting and fastest SP restoring characters in the game, and is a big reason why he still finds so much use.Luocha's Ultimate will hit all enemies on the field, dealing up to 200% ATK and removing 1 buff from every enemy hit. This will also grant 1 stack of Abyss Flower. While we are no longer lacking for Imaginary units as we once were, Imprisonment is still as powerful as ever, and having the healer be able to Break enemies and send them to the shadow realm is quite nice. It also completely dunks on pesky foes like the Shape-Shifter with their own life-steal field, and will also easily dispel annoying DMG Barriers like the ones Automaton Beetles get.This offensive Ultimate comes at the cost of not having an emergency healing Ultimate like what many of the other Abundance units have, such as Natasha or Lynx. While it is extremely unlikely to get into a rough spot like that with Luocha's Abyss Flower around, it is nevertheless a non-zero possibility, and recovering from a situation where everyone is dangerously low on HP can be tricky with Luocha if he is not sufficiently invested for Abyss Flower to pick up the slack. Even then, this is only useful if you have teammates who can actually attack the enemies, so buffing supports who only ever target allies will not be able to benefit from this as much as you may want.Luocha's A2 Bonus Trace gives his Skill heal a cleanse effect, removing 1 debuff from the targeted ally. This naturally also applies to his Skill's emergency passive, meaning you can very easily circumvent otherwise deadly scenarios, such as when an ally is hit for the majority of their HP bar and also, say, Entangled or Imprisoned. Luocha will have that covered no problem.A4 will add additional healing to Abyss Flower, healing everyone else besides the attacker 7% ATK plus 93. It's a much lower value but now Abyss Flower is capable of healing everyone all at once, increasing Luocha's already ridiculous healing throughput. This can also actively help to prevent those aforementioned dangerous situations in which not having a healing Ultimate may be detrimental, though the same weaknesses apply \u2014 you need someone to actually hit enemies to get the healing.Luocha's A6 is pretty nuts as it gives him a passive 70% chance to resist all crowd-control effects. This is not like Effect RES and is its own thing, meaning it is extremely unlikely that Luocha will be made unable to act. Essentially this is to prevent Luocha from being unable to use his Skill's passive, actually making it a consistent source of emergency healing even against heavy crowd-control. However, basic maths says that this is in fact not 100% resistance, so it is still possible for Luocha to get crowd-controlled \u2014 *it's extremely unlikely* but it is ultimately a non-zero chance.Luocha does not need Eidolons to succeed, but they are a nice boost to have. E1 in particular will allow his Abyss Flower field to additionally provide a passive 20% ATK boost to the entire party, and if you're mad enough to chase E6, his Ultimate will reduce all enemies All-Type RES by 20%, giving him fantastic universal benefits. Again, definitely not necessary, but it's here if you want it.Luocha's place in the meta has remained somewhat consistent. He's undeniably good at what he does, and he's been solving SP issues for teams since his inception. However, newer sustain units ever since Fu Xuan have been doing something other than just raw sustaining; it's no longer enough to just be a pure healer or shielder, you have to offer something else to the team... Unless you're Luocha.See, the issue is not that Luocha doesn't do enough to justify his position, it's that everyone else has to do more than just heal to justify their spot \u2014 Luocha is the pinnacle of healing because that's what he was designed to do, and any new units who do it better would just be considered a direct powercreep of Luocha. The man is literally so good at his primary role that he's forced all future sustain units to do more than just sustain, because if that's all they do, they'll inevitably get a one-to-one comparison to Luocha, and that is guaranteed to be a losing battle.Fu Xuan sidestepped the issue by tackling the one issue Luocha has which is dealing with one-shot abilities from enemies, but her own healing is still far less than Luocha's to where you're not really being sustained, you're just dying really really slowly \u2014 slow enough to where it's imperceptible if you can defeat enemies fast enough.Huohuo introduced a truly new way for sustain units to function, but in order to balance her highly coveted ATK buff and Energy restore, her actual healing needs far more effort than Luocha since it requires proper SP management to take full advantage of. This is probably the biggest reason why Luocha still sees so much use: he's just easy, folks. It really is that simple. Even if Huohuo can claim to be the 'objectively superior option' as far as offensive utility is concerned, for some it's just not worth the extra hassle.Having said that, if survivability is not your bottleneck, then Luocha will actually be a worse option than someone like Huohuo. It sets an interesting and possibly dangerous precedent for future sustain characters, because as mentioned, Luocha remains strong because his actual sustain is comfy and almost unmatched. If a new sustain character comes out who provides more than just sustain while also matching Luocha's ease of use or healing throughput, then Luocha may very well be out of a job for many players.He'll always have his excellent SP economy going for him, but more and more this is becoming less relevant, and there is always the argument to be made that if you're having SP issues, it's an overall teambuilding issue. Even still, it seems extraordinarily unlikely that a unit will come out that will completely overshadow all aspects of Luocha's kit, and even when there is already a character like Huohuo out there whom many players consider outright better than Luocha, the usage statistics just don't lie, and the enigmatic Raksha earns his keep.If you are lacking a good limited 5-star sustain unit, you shouldn't even need to think twice about going for Luocha. He's comfortable, consistent, and verifiably good. He's a daily driver for many, and for good reason.The prevailing question remains... Do you trust him?"
+    },
+    "pros": {
+        "formatted": "Excellent healing throughput that is comfy and easy to maintain, AoE dispel on his Ultimate to remove enemy buffs, Virtually immune to crowd-control, Excellent SP economy, Will always be good at doing his job of sustaining the team. \n\n"
+    },
+    "cons": {
+        "formatted": "Doesn't do anything more than sustain the team making his offensive utility lower than newer sustain characters, Doesn't have a panic heal in his kit, ATK scaling means he will have less HP than other HP-scaling healers, Value may go down over time as sustain characters continue to get feature-crept. \n\n"
+    },
+    "endgameStats": {
+        "formatted": "HP: 3500 - 4000+DEF: 800+ATK: 2400 - 2600+SPD: 134 (Recommended) / 143 / 160ENERGY REGEN: 19.44%+ "
+    },
+    "voiceActors": {
+        "en": "Craig Lee Thomas",
+        "kr": "\uc2e0\uc6a9\uc6b0 (Shin Yong-woo)",
+        "jpn": "Ishida Akira (\u77f3\u7530\u5f70)",
+        "cn": "Lu Zhao (\u8d75\u8def)"
+    },
+    "ratings": {
+        "moc": "9",
+        "moc_special": "9",
+        "pure": "9",
+        "pure_special": "9",
+        "apo": "9",
+        "apo_special": "9"
+    },
+    "energyUltimate": "100",
+    "conesNew": [
+        {
+            "cone": "echoes-of-the-coffin",
+            "super": "1",
+            "percent": "-",
+            "notes": "Has exceptionally high attack and huge ATK% boost massively increase ATK% based healers output. Also offers 3 energy per enemy hit per action accelerating ultimate access for characters that hit frequently. Finally also offers a 1 turn Speed bonus upon ultimate use - a nice bonus but nothing substantial (can also get in the way of speed tuning in some teams). Ideal for boosting ATK% healers or accessing ultimates more quickly."
+        },
+        {
+            "cone": "night-of-fright",
+            "super": "1",
+            "percent": "-",
+            "notes": "Offers exceptional base stats, energy regeneration and team-wide buffs. Most importantly this Cone offers an additional healing mechanic outside of the kit of the healer it is equipped to allow more flexible healing and the opportunity to keep your allies alive. All these factors combined make it the strongest in almost every scenario."
+        },
+        {
+            "cone": "perfect-timing",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a large amount of Effect Res and grants a % of your Effect Res as an Outgoing Healing Bonus (up to 27% at S5). To reach the maximum healing bonus at S5 you'll require a total of 60% Effect Res, this Cone and its huge healing bonus is one of the generically best Cones that can be used well on all healers."
+        },
+        {
+            "cone": "multiplication",
+            "super": "5",
+            "percent": "-",
+            "notes": "Advances the wearer's action forward 20% every basic attack dramatically accelerating their rotation compared to the rest of the team allowing for more frequent healing, ultimates but most importantly more skill point generation. Only recommended for use on healers that predominantly use their basic attacks e.g. Luocha."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Passerby of Wandering Cloud",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "Passerby of Wandering Cloud",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Sprightly Vonwacq",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "echoes-of-the-coffin",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Outgoing Healing"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "Since Luocha's heals scale off his ATK, you want to invest mainly in that stat. Still, giving him some HP% is advised, especially if you plan to run him as your solo defensive option.",
+            "substats": "SPD (breakpoint) > ATK% > DEF% = HP% > EFF RES%",
+            "skill_priority": "Talent >= Skill > Ultimate = Basic",
+            "traces_priority": "Cleansing Revival (A2) > Sanctified (A4) > Through the Valley (A6)",
+            "name": "Pure Healer"
+        }
+    ],
+    "videos": [
+        {
+            "video": "1PYEKq47_8M"
+        },
+        {
+            "video": "M_j0TVh0vB8"
+        },
+        {
+            "video": "7Q8Fug3l6bQ"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Offensive",
+            "member_1": "luocha",
+            "member_2": "seele",
+            "member_3": "bronya",
+            "member_4": "silver-wolf"
+        },
+        {
+            "name": "Clara Fortress",
+            "member_1": "luocha",
+            "member_2": "tingyun",
+            "member_3": "pela",
+            "member_4": "clara"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "def",
+            "value": 12.5
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 18
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Sustain",
+    "releaseDate": "June 28th, 2023",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "SP+"
+    ]
+}

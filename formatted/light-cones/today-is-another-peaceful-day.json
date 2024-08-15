@@ -1,0 +1,55 @@
+{
+    "coneId": 54,
+    "name": "Today Is Another Peaceful Day",
+    "slug": "today-is-another-peaceful-day",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/dfc5c1637e6749d7db6b56fa8e96a5aa/bf8e1/54_sm.png",
+                            "srcSet": "/static/dfc5c1637e6749d7db6b56fa8e96a5aa/914ee/54_sm.png 32w,\n/static/dfc5c1637e6749d7db6b56fa8e96a5aa/1c9ce/54_sm.png 64w,\n/static/dfc5c1637e6749d7db6b56fa8e96a5aa/bf8e1/54_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/dfc5c1637e6749d7db6b56fa8e96a5aa/ef6ff/54_sm.webp 32w,\n/static/dfc5c1637e6749d7db6b56fa8e96a5aa/8257c/54_sm.webp 64w,\n/static/dfc5c1637e6749d7db6b56fa8e96a5aa/6766a/54_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Nameless Glory"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "529"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "A Storm Is Coming",
+    "skillDescription": {
+        "formatted": "After entering battle, increases the wearer's DMG based on their Max Energy. DMG increases by 0.2/0.25/0.3/0.35/0.4% per point of Energy, up to 160 Energy."
+    }
+}

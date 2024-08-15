@@ -1,0 +1,53 @@
+{
+    "id": "c32bc45a-24b3-59bd-a65d-6e25d56eeb72",
+    "updatedAt": "2023-04-10T07:01:07.828Z",
+    "createdAt": "2023-02-16T13:44:09.328Z",
+    "relicId": "16",
+    "name": "Belobog of the Architects",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's DEF by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When the wearer's Effect Hit Rate is \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" or higher, the wearer gains an extra \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" DEF.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/c751401566c6af59aae1b290975afbd8/15e42/planar_4.png",
+                            "srcSet": "/static/c751401566c6af59aae1b290975afbd8/88208/planar_4.png 25w,\n/static/c751401566c6af59aae1b290975afbd8/e9fba/planar_4.png 50w,\n/static/c751401566c6af59aae1b290975afbd8/15e42/planar_4.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/c751401566c6af59aae1b290975afbd8/2fa99/planar_4.webp 25w,\n/static/c751401566c6af59aae1b290975afbd8/dbc4a/planar_4.webp 50w,\n/static/c751401566c6af59aae1b290975afbd8/d8057/planar_4.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "def",
+            "value": 15
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

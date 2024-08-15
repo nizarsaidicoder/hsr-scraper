@@ -1,0 +1,55 @@
+{
+    "coneId": 8,
+    "name": "Cornucopia",
+    "slug": "cornucopia",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/c617ed5818a7acba50045bdee38bb2f3/bf8e1/8_sm.png",
+                            "srcSet": "/static/c617ed5818a7acba50045bdee38bb2f3/914ee/8_sm.png 32w,\n/static/c617ed5818a7acba50045bdee38bb2f3/1c9ce/8_sm.png 64w,\n/static/c617ed5818a7acba50045bdee38bb2f3/bf8e1/8_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/c617ed5818a7acba50045bdee38bb2f3/ef6ff/8_sm.webp 32w,\n/static/c617ed5818a7acba50045bdee38bb2f3/8257c/8_sm.webp 64w,\n/static/c617ed5818a7acba50045bdee38bb2f3/6766a/8_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Abundance",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Prosperity",
+    "skillDescription": {
+        "formatted": "When the wearer uses their Skill or Ultimate, their Outgoing Healing increases by 12/15/18/21/24%."
+    }
+}

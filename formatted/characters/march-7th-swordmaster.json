@@ -1,0 +1,496 @@
+{
+    "unitId": 58,
+    "name": "March 7th \u2022 The Hunt",
+    "slug": "march-7th-swordmaster",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e023b80838d8304b3dfbb7622e1a00ab/60b4d/m7alt_sm.webp",
+                            "srcSet": "/static/e023b80838d8304b3dfbb7622e1a00ab/e73fe/m7alt_sm.webp 40w,\n/static/e023b80838d8304b3dfbb7622e1a00ab/61ca6/m7alt_sm.webp 80w,\n/static/e023b80838d8304b3dfbb7622e1a00ab/60b4d/m7alt_sm.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/d4a35977b71e6d69170a650ebb41189c/b26e2/hsr_card_altmartch.webp",
+                            "srcSet": "/static/d4a35977b71e6d69170a650ebb41189c/84550/hsr_card_altmartch.webp 94w,\n/static/d4a35977b71e6d69170a650ebb41189c/34f80/hsr_card_altmartch.webp 187w,\n/static/d4a35977b71e6d69170a650ebb41189c/b26e2/hsr_card_altmartch.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": null,
+    "description": {
+        "formatted": "March 7th in a Xianzhou-styled outfit. A sword-wielding female martial artist. Learning swordsmanship from both Yunli and Yanqing, she is eager to create more beautiful memories on the Xianzhou. "
+    },
+    "statsComments": {
+        "formatted": "Additional notes for sub-statsBreak or CRIT RATE: March 7th's kit allows her to be played as a BREAK (Super Break with Harmony Trailblazer) or CRIT-based damage dealer - each of which has their own stat builds they desire. When building March CRIT it makes sense to completely focus all her attention in this direction but when building her BREAK it can pay if possible to still build up some of her CRIT-related stats to boost her damage as long as the opportunity cost is low - this however is optional. Speed: Thanks to one of March's free Eidolons (E1) granting her 10% additional Speed she can get away with less Speed than other characters in order to reach her desired Speed breakpoint making the Speed values she pursues different than standard. "
+    },
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "122401",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "122406",
+            "energy_gen": "30",
+            "break_primary": "15",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "122402",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "122403",
+            "energy_gen": "5",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "122404",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "122407",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Sub DPS",
+    "affiliation": null,
+    "rarity": "4",
+    "element": "Imaginary",
+    "path": "Hunt",
+    "stats": {
+        "hp_base": 144,
+        "def_base": 60,
+        "atk_base": 76.8,
+        "speed_base": 102
+    },
+    "ascensionMaterials": {
+        "mats_1": "thiefs-instinct",
+        "mats_2": "usurpers-scheme",
+        "mats_3": "horn-of-snow",
+        "mats_4": "conquerors-will"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "58",
+            "name": "March",
+            "upgrade1Name": "My Sword Stirs Starlight",
+            "upgrade1Desc": {
+                "formatted": "When Shifu is on the field, increases March 7th's SPD by 10%. "
+            },
+            "upgrade2Name": "Blade Dances on Waves' Fight",
+            "upgrade2Desc": {
+                "formatted": "After Shifu uses Basic ATK or Skill to attack an enemy target, March 7th immediately launches a follow-up attack and deals Imaginary DMG equal to 60% of March 7th's ATK to the primary target of this attack. Additionally, triggers the corresponding effect based on Shifu's Path and then gains 1 point(s) of Charge. If there is no primary target available to attack, then attacks a single random enemy instead. This effect can only trigger once per turn."
+            },
+            "upgrade3Name": "Sharp Wit in Martial Might",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10. "
+            },
+            "upgrade4Name": "Being Fabulous Never Frights",
+            "upgrade4Desc": {
+                "formatted": "At the start of the turn, regenerates 5 Energy. "
+            },
+            "upgrade5Name": "Sword Delights, Sugar Blights",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15. "
+            },
+            "upgrade6Name": "Me, the Best Girl in Sight",
+            "upgrade6Desc": {
+                "formatted": "After using Ultimate, increases the CRIT DMG dealt by the next Enhanced Basic ATK by 50%. "
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When the battle starts, March 7th's action is Advanced Forward by <b>25%</b>. ",
+            "name": "Swan Soar"
+        },
+        {
+            "req": "A4",
+            "desc": "March 7th can reduce the Toughness of enemies whose Weakness Type is the same as Shifu's Combat Type. When Breaking Weakness, triggers the Imaginary Weakness Break effect.",
+            "name": "Filigree"
+        },
+        {
+            "req": "A6",
+            "desc": "After using Enhanced Basic ATK, increases Shifu's CRIT DMG by <b>60%</b> and Break Effect by <b>36%</b>, lasting for <b>2</b> turn(s).",
+            "name": "Tide Tamer"
+        }
+    ],
+    "review": {
+        "formatted": "March 7th, The Hunt edition, is an incredibly powerful unit that's obtained entirely for free including Eidolons. She can choose to boost a single ally's SPD and will also get personal benefits to her Enhanced Basic ATK based on the Path of the buffed character, getting either Additional DMG instances or increasing her Weakness Break Efficiency. She deals very high single-target damage and can reduce the Toughness of non-IMG weak enemies, and she can be played as a strong CRIT carry or as a strong Breaker. Because of this, she is extremely flexible.Everyone's favorite goofball got her own personal anime training arc, and has upgraded from March 7th to March 8th. This new Reignbow Arbiter flavoured form boasts one of the most versatile damage carry kits in the game, and most ridiculous of all is that we're given her for free, and will even get all of her Eidolons over time.The big focus of March's kit comes from her Enhanced Basic ATK. It initially deals 3 hits, with each dealing up to 80% ATK to a single enemy. After the final hit, there's a 60% fixed chance to deal an extra hit, up to 3 extra hits. This Enhanced Basic cannot recover Skill Points, and will not recover extra Energy with more hits, but as compensation, it will restore a typical Skill's worth of Energy, 30 Energy per usage.March's big damage comes from her Enhanced Basic ATK, but we've got to get through her other abilities first to understand how everything interacts with one another and where the real juice comes from. This starts at her Skill. March designates a single ally besides herself as Shifu, increasing their SPD by up to 10%. This Shifu designation lasts until March recasts her Skill. March will gain benefits for her Basic ATK and Enhanced Basic ATK based on the Path of her chosen Shifu; if the Shifu follows the Path of Erudition, Destruction, or The Hunt, then her Basic ATK and every singular hit of her Enhanced Basic will deal up to 20% ATK Additional DMG. If the Shifu follows the Path of Abundance, Nihility, Harmony, or Preservation, her Basic ATK and every singular hit of her Enhanced Basic will deal +100% Toughness damage (different from Weakness Break Efficiency).This unique interaction allows March to be played as a traditional CRIT carry or as a dedicated Super Breaker. On its own, this may not seem impressive enough compared to existing characters who can fill these two roles already, but this is only the surface. March's Ultimate will deal up to 240% ATK to a single enemy and will increase the initial number of hits of her Enhanced Basic by 2 hits, for a new base amount of 5 hits. In addition to this, it will also increase the fixed chance of getting extra hits by 20%, for a new total of 80% fixed chance. This Ultimate has a below-average cost of 110.Aside from the upfront damage of this Ultimate and its Toughness damage, this will turbo-charge March's next Enhanced Basic to be insanely powerful, potentially dealing up to an insane 800% ATK to a single enemy. Even if you are laughably unlucky and somehow don't get any additional hits, this Enhanced Basic will still do 500% ATK after the Ultimate, which for an attack that costs literally zero Skill Points, that's pretty damn strong.March's Talent tells us how she gains access to her Enhanced Basic. After the designated Shifu uses an attack or an Ultimate, March 8th gets 1 point of Charge. When she gets at least 7 points of Charge, March will immediately be Action Advanced by 100% and will gain up to an 80% DMG boost for this turn. Her Basic ATK gets Enhanced and she cannot use her Skill. After using her Enhanced Basic ATK, she consumes 7 points of Charge, and can hold up to 10 points at once. March's regular Basic ATK will also generate 1 point of Charge, though her Enhanced Basic will not generate any.This Talent is nuts; a free way to gain massive amounts of free DMG% as well as getting a full Action Advance for doing nothing more than you were already doing is ludicrous, and depending how you sort her teams, March is getting this quite a bit. You may have noticed that because her primary source of damage is from an Enhanced Basic, and she has no need to use more than a single Skill Point at the start of the fight, March is dealing all this crazy damage and breaking while being COMPLETELY SP POSITIVE. This is absolutely unheard of, and we're not even at the end yet.See, this is already criminally strong for a free 4-star unit, but we've got her Bonus Ability Traces and Eidolons left. Her A2 will Action Advance March 8th by 25% at the start of combat. Like similar Bonus Abilities from other characters like Robin or Guinaifen, this allows March to be among the first characters to act in a fight, making it easier to designate an ally as Shifu before any actual fighting has started. March's A6 will provide the Shifu with 60% CRIT DMG and 36% Break Effect for 2 turns after March uses her Enhanced Basic ATK, which is a remarkably powerful boost with very high uptime that, once again, is attained by doing what you were already doing.I had to separate out her A4 because it's quite possibly the dumbest thing I've ever read in my life. March 8th can reduce the Toughness of enemies whose Weakness Type is the same as the Shifu's Combat Type. Yes, that does mean what you think it means. Whoever March makes the Shifu, that character's Element can now also be damaged by March; if you designate a Fire character the Shifu, March will now also deal Toughness damage to enemies with a Fire Weakness, even if they are not also weak to Imaginary, and she does that at 100% efficiency. For free. If she Breaks the enemy, she triggers Imaginary Break.We've got a space cowboy who can implant his Weakness Type onto enemies and stops caring about Weaknesses once an enemy is Broken, and we've had an orbital frame who freely implants her Weakness onto enemies. March says 'Don't care. Perish.' Simply deal the Toughness damage, it's just that easy. Now you can carefully pair March with a character who has a good Elemental matchup and laugh maniacally as the enemies get shredded. 'But I don't even have an Imaginary Weakness!', say your enemies. 'Don't care. Perish', says March.As I said before, we will eventually gain access to all of March's Hunt Eidolons, and they're just as crazy as the rest of her kit. E1 will increase March's SPD by 10% when the Shifu is on the field, essentially granting herself the same SPD bonus as she can grant another character. E2 is the final piece of the puzzle for March's game plan. After the Shifu uses a Basic ATK or Skill to attack an enemy, March 7th will immediately do a follow-up attack equal to 60% ATK to the attacked enemy. This follow-up will also grant 1 point of Charge to March. If there is no primary target, this follow-up will hit a random enemy instead. This can only happen once per turn.This one Eidolon fully solidifies March 8th's position as a near-universally applicable character. Being able to be paired with damn near anyone and see strong benefits for herself is invaluable on its own, but also being able to play into specific team settings and action verbs pushes her over the edge. Super Break, CRIT, follow-up \u2014 whatever you want, you can do it. She's just that good.E4 will grant March 5 Energy at the start of each turn, further expediting the acquisition of her already cheap and fast regenerating Ultimate, potentially letting March get more Enhanced Basics buffed by her Ultimate. Lastly, E6 will allow her Ultimate to additionally increase the CRIT DMG of her next Enhanced Basic ATK by 50%.This character is silly. It's silly and I love it. The poster woman of the game is now no longer limited to being a niche Freeze support and decided 'Fine, I'll do it myself.\u2122' As mentioned, she has many great options for teammates and can be played pretty much anywhere so long as you're not sacrificing some other pivotal piece of your team's puzzle. The biggest downside is that you can't have a one-size-fits-all build; if you want to do a dedicated Super Break setup after building for CRIT, you'll need to make some slight adjustments before you can pop off again, but as far as downsides go, it's really not a big deal at all. Please note that I say Super Break here; March doesn\u2019t really work as a Breaker without the Harmony Trailblazer.Even better is that because she's so SP-positive, you can freely make use of really SP-negative supports like Bronya and take full advantage of both kits. You can pair March with Gallagher and this lets March gain lots of points of Charge very quickly thanks to the frequent actions of Gallagher and lets both of them quickly and easily Break enemies to deal even more damage, and this works in both CRIT and Super Break, and with Bronya\u2019s Action Advance on top of that, you can give Gallagher a crazy amount of actions, thus granting March even more points of Charge. Robin also fits into this category and her kit is similarly synergistic, providing plenty of damage buffs, bonus damage, and of course her signature party-wide Action Advance.Making a follow-up user your Shifu, such as Topaz, Ratio, Yunli, or Clara, will construct an incredibly strong and accessible follow-up team that can easily destroy enemies; the large amount of follow-up actions will give March many points of Charge quite quickly, and the associated Paths of the aforementioned characters means March gets the additional damage instances on her Enhanced Basic.Or maybe you want to make your 4-star Wind Dan Heng the Shifu, or some other DPS character like Herta or Himeko, and you just want to see enemies disappear for no extra SP cost. You can do that, too.Your Imagination really is the limit. "
+    },
+    "pros": {
+        "formatted": "Powerful and versatile support/damage dealer hybrid, Excellent synergy with top units both support and DPS, Scales excellently and has built-in follow-ups and self Action Advances, Can function as a CRIT carry or as a Super Breaker, Fits into almost any comp and can benefit a multitude of teams, Freely available to all and we\u2019ll get all her Eidolons for free (limited to E3 on her release though). "
+    },
+    "cons": {
+        "formatted": "Can be difficult to pilot, Can\u2019t have one build for all playstyles, Less efficient in Pure Fiction if not paired alongside another DPS unit. "
+    },
+    "endgameStats": {
+        "formatted": "CRIT MARCH STATS  (Without E1 Shifu Buff) HP: 2800+ DEF: 900+ ATK: 2200 - 2500+ CRIT RATE: 75% - 85% CRIT DMG: 150% - 170%+ SPD: 122+ (Equivalent to 134 in combat) BREAK MARCH STATS (Without E1 Shifu Buff) HP: 2800+ DEF: 900+ Break Effect: 140%+ ATK: 1800 - 2100+ (Optional) CRIT RATE: 50% - 60%+ (Optional) CRIT DMG: 100% - 120%+ (Optional) SPD: 122+ (Equivalent to 134 in combat) / 133+ (Equivalent to 145 in combat for Talia) "
+    },
+    "voiceActors": {
+        "en": "Skyler Davenport",
+        "kr": "Jung Hye-Won (\uc815\ud61c\uc6d0)",
+        "jpn": "Yui Ogura (\u5c0f\u5009\u552f)",
+        "cn": "Nu\u00f2 Y\u01ce (\u8bfa\u4e9a)"
+    },
+    "ratings": {
+        "moc": "9",
+        "moc_special": "9",
+        "pure": "7",
+        "pure_special": "7",
+        "apo": "10",
+        "apo_special": "10"
+    },
+    "energyUltimate": "110",
+    "conesNew": [
+        {
+            "cone": "in-the-night",
+            "super": "1",
+            "percent": "102.69%",
+            "notes": "Most consistent and often highest damaging option for CRIT March's personal damage, offering tremendous bonuses based on Speed possessed over 100. Thanks to March favoring a Speed bonus-based 4P set as one of her best and gaining yet more Speed % from her E1 this Cone bonus is reasonably easy to satisfy at (or close to its maximum value) as long as you can secure some Speed sub stats on gear or gain additional Speed from her teammates."
+        },
+        {
+            "cone": "baptism-of-pure-thought",
+            "super": "1",
+            "percent": "101.22%",
+            "notes": "Ratio's signature and a very strong option for CRIT March when teaming her up with allies that inflict debuffs consistently to enemies quickly. This Cone's performance was calculated with 2 debuffs on enemies - if you can't manage that its performance will fall, but if you can manage 3 its performance will rise."
+        },
+        {
+            "cone": "swordplay",
+            "super": "5",
+            "percent": "100.68%",
+            "notes": "A reasonably strong option for CRIT March but with a catch. Requires March AND her Shifu to attack just one target at a time in order to maintain the Cone stacks. Attacking a different target with March will of course drop the Cone stacks, but doing so with the Shifu will cause March to launch her follow-up attack at the target of her Shifu's attacks, dropping the stacks in the process if it's different to the one March was attacking."
+        },
+        {
+            "cone": "worrisome-blissful",
+            "super": "1",
+            "percent": "100.11%",
+            "notes": "Topaz's signature Cone and a very competitive option for March's own personal damage but also for her team's damage more - as it provides debuff increasing the team's CRIT DMG. The debuff effect of this Cone also opens up March's main set relic options more allowing her to effortlessly run 4P Wastelander with 0 downtime or even branch out to using 4P Pioneer to boost her damage further. Likely March's best CRIT Cone option when factoring in the team-wide benefits it brings."
+        },
+        {
+            "cone": "cruising-in-the-stellar-sea",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Good F2P option for March, offering competitive damage bonuses. Does suffer from some of these bonuses being somewhat conditional in nature, but when played around can be kept active an acceptable amount of the time even in March's double damage team compositions."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": "The most consistent and often the best option for March's CRIT build, offering her good damage boosts with a focus on enhancing her Basic attacks that make up the bulk of her damage."
+                },
+                {
+                    "relic": "Wastelander of Banditry Desert",
+                    "relic_2": "",
+                    "value": "100.62%",
+                    "comment": "100% uptime",
+                    "notes": "A competitive, but conditional, set reliant on keeping the target of March's attacks debuffed in order to be competitive. March cannot debuff enemies by herself naturally in her kit, meaning she'll need to rely on a Cone (Topaz's signature) or a teammate in order to make this set viable."
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "Wastelander of Banditry Desert",
+                    "value": "98.46%",
+                    "comment": "",
+                    "notes": "If you don't have good sub-stats on either of the sets above or aren't a fan of the conditional nature of Wastelander, you can also mix and match 2P bonuses from the Musketeer of Wild Wheat, Wastelander of Banditry, Prisoner in Deep Confinement, Pioneer Diver (Needs 1 debuff on enemy) or Wind-Soaring Valouros sets to get competitive results."
+                },
+                {
+                    "relic": "Wastelander of Banditry Desert",
+                    "relic_2": "",
+                    "value": "93.57%",
+                    "comment": "",
+                    "notes": ""
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": "Best and most generic planar set for March, boosting her CRIT RATE and Basic attack damage in all scenarios."
+                },
+                {
+                    "planar": "Izumo Gensei and Takama Divine Realm",
+                    "value": "98.96%",
+                    "comment": "x2 Hunt",
+                    "notes": "Alternative option to Rutilant arena with the condition that March must be played alongside another Hunt character. Offers more CRIT RATE than Rutilant Arena, making it appealing if you're lacking in that stat or have an overabundance of the DMG% Rutiliant provides."
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "97.86%",
+                    "comment": "135 Speed",
+                    "notes": "Another option for March with performance that ranges from slightly below her best options to slightly above depending on how much Speed March reaches in combat and the amount of CRIT RATE, DMG%, and ATK% she's able to gain access to through buffs and Coner. If March only reaches 135 Speed, this planar will be slightly behind her top options but if she can reach the incredibly high value of 160 Speed it can move slightly ahead."
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "93.79%",
+                    "comment": "",
+                    "notes": "Not a great option for March despite the fact she has a Follow-Up attack as it doesn't deal that much of her damage."
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "something-irreplaceable",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Imaginary DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "This is your typical DPS build that focuses on the holy trifecta - ATK, Crit Rate, and Crit DMG. For every 1% of Crit try to have 2% of Crit DMG.",
+            "substats": "SPD (Until breakpoint) > CRIT RATE% = CRIT DMG% > ATK%",
+            "skill_priority": "Basic > Skill = Talent > Ult",
+            "traces_priority": "Swan Soar (A2) > Tide Tamer (A6) > Filigree (A4)",
+            "name": "CRIT Build"
+        },
+        {
+            "relics": [
+                {
+                    "relic": "Iron Cavalry Against the Scourge",
+                    "relic_2": "",
+                    "value": "1",
+                    "comment": "",
+                    "notes": "A strong option for Break March, assuming she is being played alongside Harmony Trailblazer to gain access to Super Break. Under these conditions, this set is likely her most potent option - it does however rely on her ensuring she can reach the high Break Effect% breakpoint of 250% in order to achieve its full effect (this is greatly helped by Harmony Trailblazer and Ruan Mei being on the team though)."
+                },
+                {
+                    "relic": "Thief of Shooting Meteor",
+                    "relic_2": "",
+                    "value": "2",
+                    "comment": "",
+                    "notes": "Alternative to Iron Cavalry offering pure Break Effect and some additional energy generation in place of raw Break Damage multipliers. "
+                },
+                {
+                    "relic": "Iron Cavalry Against the Scourge",
+                    "relic_2": "Thief of Shooting Meteor",
+                    "value": "3",
+                    "comment": "",
+                    "notes": "If you don't have good sub-stats on either of the sets above you can also mix and match 2P bonuses from the Iron Cavalry, Hackerspace or Thief of Shooting Meteor sets to get reasonable results."
+                },
+                {
+                    "relic": "Iron Cavalry Against the Scourge",
+                    "relic_2": "Messenger Traversing Hackerspace",
+                    "value": "4",
+                    "comment": "",
+                    "notes": ""
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Talia: Kingdom of Banditry",
+                    "value": "1",
+                    "comment": "",
+                    "notes": "Most Generic option for Break March offering her a large amount of Break Effect and even more if she can gain at least 145 Speed which with the help of some Speed-focused sub-stats should not be an issue at all considering her free E1 that grants % Speed."
+                },
+                {
+                    "planar": "Forge of the Kalpagni Lantern",
+                    "value": "2",
+                    "comment": "",
+                    "notes": "More potent alternative to Talia but only against fire-weak enemies making it highly conditional."
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "something-irreplaceable",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Break Effect"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Imaginary DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "While you want to focus on Break on your sub-stats, getting some Crit stats won't hurt as March is more like a hybrid than pure Break character.",
+            "substats": "SPD (Until breakpoint) > BREAK EFFECT%",
+            "skill_priority": "Basic > Skill = Talent > Ult",
+            "traces_priority": "Swan Soar (A2) > Tide Tamer (A6) > Filigree (A4)",
+            "name": "Break Build"
+        }
+    ],
+    "videos": [
+        {
+            "video": "HKibeOjq9NQ"
+        }
+    ],
+    "teams": [
+        {
+            "name": "FUA Support March",
+            "member_1": "march-7th-swordmaster",
+            "member_2": "dr-ratio",
+            "member_3": "robin",
+            "member_4": "aventurine"
+        },
+        {
+            "name": "FUA Carry March",
+            "member_1": "march-7th-swordmaster",
+            "member_2": "topaz",
+            "member_3": "robin",
+            "member_4": "aventurine"
+        },
+        {
+            "name": "Super Break!",
+            "member_1": "march-7th-swordmaster",
+            "member_2": "ruan-mei",
+            "member_3": "trailblazer-imaginary",
+            "member_4": "gallagher"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "CRIT DMG",
+            "value": 24
+        },
+        "traceStat2": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat3": {
+            "stat": "def",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "July 17th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "Break",
+        "FuA",
+        "ADV",
+        "Buff",
+        "SP+"
+    ]
+}

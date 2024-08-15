@@ -1,0 +1,55 @@
+{
+    "coneId": 36,
+    "name": "The Moles Welcome You",
+    "slug": "the-moles-welcome-you",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/d5312a17d479f54bbdaeead55e017dc9/bf8e1/36_sm.png",
+                            "srcSet": "/static/d5312a17d479f54bbdaeead55e017dc9/914ee/36_sm.png 32w,\n/static/d5312a17d479f54bbdaeead55e017dc9/1c9ce/36_sm.png 64w,\n/static/d5312a17d479f54bbdaeead55e017dc9/bf8e1/36_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/d5312a17d479f54bbdaeead55e017dc9/ef6ff/36_sm.webp 32w,\n/static/d5312a17d479f54bbdaeead55e017dc9/8257c/36_sm.webp 64w,\n/static/d5312a17d479f54bbdaeead55e017dc9/6766a/36_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Fantastic Adventure",
+    "skillDescription": {
+        "formatted": "When the wearer uses Basic ATK, Skill, or Ultimate to attack enemies, the wearer gains one stack of Mischievous. Each stack increases the wearer's ATK by 12/15/18/21/24%.\n\n"
+    }
+}

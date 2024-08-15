@@ -1,0 +1,53 @@
+{
+    "id": "de68fb6d-54d9-525d-9859-3a2ba2b15828",
+    "updatedAt": "2023-04-10T07:08:20.514Z",
+    "createdAt": "2023-02-16T13:45:01.647Z",
+    "relicId": "18",
+    "name": "Inert Salsotto",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's CRIT Rate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"8%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". When the wearer's current CRIT Rate reaches \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"50%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" or higher, the wearer's Ultimate and follow-up attack DMG increases by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"15%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/161128cddd9e6a4b65b9a5972cbfacc5/15e42/planar_6.png",
+                            "srcSet": "/static/161128cddd9e6a4b65b9a5972cbfacc5/88208/planar_6.png 25w,\n/static/161128cddd9e6a4b65b9a5972cbfacc5/e9fba/planar_6.png 50w,\n/static/161128cddd9e6a4b65b9a5972cbfacc5/15e42/planar_6.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/161128cddd9e6a4b65b9a5972cbfacc5/2fa99/planar_6.webp 25w,\n/static/161128cddd9e6a4b65b9a5972cbfacc5/dbc4a/planar_6.webp 50w,\n/static/161128cddd9e6a4b65b9a5972cbfacc5/d8057/planar_6.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "critRate",
+            "value": 8
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

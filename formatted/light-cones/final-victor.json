@@ -1,0 +1,55 @@
+{
+    "coneId": 112,
+    "name": "Final Victor",
+    "slug": "final-victor",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/8e43be18dc1b548063c37c957e09a683/bf8e1/112_sm.png",
+                            "srcSet": "/static/8e43be18dc1b548063c37c957e09a683/914ee/112_sm.png 32w,\n/static/8e43be18dc1b548063c37c957e09a683/1c9ce/112_sm.png 64w,\n/static/8e43be18dc1b548063c37c957e09a683/bf8e1/112_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/8e43be18dc1b548063c37c957e09a683/ef6ff/112_sm.webp 32w,\n/static/8e43be18dc1b548063c37c957e09a683/8257c/112_sm.webp 64w,\n/static/8e43be18dc1b548063c37c957e09a683/6766a/112_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Forgotten Hall Store"
+    ],
+    "releaseDate": "February 29th, 2024",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "All In",
+    "skillDescription": {
+        "formatted": "Increases the wearer's ATK by 12/14/16/18/20%. When the wearer lands a CRIT hit on enemies, they will gain a stack of Good Fortune. This effect can be stacked 4 time(s). Every stack of Good Fortune the wearer has will increase their CRIT DMG by 8/9/10/11/12%. Good Fortune will be removed at the end of the wearer's turn."
+    }
+}

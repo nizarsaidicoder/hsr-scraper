@@ -1,0 +1,49 @@
+{
+    "coneId": 123,
+    "name": "Sailing Towards A Second Life",
+    "slug": "sailing-towards-a-second-life",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ad44dc9eafa7d2150b91f0be582c970a/6766a/123_sm.webp",
+                            "srcSet": "/static/ad44dc9eafa7d2150b91f0be582c970a/ef6ff/123_sm.webp 32w,\n/static/ad44dc9eafa7d2150b91f0be582c970a/8257c/123_sm.webp 64w,\n/static/ad44dc9eafa7d2150b91f0be582c970a/6766a/123_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "May 29th, 2024",
+    "path": "Hunt",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Rough Water",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Break Effect by 60/70/80/90/100%. The Break DMG dealt by the wearer ignores 20/23/26/29/32% of the target's DEF. When the wearer's Break Effect in battle is at 150% or greater, increases their SPD by 12/14/16/18/20%. "
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": "57c98521-01a7-50f8-a7a6-e84b6a0e7475",
+    "updatedAt": "2023-09-03T06:09:47.397Z",
+    "createdAt": "2023-02-16T13:43:16.837Z",
+    "relicId": "15",
+    "name": "Pan-Cosmic Commercial Enterprise",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases the wearer's Effect Hit Rate by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"10%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\". Meanwhile, the wearer's ATK increases by an amount that is equal to \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of the current Effect Hit Rate, up to a maximum of \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"25%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/4da5662d09f780439bdeca82bb0ea5b2/15e42/planar_3.png",
+                            "srcSet": "/static/4da5662d09f780439bdeca82bb0ea5b2/88208/planar_3.png 25w,\n/static/4da5662d09f780439bdeca82bb0ea5b2/e9fba/planar_3.png 50w,\n/static/4da5662d09f780439bdeca82bb0ea5b2/15e42/planar_3.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/4da5662d09f780439bdeca82bb0ea5b2/2fa99/planar_3.webp 25w,\n/static/4da5662d09f780439bdeca82bb0ea5b2/dbc4a/planar_3.webp 50w,\n/static/4da5662d09f780439bdeca82bb0ea5b2/d8057/planar_3.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "effectHitRate",
+            "value": 10
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "coneId": 20,
+    "name": "Loop",
+    "slug": "loop",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/12359f7c1d6c23d7e6548d9bd1d3c26b/bf8e1/20_sm.png",
+                            "srcSet": "/static/12359f7c1d6c23d7e6548d9bd1d3c26b/914ee/20_sm.png 32w,\n/static/12359f7c1d6c23d7e6548d9bd1d3c26b/1c9ce/20_sm.png 64w,\n/static/12359f7c1d6c23d7e6548d9bd1d3c26b/bf8e1/20_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/12359f7c1d6c23d7e6548d9bd1d3c26b/ef6ff/20_sm.webp 32w,\n/static/12359f7c1d6c23d7e6548d9bd1d3c26b/8257c/20_sm.webp 64w,\n/static/12359f7c1d6c23d7e6548d9bd1d3c26b/6766a/20_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "3",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "38",
+            "value_level_max": "846"
+        },
+        "atk": {
+            "value_level_1": "14",
+            "value_level_max": "317"
+        },
+        "def": {
+            "value_level_1": "12",
+            "value_level_max": "264"
+        }
+    },
+    "skillName": "Pursuit",
+    "skillDescription": {
+        "formatted": "Increases DMG dealt from its wearer to Slowed enemies by 24/30/36/42/48%"
+    }
+}

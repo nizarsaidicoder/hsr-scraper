@@ -1,0 +1,55 @@
+{
+    "coneId": 91,
+    "name": "She Already Shut Her Eyes",
+    "slug": "she-already-shut-her-eyes",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/1b4a8facf974b2d21a064e62b51a770f/bf8e1/91_sm.png",
+                            "srcSet": "/static/1b4a8facf974b2d21a064e62b51a770f/914ee/91_sm.png 32w,\n/static/1b4a8facf974b2d21a064e62b51a770f/1c9ce/91_sm.png 64w,\n/static/1b4a8facf974b2d21a064e62b51a770f/bf8e1/91_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/1b4a8facf974b2d21a064e62b51a770f/ef6ff/91_sm.webp 32w,\n/static/1b4a8facf974b2d21a064e62b51a770f/8257c/91_sm.webp 64w,\n/static/1b4a8facf974b2d21a064e62b51a770f/6766a/91_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "September 20th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "57",
+            "value_level_max": "1270"
+        },
+        "atk": {
+            "value_level_1": "19",
+            "value_level_max": "423"
+        },
+        "def": {
+            "value_level_1": "24",
+            "value_level_max": "529"
+        }
+    },
+    "skillName": "Visioscape",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Max HP by 24/28/32/36/40% and Energy Regeneration Rate by 12/14/16/18/20%. When the wearer's HP is decreased, increases the DMG of all allies by  9/10.5/12/13.5/15% for 2 turns. At the beginning of each wave, restores HP equal to 80/85/90/95/100% of HP already lost by the character themselves for team."
+    }
+}

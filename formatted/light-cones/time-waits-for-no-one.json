@@ -1,0 +1,55 @@
+{
+    "coneId": 41,
+    "name": "Time Waits for No One",
+    "slug": "time-waits-for-no-one",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/22ccbc514e15621686ddfb9a7bdb24ef/bf8e1/41_sm.png",
+                            "srcSet": "/static/22ccbc514e15621686ddfb9a7bdb24ef/914ee/41_sm.png 32w,\n/static/22ccbc514e15621686ddfb9a7bdb24ef/1c9ce/41_sm.png 64w,\n/static/22ccbc514e15621686ddfb9a7bdb24ef/bf8e1/41_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/22ccbc514e15621686ddfb9a7bdb24ef/ef6ff/41_sm.webp 32w,\n/static/22ccbc514e15621686ddfb9a7bdb24ef/8257c/41_sm.webp 64w,\n/static/22ccbc514e15621686ddfb9a7bdb24ef/6766a/41_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Abundance",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1270"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Morn, Noon, Dusk, and Night",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Max HP by 18/21/24/27/30% and Outgoing Healing by 12/14/16/18/20%. When the wearer heals allies, record the amount of Outgoing Healing. When any ally launches an attack, a random attacked enemy takes Additional DMG equal to 36/42/48/54/60% of the recorded Outgoing Healing value. This Additional DMG is of the same Type as the wearer's, is not affected by other buffs, and can only occur 1 time per turn\n\n\n"
+    }
+}

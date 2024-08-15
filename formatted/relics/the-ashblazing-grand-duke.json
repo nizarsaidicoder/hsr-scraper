@@ -1,0 +1,52 @@
+{
+    "relicId": "25",
+    "name": "The Ashblazing Grand Duke",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "Increases follow-up attack DMG by 20%."
+    },
+    "bonus4": {
+        "formatted": "When the wearer uses follow-up attacks against the target enemy, increase the wearer's ATK by 6% for every time the follow-up attack deals DMG. This effect can stack for a maximum of 8 times and lasts for 3 turns. This effect is removed the next time the wearer uses a follow-up attack."
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/95d87aedce0ab2e7721bcf2b7c8747db/15e42/duke.png",
+                            "srcSet": "/static/95d87aedce0ab2e7721bcf2b7c8747db/88208/duke.png 25w,\n/static/95d87aedce0ab2e7721bcf2b7c8747db/e9fba/duke.png 50w,\n/static/95d87aedce0ab2e7721bcf2b7c8747db/15e42/duke.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/95d87aedce0ab2e7721bcf2b7c8747db/2fa99/duke.webp 25w,\n/static/95d87aedce0ab2e7721bcf2b7c8747db/dbc4a/duke.webp 50w,\n/static/95d87aedce0ab2e7721bcf2b7c8747db/d8057/duke.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

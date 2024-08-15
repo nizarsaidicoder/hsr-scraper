@@ -1,0 +1,50 @@
+{
+    "relicId": "20",
+    "name": "Sprightly Vonwacq",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "Increases the wearer's Energy Regeneration Rate by 5%. When the wearer's SPD reaches 120 or higher, the wearer's action is Advanced Forward by 40% immediately upon entering battle."
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/6d41619b621d9693530e36540e4a3a02/15e42/planar_8.png",
+                            "srcSet": "/static/6d41619b621d9693530e36540e4a3a02/88208/planar_8.png 25w,\n/static/6d41619b621d9693530e36540e4a3a02/e9fba/planar_8.png 50w,\n/static/6d41619b621d9693530e36540e4a3a02/15e42/planar_8.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/6d41619b621d9693530e36540e4a3a02/2fa99/planar_8.webp 25w,\n/static/6d41619b621d9693530e36540e4a3a02/dbc4a/planar_8.webp 50w,\n/static/6d41619b621d9693530e36540e4a3a02/d8057/planar_8.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "energyRegen",
+            "value": 5
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

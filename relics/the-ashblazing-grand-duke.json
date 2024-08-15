@@ -1,0 +1,55 @@
+{
+    "id": "022e3d6f-298f-5782-9ef0-8c6e75d59cdb",
+    "updatedAt": "2023-11-12T07:58:23.644Z",
+    "createdAt": "2023-11-12T07:56:18.977Z",
+    "relicId": "25",
+    "name": "The Ashblazing Grand Duke",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Increases follow-up attack DMG by \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"20%.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "bonus4": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"When the wearer uses follow-up attacks against the target enemy, increase the wearer's ATK by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"6% \",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"for every time the follow-up attack deals DMG. This effect can stack for a maximum of 8 times and lasts for 3 turns. This effect is removed the next time the wearer uses a follow-up attack.\",\"marks\":[],\"data\":{}}]}]}"
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/95d87aedce0ab2e7721bcf2b7c8747db/15e42/duke.png",
+                            "srcSet": "/static/95d87aedce0ab2e7721bcf2b7c8747db/88208/duke.png 25w,\n/static/95d87aedce0ab2e7721bcf2b7c8747db/e9fba/duke.png 50w,\n/static/95d87aedce0ab2e7721bcf2b7c8747db/15e42/duke.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/95d87aedce0ab2e7721bcf2b7c8747db/2fa99/duke.webp 25w,\n/static/95d87aedce0ab2e7721bcf2b7c8747db/dbc4a/duke.webp 50w,\n/static/95d87aedce0ab2e7721bcf2b7c8747db/d8057/duke.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

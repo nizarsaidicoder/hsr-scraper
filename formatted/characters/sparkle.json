@@ -1,0 +1,413 @@
+{
+    "unitId": 47,
+    "name": "Sparkle",
+    "slug": "sparkle",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/c52297074e0c2fff0184fe534ac31617/e9a79/47_sm.png",
+                            "srcSet": "/static/c52297074e0c2fff0184fe534ac31617/f31ef/47_sm.png 40w,\n/static/c52297074e0c2fff0184fe534ac31617/1f8a1/47_sm.png 80w,\n/static/c52297074e0c2fff0184fe534ac31617/e9a79/47_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/c52297074e0c2fff0184fe534ac31617/e73fe/47_sm.webp 40w,\n/static/c52297074e0c2fff0184fe534ac31617/61ca6/47_sm.webp 80w,\n/static/c52297074e0c2fff0184fe534ac31617/60b4d/47_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/dc810cb229ede0e8d3b6358cafa04a9e/c9885/47_card.png",
+                            "srcSet": "/static/dc810cb229ede0e8d3b6358cafa04a9e/2aab7/47_card.png 94w,\n/static/dc810cb229ede0e8d3b6358cafa04a9e/0a986/47_card.png 187w,\n/static/dc810cb229ede0e8d3b6358cafa04a9e/c9885/47_card.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/dc810cb229ede0e8d3b6358cafa04a9e/84550/47_card.webp 94w,\n/static/dc810cb229ede0e8d3b6358cafa04a9e/34f80/47_card.webp 187w,\n/static/dc810cb229ede0e8d3b6358cafa04a9e/b26e2/47_card.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#383878",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/9ef94f3d28f4efdba73111d123f989fe/3cd29/sparkle_full.webp",
+                            "srcSet": "/static/9ef94f3d28f4efdba73111d123f989fe/e7160/sparkle_full.webp 250w,\n/static/9ef94f3d28f4efdba73111d123f989fe/5f169/sparkle_full.webp 500w,\n/static/9ef94f3d28f4efdba73111d123f989fe/3cd29/sparkle_full.webp 1000w",
+                            "sizes": "(min-width: 1000px) 1000px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 1000,
+                    "height": 1000
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "A member of the Masked Fools. Inscrutable and unscrupulous. A dangerous master of theatrics engrossed in playing roles. A woman of countless masks and many faces.\nWealth, status, power... None of this matters to Sparkle. The only thing that can lure her interest is \"amusement.\""
+    },
+    "statsComments": {
+        "formatted": "Relic Main statsBody - CRIT DMG%Best in Slot for Sparkle.Feet - SpeedBest in Slot for Sparkle.Planar Sphere - HP% = DEF%HP% is preferred for overall tankiness but DEF% is close in benefit. Choose the one with the more beneficial sub-stats. Link Rope - Energy Regen%Best in Slot for Sparkle.Additional notes for sub-stats:SPEED: When playing Sparkle you have two separate options when it comes to how much Speed to build on her:You can either build her as fast as possible often aiming to hit 160 Speed or higher (aka Hyperspeed Sparkle),or build her 1 Speed slower than your main damage dealer, often aiming for your main damage to be at 135 or 136 speed and Sparkle to be at 134 speed (aka -1 Sparkle). Learn more about both of the playstyles in the section below.CRIT DMG:Sparkle's skill scales with CRIT DMG and at max rank it grants her target 24% of her CRIT DMG plus an additional 45% meaning stacking as much CRIT DMG on her as possible is excellent. For every 4% CRIT DMG Sparkle has you can think of your carry as gaining 1%, it might not sound like much but it adds up fast! CRIT DMG is a secondary priority to getting your Speed stat just right but after that's achieved or maxed as high as is reasonable CRIT DMG is an essential second priority. "
+    },
+    "relicsComments": {
+        "formatted": "Messenger Traversing Hackerspace4P Hackerspace is the best supporting set for Hyperspeed Speed Sparkle. The 2P speed bonus is essential and the 4P set bonus boost applies to herself after she casts her Ultimate granting her more Speed to accelerate the target of her skill even more. At the highest levels of Speed or in Pure Fiction the small overall Speed boost this set provides can be the difference between an extra action or not for herself and her team in endgame. Using this set when utilizing Sparkle at -1 Speed can (when not managed perfectly) sometimes cause her to overtake her skill target messing up the syncing of the combo leading to large damage losses. When using this set and strategy exercise caution or avoid it. Eagle of Twilight LineIt's a great option for Hyperspeed Sparkle only, but farming it is not advised due to being very niche. Don't use on -1 Speed Sparkle.Messenger Traversing Hackerspace + RainbowSparkle's most practical set especially when pursuing high Speed and CRIT DMG values (160+ speed) is using a 2P set of Hackerspace and any other 2 pieces you have from any set with the maximum amount of Speed and CRIT DMG possible. Messenger Traversing Hackerspace + Guard of Wuthering Snow / Longevous DiscipleIf you have 2P Hackerspace covered with great sub-stats and main stats and have excellent pieces of either Wuthering or Longevous, the 2P bonus from these sets is welcome but not more valuable than more Speed or CRIT DMG sub-stats. Musketeer of Wild WheatAn alternative to using 2P Hackerspace in order to achieve the 6% Speed bonus but far more restrictive as the bonus is the 4P. Broken KeelSparkle specializes in characters who make use of CRIT stats, making Keel almost always synergistic with her targetted carries making it the most natural choice. Other options can pull ahead in case your target has more CRIT DMG than ATK% and DMG%. Fleet of the AgelessAlternative to Broken Keel is enough CRIT DMG is achieved and ATK% is in short supply.Penacony, Land of the DreamsAlternative to Broken Keel when Sparkle is supporting Quantum DPS and enough CRIT DMG is achieved, and DMG% is in short supply. "
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "130601",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "130602",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "130603",
+            "energy_gen": "5",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "130604",
+            "energy_gen": "0",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "130607",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Support",
+    "affiliation": null,
+    "rarity": "5",
+    "element": "Quantum",
+    "path": "Harmony",
+    "stats": {
+        "hp_base": 190.08,
+        "def_base": 66,
+        "atk_base": 71.28,
+        "speed_base": 101
+    },
+    "ascensionMaterials": {
+        "mats_1": "tatters-of-thought",
+        "mats_2": "fragments-of-impression",
+        "mats_3": "dream-flamer",
+        "mats_4": "shards-of-desires"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "1201",
+            "name": "Sparkle",
+            "upgrade1Name": "Suspension of Disbelief",
+            "upgrade1Desc": {
+                "formatted": "The Cipher effect granted by the Ultimate lasts for 1 extra turn. All allies with Cipher have their ATK increased by 40%. "
+            },
+            "upgrade2Name": "Purely Fictitious",
+            "upgrade2Desc": {
+                "formatted": "Every stack of the Talent's effect allows allies to additionally ignore 8% of the target's DEF when dealing DMG. "
+            },
+            "upgrade3Name": "Pipedream",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10. "
+            },
+            "upgrade4Name": "Life Is a Gamble",
+            "upgrade4Desc": {
+                "formatted": "The Ultimate recovers 1 more Skill Point. The Talent additionally increases the Max Skill Points by 1. "
+            },
+            "upgrade5Name": "Parallax Truth",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15. "
+            },
+            "upgrade6Name": "Narrative Polysemy",
+            "upgrade6Desc": {
+                "formatted": "The CRIT DMG Boost effect provided by the Skill additionally increases by an amount equal to 30% of Sparkle's CRIT DMG. When Sparkle uses Skill, her Skill's CRIT DMG Boost effect will apply to all allies with Cipher. When Sparkle uses her Ultimate, any single ally who benefits from her Skill's CRIT DMG Boost will spread that effect to allies with Cipher. "
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When using Basic ATK, additionally regenerates <b>10</b> Energy.",
+            "name": "Almanac"
+        },
+        {
+            "req": "A4",
+            "desc": "The CRIT DMG Boost effect provided by the Skill will be extended until the start of the target's next turn.",
+            "name": "Artificial Flower"
+        },
+        {
+            "req": "A6",
+            "desc": "Increases all allies' ATK by <b>15%</b>. When there are 1/2/3 Quantum-Type allies in the team, increases Quantum-Type allies' ATK by <b>5%/15%/30%</b>.",
+            "name": "Nocturne"
+        }
+    ],
+    "review": {
+        "formatted": "Sparkle is the second limited Harmony 5-star. She has much of the power that Bronya provides while having none of the SP issues. Sparkle actually increases the SP cap of the team while she\u2019s on the team and has no trouble restoring the majority of those reserves with her Ultimate. Her Skill provides a massive CRIT DMG boost to a single character while Action Advancing them, and her Talent will provide a teamwide DMG boost whenever allies consume SP. She\u2019s a force to be reckoned with.It really seems like every new character really challenges what our perception of \u2018acceptable levels of crazy\u2019 is. In this instance, this applies both to the in-universe character as well as their playable counterpart. Sparkle takes your preconceived notions of \u2018buff cost\u2019 and tosses them straight out the window while laughing maniacally.Sparkle is a harmony buffer much like Bronya is, with many of the same sorts of benefits. I\u2019ll get this out of the way quickly so pay attention: no, Bronya is not \u2018dead\u2019; no, Sparkle is not a catch-all replacement for Bronya in all scenarios. Both characters have their benefits and drawbacks and some characters will always prefer one over the other. Both are good, both are great. Having said that, I think Sparkle is substantially easier to utilise to her fullest potential.\u00a0Sparkle\u2019s Talent starts this trend quite strong. When Sparkle is on the field, she increases the SP cap by 2, for a new total SP cap of 7. Whenever any ally consumes 1 SP all allies will have their DMG increased by up to 6% for 2 turns, and this can stack up to 3 times for a total DMG boost of 18%. With Sparkle, you can just have more SP than any other team would be able to have, and you also get what is essentially a permanent 18% DMG boost to all characters on your team.Sparkle\u2019s Ultimate will immediately recover 4 SP for the team, meaning the increased cap is put to good use. This will also grant the Cipher effect to all allies, increasing the per-stack DMG boost of her Talent by up to an additional 10% for 2 turns. This means she essentially grants a 48% DMG boost upon using her Ultimate; you don\u2019t have to reapply her Talent\u2019s effects through more Skill uses to reap the benefits, the extra 30% DMG boost gets added on the second you use her Ultimate, assuming you already had 3 stacks of her Talent.Instantly gaining back 4 SP is extraordinarily powerful as it pretty much outright fixes certain other DPS characters\u2019 rather lacking SP economy. Even if Sparkle herself only ends up very slightly SP positive, it is also important to factor in when this SP recovery occurs, as proper timing of this will result in someone like Imbibitor Lunae being able to sling out Fulgurant Leaps on his turn without any worry at all about disrupting the rest of the team\u2019s plans. Sparkle\u2019s Ultimate also has the same quirk that Huohuo\u2019s Ultimate has, in that using it at the start of a character\u2019s turn will not see the duration go down at the end of it, meaning you can effectively extend the Cipher duration to 3 turns with careful management, potentially even resulting in a permanently buffed DPS character if all else goes to plan.Now we\u2019re at the strong part. Sparkle\u2019s Skill will target a single ally and Action Advance them by 50%. In addition to this, she will also buff the ally\u2019s CRIT DMG by up to 24% of Sparkle\u2019s CRIT DMG, plus up to an additional flat 45% for 1 turn. The Action Advance is non-functional on Sparkle herself. This is a very similar ability to Bronya\u2019s Skill, but it differs in that it provides a CRIT DMG buff instead of a general DMG buff, and it\u2019s only half the Action Advance.\u2018Half the Action Advance? Doesn\u2019t that make it a lot worse, then?\u2019 Yes and no\u2026 Mostly no. The CRIT DMG makes it technically less universally applicable since DoT characters can\u2019t make use of it at all, but the 50% Action Advance actually belies a hidden strength, which is that it is substantially harder to fail to make use of a 50% Action Advance compared to a full Action Advance. Consider that you have up to 50% of the targeted character\u2019s Action Value in which to Advance them forward and lose no value from this Skill, but if you try and do the same with Bronya\u2019s Skill, technically you only ever get 100% effectiveness when they are buffed immediately after their last turn \u2014 and even then that\u2019s only true if Bronya is SPD tuned to be -1 SPD compared to them.In many of the different playstyles Bronya has to manage the team\u2019s SP reserves, it\u2019s quite likely that you will very rarely be fully utilising the extremely powerful 100% Action Advance her Skill provides. With Sparkle and her respective Skill providing \u2018only\u2019 a 50% Action Advance, you can be sure that you are getting the full value of that every single time you use it, and it can actually create a much easier time actually boosting a chosen DPS. This is even more noticeable with Sparkle\u2019s Ultimate providing a massive influx of Skill Points with which she can continue to use her Skill. Even though in terms of raw vacuum numbers Bronya can hold the edge, in practicality (and for the overwhelming majority of players that are not as tryhard as we are) Sparkle is going to have similar results for a lot less effort.Sparkle\u2019s Bonus Traces are interesting. A2 makes Sparkle\u2019s Basic ATK restore an additional 10 Energy, meaning she is the first ever character who restores 30 Energy with her completely basic Basic ATK. This allows for a lot more flexible rotations without interfering with Ultimate uptime, as the Energy she restores via her Skill and Basic now have parity. A4 is equally exciting, as it makes the CRIT DMG boost of her Skill last until the start of the target\u2019s next turn. This doesn\u2019t mean it lasts for a full 2 turns, but it does mean that this buff will catch out-of-turn actions such as Ultimates or follow-ups \u2014 extremely important for characters like Clara, Ratio, or Jing Yuan who deal a large majority of their damage outside of their own turns.A6 is probably going to garner a lot of attention. She increases all allies\u2019 ATK by 15% at all times, but if there are 1,2, or 3 Quantum characters in the team, she will additionally increase all Quantum characters\u2019 ATK by 5%, 15%, or 30% respectively for each QUA character. Some people may read this line and immediately think Sparkle is intended exclusively for Quantum DPS, but please, I implore you to re-read the literal entirety of the rest of her kit. She is a universal buffing support who just happens to have some small nice extras for Quantum centric teams. If your only use for her is in mono-Quantum, then more power to you, but you must always remember that you are squandering her potential by limiting yourself to just that.In terms of Eidolons, they\u2019re all nice bonuses to have but by no means a necessity. Every one of them looks very appealing at a glance, but you have to truly consider what that\u2019s worth to you \u2014 both in terms of increase over the base E0 character as well as monetarily in the real world. Sparkle is already competing for best support character at E0, so don\u2019t make any decisions you\u2019ll regret.Similar to Bronya, Sparkle also has a lot of possible builds and possible SPDs to operate at. It\u2019s easier to optimise compared to Bronya due to Sparkle\u2019s inherently higher SP economy and easier to utilise Skill buffs, so the one you choose to go for will depend entirely on teammates and preference. It\u2019s not something where I can tell you what to go for here. Regardless, there are really very few ways to play Sparkle incorrectly, and it\u2019s very possible to drag a no-SPD DPS character up to match Sparkle\u2019s SPD from her Skill alone. The ceiling for strong performance and especially upfront damage is going up quite considerably with Sparkle\u2019s release, and certain fan-favourite DPS characters are only going to get even better.Having said that, there most assuredly are ways to build Sparkle incorrectly, and she demands a certain level of investment and attention to detail to benefit maximally from her Skill\u2019s Action Advance; Bronya or Sparkle, the need for SPD tuning is utterly inescapable if you wish to use them to their fullest. Even if it\u2019s easier to utilise Sparkle\u2019s Skill compared to Bronya\u2019s, you still have to commit a base amount of investment to see worthwhile returns.Again, Bronya is not getting fully replaced or anything of the sort. Some characters will continue to prefer one over the other. Both are extraordinarily potent, and both will continue to be actively used in the top-performing teams until a new character comes out who supersedes them both. I mentioned this in Ruan Mei\u2019s review, and a very similar argument is present here; Sparkle may not be very far ahead of Bronya, if at all, when it comes to raw vacuum performance \u2014 Bronya\u2019s ceiling is just absurdly high even with her drawbacks. Having said that, in practicality, Sparkle will almost always have the edge due to her far more accessible skill floor, and thus will also usually have better performance compared to Bronya unless the piloting player is of an abnormally high skill level.Otherwise, get out there and rep the bestest most funnest Aeon, the Elation, and have yourself a grand old time. If I had a nickel for every time we got a completely unhinged Harmony support character, I\u2019d have two nickels. It\u2019s not a lot, but it is odd that it\u2019s happened twice. Needless to say, if you think you can \u2018fix\u2019 Sparkle, your arrogance knows no bounds, and godspeed. "
+    },
+    "pros": {
+        "formatted": "Absurd offensive buffs, Can accelerate a single character significantly with her 50% Action Advance, Completely SP positive despite her frequent Skill usage thanks to her Ultimate, Extreme SP generation makes her easy to slot anywhere, Will always be useful. "
+    },
+    "cons": {
+        "formatted": "Requires significant investment for maximum returns, Lower floor than Bronya but still very high skill ceiling, SPD tuning is inescapable if you plan to play the -1 Speed Sparkle and good gear is required if you want to play Hyperspeed Sparkle (160+ Speed)."
+    },
+    "endgameStats": {
+        "formatted": "HP: 4000 - 4500+ DEF: 800 - 1000+ CRIT DMG: 175 - 210%+ Energy Regen: 119.44%+ SPD: 1-2 Speed slower than the carry if you're playing the -1 Speed Sparkle,160+ Speed if you're playing Hyperspeed Sparkle."
+    },
+    "voiceActors": {
+        "en": "Lizzie Freeman",
+        "kr": "\uc131\uc608\uc6d0 (Sung Ye-won)",
+        "jpn": "\u4e0a\u7530\u4e3d\u5948 (Ueda Reina)",
+        "cn": "\u8d75\u723d (Zhao Shuang)"
+    },
+    "ratings": {
+        "moc": "10",
+        "moc_special": "10",
+        "pure": "10",
+        "pure_special": "10",
+        "apo": "9",
+        "apo_special": "9"
+    },
+    "energyUltimate": "110",
+    "conesNew": [
+        {
+            "cone": "earthly-escapade",
+            "super": "1",
+            "percent": "-",
+            "notes": "Best in slot for Sparkle but only by a slight amount compared to S1 But The Battle Isn't Over and S5 Past and Future in many cases. The damage boosts from the two alternative Cones are immense and can be kept up the majority of the time when playing Hyperspeed Sparkle (160+ build), but her signature still does edge them out slightly in overall damage boosts (but not by a massive degree). Sparkle's signature has advantages that those Cones do not have though. Its buff unlike the other two is almost always active where whereas the other Cones are only active on the turn you boosted the damage dealer meaning any action that occurs outside of the carry's turn is not affected such as Follow-up attacks and Ultimates. Which means that the signature wins by a landslide in those scenarios. As a general rule when playing the -1 Speed Sparkle that cannot maintain 100% uptime on her skill or when supporting characters that deal damage outside of their own turn like Clara, Dr. Ratio, or Jing Yuan, Sparkle's signature vastly outperforms alternatives but when supporting more static characters with the Hyperspeed Sparkle build like Imbibitor Lunae or Qingque her signature has less of an advantage."
+        },
+        {
+            "cone": "but-the-battle-isnt-over",
+            "super": "1",
+            "percent": "-",
+            "notes": "Great alternative to Sparkle's signature when playing Hyperspeed Sparkle but only for characters that deal all their damage on their own turn (inside the buff window of the Cone buff). Also offers a few extra skill points for Sparkle and her teams although they aren't usually required."
+        },
+        {
+            "cone": "past-and-future",
+            "super": "5",
+            "percent": "-",
+            "notes": "Best F2P option for Sparkle with similar boosting capabilities to But The Battle Isn't Over with all the same advantages and disadvantages. But without the extra skill points making it a slight downgrade but still an excellent choice."
+        },
+        {
+            "cone": "planetary-rendezvous",
+            "super": "5",
+            "percent": "-",
+            "notes": "Alternative to the Cones above when Sparkle is supporting a Quantum DPS and is active at all times compared to But The Battle Isn't Over and Past and Future. Also, a more optimal choice when making use of -1 Speed Sparkle (for Quantum dps only)."
+        },
+        {
+            "cone": "dance-dance-dance",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a 24% action advance for the entire team when the user activates their Ultimate. Not recommended for characters that rely on specific Speed tuning in relation to the rest of the team but is excellent for all other characters. Only recommended for Hyperspeed Sparkle as the action advance can ruin Speed synced Sparkle's interactions."
+        },
+        {
+            "cone": "carve-the-moon-weave-the-clouds",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers one of three random buffs that rotate throughout combat. A fine option when no other alternatives are available or work for your Sparkle build but often overshadowed by other more consistent or powerful harmony Cone options."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Guard of Wuthering Snow",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Longevous Disciple",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Eagle of Twilight Line",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "but-the-battle-isnt-over",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "comments": "Can be played 2 ways, either tune Sparkle SPD to be 1 below main DPS and spam Skill, or maximize her SPD (160+) and leave the DPS at base Speed - this way you will use the Hyperspeed Sparkle tech where she drags the damage dealer around.",
+            "substats": "SPD (Until breakpoint OR as much as possible) > CRIT DMG% > HP = DEF = EFF RES% (30% if using Broken Keel)",
+            "skill_priority": "Skill > Ultimate = Talent > Basic",
+            "traces_priority": "Artificial Flower (A4) > Nocturne (A6) > Almanac (A2)",
+            "name": "Hypercarry Support"
+        }
+    ],
+    "videos": [
+        {
+            "video": "73NIIm2mK5U"
+        }
+    ],
+    "teams": null,
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "hp",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "CRIT DMG",
+            "value": 24
+        },
+        "traceStat3": {
+            "stat": "Effect RES",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Amplifier",
+    "releaseDate": "February 28th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "SP+",
+        "ADV",
+        "Buff"
+    ]
+}

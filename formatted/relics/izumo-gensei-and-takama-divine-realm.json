@@ -1,0 +1,31 @@
+{
+    "relicId": "32",
+    "name": "Izumo Gensei and Takama Divine Realm",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "Increases the wearer's ATK by 12%. When entering battle, if at least one other ally follows the same Path as the wearer, then the wearer's CRIT Rate increases by 12%. "
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/32e9d6354835e641703e63f413026486/d8057/izumo.webp",
+                            "srcSet": "/static/32e9d6354835e641703e63f413026486/2fa99/izumo.webp 25w,\n/static/32e9d6354835e641703e63f413026486/dbc4a/izumo.webp 50w,\n/static/32e9d6354835e641703e63f413026486/d8057/izumo.webp 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": null
+}

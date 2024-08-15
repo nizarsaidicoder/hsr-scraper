@@ -1,0 +1,55 @@
+{
+    "coneId": 77,
+    "name": "Before the Tutorial Mission Starts",
+    "slug": "before-the-tutorial-mission-starts",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/75fea1b409c81d80db1912623b1c697b/bf8e1/77_sm.png",
+                            "srcSet": "/static/75fea1b409c81d80db1912623b1c697b/914ee/77_sm.png 32w,\n/static/75fea1b409c81d80db1912623b1c697b/1c9ce/77_sm.png 64w,\n/static/75fea1b409c81d80db1912623b1c697b/bf8e1/77_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/75fea1b409c81d80db1912623b1c697b/ef6ff/77_sm.webp 32w,\n/static/75fea1b409c81d80db1912623b1c697b/8257c/77_sm.webp 64w,\n/static/75fea1b409c81d80db1912623b1c697b/6766a/77_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Mission Reward"
+    ],
+    "releaseDate": "June 9th, 2023",
+    "path": "Nihility",
+    "stats": {
+        "hp": {
+            "value_level_1": "43",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "21",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Quick on the Draw",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Effect Hit Rate by 20/25/30/35/40%. When the wearer attacks enemies that have reduced DEF, regenerates 4/5/6/7/8 Energy."
+    }
+}

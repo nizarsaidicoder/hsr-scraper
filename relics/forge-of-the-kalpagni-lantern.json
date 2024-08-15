@@ -1,0 +1,34 @@
+{
+    "id": "8efa6065-eb63-578b-bf22-2b29dbe1d57d",
+    "updatedAt": "2024-06-11T15:50:28.080Z",
+    "createdAt": "2024-06-09T09:47:28.679Z",
+    "relicId": "36",
+    "name": "Forge of the Kalpagni Lantern",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increase the wearer's SPD by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"6%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When the wearer hits enemy targets with Fire Weakness, the wearer's Break Effect increases by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"40%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\", lasting for \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"1\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" turn(s).\",\"marks\":[],\"data\":{}}]}]}"
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/07b6adee98daa73bb7364ad33cc0b23f/d8057/set_36.webp",
+                            "srcSet": "/static/07b6adee98daa73bb7364ad33cc0b23f/2fa99/set_36.webp 25w,\n/static/07b6adee98daa73bb7364ad33cc0b23f/dbc4a/set_36.webp 50w,\n/static/07b6adee98daa73bb7364ad33cc0b23f/d8057/set_36.webp 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": null
+}

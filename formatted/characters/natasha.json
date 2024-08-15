@@ -1,0 +1,433 @@
+{
+    "unitId": 16,
+    "name": "Natasha",
+    "slug": "natasha",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/9dcedbe8b82ddc53e6392b76750a2225/e9a79/16_sm.png",
+                            "srcSet": "/static/9dcedbe8b82ddc53e6392b76750a2225/f31ef/16_sm.png 40w,\n/static/9dcedbe8b82ddc53e6392b76750a2225/1f8a1/16_sm.png 80w,\n/static/9dcedbe8b82ddc53e6392b76750a2225/e9a79/16_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/9dcedbe8b82ddc53e6392b76750a2225/e73fe/16_sm.webp 40w,\n/static/9dcedbe8b82ddc53e6392b76750a2225/61ca6/16_sm.webp 80w,\n/static/9dcedbe8b82ddc53e6392b76750a2225/60b4d/16_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b118f02da692035c5838cb0ceb423641/c9885/1105.png",
+                            "srcSet": "/static/b118f02da692035c5838cb0ceb423641/2aab7/1105.png 94w,\n/static/b118f02da692035c5838cb0ceb423641/0a986/1105.png 187w,\n/static/b118f02da692035c5838cb0ceb423641/c9885/1105.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/b118f02da692035c5838cb0ceb423641/84550/1105.webp 94w,\n/static/b118f02da692035c5838cb0ceb423641/34f80/1105.webp 187w,\n/static/b118f02da692035c5838cb0ceb423641/b26e2/1105.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/190848d53bcb3cba93f8bf8092af5be3/3c5dc/16_full.png",
+                            "srcSet": "/static/190848d53bcb3cba93f8bf8092af5be3/ca8fd/16_full.png 200w,\n/static/190848d53bcb3cba93f8bf8092af5be3/de50c/16_full.png 400w,\n/static/190848d53bcb3cba93f8bf8092af5be3/3c5dc/16_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/190848d53bcb3cba93f8bf8092af5be3/213b2/16_full.webp 200w,\n/static/190848d53bcb3cba93f8bf8092af5be3/413c5/16_full.webp 400w,\n/static/190848d53bcb3cba93f8bf8092af5be3/cf6d0/16_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "A fastidious doctor who always wears a curious smile. In the Underworld where medical resources are few and far between, Natasha is one of the very few doctors whom the people can turn to. Even the rambunctious Hook would politely greet her... \"Hi, Auntie Natasha.\""
+    },
+    "statsComments": null,
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "110501",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "110502",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "110503",
+            "energy_gen": "5",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "110504",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "110507",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Healer",
+    "affiliation": "Belobog",
+    "rarity": "4",
+    "element": "Physical",
+    "path": "Abundance",
+    "stats": {
+        "hp_base": 158.4,
+        "def_base": 69,
+        "atk_base": 64.8,
+        "speed_base": 98
+    },
+    "ascensionMaterials": {
+        "mats_1": "ancient-part",
+        "mats_2": "ancient-spindle",
+        "mats_3": "broken-teeth-of-iron-wolf",
+        "mats_4": "ancient-engine"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "16",
+            "name": "Natasha",
+            "upgrade1Name": "Pharmacology Expertise",
+            "upgrade1Desc": {
+                "formatted": "After being attacked, if the current HP percentage is 30% or lower, heals self for 1 time to restore HP by an amount equal to 15% of Max HP plus 400. This effect can only be triggered 1 time per battle."
+            },
+            "upgrade2Name": "Clinical Research ",
+            "upgrade2Desc": {
+                "formatted": "When Natasha uses her Ultimate, grant continuous healing for 1 turn(s) to allies whose HP is at 30% or lower. And at the beginning of their turn, their HP is restored by an amount equal to 6% of Natasha's Max HP plus 160."
+            },
+            "upgrade3Name": "The Right Cure",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1. up to a maximum of Lv. 10."
+            },
+            "upgrade4Name": "Miracle Cure",
+            "upgrade4Desc": {
+                "formatted": "After being attacked, regenerates 5 extra Energy."
+            },
+            "upgrade5Name": "Preventive Treatment",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade6Name": "Doctor\u2019s Grace",
+            "upgrade6Desc": {
+                "formatted": "Natasha's Basic ATK deals Additional Physical DMG equal to 40% of her Max HP."
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "The Skill removes 1 debuff(s) from a target ally.",
+            "name": "Soothe"
+        },
+        {
+            "req": "A4",
+            "desc": "Natasha's Outgoing Healing increases by <b>10%</b>.",
+            "name": "Healer"
+        },
+        {
+            "req": "A6",
+            "desc": "Increases the duration of her Skill's continuous healing effect for <b>1</b> turn(s).",
+            "name": "Recuperation"
+        }
+    ],
+    "review": {
+        "formatted": "Natasha is a free healer unit given out during the events of Jarilo-VI. She specialises in healing over time with her Skill and AoE healing with her Ultimate. She has the lowest cost Ultimate in the game at 90, allowing high uptime on her AoE healing, and she also has high bonuses to Outgoing Healing. Despite this, Natasha struggles to deal with end game scenarios and is largely outclassed by other sustain units.A pivotal figure during the initial events on Jarilo-VI, Natasha is given out to players for free right around the point the game\u2019s difficulty starts to noticeably rise. It\u2019s very likely that this is the first sustain unit that players obtain, unless their starter banner 5-star was either Bailu or Gepard.Much has changed since the initial review was written. Back then, Natasha was the only other healer in the game besides Bailu, and the late game landscape was quite a bit less hectic than it tends to be now. With many more sustain units in the game than before, Natasha has unfortunately not aged well in regards to her performance, and there are even cases of players opting for an extra Harmony or Nihility support instead of Natasha in their teams, going for an all-or-nothing approach because Natasha just struggles to keep people alive.Natasha\u2019s Skill restores a single ally\u2019s health by up to 10.5% of Natasha\u2019s Max HP plus 280, and additionally grants them a heal over time for 7.2% of Nat\u2019s Max HP plus 192. This regen will apply its heal at the start of the ally\u2019s turn and lasts for 2 turns. Her Ultimate heals all allies for 13.8% of Natasha\u2019s Max HP plus 368, and has a very low Energy cost of 90.These healing values are decent, but much of the power of Natasha\u2019s Skill is concentrated into the regen effect, meaning it can come too late to be meaningful. It\u2019s also not possible to apply this healing any other way besides using her Skill, meaning you need to expend a Skill Point to do so.Sustain characters have become pretty widely accepted to be SP positive units, sometimes spending SP themselves but mostly restoring more than they consume so that your other support characters and damage dealers have enough SP to use their important actions. Having this Skill also be single-target means that it can become very costly to sustain the whole team. Natasha\u2019s Ultimate also may have a low cost but with nothing else going for it beyond the raw healing, it\u2019s almost necessary for its cost to be so low.\u00a0Natasha\u2019s Talent will increase her Outgoing Healing by 50% when healing allies whose HP is at or below 30%, and this works for regen effects too. This is a huge amount of extra healing, but it requires allies to be at 30% or below and still be alive to receive said healing. That is literally red health territory which is an uncomfortably low amount of health to be at, and usually it\u2019ll end up being reached during an enemy\u2019s turn meaning you need to have Natasha\u2019s Ultimate available to get the Emergency healing off, which can often lead to holding her Ultimate for that circumstance. Holding any Ultimate is already painful but holding a 90 Energy Ultimate for the sole purpose of being able to actually sustain a teammate in an emergency feels utterly horrendous.The 30% HP threshold for the Talent\u2019s boost is too harsh in the current oversaturated era of endless enemy AoE attacks. Natasha just doesn\u2019t have the tools to keep up with the enemy onslaught, at least not without completely bankrupting your team\u2019s SP reserves. Worse still is that Natasha cannot really make up for that deficit with Eidolons, meaning this is the best you\u2019re going to get.A2 gives Natasha\u2019s Skill a 1 debuff cleanse, something that is largely intrinsic for the newer healer units. A4 increases Natasha\u2019s Outgoing Healing further by 10%, and A6 increases the duration of her Skill\u2019s regen effect by an extra turn, for a new duration of 3 turns. None of these particularly improve the ease of use in harder content where it\u2019s actually important to have a good sustain unit.In comparison to the other sustain units, Natasha requires too much effort on the part of the player to make use of, and there are now more readily accessible units that do a better job. Lynx in particular is an almost complete and direct upgrade over Natasha, and as a 4-star is relatively easy to acquire eventually, either from warps or from Starlight Exchange.It is almost incomparable how much easier it is for Lynx to deal with the AoE-heavy enemy onslaught at far lower investment; Lynx has an AoE cleanse on her Ultimate by default and all her healing will result in a regen effect, meaning it is far easier for her to sustain the entire team without necessarily needing to use SP. Couple that with Lynx\u2019s far stronger Skill effect of increasing a character\u2019s Max HP and increasing the healing from Lynx\u2019s Talent regen in addition to direct healing, and you\u2019ve got a superior unit, no matter how you cut it.Comparing Natasha to 5-stars is pretty much pointless as they all vastly surpass Natasha in pretty much all aspects. Natasha\u2019s previous only competitor in Bailu has such a huge advantage against the current landscape of enemies that the fact that Bailu lacks any source of cleanse is a lot less impactful when the raw healing is enough to sustain through painful enemy damage over time. It\u2019s still one of the huge negatives of Bailu, but Invigoration not only greatly surpasses Natasha\u2019s overall healing throughput, it also provides a Max HP increase alongside true damage reduction, and the mechanism for its healing is characters taking a hit, making it far stronger as both a reactive and a preventative measure.Even in the cases where there are people showing full free-to-play teams with Natasha involved, she is never the reason for that team\u2019s success. It is always the other units who are so well invested to the point where Natasha\u2019s inclusion is largely cosmetic.Of course, you can still make Natasha work despite her drawbacks. For many players, Natasha will be their only sustain unit for a while until they get the Path of Preservation unlocked for the Trailblazer. Preservation Trailblazer does a phenomenal job at covering for the weaknesses of Natasha as their passive shielding helps mitigate damage and allow Natasha to actually make much better use of her powerful Talent; allies can stay at lower health values for longer without as much fear of outright death, so there\u2019s more time to utilise the strong bonus to Outgoing Healing.This introduces a new drawback of now your team has two sustain units and has become a double defensive team. In harder late game content, this puts a lot more strain on the remaining two units in the team to deal the damage you need. Preservation Trailblazer themselves can actually be an acceptable solo sustain against quite a few specific enemy lineups, so Natasha again can struggle to be relevant.If heavily invested into, Natasha can reach a point where her Skill and Ultimate are virtually full heals for lower Max HP teammates, which can allow you to get through some of the harder content as long as you\u2019re prepared to hold onto some SP for Natasha to use\u2026 But again, the issue isn\u2019t just the amount of healing she does, it\u2019s the very mechanism that delivers that healing. By the time you invest in Natasha enough for her to reach this point in the late game, there\u2019s a very strong possibility of you already having another sustain unit, at which point you should immediately pivot to using them and shelve Natasha.If you just like her a lot and want to use her for her then that is, as always, entirely valid, but if you\u2019re looking to start tackling Memory of Chaos you should be aware of the issues that you may encounter."
+    },
+    "pros": {
+        "formatted": "Freely accessible healer, Talent allows for strong emergency healing, Lowest cost Ultimate in the game, Carries you through the early and mid-game sections."
+    },
+    "cons": {
+        "formatted": "Overly simplistic kit struggles in the late game, Healing output is lower than other healers, Healing frequency is too slow, Outclassed by pretty much every other sustain unit.\n"
+    },
+    "endgameStats": {
+        "formatted": "HP: 5200 - 6100+DEF: 800 - 1000+SPD: 134 (Recommended) / 143 / 160ENERGY REGEN: 19.44%+ "
+    },
+    "voiceActors": {
+        "en": "Elizabeth Maxwell",
+        "kr": "\uac15\uc740\uc560",
+        "jpn": "Uchiyama Yumi (\u5185\u5c71\u5915\u5b9f)",
+        "cn": "\u79e6\u7d2b\u7ffc"
+    },
+    "ratings": {
+        "moc": "5",
+        "moc_special": "5",
+        "pure": "4",
+        "pure_special": "4",
+        "apo": "5",
+        "apo_special": "5"
+    },
+    "energyUltimate": "90",
+    "conesNew": [
+        {
+            "cone": "night-of-fright",
+            "super": "1",
+            "percent": "-",
+            "notes": "Offers exceptional base stats, energy regeneration and team-wide buffs. Most importantly this Cone offers an additional healing mechanic outside of the kit of the healer it is equipped to allow more flexible healing and the opportunity to keep your allies alive. All these factors combined make it the strongest in almost every scenario."
+        },
+        {
+            "cone": "time-waits-for-no-one",
+            "super": "1",
+            "percent": "-",
+            "notes": "Incredible base stats paired with an increase to healing and max HP% makes this a top option for all HP% based healers looking to increase their kits' healing output. Offers no other notable benefits outside of healing boosts though meaning it can lose out to other more specialised Cones easily."
+        },
+        {
+            "cone": "post-op-conversation",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a tremendous amount of energy regeneration and a boost to ultimate healing specifically. Suitable when aiming to access ultimate more quickly or when relying almost entirely on ultimate healing."
+        },
+        {
+            "cone": "perfect-timing",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers a large amount of Effect Res and grants a % of your Effect Res as an Outgoing Healing Bonus (up to 27% at S5). To reach the maximum healing bonus at S5 you'll require a total of 60% Effect Res, this Cone and its huge healing bonus is one of the generically best Cones that can be used well on all healers."
+        },
+        {
+            "cone": "hey-over-here",
+            "super": "5",
+            "percent": "-",
+            "notes": "Offers increased HP% for healers that heal based on HP and a large Outgoing Gealing bonus after using a skill for 2 turns. Not suitable for healers that don't frequently use their skill but a good option for those that do, without permanent uptime on the buff this lightcone performs poorly."
+        },
+        {
+            "cone": "shared-feeling",
+            "super": "5",
+            "percent": "-",
+            "notes": "Provides a decent generic Healing Output boost making it usable in all scenarios regardless of its second effect. Its second effect grants all allies including the caster 4 additional energy per skill use which can be enough to alter some damage dealer and supports rotations dramatically."
+        },
+        {
+            "cone": "multiplication",
+            "super": "5",
+            "percent": "-",
+            "notes": "Advances the wearer's action forward 20% every basic attack dramatically accelerating their rotation compared to the rest of the team allowing for more frequent healing, ultimates but most importantly more skill point generation. Only recommended for use on healers that predominantly use their basic attacks e.g. Luocha."
+        },
+        {
+            "cone": "quid-pro-quo",
+            "super": "5",
+            "percent": "-",
+            "notes": "Grants an ally 16 energy semi-randomly. Unreliable as a means of energy regeneration but is exceptionally powerful when the bonus is granted to your main damage dealer/s making it a viable option if no additional healing boosts are required."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Passerby of Wandering Cloud",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Passerby of Wandering Cloud",
+                    "relic_2": "Longevous Disciple",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Passerby of Wandering Cloud",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Sprightly Vonwacq",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "time-waits-for-no-one",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Outgoing Healing"
+                },
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "comments": "Focusing on Speed and HP% will make Natasha heal often and give her some bulk.",
+            "substats": "SPD (breakpoint) > HP% > Effect RES = DEF%",
+            "skill_priority": "Ultimate > Skill > Talent > Basic",
+            "traces_priority": "Soothe > Recuperation > Healer",
+            "name": "Pure Healer"
+        }
+    ],
+    "videos": null,
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "natasha",
+            "member_2": "serval",
+            "member_3": "trailblazer-fire",
+            "member_4": "dan-heng"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "hp",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "def",
+            "value": 12.5
+        },
+        "traceStat3": {
+            "stat": "effectRes",
+            "value": 18
+        },
+        "traceStatMajor1": {
+            "stat": "outgoingHealing",
+            "value": 10
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Sustain",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": null
+}

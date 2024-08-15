@@ -1,0 +1,49 @@
+{
+    "coneId": 126,
+    "name": "Eternal Calculus",
+    "slug": "eternal-calculus",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/154a933463e8e236742a6a4cf3a93727/6766a/126_sm.webp",
+                            "srcSet": "/static/154a933463e8e236742a6a4cf3a93727/ef6ff/126_sm.webp 32w,\n/static/154a933463e8e236742a6a4cf3a93727/8257c/126_sm.webp 64w,\n/static/154a933463e8e236742a6a4cf3a93727/6766a/126_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Herta's Store"
+    ],
+    "releaseDate": "June 19th, 2024",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "529"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "396"
+        }
+    },
+    "skillName": "Unknown",
+    "skillDescription": {
+        "formatted": "Increases the wearer's ATK by 8/9/10/11/12%. After using an attack, for each enemy target hit, additionally increases ATK by 4/5/6/7/8%. This effect can stack 5 times and lasts until the next attack. If there are 3 or more enemy targets hit, this unit's SPD increases by 8/10/12/14/16%, lasting for 1 turn(s). "
+    }
+}

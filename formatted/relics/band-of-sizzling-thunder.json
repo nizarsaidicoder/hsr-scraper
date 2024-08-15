@@ -1,0 +1,52 @@
+{
+    "relicId": "9",
+    "name": "Band of Sizzling Thunder",
+    "type": "Relic Set",
+    "element": "Lightning",
+    "bonus2": {
+        "formatted": "Increases Lightning DMG by 10%."
+    },
+    "bonus4": {
+        "formatted": "When the wearer uses Skill, increases the wearer's ATK by 20% for 1 turn(s)."
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ead9470f7f552c4c7831ca1cea95cda4/15e42/set_9.png",
+                            "srcSet": "/static/ead9470f7f552c4c7831ca1cea95cda4/88208/set_9.png 25w,\n/static/ead9470f7f552c4c7831ca1cea95cda4/e9fba/set_9.png 50w,\n/static/ead9470f7f552c4c7831ca1cea95cda4/15e42/set_9.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ead9470f7f552c4c7831ca1cea95cda4/2fa99/set_9.webp 25w,\n/static/ead9470f7f552c4c7831ca1cea95cda4/dbc4a/set_9.webp 50w,\n/static/ead9470f7f552c4c7831ca1cea95cda4/d8057/set_9.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "lightningDmg",
+            "value": 10
+        },
+        "relicSet4pc": {
+            "stat": "atk",
+            "value": 20
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 1
+        }
+    }
+}

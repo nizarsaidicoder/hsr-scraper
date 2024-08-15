@@ -1,0 +1,514 @@
+{
+    "unitId": 44,
+    "name": "Dr. Ratio",
+    "slug": "dr-ratio",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/26f302952d6728c2b270c9160566e614/e9a79/44_sm.png",
+                            "srcSet": "/static/26f302952d6728c2b270c9160566e614/f31ef/44_sm.png 40w,\n/static/26f302952d6728c2b270c9160566e614/1f8a1/44_sm.png 80w,\n/static/26f302952d6728c2b270c9160566e614/e9a79/44_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/26f302952d6728c2b270c9160566e614/e73fe/44_sm.webp 40w,\n/static/26f302952d6728c2b270c9160566e614/61ca6/44_sm.webp 80w,\n/static/26f302952d6728c2b270c9160566e614/60b4d/44_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/492e81b619935ddd5b25d6d33a8cfaa6/c9885/44_card.png",
+                            "srcSet": "/static/492e81b619935ddd5b25d6d33a8cfaa6/2aab7/44_card.png 94w,\n/static/492e81b619935ddd5b25d6d33a8cfaa6/0a986/44_card.png 187w,\n/static/492e81b619935ddd5b25d6d33a8cfaa6/c9885/44_card.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/492e81b619935ddd5b25d6d33a8cfaa6/84550/44_card.webp 94w,\n/static/492e81b619935ddd5b25d6d33a8cfaa6/34f80/44_card.webp 187w,\n/static/492e81b619935ddd5b25d6d33a8cfaa6/b26e2/44_card.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#282828",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/49fc4d53179099c7bd05efca2d3830a9/cf6d0/ratio_full.webp",
+                            "srcSet": "/static/49fc4d53179099c7bd05efca2d3830a9/213b2/ratio_full.webp 200w,\n/static/49fc4d53179099c7bd05efca2d3830a9/413c5/ratio_full.webp 400w,\n/static/49fc4d53179099c7bd05efca2d3830a9/cf6d0/ratio_full.webp 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "A candid and self-centered Intelligentsia Guild member, who often conceals his appearance with a strange plaster sculpture. He demonstrated unparalleled intelligence and talent since his youth, but now refers to himself as a \"Mundanite.\" He firmly believes that intellect and creativity are not confined to geniuses. He seeks to distribute knowledge to the entire universe to cure the persistent disease named ignorance."
+    },
+    "statsComments": {
+        "formatted": "Relic Main statsBody - CRIT DMG = CRIT RateUse whichever Body which grants you a better Crit Ratio that gets you the closest to achieving 100% CRIT and 200% CRIT DMG (With Ratio's buffs up).Feet - SpeedBest in Slot for Dr. RatioPlanar Sphere - ATK% = Imaginary DMGEither can be used - their performance is similar and which is better depends on your gear, team choice, and Light Cone,If you have many ATK% buffs from your team and Light Cone, IMG% Planar is best,If you have many DMG% buffs but few ATK% buffs, ATK% Planar is better.Link Rope - ATK%Best in Slot for Dr. RatioAdditional notes for sub-statsReaching an acceptable Speed breakpoint for MoC and Pure Fiction while also hitting a high Crit Ratio is your top priority when searching for sub-stats. After achieving these goals ATK% can be searched for as a bonus.SPEED: Speed (as with most standard direct damage carries) is incredibly important on Dr. Ratio. Hitting a strong breakpoint is also advised when aiming to achieve the fastest and most comfortable endgame clears in Memory of Chaos and Pure Fiction. Remember you can gain speed via team mates buff such as Asta, Ruan Mei, and Hanya.CRIT RATE & CRIT DMG: Ratio has abundant access to CRIT RATE and CRIT DMG but they are still his top stats. Aim for a traditional 1:2 ratio of CRIT and CRIT DMG - it's quite easy to cap out Ratio's CRIT at 100% and reach over 200% Crit DMG. CRIT DMG still remains a top priority for increasing damage further in endgame though.ATK% & DMG%: Both are competitive stats on Ratio but ATK% is more valuable than usual compared to other damage dealers thanks to Ratio's bonus ability granting him up to 50% increased damage against enemies that have 5 debuffs. If you can consistently gain the maximum effect of this bonus you can consider ATK% to be close in value to DMG% especially if you're pairing him with a DMG% Light Cone and support."
+    },
+    "relicsComments": {
+        "formatted": "Pioneer Diver of Dead WatersAssuming Ratio is always attacking a debuffed enemy, the new Pioneer 4P is his best set. Because he can apply his own debuffs, he can easily activate the 'double' part of the set too.Wastelander of Banditry DesertThe Wastelander set sees very limited use outside of Imaginary DPS characters and is not generic - consider this carefully before committing to farming it.2P The Ashblazing Grand Duke + 2P Wastelander of Banditry Desert / 2P Messenger Traversing Hackerspace / 2P Musketeer of Wild Wheat / Pioneer Diver of Dead Waters2P Granduke increases Follow Up Attacks (FUA) by a massive 20% (and the majority of his damage is FUA) making it his best 2P set bonus. When mixing and matching you can make use of any of the following 2P sets.Musketeer of Wild WheatAllows Ratio to reach higher Speed breakpoints with less sub-stat investment and offers some ATK%. Easy to farm and generic but not as good as previous alternatives.The Ashblazing Grand DukeFalls behind other 4P and 2P set combinations as Ratio can only apply 1 stack of the 4P bonus per attack.Firmament Frontline: GlamothOne of the top choices for Ratio assuming you can reach 135 speed at all times but very close in performance to alternatives. If your team compositions or gear sets can reach 160+ Speed without sacrificing other stats it becomes his best option in many cases.Inert SalsottoOffers Crit Rate assisting Ratio with reaching his desired ratio of 100% Crit and 200% Crit DMG while also boosting his main source of damage Follow-Up attacks. Close to identical numerical performance as Frontline Glamoth in most cases.Space Sealing StationAn excellent generic set that is easy to acquire and is only slightly behind Inert Salsotto and FFG in performance. Rutilant ArenaAn alternative to Ratio's best 3 planar sets but does fall behind when looking to maximise damage and potential of the character. Still a viable option if you have a great set with good sub-stats."
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "130501",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "130502",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "130503",
+            "energy_gen": "5",
+            "break_primary": "90",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "130504",
+            "energy_gen": "5",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "130507",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": "Intelligentsia Guild",
+    "rarity": "5",
+    "element": "Imaginary",
+    "path": "Hunt",
+    "stats": {
+        "hp_base": 142.56,
+        "def_base": 62.7,
+        "atk_base": 105.6,
+        "speed_base": 103
+    },
+    "ascensionMaterials": {
+        "mats_1": "thiefs-instinct",
+        "mats_2": "usurpers-scheme",
+        "mats_3": "suppressing-edict",
+        "mats_4": "conquerors-will"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "101",
+            "name": "Dr. Ratio",
+            "upgrade1Name": "Pride Comes Before a Fall",
+            "upgrade1Desc": {
+                "formatted": "The maximum stackable count for the Trace \"Summation\" increases by 4. When a battle begins, immediately obtains 4 stacks of Summation. Needs to unlock Summation first."
+            },
+            "upgrade2Name": "The Divine Is in the Details",
+            "upgrade2Desc": {
+                "formatted": "When his Talent's follow-up attack hits a target, for every debuff the target has, additionally deals Imaginary Additional DMG equal to 20% of Dr. Ratio's ATK. This effect can be triggered for a maximum of 4 time(s) during each follow-up attack."
+            },
+            "upgrade3Name": "Know Thyself",
+            "upgrade3Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "upgrade4Name": "Ignorance Is Blight",
+            "upgrade4Desc": {
+                "formatted": "When triggering the Talent, additionally regenerates 15 Energy for Dr. Ratio."
+            },
+            "upgrade5Name": "Sic Itur Ad Astra",
+            "upgrade5Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade6Name": "Vincit Omnia Veritas",
+            "upgrade6Desc": {
+                "formatted": "Increases the trigger count for Wiseman's Folly by 1. The DMG dealt by the Talent's follow-up attack increases by 50%."
+            }
+        }
+    ],
+    "synergy": [
+        {
+            "character": "topaz",
+            "notes": "Topaz does strong damage herself and gains a large amount of additional personal damage when allies strike her main target with Follow-Up attacks which Ratio does a lot! Topaz also applies a debuff to an enemy helping Ratio hit his goals - this debuff also increases all Follow-Up damage taken by 50% which is a truly absurd multiplier. Topaz's signature Cone doubles down on support and applies an additional debuff to enemies increasing the CRIT DMG they take and of course, assisting Ratio with his kit. Finally, if you have E1 you can get yet another debuff that boosts Ratio even more for even more synergy and damage!"
+        },
+        {
+            "character": "guinaifen",
+            "notes": "Guinaifen applies 2 debuff to enemies at E0 - her Burn as well as her Firekiss debuff both of which are AoE in nature, allowing Ratio to quickly target swap if needed. Firekiss also provides Ratio with a multiplier he doesn't have access to (the increased damage taken multiplier which is also a welcome benefit). At E1 Guiinaifen gains another AoE debuff in the form of an Effect Res reduction boosting her to 3 AoE debuffs from just 1 skill use which gets Ratio most of the way to maximising his damage."
+        },
+        {
+            "character": "pela",
+            "notes": "Pela provides DEF shred which is a very potent support buff for Ratio as his personal stats are already high. Even more so if he has his signature Light Cone equipped which also has DEF shred (the more DEF shred you have the stronger it is). At E0 Pela can only consistently apply 1 debuff by herself however she applies a 2nd one when the battle starts temporarily with her technique and can gain a 3rd one by making use of a debuffing Light Cone all of which are AoE debuffs. At E4 Pela gains an additional debuff when using her skill that doesn't boost Ratio's damage itself but will count toward his goals, this unfortunately is a single target debuff though."
+        },
+        {
+            "character": "silver-wolf",
+            "notes": "The queen of debuffs in single target who can single-handedly enable Ratio's entire kit while also boosting his damage substantially with massive DEF shred and RES shred also while making them vulnerable to Imaginary. At E0 with 1 skill Silver Wolf applies 3 debuffs (1 is the vulnerability implant, 1 is the RES shredding effect and 1 is the bug she applies). Silver Wolf can apply up to 6 debuffs herself though when fully ramped including 2 more bugs and her ultimate which is an additional debuff. At E2 Silver Wolf applies an additional AoE debuff as well, lowering enemies Effect RES - all this on top of the ability to apply even more with a Light Cone of her choosing. With the correct gear and investment Silver Wolf can consistently apply 4 debuffs with 1 skill at E0 completely enabling Ratios maximum power."
+        },
+        {
+            "character": "bronya",
+            "notes": "Offers Ratio twice the actions when Speed tuned correctly by making Bronya 1 Speed slower than Ratio and spamming her skill making up for Ratio's pure single target weakness. Bronya normally has trouble affecting characters that make use of Follow-Up attacks with her main damage boost her skill, but because Ratio's follow-up attack happens straight after his skill it is affected by the boost making this combo much stronger."
+        },
+        {
+            "character": "tingyun",
+            "notes": "Grants Ratio additional energy and damage bonuses - the former of which is particularly powerful when using his signature Light Cone. Ratio also has a more rare synergy with Tingyun by being able to activate her Benediction Lightning damage blessing many more times than usual - the extra damage will activate not just on his skills, basics and ultimates but also on every follow-up granting him over double the activations that characters normally get from this buff."
+        },
+        {
+            "character": "ruan-mei",
+            "notes": "While there's no particular synergy between the two (Thanatoplum Rebloom is a debuff, but its uptime is limited), Ruan Mei is so strong, she drastically improves any DPS performance with her kit. Especially if you play Dr. Ratio with Topaz as both will benefit from her."
+        }
+    ],
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When Dr. Ratio uses his Skill, for every debuff on the target, his CRIT Rate increases by <b>2.5%</b> and CRIT DMG by <b>5%</b>. This effect can stack up to <b>6</b> time(s).",
+            "name": "Summation"
+        },
+        {
+            "req": "A4",
+            "desc": "When Skill is used to attack an enemy target, there is a 100% base chance to reduce the attacked target's Effect RES by <b>10%</b> for <b>2</b> turn(s).",
+            "name": "Inference"
+        },
+        {
+            "req": "A6",
+            "desc": "When dealing DMG to a target that has <b>3</b> or more debuff(s), for each debuff the target has, the DMG dealt by Dr. Ratio to this target increases by <b>10%</b>, up to a maximum increase of <b>50%</b>.",
+            "name": "Deduction"
+        }
+    ],
+    "review": {
+        "formatted": "Dr. Ratio is a very powerful single-target damage dealer, given out for free to all players from 1.6 to until the start of 2.1. He specialises in dealing immense damage through follow-ups and accumulating permanent CRIT buffs in combat. He also benefits noticeably from attacking debuffed enemies, guaranteeing his follow-up at 3 debuffs and receiving a DMG bonus per stack, maxing out at 5 debuffs. The ways he can use his follow-up attack both provide more Energy over time than other characters and can somewhat alleviate the usual inherent weakness of Hunt characters.The abrasive meme-lord with a heart of gold, Dr. Veritas Ratio finally graces us with his presence. Giving us the ability to play him early with a Trial version taught us much about his capabilities, and now that he\u2019s here for real, it\u2019s fairly apparent that he was actually holding out on us.Before going into the usual breakdown, some important information first. Since debuffs are very important for Dr. Ratio\u2019s kit, you should know what exactly constitutes a debuff in this game. The rule is this: if a Status Effect features a small red arrow pointing downwards, this is considered a debuff. If you are in doubt, you can inspect the Enemy Details window in combat and the Status Summary at the bottom will explicitly state how many debuffs they are currently afflicted with. If you don\u2019t read this paragraph, you forfeit the right to complain later when you discover Hanya\u2019s Burden isn\u2019t a debuff.Dr. Ratio\u2019s Skill is a standard single-target Skill, dealing up to 150% of his ATK to a single enemy. This may initially seem rather low but this Skill works in tandem with his Talent as well as his Bonus Ability Traces, leading to far greater damage numbers for the meagre cost of 1 Skill Point.His Talent is his main source of damage. When using his Skill, he has a 40% fixed chance to launch a follow-up attack against his target, dealing up to an impressive 270% ATK. Each debuff the target of his Skill is affected by will increase the fixed chance of this follow-up occurring by 20%. This means that if the targeted enemy has at least 3 debuffs on them, Dr. Ratio will always follow a Skill usage with a Talent follow-up, dealing a combined 420% ATK to a single enemy. Very dank, and very strong.It should be noted that if his Skill defeats the target before the follow-up can be launched, Ratio will launch it anyway against a random other enemy. This prevents much of the value from being lost due to an early enemy death, but more importantly it helps to alleviate the natural downside of the Path of The Hunt, namely that they are exclusively single-target focused. In a similar sort of vein as Seele can use lesser enemies to bolster her offence, Ratio can pick off smaller foes and weakened stragglers and still deal damage against the remaining foes; with an upfront damage multiplier of 150% on his Skill, it is not unreasonable to expect this to deal with trash adds outright with proper setup. This automatically puts Ratio far ahead of pretty much all other Hunt units besides Seele.Dr. Ratio\u2019s Ultimate deals up to 240% ATK to a single enemy and applies a status effect called Wiseman\u2019s Folly (it's not a debuff). Whenever allies attack a target with Wiseman\u2019s Folly, Dr. Ratio will automatically launch a follow-up attack against them out of turn. This can happen 2 times before the status effect is automatically removed. This lasts indefinitely unless the afflicted enemy dies or until the trigger count is met.This Ultimate allows Ratio to deal even more damage outside of his turn and use buffs even more efficiently. There is however an issue with this Ultimate, and that is that the debuff is removed when the enemy dies. It does not hop like Topaz\u2019s Proof of Debt, meaning if an enemy dies before the trigger count is met for Ratio\u2019s Ultimate, he completely loses the effects of the Ultimate. Given that this admittedly strong Ultimate has a steep cost of 140 Energy, losing its effects is miserable to have happen even if you\u2019ve already gotten one follow-up off. Mostly if this happens, sorry, it\u2019s a skill issue. This should only ever naturally occur at the very end of combat when it doesn\u2019t matter anymore.Another important thing to note is that because of the amount of follow-ups Ratio throws, his Energy economy is actually surprisingly good since each Talent follow-up gives 5 Energy; assuming you\u2019re attacking an enemy with at least 3 debuffs, his Skill gives 35 Energy per cast, and his Ultimate provides 10 additional Energy once the Wiseman\u2019s Folly follow-ups have been expended. The amount of follow-ups also contributes to a very impressive amount of overall Toughness damage, with each one dealing 30 Toughness damage, the same as a typical Basic ATK. Combining with his Skill again, each one of his turns he will be dealing 90 Toughness damage, the equivalent of all single-target Ultimates besides Xueyi\u2019s.Dr. Ratio\u2019s Bonus Ability Traces provide some very powerful additional effects. A2 will provide permanent stacks of 2.5% CRIT Rate and 5% CRIT DMG whenever he uses his Skill against a debuffed enemy. The number of stacks he gets depends on the number of debuffs the enemy has on them, and he can have up to 6 stacks in total, granting 15% CRIT Rate and 30% CRIT DMG. This passive has sparked some confusion due to its wording, so to be as clear as possible, the bonuses do not need to be obtained concurrently; if an enemy has only 3 debuffs on them, you will gain the full 6 stacks after two Skill uses against them; if they only have 2, you will need three Skill uses to get the 6 stacks.His A4 gives his Skill a 100% base chance to reduce the target\u2019s Effect RES by 10% for 2 turns, giving Ratio an inherent debuff to apply to enemies. This debuff also becomes easier to maintain on enemies after its initial application due to the Effect RES reduction it provides. This also means teammates only need to provide 2 additional debuffs to meet the 100% follow-up chance on Skill use from his Talent. Do note that this debuff is only applied after the follow-up check occurs, meaning if you\u2019re relying on this as your 3rd debuff, your first follow-up won\u2019t have a 100% fixed chance to happen.A6 will grant Ratio a DMG% buff for attacking debuffed enemies. This effect starts functioning at 3 debuffs and maxes out at 5, providing 10% DMG dealt for each debuff. This means that having 5 debuffs will give him a bonus 50% DMG dealt against the target with a 100% fixed chance to throw follow-ups on Skill uses, resulting in colossal damage output, but so long as you can meet the 3 debuff threshold for his Talent, 30% DMG dealt is perfectly acceptable as well. 100% chance for his follow-up is the most important milestone to reach, so don\u2019t bend over backwards going for 5 debuffs if the team can\u2019t attain it or if it\u2019d result in a worse team composition.Dr. Ratio also gets 12% CRIT Rate from his Minor Traces as well as 28% ATK. \u2018Why are you mentioning ATK Traces?\u2019 Because, as of the time of writing this, Dr. Ratio has the absolute highest Base ATK value in the game of 776, meaning ATK% bonuses will have a more noticeable impact on his overall ATK rating.Dr. Ratio\u2019s Eidolons are downright silly. Absolutely none of them are necessary in any way. Ratio is immaculate by default, at E0. However, for those\u2026 \u2018Driven\u2019 few who will pursue his Eidolons, you may see actual oneshots. E1 allows A6 CRIT buffs to stack to 10, E2 causes his follow-up to deal 20% additional ATK damage per debuff against debuffed enemies, up to an 80% ATK bonus per follow-up, E4 basically refills Ratio\u2019s Energy bar in mere moments by giving 15 Energy back per follow-up, and E6 increases the number of Ultimate triggers to 3 while also increasing the DMG dealt by the follow-up by a massive 50%. I\u2019m fully ready to see True Sting die to a singular piece of chalk.As you can no doubt tell from what\u2019s been said already, a very significant portion of Ratio\u2019s total damage comes from his follow-up attack, but even more than that, it\u2019s a majority of his damage. If you are unable to meet the minimum requirements of 3 debuffs to activate his follow-up attack, you will haemorrhage damage. There are only benefits to reap by meeting this baseline as it unlocks all the aforementioned great parts of his kit: his overall damage throughput, his remarkable Energy economy and Toughness damage, and even a minor ability to break out of his otherwise pure single-target damage profile.As such, Ratio pairs very well with characters that can enable or amplify his capabilities. For the strongest single-target specialist team in the game, pairing him with Topaz is very powerful. Topaz has been waiting for a follow-up damage dealer who is able to both benefit from her debuff and increase the frequency of her own follow-up attacks, and Dr. Ratio fits that description perfectly. Ratio already deals so much single-target damage that it\u2019s a viable strategy to focus down and kill summoner enemies outright, ignoring their summons entirely, and with Topaz\u2019s powerful Vulnerability debuff, Ratio can do this even easier. Do note that without Topaz\u2019s E1 or S1, you will need to find a source of at least 1 more debuff.To that end, the usual suite of Nihility debuffers are fantastic to round out the rest of the team. It\u2019s important to know that all Nihility characters can equip the Light Cone Resolution Shines As Pearls of Sweat, providing an extra debuff and decreasing enemies\u2019 DEF. Pela can keep her Ultimate\u2019s DEF Shred up pretty much indefinitely on all enemies, making it easier to switch to new targets when Ratio\u2019s chalk deals the finishing blow, but it is only 1 consistent debuff without Resolution. Silver Wolf is understandably fantastic for racking up huge amounts of debuffs on single targets even at E0, and with the right setup, a single Skill usage from Silver Wolf can very nearly enable Dr. Ratio\u2019s entire kit while also being able to ensure the enemy has an Imaginary Weakness thanks to her Skill\u2019s Weakness Implant.Guinaifen in particular is a very impressive character to pair with Ratio, as both her Burn and Firekiss Vulnerability count towards Ratio\u2019s debuff count, simultaneously increasing his damage output and dealing good damage of her own. Especially in AoE scenarios, this can greatly offset Ratio\u2019s weaker AoE capabilities by either dealing with smaller enemies outright, or by softening them up enough that Ratio can kill them with his Skill and then throw his follow-up on a completely different target.If gaining enough debuffs is not a concern then Ratio of course also has access to the usual suite of Harmony characters as well. Bronya, Ruan Mei, and Tingyun are all very good at significantly increasing the damage Dr. Ratio can deal; Bronya can double Ratio\u2019s action count with the right SPD tuning, Tingyun\u2019s Benediction blessing getting a lot of value due to follow-ups not consuming it, and Ruan Mei for even faster and stronger Breaking. Ruan Mei in particular also provides a debuff of her own thanks to her Ultimate but, due to its cost, this should not be relied on to meet the minimum debuff threshold for Dr. Ratio.A final note is that Dr. Ratio\u2019s signature Light Cone is exceptionally powerful on him in particular. Ratio is absolutely fine and strong with the likes of Cruising in the Stellar Sea, but his performance goes up by that much more with his signature Light Cone, and it provides better quality of life than trying to maintain the passives of other Light Cone options. Again, Ratio is being evaluated here with the easily and freely accessible options and he\u2019s already guaranteed to swat everything away with little effort, but he gets that much stronger with his sig. It\u2019s very much a case of \u2018gold versus platinum\u2019 so it\u2019s up to the individual to decide if they think it\u2019s worth chasing that extra dazzle.Dr. Ratio is not a complicated character once you\u2019ve understood how he works, and he works with a vast array of other characters, fitting in nicely among the rest of the roster. Being given out for free as well means that everyone can benefit from his impeccable damage output, made even more valuable by being an Imaginary damage dealer, something that\u2019s still lacking to this day. He has a few peculiarities that he needs met to really get going, but once he does he really gets going.If you\u2019re reading this from the future after 2.1 when Ratio leaves our collective inboxes, and you\u2019ve missed out on getting him for free, you had ample time to pick the man up because that\u2019s months away from the time I\u2019m writing this. Take this L, sans the Ratio, obviously.For the rest of us, the doctor\u2026 Is in."
+    },
+    "pros": {
+        "formatted": "Absolute highest single-target damage ceiling in the game when ramped up, Follow-ups give absurd amounts of Toughness damage and great Energy economy, Stat monster that can reach ridiculous CRIT values, Many powerful relic options to choose from, Imaginary Breaks greatly assist in keeping the team alive, Some limited potential to deal with multiple targets."
+    },
+    "cons": {
+        "formatted": "Needs ramp-up time to reach his potential, Requires at least 3 debuffs on targets for consistent follow-ups, Signature Light Cone notably outperforms all other current options, Outside of his slight multi-target capabilities when killing enemies, he\u2019s still ultimately a single-target unit."
+    },
+    "endgameStats": {
+        "formatted": "HP: 2800 - 3000+ DEF: 900 - 1000+ATK: 2700 - 3100+CRIT RATE: 90% - 100% (including Dr. Ratio self-buffs)CRIT DMG: 180% - 200%+ (including Dr. Ratio self-buffs)SPD: Base Speed (Hyperspeed Sparkle/Bronya) / 134 (Recommended) / 143 / 161"
+    },
+    "voiceActors": {
+        "en": "Jordan Paul Haro",
+        "kr": "\uc774\ub3d9\ud6c8 (Lee Donghoon)",
+        "jpn": "\u6b66\u5185\u99ff\u8f14 (Takeuchi Shunsuke)",
+        "cn": "\u6851\u6bd3\u6cfd (Sang Yuze)"
+    },
+    "ratings": {
+        "moc": "10",
+        "moc_special": "10",
+        "pure": "5",
+        "pure_special": "5",
+        "apo": "10",
+        "apo_special": "10"
+    },
+    "energyUltimate": "140",
+    "conesNew": [
+        {
+            "cone": "baptism-of-pure-thought",
+            "super": "1",
+            "percent": "112.92%",
+            "notes": "Clear best Light Cone for Ratio assuming you can maintain 3 debuffs on the enemy. Becomes even more powerful when including teammates that can shred DEF like Pela or Silver Wolf."
+        },
+        {
+            "cone": "worrisome-blissful",
+            "super": "1",
+            "percent": "108.53%",
+            "notes": "Less powerful than Ratio's signature but still a reasonable choice, boasting the advantage of applying a debuff of its own with its in-built effect. This debuff boosts other damage dealers' attack as well as Ratios while also counting as a debuff for Ratio to take advantage of."
+        },
+        {
+            "cone": "only-silence-remains",
+            "super": "5",
+            "percent": "101.89%",
+            "notes": "An alternative to Cruising as a somewhat accessible option but only at S5 and in battles you can quickly narrow down to 2 enemies or less. More situational and difficult to make use of than the other Cones."
+        },
+        {
+            "cone": "cruising-in-the-stellar-sea",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes the on-kill ATK% boost can be maintained 66% of the time in the fight and only considers the base CRIT RATE % in these calculations not the additional CRIT on low life. In fights where the ATK% buff cannot be maintained the performance of this Cone will reduce."
+        },
+        {
+            "cone": "in-the-night",
+            "super": "1",
+            "percent": "93.95%",
+            "notes": "Calcs contain some reallocation of ATK%, CRIT RATE and CRIT DMG% to SPD in order to achieve 4-6 stacks of the bonus. Each character is configured to reach the Speed breakpoint that grants them the most damage with this Cone. under the simulation conditions. With better relics and teams that grant more Speed this lightcones performance will improve comparatively."
+        },
+        {
+            "cone": "return-to-darkness",
+            "super": "5",
+            "percent": "90.99%",
+            "notes": "Less efficient than the alternatives - adding the Cone here just for damage output comparison"
+        },
+        {
+            "cone": "cruising-in-the-stellar-sea",
+            "super": "5",
+            "percent": "88.4%",
+            "notes": "Assumes the on-kill ATK% boost uptime is 0% and only considers the base CRIT RATE % in these calculations not the additional CRIT on low life."
+        },
+        {
+            "cone": "subscribe-for-more",
+            "super": "5",
+            "percent": "79.32%",
+            "notes": "Less efficient than the alternatives - adding the Cone here just for damage output comparison"
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "",
+                    "value": "107.79%",
+                    "comment": "100% uptime",
+                    "notes": null
+                },
+                {
+                    "relic": "Pioneer Diver of Dead Waters",
+                    "relic_2": "The Ashblazing Grand Duke",
+                    "value": "101.48%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "The Ashblazing Grand Duke",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "99.65%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Wastelander of Banditry Desert",
+                    "relic_2": "",
+                    "value": "99.58%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "The Ashblazing Grand Duke",
+                    "relic_2": "Wastelander of Banditry Desert",
+                    "value": "98.20%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Duran, Dynasty of Running Wolves",
+                    "value": "104.46%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "99.83%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "98.31%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "96.50%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "echoes-of-the-coffin",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "ATK%"
+                },
+                {
+                    "stat": "Imaginary DMG"
+                }
+            ],
+            "comments": "Reaching an acceptable Speed breakpoint for MoC and Pure Fiction while also hitting a high Crit Ratio is your top priority when searching for sub-stats. After achieving these goals ATK% can be searched for as a bonus.",
+            "substats": "SPD (breakpoint) > CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Talent > Skill > Ultimate > Basic",
+            "traces_priority": "Summation (A2) > Deduction (A6) > Inference (A4)",
+            "name": "Default"
+        }
+    ],
+    "videos": [
+        {
+            "video": "wfYzU3u0LQQ"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Dr. Ratio Hypercarry",
+            "member_1": "dr-ratio",
+            "member_2": "tingyun",
+            "member_3": "pela",
+            "member_4": "luocha"
+        },
+        {
+            "name": "Dr. Ratio Hypercarry",
+            "member_1": "dr-ratio",
+            "member_2": "bronya",
+            "member_3": "guinaifen",
+            "member_4": "luocha"
+        },
+        {
+            "name": "Dr. Ratio Hypercarry",
+            "member_1": "dr-ratio",
+            "member_2": "bronya",
+            "member_3": "silver-wolf",
+            "member_4": "luocha"
+        },
+        {
+            "name": "Dr. Ratio + Topaz",
+            "member_1": "dr-ratio",
+            "member_2": "topaz",
+            "member_3": "ruan-mei",
+            "member_4": "luocha"
+        },
+        {
+            "name": "Dr. Ratio + Topaz",
+            "member_1": "dr-ratio",
+            "member_2": "topaz",
+            "member_3": "pela",
+            "member_4": "luocha"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat2": {
+            "stat": "CRIT Rate",
+            "value": 12
+        },
+        "traceStat3": {
+            "stat": "def",
+            "value": 12.5
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "January 17th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "FuA",
+        "Debuff"
+    ]
+}

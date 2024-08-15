@@ -1,0 +1,49 @@
+{
+    "coneId": 124,
+    "name": "Whereabouts Should Dreams Rest",
+    "slug": "whereabouts-should-dreams-rest",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/f3811cb24876b4a84122236d19c613a6/6766a/124_sm.webp",
+                            "srcSet": "/static/f3811cb24876b4a84122236d19c613a6/ef6ff/124_sm.webp 32w,\n/static/f3811cb24876b4a84122236d19c613a6/8257c/124_sm.webp 64w,\n/static/f3811cb24876b4a84122236d19c613a6/6766a/124_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "June 19th, 2024",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "1164"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "529"
+        }
+    },
+    "skillName": "Metamorphosis",
+    "skillDescription": {
+        "formatted": "Increases the wearer's Break Effect by 60/70/80/90/100%. When the wearer deals Break DMG to an enemy target, inflicts Routed on the enemy, lasting for 2 turn(s). Targets afflicted with Routed receive 24/28/32/36/40% increased Break DMG from the wearer, and their SPD is lowered by 20%. Effects of the similar type cannot be stacked."
+    }
+}

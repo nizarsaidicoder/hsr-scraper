@@ -1,0 +1,464 @@
+{
+    "unitId": 11,
+    "name": "Herta",
+    "slug": "herta",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/183866486154f984ec92b8eedf87d7c6/e9a79/11_sm.png",
+                            "srcSet": "/static/183866486154f984ec92b8eedf87d7c6/f31ef/11_sm.png 40w,\n/static/183866486154f984ec92b8eedf87d7c6/1f8a1/11_sm.png 80w,\n/static/183866486154f984ec92b8eedf87d7c6/e9a79/11_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/183866486154f984ec92b8eedf87d7c6/e73fe/11_sm.webp 40w,\n/static/183866486154f984ec92b8eedf87d7c6/61ca6/11_sm.webp 80w,\n/static/183866486154f984ec92b8eedf87d7c6/60b4d/11_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/23f79fce3f1d15f7a135e35d9114beec/c9885/1013.png",
+                            "srcSet": "/static/23f79fce3f1d15f7a135e35d9114beec/2aab7/1013.png 94w,\n/static/23f79fce3f1d15f7a135e35d9114beec/0a986/1013.png 187w,\n/static/23f79fce3f1d15f7a135e35d9114beec/c9885/1013.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/23f79fce3f1d15f7a135e35d9114beec/84550/1013.webp 94w,\n/static/23f79fce3f1d15f7a135e35d9114beec/34f80/1013.webp 187w,\n/static/23f79fce3f1d15f7a135e35d9114beec/b26e2/1013.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/0306d4fb2ede9beb1e30758bfe56b547/3c5dc/11_full.png",
+                            "srcSet": "/static/0306d4fb2ede9beb1e30758bfe56b547/ca8fd/11_full.png 200w,\n/static/0306d4fb2ede9beb1e30758bfe56b547/de50c/11_full.png 400w,\n/static/0306d4fb2ede9beb1e30758bfe56b547/3c5dc/11_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/0306d4fb2ede9beb1e30758bfe56b547/213b2/11_full.webp 200w,\n/static/0306d4fb2ede9beb1e30758bfe56b547/413c5/11_full.webp 400w,\n/static/0306d4fb2ede9beb1e30758bfe56b547/cf6d0/11_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "Herta Space Station's true master. As the human with the highest IQ in The Blue, she only does what she's interested in, dropping whatever project immediately the moment she loses interest \u2014 the best example being the space station.She typically appears in the form of a ranged puppet. \"It's about seventy percent similar to how I looked as a child.\" \u2014 Herta "
+    },
+    "statsComments": null,
+    "relicsComments": {
+        "formatted": "Herta can be played in two ways:As a sub-DPS who focuses equally on doing damage via skills and FUA,As a dedicated FUA-DPS who is just there to 'kurukuru' as hard as possible.In the first case, you want to use Speed boots and FFG or Rutilant as this gets you the best out of both worlds, but if you're playing the Follow-Up monster Herta, you're better off running ATK% boots and Inert Salsotto as this will translate to more FUA damage.Since the calculations we're doing assume solo performance, the default suggestions are tailored toward the first, more generic playstyle."
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "101301",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "101302",
+            "energy_gen": "30",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "101303",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "101304",
+            "energy_gen": "5",
+            "break_primary": "15",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "101307",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Sub DPS",
+    "affiliation": "Herta Space Station",
+    "rarity": "4",
+    "element": "Ice",
+    "path": "Erudition",
+    "stats": {
+        "hp_base": 129.6,
+        "def_base": 54,
+        "atk_base": 79.2,
+        "speed_base": 100
+    },
+    "ascensionMaterials": {
+        "mats_1": "extinguished-core",
+        "mats_2": "glimmering-core",
+        "mats_3": "horn-of-snow",
+        "mats_4": "squirming-core"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "11",
+            "name": "Herta",
+            "upgrade1Name": "Kick You When You're Down",
+            "upgrade1Desc": {
+                "formatted": "If the enemy's HP percentage is at 50% or less, Herta's Basic ATK deals Additional Ice DMG equal to 40% of Herta's ATK."
+            },
+            "upgrade2Name": "Keep the Ball Rolling",
+            "upgrade2Desc": {
+                "formatted": "Every time Talent is triggered, this character's CRIT Rate increases by 3%. This effect can stack up to 5 time(s)."
+            },
+            "upgrade3Name": "That's the Kind of Girl I Am",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10."
+            },
+            "upgrade4Name": "Hit Where it Hurts",
+            "upgrade4Desc": {
+                "formatted": "When Talent is triggered, DMG increases by 10%."
+            },
+            "upgrade5Name": "Cuss Big or Cuss Nothing",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade6Name": "No One Can Betray Me",
+            "upgrade6Desc": {
+                "formatted": "After using Ultimate, this character's ATK increases by 25% for 1 turn(s)."
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When Skill is used, the DMG Boost effect on target enemies increases by an extra <b>25%</b>.",
+            "name": "Efficiency"
+        },
+        {
+            "req": "A4",
+            "desc": "The chance to resist Crowd Control Debuffs increases by <b>35%</b>.",
+            "name": "Puppet"
+        },
+        {
+            "req": "A6",
+            "desc": "When Ultimate is used, deals <b>20%</b> more DMG to Frozen enemies.",
+            "name": "Icing"
+        }
+    ],
+    "review": {
+        "formatted": "Herta is an AoE specialist character capable of dishing out surprisingly high damage against multiple combatants consistently. She has a low cost Ultimate and can very quickly regain Energy thanks to her Talent\u2019s follow-up attacks. She struggles significantly when there is only one enemy on the field, but can pivot to being SP positive in dual carry setups when that happens. Many of her Eidolons are also freely available courtesy of the rewards from the Simulated Universe.Well, well, well, how the turns table. Not as much as for Qingque admittedly, but hey, we can\u2019t all suddenly be considered one of the best characters in the game, right? Herta may still be scorned by many for being underwhelming in single-target scenarios, but she\u2019s certainly started making a compelling case for using her in the now numerous multi-target combat encounters we\u2019ve been getting steadily more accustomed to.Herta\u2019s Skill hits all enemies on the field for up to 100% of her ATK. If the enemies\u2019 HP is 50% or higher, this attack also deals 20% increased DMG to said targets. A simple Skill but one that is quite efficient in those multi-target situations. The increased DMG% is also appreciated and helps to get enemies down to the necessary HP thresholds to activate Herta\u2019s Talent.Her Talent will cause Herta to do her signature follow-up spin attack whenever an ally\u2019s attack reduces an enemy\u2019s HP to 50% or below. She\u2019ll deal up to 40% ATK to all enemies. A paltry amount initially, but this is per spin, and if multiple enemies\u2019 HP falls below 50%, Herta will do an equivalent amount of spins. This is even dynamically updated, so if the first follow-up attack reduces a second enemy\u2019s HP to below 50%, Herta will automatically perform a second spin within the same follow-up. Herta will also get these spins even if the target dies beforehand.This means that it\u2019s possible for Herta to get 5 consecutive spins off in a single follow-up attack if 5 enemies fall below 50% either before the first spin or within the follow-up attack window. If this happens, Herta is doing 40% ATK damage to 5 enemies, meaning it\u2019s essentially a 200% ATK total\u2026 5 times. It\u2019s weird to think that Herta\u2019s follow-up can deal an equivalent 1000% ATK damage to 5 targets, but it really is that much, and it can be very visible if your Herta is actually well invested.Important to note as well that each individual spin will also give Herta back 5 Energy, meaning multiple spins can very easily give a huge amount of Energy back for her Ultimate. Each spin will also deal its own instance of Toughness damage, meaning that a fully spun Herta will deal 75 Toughness damage to all enemies on the field, potentially.Herta\u2019s Ultimate deals 200% ATK to all enemies. It deals increased Toughness damage as well, and has a below average Energy cost of 110. Since it is quite likely that Herta will be killing off smaller enemies with her wide ranging attacks, she\u2019ll be getting plenty of Energy from the kills as well as plenty more from her Talent\u2019s follow-up attacks.Herta is an archetypal Erudition unit in this game. She is perfectly tailored to AoE combat and does a really good job at it. Unfortunately when it comes to single-target combat, the differences are extremely stark. Without the potential to combo into her Talent, her damage will suffer tremendously. Worse still is that while her Talent has the potential to deal a huge chunk of damage, it\u2019s a one-time deal; once an enemy is below 50% HP, it\u2019s extremely rare for them to be able to recover that lost health unless they\u2019re a boss type enemy.It\u2019s complicated. In the event that a strong Elite or Boss is facing you by themselves, Herta will offer virtually nothing in that encounter. If she\u2019s your only damage dealer in that fight, then she will quite literally be near useless. However this starts to get flipped if said Elite or Boss is capable of summoning reinforcements. Now, if there are plenty of smaller foes for Herta to decimate and proc her Talent off of, the incidental damage from her follow-up spins can end up making up a large portion of the damage she would otherwise be missing, and then contributing to higher Ultimate uptime in the process.From this you should be able to see that Herta is quite a feast or famine type of unit. If the conditions are met for her to excel, she will do so handily, but otherwise can fall to the wayside. Now that there is a much higher prevalence of enemies that can summon reinforcements repeatedly, Herta can actually be brought into fights that she has absolutely no business being in usually, such as against the IPC Team Leader Elite, or better yet, the True Sting. Yeah, she has a very good time against those damned bugs if you\u2019ve invested in her.The pervasive question then is \u2018should you invest in Herta\u2019 and that can seem tricky to answer initially. I say \u2018initially\u2019 because a great many people seem to claim they do not have an Ice damage dealer, which is odd since Herta most definitely exists and is given to everyone unconditionally. Returns on investment may not appear as obviously as for other flashier characters, especially 5-stars, but they most definitely do come about.Herta\u2019s A2 increases the DMG boost of her Skill by an extra 25% when used against high HP targets, for a new total of 45%. This is a very noticeable bump to damage, especially as it can contribute to pushing enemies below 50% HP for her Talent follow-up or sometimes just outright killing smaller foes. A4 provides a 35% chance to resist Crowd Control, a small but welcome addition to ensure that Herta is more frequently ready to perform a follow-up after an ally\u2019s attack, though this usually comes into play more in dual carry setups. A6 will allow her Ultimate to deal 20% increased DMG to Frozen enemies, something that actually comes up a fair bit if there are enough enemies for a lot of follow-ups due to the increased Toughness damage output.Herta is not only a freely accessible character but one who also gains Eidolons for free as well. As of the time of writing this, everyone is able to get an E4 Herta for completing worlds in the Simulated Universe. As such, she\u2019s evaluated with this in mind.E1 gives extra functionality to her Basic ATK. When attacking enemies below 50% HP, she will deal an extra 40% ATK as damage, for a new total of 140%. This is a pretty big deal in terms of Basic ATKs as it deals increased damage while still recovering a Skill Point, though this is usually not as big of a deal outside of dual carry setups, and is not enough to offset her weaknesses in single-target combat. E2 provides a permanent CRIT Rate boost of 3% every time her Talent is triggered up to a max of 5 stacks. 15% free CRIT Rate for just doing what you were going to be doing is a very impressive bonus for anyone, especially for Herta in those multi-target encounters where it\u2019s easy to stack up.E4 increases the Talent follow-up DMG by 10%, and E6 will increase Herta\u2019s ATK by 25% for 1 turn after using her Ultimate. E3 and E5 are actually significant to her as they increase ability levels and can have a very noticeable impact due to her AoE-heavy nature; her Skill goes to 110% ATK per enemy, and her Talent goes to 43% per enemy.Really, the other big downside of Herta besides her fumbling in single-target combat is that her Base stats are really low. Her Base ATK is on the lower end when it comes to damage dealers, and her DEF and HP are much the same, making her quite a frail unit.\u00a0Even still, she is capable of decimating swathes of enemies if put in the right spot and if the player actually invests in her. I\u2019ve said that multiple times because it\u2019s absolutely true. It\u2019s a very uneven progression, I will admit. It\u2019ll seem like nothing\u2019s improving until suddenly \u2018oh hey, my Herta is doing damage now\u2019. Please trust me that that point does definitely exist. You can look up videos of Herta wrecking Memory of Chaos if you need more proof.\u00a0I\u2019ve been using Herta since the beginning and I\u2019ve not done her justice, especially in the first iteration of this review. Especially after my initial lapses concerning Qingque, I\u2019m making it a point to do due diligence, and I can safely say that Herta is worth your while, especially if you\u2019re lacking another Ice damage dealer.Just don\u2019t bring her against the Stormbringer, that Ice weakness is the biggest bait, I swear."
+    },
+    "pros": {
+        "formatted": "Destroys in AoE content, having a good time even if there\u2019s only 2-3 enemies, Large amounts of Toughness damage, Does extremely well into summoner-type enemies, Good in dual carry setups thanks to her Talent follow-ups, Gets Eidolons for free.\n"
+    },
+    "cons": {
+        "formatted": "Dismal in true single-target scenarios, Low Toughness damage without enemies to get spins from, Low Base stats, Very late bloomer with uneven progression.\n\n"
+    },
+    "endgameStats": {
+        "formatted": "HP: 2800 - 3000+ DEF: 900 - 1100+ATK: 2000 - 2400+CRIT RATE: 65% - 70%+CRIT DMG: 130% - 150%+SPD: Base Speed (Hyperspeed Sparkle/Bronya or pure FUA build) / 134 (Recommended) / 143 / 160"
+    },
+    "voiceActors": {
+        "en": "PJ Mattson",
+        "kr": "\uae40\uc11c\uc601",
+        "jpn": "Yamazaki Haruka (\u5c71\u5d0e\u306f\u308b\u304b)",
+        "cn": "Xiaofei Hou (\u4faf\u5c0f\u83f2)"
+    },
+    "ratings": {
+        "moc": "5",
+        "moc_special": "5",
+        "pure": "11",
+        "pure_special": "11",
+        "apo": "5",
+        "apo_special": "5"
+    },
+    "energyUltimate": "110",
+    "conesNew": [
+        {
+            "cone": "night-on-the-milky-way",
+            "super": "1",
+            "percent": "108.52%",
+            "notes": "Assumes full uptime on the break damage buff which is incredibly difficult to achieve outside of Pure Fiction. This result is also calculated as if there were 3 targets present for the duration of the fight. A reduction in either of these factors will sharply lower this Cone's performance."
+        },
+        {
+            "cone": "geniuses-repose",
+            "super": "5",
+            "percent": "107.77%",
+            "notes": "Assumes full uptime on the on-kill CRIT DMG% boost at all times. Failing to keep this buff active will lower this Cone's performance."
+        },
+        {
+            "cone": "before-dawn",
+            "super": "1",
+            "percent": "107.38%",
+            "notes": ""
+        },
+        {
+            "cone": "eternal-calculus",
+            "super": "5",
+            "percent": "104.65%",
+            "notes": "A F2P option that provides great ATK% and SPD bonuses as long as you're hitting 3 targets consistently (which you always will in PF)."
+        },
+        {
+            "cone": "an-instant-before-a-gaze",
+            "super": "1",
+            "percent": "100.86%",
+            "notes": ""
+        },
+        {
+            "cone": "the-day-the-cosmos-fell",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes constant uptime of the CRIT DMG% buff granted by attacking 2 or more enemies at once with an element they are weak to. Failing to keep this buff active will lower this Cone's performance."
+        },
+        {
+            "cone": "the-seriousness-of-breakfast",
+            "super": "5",
+            "percent": "97.60%",
+            "notes": "Assumes immediate uptime on the on-kill ATK% boost. Not having access to easily defeatable enemies at the start of the fight or being slow to slay enemies will lower this Cone's performance."
+        },
+        {
+            "cone": "today-is-another-peaceful-day",
+            "super": "5",
+            "percent": "97.72%",
+            "notes": ""
+        },
+        {
+            "cone": "night-on-the-milky-way",
+            "super": "1",
+            "percent": "93.83%",
+            "notes": "Assumes no uptime of the break damage buff which can occur against fights in which you have no elemental advantage. This result is also calculated as if there were 3 targets present for the duration of the fight. When facing fewer than 3 enemies this Cone's performance will reduce."
+        },
+        {
+            "cone": "geniuses-repose",
+            "super": "5",
+            "percent": "91.11%",
+            "notes": "Assumes 0% uptime on-kill CRIT DMG% boost."
+        },
+        {
+            "cone": "the-seriousness-of-breakfast",
+            "super": "5",
+            "percent": "87.89%",
+            "notes": "Assumes 0 stacks of the ATK% bonus."
+        },
+        {
+            "cone": "the-birth-of-the-self",
+            "super": "5",
+            "percent": "83.37%",
+            "notes": ""
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "The Ashblazing Grand Duke",
+                    "relic_2": "",
+                    "value": "103.97%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Hunter of Glacial Forest",
+                    "relic_2": "",
+                    "value": "100.58%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "Hunter of Glacial Forest",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Firmament Frontline: Glamoth",
+                    "value": "101.34%",
+                    "comment": "135 Speed",
+                    "notes": null
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Rutilant Arena",
+                    "value": "99.94%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "planar": "Space Sealing Station",
+                    "value": "99.84%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "before-dawn",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Ice DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "This is your typical DPS build that focuses on the holy trifecta - ATK, Crit Rate, and Crit DMG. For every 1% of Crit try to have 2% of Crit DMG.",
+            "substats": "SPD (breakpoint) = CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": " Skill = Talent > Ultimate > Basic",
+            "traces_priority": "Efficiency (A2) > Icing (A6) > Puppet (A4)",
+            "name": "General DPS"
+        }
+    ],
+    "videos": [
+        {
+            "video": "NhRMATucUEk"
+        }
+    ],
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "herta",
+            "member_2": "natasha",
+            "member_3": "trailblazer-fire",
+            "member_4": "dan-heng"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "iceDmg",
+            "value": 22.4
+        },
+        "traceStat2": {
+            "stat": "def",
+            "value": 22.5
+        },
+        "traceStat3": {
+            "stat": "critRate",
+            "value": 6.7
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "FuA"
+    ]
+}

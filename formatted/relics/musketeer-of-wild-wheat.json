@@ -1,0 +1,52 @@
+{
+    "relicId": "2",
+    "name": "Musketeer of Wild Wheat",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "ATK increases by 12%."
+    },
+    "bonus4": {
+        "formatted": "The wearer's SPD increases by 6% and Basic ATK DMG increases by 10%."
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/bbdc9dc6dde0e2c2940294e66d36d885/15e42/set_2.png",
+                            "srcSet": "/static/bbdc9dc6dde0e2c2940294e66d36d885/88208/set_2.png 25w,\n/static/bbdc9dc6dde0e2c2940294e66d36d885/e9fba/set_2.png 50w,\n/static/bbdc9dc6dde0e2c2940294e66d36d885/15e42/set_2.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/bbdc9dc6dde0e2c2940294e66d36d885/2fa99/set_2.webp 25w,\n/static/bbdc9dc6dde0e2c2940294e66d36d885/dbc4a/set_2.webp 50w,\n/static/bbdc9dc6dde0e2c2940294e66d36d885/d8057/set_2.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "atk",
+            "value": 12
+        },
+        "relicSet4pc": {
+            "stat": "speedPerc",
+            "value": 6
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "basic",
+            "value": 10
+        }
+    }
+}

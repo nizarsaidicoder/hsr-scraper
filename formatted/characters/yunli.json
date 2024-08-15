@@ -1,0 +1,413 @@
+{
+    "unitId": 56,
+    "name": "Yunli",
+    "slug": "yunli",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8e8e8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/a4e021ab30703829c614fbb302e04961/60b4d/yunli_sm.webp",
+                            "srcSet": "/static/a4e021ab30703829c614fbb302e04961/e73fe/yunli_sm.webp 40w,\n/static/a4e021ab30703829c614fbb302e04961/61ca6/yunli_sm.webp 80w,\n/static/a4e021ab30703829c614fbb302e04961/60b4d/yunli_sm.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/382e719a21900614f66758dbdbb956b3/b26e2/hsr_card_yunli.webp",
+                            "srcSet": "/static/382e719a21900614f66758dbdbb956b3/84550/hsr_card_yunli.webp 94w,\n/static/382e719a21900614f66758dbdbb956b3/34f80/hsr_card_yunli.webp 187w,\n/static/382e719a21900614f66758dbdbb956b3/b26e2/hsr_card_yunli.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": null,
+    "description": {
+        "formatted": "A sword hunter from the Xianzhou Zhuming and \"the Flaming Heart\" General Huaiyan's darling granddaughter. Frank and straightforward. She practiced swordsmanship and forging from Huaiyan since young, and thus is the second-youngest prodigy swordmaster of the Flamewheel Octet. Fueled by an intense loathing for the cursed swords that emerged from the Zhuming, she vowed to \"hunt down and wipe out all cursed swords.\" "
+    },
+    "statsComments": {
+        "formatted": "Relic Main statsBody - CRIT RATE = CRIT DMG Pick the one that gives you a better CRIT Ratio.Feet - ATK%Yunli does not need or want the speed stat, as she is almost entirely focused on Follow-Up Attacks. Therefore, speed boots are not recommended for her build. Planar Sphere - PHYS% > ATK% Best in Slot.Link Rope - ATK% >= Energy Regen % Attack% is generally the safer and more effective option for Yunli, providing consistent damage increases. However, in some niche scenarios, Energy Regen% can surpass Attack% due to its ability to grant a more favorable Ultimate breakpoint. This strategy relies on compensating for the lost Attack% through team buffs or other sources. Additional notes for sub-statsCrit Rate & Crit Damage: Yunli's damage output primarily comes from her powerful Ultimate and infused Follow-Up Attacks, which benefit from a significant bonus of 100% Crit Damage. This unique aspect can distort the perception of her Crit Ratio when viewed solely on the character page. To optimize her performance, it\u2019s essential to prioritize a high Crit Rate, even if it appears that her Crit Damage is somewhat low outside of combat. An acceptable Crit Ratio for Yunli is approximately 100% (Crit Rate) to 100% (Crit Damage). This ratio is crucial because, during actual combat scenarios, it effectively translates to something closer to 100% (Crit Rate) to 200% (Crit Damage) when her Ultimate and Follow-Up Attacks are utilized. Speed: Yunli's damage and Energy generation primarily rely on her Follow-Up Attacks and Ultimate-enhanced Follow-Up Attacks. These Follow-Up Attacks are triggered by enemy hits, making her largely dependent on the enemy's speed rather than her own. As a result, Speed is a less impactful stat for her overall effectiveness. Instead of focusing on Speed, it's more efficient to prioritize damaging stats. Yunli will achieve the same number of Follow-Ups regardless of her Speed, allowing her to maximize her damage potential without the need for additional Speed. "
+    },
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "122101",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "122102",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "122103",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": "30"
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "122104",
+            "energy_gen": "10",
+            "break_primary": "30",
+            "break_secondary": "30"
+        },
+        "technique": {
+            "id": "122107",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Main DPS",
+    "affiliation": null,
+    "rarity": "5",
+    "element": "Physical",
+    "path": "Destruction",
+    "stats": {
+        "hp_base": 185,
+        "def_base": 62.7,
+        "atk_base": 92.4,
+        "speed_base": 94
+    },
+    "ascensionMaterials": {
+        "mats_1": "artifex-module",
+        "mats_2": "artifex-cogwheel",
+        "mats_3": "ipc-work-permit",
+        "mats_4": "artifex-gyreheart"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "56",
+            "name": "Yunli",
+            "upgrade1Name": "Weathered Blade Does Not Sully",
+            "upgrade1Desc": {
+                "formatted": "Increases DMG dealt by \"Intuit: Slash\" and \"Intuit: Cull\" by 20%. Increases the number of additional DMG instances for \"Intuit: Cull\" by 3. "
+            },
+            "upgrade2Name": "First Luster Breaks Dawn",
+            "upgrade2Desc": {
+                "formatted": "When dealing DMG via Counter, ignores 20% of the target's DEF. "
+            },
+            "upgrade3Name": "Mastlength Twirls Mountweight",
+            "upgrade3Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10. "
+            },
+            "upgrade4Name": "Artisan's Ironsong",
+            "upgrade4Desc": {
+                "formatted": "After launching \"Intuit: Slash\" or \"Intuit: Cull\", increases this unit's Effect RES by 50%, lasting for 1 turn(s). "
+            },
+            "upgrade5Name": "Blade of Old Outlasts All",
+            "upgrade5Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15. "
+            },
+            "upgrade6Name": "Walk in Blade, Talk in Zither",
+            "upgrade6Desc": {
+                "formatted": "While Parry is active, if an enemy actively uses their abilities, regardless of whether it attacks Yunli or not, it will trigger \"Intuit: Cull\" and remove the \"Parry\" effect. When dealing DMG via \"Intuit: Slash\" or \"Intuit: Cull\", increases CRIT Rate by 15% and Physical RES PEN by 20%. "
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "After each use of Intuit: Slash, the next Intuit: Slash will be replaced by Intuit: Cull.",
+            "name": "Fiery Wheel"
+        },
+        {
+            "req": "A4",
+            "desc": "While in the Parry state, resists Crowd Control debuffs received and reduces DMG received by <b>20%</b>.",
+            "name": "Demon Quell"
+        },
+        {
+            "req": "A6",
+            "desc": "When using a Counter, increases Yunli's ATK by <b>30%</b>, lasting for <b>1</b> turn.",
+            "name": "True Sunder"
+        }
+    ],
+    "review": {
+        "formatted": "Yunli is a powerful counter-attacker akin to Clara. She will immediately retaliate when attacked by an enemy, dealing follow-up DMG in a Blast AoE. She will also gain vastly increased Energy gains when being attacked, and may store up to twice the Energy cost of her Ultimate, letting her more tactically use her Ultimate and prevent overcapping. Her enhanced state from her Ultimate will also prevent her from getting hit by Crowd Control and will reduce the DMG she takes. She is trickier to play than may initially appear, but the effort is worth it.Fellow sword enjoyer Yunli is a pretty great all-rounder character. She's a follow-up counter-attacker with good self-sustain and Energy economy, and she's got quite a strong kit. She is eerily similar to Clara in a great many ways, but there are some key differences that distinguish the two.Yunli's Talent is the centrepiece of her kit, and the first part of the puzzle. Whenever she is attacked by an enemy, she will immediately Counter them, dealing up to 120% ATK to the main target, and 60% ATK to adjacent foes. She will also restore 15 Energy whenever she is attacked, and this is in addition to the 10 Energy she gains from actually landing the Counter. If there is somehow no target to Counter when this activates, she will launch the Counter on a random enemy instead.On its own, it's not terribly impressive damage, but it is consistently activated and is a decent source of damage for Yunli. The incoming Energy gains are far more important and are extremely significant, feeding into her game plan perfectly, getting back 25 Energy each time she gets hit and Counters, almost an entire Skill's worth of Energy for doing nothing. The Toughness damage of the Counter is unimpressive, however; even though it is a Blast AoE, the primary target still only takes the minimal amount of Toughness damage.Her Skill is a copy of her Talent's Counter. Yunli will launch an attack against an enemy target, dealing the same Blast AoE and damage as from her Counter, 120% ATK against the main foe, and 60% ATK against adjacent ones. Curiously, this Blast AoE does deal the expected increased Toughness damage against the main foe compared to the Counter version, and will additionally restore HP for Yunli, up to 30% ATK plus 200 upon use.This is a pretty good means of self-sustain for Yunli should you need it for that, but the rather lacking damage means it's not always going to be used; when most of Yunli's damage comes from her Ultimate Talent's Counter, expending a Skill Point for basically the same effect on your turn may not always be the best option, especially since a Basic ATK is not that far behind in damage and will return a Skill Point instead. You can use this in a pinch to heal Yunli or to regain some extra Energy, but it's not advised to use this exclusively to speed up Breaking an enemy in most cases, as Broken foes cannot attack you, and that's kind of the whole point of the character.Yunli's Ultimate is the second part of the puzzle for her big damage. She consumes 120 Energy to gain the Parry stance, Taunting all enemies and increasing the CRIT DMG of Yunli's next Counter by up to 100%. This Parry state only lasts until the end of the next unit's turn, meaning it goes away after the next unit has finished acting, be it an ally or an enemy. This is important to keep in mind because there are two possible actions Yunli can take from the Parry state; Intuit: Cull is used if Yunli gets attacked during her Parry state, dealing up to 220% ATK to the attacker and 110% ATK to adjacent targets, and then dealing 6 additional instances of single-target damage, Bouncing between random enemies, up to 72% ATK per hit. If Yunli is NOT attacked during the short window of Parry, she will instead use Intuit: Slash on a random enemy, dealing the same upfront damage as Cull, but without the additional instances of damage.What this means is that you are extremely rewarded for good timing on Yunli's Ultimate, and are heavily punished for bad timing. If you use her Ultimate right before an enemy's turn, they are Taunted and have no choice but to attack Yunli, triggering Yunli's Cull and dealing stupidly high damage to all enemies on the field \u2014 the good ending. If, however, you use Yunli's Ultimate and it's an ally acting next, at the end of that ally's turn, Yunli will launch Slash and you'll do very little damage, losing out on most of the benefits of the enhanced Counter.This is why Yunli's Max Energy is at 240. Since a single Ultimate usage costs 120 Energy, you can essentially store up to 2 uses of Yunli's Ultimate, thus greatly mitigating the potential for losing out on Energy via overcapping. Because of her Talent's Energy influx, Yunli will constantly have the Energy for Ultimate uses, and you are able to gauge for yourself when you think it'll be best to use a charge. Do note that she cannot use her Ultimate again while the Parry state is active, and all damage done via this state is considered as Ultimate DMG.This is why Yunli can be considered to be quite difficult to make full use of, as having the Parry state dissipate before getting attacked will greatly reduce the damage Yunli will be doing, and with the regular damage from her Talent being as low as it is, there's actually quite a big reliance on her Ultimate to be dealing competitive damage. If you misjudge a situation and use the Ultimate at a bad time, you're going to be disappointed at the damage coming out, but the only one to blame will be you.Yunli's Bonus Ability Traces do much to improve her game plan. A2 in particular helps to alleviate the issues of mistimed Ultimates. Every time you use an Intuit: Slash (the version without the extra DMG instances), the next time you would have used an Intuit: Slash, it will instead be replaced with an Intuit: Cull (the good one). This means that even if enemies are not able to attack you or inflict damage through means beyond direct attacks, Yunli will still be able to get her maximum strength Counters albeit at a reduced rate.Even if you're completely not paying attention (or maybe getting trolled by the Auto mode), Yunli can still pop off. Interestingly enough, this does open the door to potentially massive burst windows by prepping an upgraded Slash in advance; you use an Ultimate in advance, letting the Parry state fall off, and then later you use an Ultimate to get hit by an enemy, followed by another Ultimate and launch a second Cull against enemies. This is a niche interaction, and while it can potentially be used to take full advantage of very limited buff durations, it is a very advanced concept and most players should stick to just timing her Ultimate well instead.A4 will further buff the Parry state, granting Yunli a 20% DMG Reduction as well as full immunity to all Crowd Control effects. There is quite literally no way that Yunli can be made to not land her Parry follow-ups, so all of you annoying Crowd Control heavy enemies, eat your hearts out and cry about it. A6 will grant a 1 turn 30% ATK boost whenever Yunli uses a Counter, giving a small but appreciated boost to damage for doing what you were doing anyway.In terms of Eidolons, as usual none of them are necessary for Yunli to excel, but a few of them are quite nice to have. E1 will increase the DMG% of Intuit: Slash and Intuit: Cull by 20%, and will additionally increase the extra hits of Cull by 3. E2 will make all damage dealt via Counters ignore 20% of targets' DEF. These two together tremendously increase damage at quite literally no extra cost and no change to gameplay. E4 will let Slash and Cull increase Yunli's Effect RES by 50% for 1 turn, mostly useful for non Crowd Control debuffs or whenever Parry is not available. Finally, E6 will make it so that Yunli can Parry enemy thoughts; if they act in any way even if they don't hit Yunli, Yunli will immediately launch an Intuit: Cull and remove the Parry state. Furthermore, dealing damage through Slash or Cull will increase CRIT Rate by 15% and Physical RES PEN by 20% for these actions.It's fairly easy to see how Yunli and Clara may be similar, but there are definitely key differences that set them apart and indeed make them excel in different situations. Both of them are reliant on their Ultimates to deal their big damage, but Clara does not have the failure condition like Yunli does; haphazard usage of Yunli's Ultimate can lead to big damage losses, even when factoring in her A2 bonus, but Clara does not have this limitation. Clara's base Counter damage is also higher against attackers, 160% ATK versus Yunli's 120% ATK.Clara's Enhanced Counter also deals a total of 640% ATK as a Blast AoE, whereas Yunli's Cull Counter deals a whopping 872% ATK spread across all enemies, but keep in mind that Clara gets 2 Enhanced Counters per Ultimate where Yunli only gets one. Clara's Skill also does comparatively more than Yunli's Skill, being able to hit all enemies on the field at all times and potentially doubling its damage against enemies with Svarog's Mark of Counter on them.As such, it's probably most accurate to say that while Yunli's damage ceiling is undeniably higher in most cases, Clara is just far less hassle to play. Both are great in all three endgame game modes, and their teams are also similar and similarly flexible. Yunli is, for the most part, a superior version of Clara, but please bear in mind that this does not in any way devalue what Clara does \u2014 after all, what\u2019s better than having one ballin\u2019 counter-attacker? Two. The answer is two counter-attackers.They both like similar teammates too, with units like Tingyun and Huohuo providing greater Ultimate uptime and damage boosts \u2014 Huohuo in particular restores a whopping 48 Energy with her Ultimate since Yunli's Max Energy is 240, even though she only needs 120 Energy for a use of her Ultimate. Robin also is exceptionally potent as all of her bonuses benefit Yunli, and the teamwide Action Advance is also notable as, like Clara, Yunli does not want to ever build SPD.Should you choose to play Yunli in a dual carry comp, Robin also excels at buffing both Yunli and whatever your other DPS character is. March 8th in particular can also be quite an impressive pairing, the student and the master on one team with their emotional support idol backing them up, though do keep in mind that March\u2019s automatic Action Advance when she gets her Enhanced Basic can result in scuffed Ultimate Parry timing for Yunli if you\u2019re not careful.These similarities do also mean that both characters face similar issues. Because both characters want to be hit to deal damage, any time they're not getting hit, they're doing next to no damage. Yunli can technically circumvent this, but amusingly enough she can\u2019t do it quite as well as Clara can due to Clara\u2019s teamwide Counter state during her Ultimate. It's still the same issue, though, and it's still quite prevalent for Yunli especially. This is particularly noticeable when looking at Yunli without her Signature Light Cone, because for whatever reason this Light Cone seems to have an absurdly high Aggro modifier. For the sake of consistency alone, getting Yunli's Light Cone for either character is worth considering.As such, Lynx is an incredibly important character to pair with Yunli most of the time to increase the consistency of Counters. As Yunli does not expressly need to be using her Skill to deal damage, you are more likely to have SP for Lynx to keep up her Skill buff on Yunli, increasing her HP and her aggro further. If you are not getting Yunli\u2019s Signature Light Cone, it is strongly recommended, and even borderline mandatory, that you use Lynx with Yunli for increased Counter consistency; this is much more accentuated than with Clara, as Clara's Enhanced Counters are launched even if she is not the one being attacked.Yunli is very capable and can wipe the floor with enemies quite easily. Remember to account for her increased CRIT DMG from her Ultimate when building for her, and try to keep track of enemy turns to make best use of her Parry mechanic. If you already own Clara, you may not feel the need to go for Yunli, but again, both of them are incredibly good characters and, if Clara is anything to go by, are going to continue to be good long into the future."
+    },
+    "pros": {
+        "formatted": "Very strong general-use DPS unit, Very good Energy economy leading to consistent Ultimates, Deals very high damage in both single-target and AoE scenarios, Counter gameplay means she scales with enemy SPD and not her own, Has built-in self sustain and resilience to Crowd Control, Has a charge system on her Ultimate meaning it\u2019s less likely to overcap on Energy. "
+    },
+    "cons": {
+        "formatted": "Potentially very challenging to pilot due to the \u2018use it or lose it\u2019 nature of her Ultimate\u2019s Parry, Consistency greatly relies on having increased aggro either from her Signature Light Cone or from Lynx, Deals quite low Toughness damage in general, Damage suffers tremendously if enemies are not actively attacking Yunli. "
+    },
+    "endgameStats": {
+        "formatted": "HP: 3400+ DEF: 800+ATK: 3200 - 3400+CRIT RATE: 90% - 100%+CRIT DMG: 100% - 120%+An acceptable Crit Ratio for Yunli is approximately 100% (Crit Rate) to 100% (Crit Damage). This ratio is crucial because, during actual combat scenarios, it effectively translates to something closer to 100% (Crit Rate) to 200% (Crit Damage) when her Ultimate and Follow-Up Attacks are utilized.SPD: 94 (Base Speed) "
+    },
+    "voiceActors": {
+        "en": "Brenna Larsen",
+        "kr": "Lee Ju-eun (\uc774\uc8fc\uc740)",
+        "jpn": "Shion Wakayama (\u82e5\u5c71\u8a69\u97f3)",
+        "cn": "Liu Wen (\u5218\u96ef)"
+    },
+    "ratings": {
+        "moc": "9",
+        "moc_special": "9",
+        "pure": "9",
+        "pure_special": "9",
+        "apo": "9",
+        "apo_special": "9"
+    },
+    "energyUltimate": "120",
+    "conesNew": [
+        {
+            "cone": "dance-at-sunset",
+            "super": "1",
+            "percent": "118%",
+            "notes": "This Light Cone grants Yunli a significantly increased chance of being targeted by enemies, making its value incredibly difficult to quantify with a single number. This effect is powerful within her kit, as increasing Yunli's chance to be hit enhances the number of Counters and Energy she can access in all scenarios, leading to far higher damage potential. Without this Light Cone, Yunli must rely on other sources, such as Lynx's skill, to achieve similar effects and reach her maximum potential. Essentially, this taunting effect allows you to bring any sustaining character instead of Lynx, which can result in tremendous survivability and damage boosts for the team. Additionally, the Light Cone provides an effective 72% damage increase to Yunli's Ultimate and Follow-Up attacks, along with a 36% increase to her Crit Damage. This combination of effects solidifies this Cone as a top-tier choice for enhancing Yunli's overall performance in combat."
+        },
+        {
+            "cone": "the-unreachable-side",
+            "super": "1",
+            "percent": "100.71%",
+            "notes": "This Light Cone provides Yunli with a solid amount of Crit Rate and a typically conditional Damage% buff that activates when taking damage or consuming health. However, due to Yunli's counter-attack playstyle, this buff is almost always active, making The Unreachable Side a reasonable alternative if you don't have her Signature Light Cone. "
+        },
+        {
+            "cone": "brighter-than-the-sun",
+            "super": "1",
+            "percent": "100.11%",
+            "notes": "This Light Cone provides Yunli with Crit Rate, Attack%, and Energy Recharge, but it requires her to execute multiple Basic Attacks during combat to maintain its bonuses. Fortunately, this downside isn't a significant issue for Yunli, as she doesn't heavily rely on her Skill usage. Additionally, the Energy Recharge% can effectively compensate for the Energy lost by prioritizing Basics over Skills. However, it does require two full turns of ramp-up time to become fully active, and utilizing Basic Attacks in AoE fights may feel a bit more punishing compared to Single-Target encounters."
+        },
+        {
+            "cone": "on-the-fall-of-an-aeon",
+            "super": "5",
+            "percent": "100%",
+            "notes": "This Light Cone is the best F2P option for Yunli, providing a substantial boost to Attack% along with a conditional Damage% increase. To achieve its full potential, the Attack% buff requires a brief ramp-up time, which may vary depending on the battle scenario. Additionally, a portion of its damage value is contingent on the Break-related Damage% buff, which might not be consistently active in every fight. As a result, it's helpful to evaluate how this Light Cone performs under two scenarios: one where the Damage% Break buff is always active and another where it is never activated. "
+        },
+        {
+            "cone": "under-the-blue-sky",
+            "super": "5",
+            "percent": "94.74%",
+            "notes": "This Light Cone serves as a viable non 5-Star option for Yunli, granting her a boost to Attack% along with a conditional Crit Rate buff relying on her consistently defeating enemies. While not all battles provide a steady stream of foes for her to eliminate, Yunli's relatively slow speed allows her to maintain the buff more effectively than many other characters. It\u2019s important to evaluate how this Light Cone performs under two conditions: one where the On-Kill buff is active and another where it is not."
+        },
+        {
+            "cone": "a-secret-vow",
+            "super": "5",
+            "percent": "87.41%",
+            "notes": "Assumes to only have its base 40% damage increase active as enemies almost always have higher lower HP than your units. In fights where this is not the case and your units end up at lower HP than the enemy its performance will increase."
+        },
+        {
+            "cone": "under-the-blue-sky",
+            "super": "5",
+            "percent": "78.80%",
+            "notes": "Assumes to have 0% uptime of its on-kill buff."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "The Wind-Soaring Valorous",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": "Due to Yunli's incredibly frequent Follow-Up Attacks, she will almost always have the 4P bonus buff effect of this set active. Yunli's Ultimate functions as a hybrid between a Follow-Up Attack and an Ultimate, scaling off increases to both types of damage. This synergy makes the set buff close to a permanent 36% damage increase to her Ultimate, which is responsible for a massive portion of her overall damage. Consequently, this set is easily her strongest option for maximizing her damage output."
+                },
+                {
+                    "relic": "The Ashblazing Grand Duke",
+                    "relic_2": "",
+                    "value": "95.55%",
+                    "comment": "",
+                    "notes": "This set is a reasonable but somewhat inconsistent alternative due to the nature of the 4P bonus and the number of hits each of Yunli's actions inflicts. Yunli's standard Talent-based Counters only deal one hit per target (with a maximum of three stacks against three enemies), while her Ultimate can hit over eight times on a single enemy and even more on multiple targets. This variability means that Yunli may sometimes achieve maximum stacks but fall short at other times. Fortunately, her strongest hits\u2014specifically the slashes from her Ultimate\u2014will be close to fully buffed, making this set still competitive even if it cannot unlock its full potential. "
+                },
+                {
+                    "relic": "Champion of Streetwise Boxing",
+                    "relic_2": "The Ashblazing Grand Duke",
+                    "value": "92.27%",
+                    "comment": "",
+                    "notes": "If you have none of the above sets, mixing and matching a 2P Physical set, Grand Duke, or Attack% sets is also a suitable option while you farm. "
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "The Ashblazing Grand Duke",
+                    "value": "90.81%",
+                    "comment": "",
+                    "notes": "If you have none of the above sets, mixing and matching a 2P Physical set, Grand Duke, or Attack% sets is also a suitable option while you farm. "
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": "The most consistent option for Yunli granting her Follow-Up Damage, which boosts both her Talent and Ultimate. This set also provides one of her strongest stats, Crit Rate, all unconditionally, with no ramp-up or downtime. "
+                },
+                {
+                    "planar": "Duran, Dynasty of Running Wolves",
+                    "value": "102.67%",
+                    "comment": "",
+                    "notes": "The highest damage potential set for Yunli can significantly enhance her performance, but it requires ramp-up time that depends on several factors: the number of enemies present, the duration of the fight, and how many Follow-Up Attackers are on your team. This variability means that the set can either pull firmly ahead or fall slightly behind Salsotto, depending on these conditions."
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "something-irreplaceable",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                },
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Physical DMG"
+                },
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "comments": "This is your typical DPS build that focuses on the holy trifecta - ATK, Crit Rate, and Crit DMG. For every 1% of Crit try to have 2% of Crit DMG.",
+            "substats": "CRIT RATE = CRIT DMG > ATK%",
+            "skill_priority": "Ultimate > Talent > Skill = Basic",
+            "traces_priority": "Fiery Wheel (A2) > True Sunder (A6) > Demon Quell (A4)",
+            "name": "General DPS"
+        }
+    ],
+    "videos": [
+        {
+            "video": "Uog4iIn2Euo"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Team #1",
+            "member_1": "yunli",
+            "member_2": "tingyun",
+            "member_3": "sparkle",
+            "member_4": "huohuo"
+        },
+        {
+            "name": "Team #2",
+            "member_1": "yunli",
+            "member_2": "tingyun",
+            "member_3": "robin",
+            "member_4": "huohuo"
+        },
+        {
+            "name": "Team #3",
+            "member_1": "yunli",
+            "member_2": "topaz",
+            "member_3": "robin",
+            "member_4": "huohuo"
+        },
+        {
+            "name": "Team #4",
+            "member_1": "yunli",
+            "member_2": "march-7th-swordmaster",
+            "member_3": "robin",
+            "member_4": "huohuo"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "CRIT Rate",
+            "value": 6.7
+        },
+        "traceStat2": {
+            "stat": "atk",
+            "value": 28
+        },
+        "traceStat3": {
+            "stat": "hp",
+            "value": 18
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "DPS",
+    "releaseDate": "July 17th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "FuA"
+    ]
+}

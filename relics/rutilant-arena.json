@@ -1,0 +1,53 @@
+{
+    "id": "40bc4fed-b9df-597f-8eff-dcece691c3d8",
+    "updatedAt": "2023-07-18T07:32:16.917Z",
+    "createdAt": "2023-07-08T13:10:44.470Z",
+    "relicId": "23",
+    "name": "Rutilant Arena",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's CRIT Rate by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"8%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When the wearer's current CRIT Rate reaches \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"70%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" or higher, the wearer's Basic ATK and Skill DMG increase by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"20%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\\n\",\"marks\":[],\"data\":{}}]}]}"
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/57bfb3c7a330602465de035d54a6c4dd/15e42/set_23.png",
+                            "srcSet": "/static/57bfb3c7a330602465de035d54a6c4dd/88208/set_23.png 25w,\n/static/57bfb3c7a330602465de035d54a6c4dd/e9fba/set_23.png 50w,\n/static/57bfb3c7a330602465de035d54a6c4dd/15e42/set_23.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/57bfb3c7a330602465de035d54a6c4dd/2fa99/set_23.webp 25w,\n/static/57bfb3c7a330602465de035d54a6c4dd/dbc4a/set_23.webp 50w,\n/static/57bfb3c7a330602465de035d54a6c4dd/d8057/set_23.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "critRate",
+            "value": 8
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

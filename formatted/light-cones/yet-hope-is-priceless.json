@@ -1,0 +1,49 @@
+{
+    "coneId": 125,
+    "name": "Yet Hope Is Priceless",
+    "slug": "yet-hope-is-priceless",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b246573361b6e806b92a28c3af275a0a/6766a/125_sm.webp",
+                            "srcSet": "/static/b246573361b6e806b92a28c3af275a0a/ef6ff/125_sm.webp 32w,\n/static/b246573361b6e806b92a28c3af275a0a/8257c/125_sm.webp 64w,\n/static/b246573361b6e806b92a28c3af275a0a/6766a/125_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "July 10th, 2024",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "529"
+        }
+    },
+    "skillName": "Promise",
+    "skillDescription": {
+        "formatted": "Increases the wearer's CRIT Rate by 16/19/22/25/28%. While the wearer is in battle, for every 20% CRIT DMG that exceeds 120%, the DMG dealt by follow-up attack increases by 12/14/16/18/20%. This effect can stack up to 4 time(s). When the battle starts or after the wearer uses their Basic ATK, enables Ultimate or the DMG dealt by follow-up attack to ignore 20/24/28/32/36% of the target's DEF, lasting for 2 turn(s). "
+    }
+}

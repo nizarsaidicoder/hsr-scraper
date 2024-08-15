@@ -1,0 +1,55 @@
+{
+    "id": "3d9033ec-9996-5847-920d-dd7379c12ece",
+    "updatedAt": "2023-11-12T07:58:03.294Z",
+    "createdAt": "2023-11-12T07:58:03.294Z",
+    "relicId": "26",
+    "name": "Prisoner in Deep Confinement",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases ATK by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"12%.\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}}]}]}"
+    },
+    "bonus4": {
+        "raw": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"For every DoT the target enemy is afflicted with, the wearer will ignore \",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[{\"type\":\"bold\"}],\"value\":\"6%\",\"nodeType\":\"text\"},{\"data\":{},\"marks\":[],\"value\":\" of target's DEF when dealing DMG to them. This effect is valid for a max of 3 DoTs.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}"
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/9ebad5536a051059f9545793489a8376/15e42/prison.png",
+                            "srcSet": "/static/9ebad5536a051059f9545793489a8376/88208/prison.png 25w,\n/static/9ebad5536a051059f9545793489a8376/e9fba/prison.png 50w,\n/static/9ebad5536a051059f9545793489a8376/15e42/prison.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/9ebad5536a051059f9545793489a8376/2fa99/prison.webp 25w,\n/static/9ebad5536a051059f9545793489a8376/dbc4a/prison.webp 50w,\n/static/9ebad5536a051059f9545793489a8376/d8057/prison.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

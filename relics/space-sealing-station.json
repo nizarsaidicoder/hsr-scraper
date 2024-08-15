@@ -1,0 +1,53 @@
+{
+    "id": "2787e801-0eba-5e35-b259-0da0345a1c64",
+    "updatedAt": "2023-04-25T18:51:30.952Z",
+    "createdAt": "2023-02-16T13:42:26.100Z",
+    "relicId": "13",
+    "name": "Space Sealing Station",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "raw": "{\"nodeType\":\"document\",\"data\":{},\"content\":[{\"nodeType\":\"paragraph\",\"data\":{},\"content\":[{\"nodeType\":\"text\",\"value\":\"Increases the wearer's ATK by \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"12%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\". When the wearer's SPD reaches \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"120\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\" or higher, the wearer's ATK increases by an extra \",\"marks\":[],\"data\":{}},{\"nodeType\":\"text\",\"value\":\"12%\",\"marks\":[{\"type\":\"bold\"}],\"data\":{}},{\"nodeType\":\"text\",\"value\":\".\",\"marks\":[],\"data\":{}}]}]}"
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/8b2d02850bd8aafbeb6c946cea020113/15e42/planar_1.png",
+                            "srcSet": "/static/8b2d02850bd8aafbeb6c946cea020113/88208/planar_1.png 25w,\n/static/8b2d02850bd8aafbeb6c946cea020113/e9fba/planar_1.png 50w,\n/static/8b2d02850bd8aafbeb6c946cea020113/15e42/planar_1.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/8b2d02850bd8aafbeb6c946cea020113/2fa99/planar_1.webp 25w,\n/static/8b2d02850bd8aafbeb6c946cea020113/dbc4a/planar_1.webp 50w,\n/static/8b2d02850bd8aafbeb6c946cea020113/d8057/planar_1.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "atk",
+            "value": 12
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

@@ -1,0 +1,408 @@
+{
+    "unitId": 17,
+    "name": "Pela",
+    "slug": "pela",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b8f7e6d5e067908eea06f4286a3381fa/e9a79/17_sm.png",
+                            "srcSet": "/static/b8f7e6d5e067908eea06f4286a3381fa/f31ef/17_sm.png 40w,\n/static/b8f7e6d5e067908eea06f4286a3381fa/1f8a1/17_sm.png 80w,\n/static/b8f7e6d5e067908eea06f4286a3381fa/e9a79/17_sm.png 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/b8f7e6d5e067908eea06f4286a3381fa/e73fe/17_sm.webp 40w,\n/static/b8f7e6d5e067908eea06f4286a3381fa/61ca6/17_sm.webp 80w,\n/static/b8f7e6d5e067908eea06f4286a3381fa/60b4d/17_sm.webp 160w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 160px) 160px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/e2f11b84485d0f5183c4c54c705f1992/c9885/1106.png",
+                            "srcSet": "/static/e2f11b84485d0f5183c4c54c705f1992/2aab7/1106.png 94w,\n/static/e2f11b84485d0f5183c4c54c705f1992/0a986/1106.png 187w,\n/static/e2f11b84485d0f5183c4c54c705f1992/c9885/1106.png 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/e2f11b84485d0f5183c4c54c705f1992/84550/1106.webp 94w,\n/static/e2f11b84485d0f5183c4c54c705f1992/34f80/1106.webp 187w,\n/static/e2f11b84485d0f5183c4c54c705f1992/b26e2/1106.webp 374w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 374px) 374px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/b2e816a75e4a878058f8d806a2ad495b/3c5dc/17_full.png",
+                            "srcSet": "/static/b2e816a75e4a878058f8d806a2ad495b/ca8fd/17_full.png 200w,\n/static/b2e816a75e4a878058f8d806a2ad495b/de50c/17_full.png 400w,\n/static/b2e816a75e4a878058f8d806a2ad495b/3c5dc/17_full.png 800w",
+                            "sizes": "(min-width: 800px) 800px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/b2e816a75e4a878058f8d806a2ad495b/213b2/17_full.webp 200w,\n/static/b2e816a75e4a878058f8d806a2ad495b/413c5/17_full.webp 400w,\n/static/b2e816a75e4a878058f8d806a2ad495b/cf6d0/17_full.webp 800w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 800px) 800px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 800,
+                    "height": 793
+                }
+            }
+        }
+    },
+    "description": {
+        "formatted": "The meticulous Intelligence Officer of the Silvermane Guards, while young, she is undeniably brilliant. Whether it relates to maneuvering troops, distributing supplies, or the terrain, Pela can answer any problems with calm certainty. As for her phone case...\"It has nothing to do with work, Captain.\" "
+    },
+    "statsComments": null,
+    "relicsComments": {
+        "formatted": "Use the Eagle of Twilight Line when you can guarantee 2-turn Ult rotation - for example when you also use the Before the Tutorial Mission Starts Light Cone. Otherwise, focus on Speed and Defensive stats from the stats."
+    },
+    "skillsNew": {
+        "basic": {
+            "id": "110601",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "110602",
+            "energy_gen": "30",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "110603",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "110604",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "110607",
+            "energy_gen": "",
+            "break_primary": "60",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Sub DPS",
+    "affiliation": "Belobog",
+    "rarity": "4",
+    "element": "Ice",
+    "path": "Nihility",
+    "stats": {
+        "hp_base": 134.4,
+        "def_base": 63,
+        "atk_base": 74.4,
+        "speed_base": 105
+    },
+    "ascensionMaterials": {
+        "mats_1": "extinguished-core",
+        "mats_2": "glimmering-core",
+        "mats_3": "horn-of-snow",
+        "mats_4": "squirming-core"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "17",
+            "name": "Pela",
+            "upgrade1Name": "Victory Report",
+            "upgrade1Desc": {
+                "formatted": "When an enemy is defeated, Pela regenerates 5 Energy."
+            },
+            "upgrade2Name": "Adamant Charge",
+            "upgrade2Desc": {
+                "formatted": "Using Skill to remove buff(s) increases SPD by 10% for 2 turn(s)."
+            },
+            "upgrade3Name": "Suppressive Force",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1. up to a maximum of Lv. 10."
+            },
+            "upgrade4Name": "Full Analysis ",
+            "upgrade4Desc": {
+                "formatted": "When using Skill, there is a 100% base chance to reduce the target enemy's Ice RES by 12% for 2 turn(s)."
+            },
+            "upgrade5Name": "Absolute Jeopardy",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15."
+            },
+            "upgrade6Name": "Feeble Pursuit",
+            "upgrade6Desc": {
+                "formatted": "When Pela attacks a debuffed enemy, she deals Additional Ice DMG equal to 40% of Pela's ATK to the enemy."
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "Deals <b>20%</b> more DMG to debuffed enemies.",
+            "name": "Bash"
+        },
+        {
+            "req": "A4",
+            "desc": "When Pela is on the battlefield, all allies' Effect Hit Rate increases by <b>10%</b>.",
+            "name": "The Secret Strategy"
+        },
+        {
+            "req": "A6",
+            "desc": "Using Skill to remove buff(s) increases the DMG of Pela's next attack by <b>20%</b>.",
+            "name": "Wipe Out"
+        }
+    ],
+    "review": {
+        "formatted": "Pela is a universally applicable debuffer support that Shreds enemy DEF and can dispel buffs from enemies. Her DEF Shred is AoE and lasts for 2 turns, allowing pretty much every damage dealer character to take advantage of it. As a 4-star unit, Pela is the most accessible source of DEF Shred in the game and is very often found among the strongest teams in the game for this reason.Definitely not an underage drinker, Pela is a pretty terrifying support character. Because of the way that DEF reduction works, it\u2019s one of the few things in the game where having more of it is actually always beneficial. By virtue of simply existing and occasionally using her Ultimate, Pela can increase your team\u2019s overall damage by a significant amount.So let\u2019s start there, shall we? Pela\u2019s Ultimate deals up to 100% ATK to all enemies and has a 100% base chance to inflict Exposed onto all enemies. Exposed enemies have their DEF reduced by up to 40% for 2 turns. Big. Huge. Wonderful. I could end the review here to be honest, this is pretty much all anyone cares about when it comes to Pela anyway, but I won\u2019t because there\u2019s still more to say.Stacking this Ultimate\u2019s effects with other sources of DEF reduction or DEF ignore will compound the effects further, resulting in even greater increases to damage dealt. This can be achieved through quite a few ways, but the big one that comes to mind is the Genius of Brilliant Stars Relic Set. Did you know how good this set is? It\u2019s pretty good, you know. The 4 piece giving a 10% DEF ignore to everything is already pretty good, but increasing to 20% ignore against Quantum-weak foes is astounding. It\u2019s no surprise that Pela often finds her way onto teams with Quantum characters.Now, just because stacking more DEF reduction is good doesn\u2019t mean that you wouldn\u2019t benefit more from pursuing other methods of increasing damage after a point; it\u2019s all relative to what your chosen damage dealers are after and what enemies you\u2019re going against. A not-so-subtle reminder that the game with team-building elements in it requires team-building.Pela\u2019s Skill deals up to 210% ATK to a single enemy and will remove 1 buff from them. Extremely underrated ability as it completely ruins the Mara-struck soldiers and Sanctus Medicus Shape Shifters pesky buffs. It also greatly screws over buff reliant enemies like the Searing Prowler, though keep in mind it\u2019ll only work on buffs that don\u2019t have the Unremovable tag next to them.I know that by looking at the damage multiplier of Pela\u2019s Skill, some of you are going \u2018yo, so is DPS pela viable?!\u2019 to which I say, relax, it\u2019s not that deep. Pela is and will always be a support character. If you are finding yourself crutching on the absolutely insignificant damage that Pela is bringing to your team, you have far greater problems to worry about. I am saying this now because Pela\u2019s Eidolons are also hilarious in how hard they bait players into thinking damage Pela is a thing. It isn\u2019t, so desist.Pela\u2019s Talent will restore up to an additional 10 Energy if the enemy is debuffed after her attack. This only works on a per attack basis, so you don\u2019t get 50 Energy back for debuffing 5 enemies. Even still, 10 Energy back after using her Ultimate is extremely significant, as her Ultimate already has a below average cost of 110. With some Energy Regeneration Rate in your build, Pela\u2019s going to be getting her Ultimate back at blazing speed.Her Bonus Traces are also largely trolling you. A2 increases her DMG dealt to debuffed enemies by 20%, and A6 increases the DMG of her next attack by 20% after her Skill removes a buff from an enemy. Remember what I said, this does not make her a dps. It does not. This is not some big brain play to get you to think \u2018oh maybe it\u2019s actually good\u2019 please just listen to the words I\u2019m saying. A4 is actually tangibly useful for not just Pela but her whole team, increasing everyone\u2019s Effect Hit Rate by 10% while she\u2019s alive and on the field.There are only two major Eidolons worth considering, and that\u2019s E1 and E4. E1 grants 5 Energy whenever an enemy is defeated, contributing to Pela\u2019s already good Energy economy, and E4 will allow her Skill to reduce a target\u2019s Ice RES by 12% for 2 turns, offering yet another damage increase for her Ice based damage dealers. E5 is actually also very significant since it raises the level of your Ultimate and Talent, increasing the DEF Shred percentage and Energy return respectively.Pela is quite SP positive due to the complete lack of a need to use her Skill \u2014 it\u2019s a choice you can choose to make depending on circumstances, such as having a surplus of SP anyway, needing that little bit of extra Energy for her Ultimate, or to really ruin the day of a buff-happy enemy. Outside of those situations, you can pretty happily Basic ATK indefinitely. Especially with the Before the Tutorial Mission Starts Light Cone, Pela can stay fully SP positive while also managing to get pretty frequent 2 turn Ultimates, leading to full uptime or near enough that on her AoE DEF Shred. Even if you don\u2019t have that event exclusive Light Cone, there are plenty of other great alternatives available because praise be to Nihility, I guess. Only the most based of Aeons says they don\u2019t care about having consistent theming, thank you very cool, IX.With her abilities the way they are, Pela can quite easily slot into pretty much any team at all, and is often even one of the best options anyway due to her extreme SP positivity. Without a need to build any specific stats either, it\u2019s well within reason to make Pela both tanky and fast to guarantee great team SP economy as well as consistent Ultimates. This is especially true for a fast Pela, since her debuff only ticks down on enemy turns, so as long as Pela is faster than the enemies, you end up giving yourself more time to regain her Ultimate while still maintaining full uptime on the debuff on enemies.If you don\u2019t have Pela, get Pela. This is not a request, this is a Belobog order. \u2018If fighting is sure to result in victory, then you must fight!\u2019 Sun Tzu said that, and I\u2019d say he knows a little more about fighting than you do, pal, because he invented it\u2014"
+    },
+    "pros": {
+        "formatted": "Massive AoE DEF Shred, Able to dispel enemies with her Skill, Fully SP positive, Almost 100% Ultimate uptime, Universally applicable.\n\n"
+    },
+    "cons": {
+        "formatted": "Baits you into thinking she\u2019s a DPS,Alcoholism smh my head.\n"
+    },
+    "endgameStats": {
+        "formatted": "HP: 3500 - 4000+DEF: 1000+SPD: 134 / 143 (Recommended)  / 160+ENERGY REGEN: 19.44%+ EFFECT HIT RATE: 67% EHR (Including Bonus Ability)"
+    },
+    "voiceActors": {
+        "en": "Xanthe Huynh",
+        "kr": "\uc774\ub2e4\uc740",
+        "jpn": "Morohoshi Sumire (\u8af8\u661f\u3059\u307f\u308c)",
+        "cn": "\u5bb4\u5b81"
+    },
+    "ratings": {
+        "moc": "8",
+        "moc_special": "8",
+        "pure": "9",
+        "pure_special": "9",
+        "apo": "9",
+        "apo_special": "9"
+    },
+    "energyUltimate": "110",
+    "conesNew": [
+        {
+            "cone": "resolution-shines-as-pearls-of-sweat",
+            "super": "5",
+            "percent": "-",
+            "notes": "Provides Pela the largest damage amplifier in the Cone slot thanks to how powerful DEF Shred is when stacked in high amounts. Lacks Effect Hit Rate which will need to be built elsewhere on Pela's gear - also falls off if Pela and her team can reach 100% DEF Shred without this Cone bonus."
+        },
+        {
+            "cone": "incessant-rain",
+            "super": "1",
+            "percent": "-",
+            "notes": "Best supporting Cone if additional DEF Shred is not required in order to reach 100% or additional Effect Hit Rate or offensive stats are needed."
+        },
+        {
+            "cone": "before-the-tutorial-mission-starts",
+            "super": "5",
+            "percent": "-",
+            "notes": "Supplies massive Effect Hit Rate and energy generation assisting it accessing Pela's ultimate fast for applying or maintaining key debuffs."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Guard of Wuthering Snow",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Messenger Traversing Hackerspace",
+                    "relic_2": "Longevous Disciple",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Eagle of Twilight Line",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "relic": "Musketeer of Wild Wheat",
+                    "relic_2": "",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Penacony, Land of the Dreams",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Broken Keel",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                },
+                {
+                    "planar": "Fleet of the Ageless",
+                    "value": null,
+                    "comment": null,
+                    "notes": null
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "before-the-tutorial-mission-starts",
+                    "super": "5"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "Effect Hit Rate"
+                },
+                {
+                    "stat": "HP%"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "Speed"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "Energy Regen Rate"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "HP%"
+                },
+                {
+                    "stat": "DEF%"
+                }
+            ],
+            "comments": "Pela is used mainly as Debuffer so you should focus on Effect Hit Rate and Speed first then build some defensive stats on her.",
+            "substats": "Effect Hit Rate (Until 57%) = SPD (Until Breakpoint) > HP = DEF > Effect RES (30% with Broken Keel)",
+            "skill_priority": "Ultimate >= Talent > Skill = Basic",
+            "traces_priority": "The Secret Strategy (A4) > Bash (A2) = Wipe Out (A6)",
+            "name": "Debuffer"
+        }
+    ],
+    "videos": [
+        {
+            "video": "FOqnngigoaI"
+        }
+    ],
+    "teams": [
+        {
+            "name": "F2P Team",
+            "member_1": "pela",
+            "member_2": "natasha",
+            "member_3": "trailblazer-fire",
+            "member_4": "dan-heng"
+        }
+    ],
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "iceDmg",
+            "value": 22.4
+        },
+        "traceStat2": {
+            "stat": "atk",
+            "value": 18
+        },
+        "traceStat3": {
+            "stat": "effectHitRate",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "effectHitRate",
+            "value": 10
+        },
+        "traceStatMajor2": {
+            "stat": "dmg",
+            "value": 20
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Amplifier",
+    "releaseDate": "April 26th, 2023",
+    "isReleased": true,
+    "isNew": null,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": null,
+    "showBuild": true,
+    "tierListNew": null,
+    "tierListTags": [
+        "Debuff"
+    ]
+}

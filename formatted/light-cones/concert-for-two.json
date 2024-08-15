@@ -1,0 +1,49 @@
+{
+    "coneId": 119,
+    "name": "Concert for Two",
+    "slug": "concert-for-two",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/a8f050b44bf84f23c4b3dbf0b7d6cca5/6766a/119_sm.webp",
+                            "srcSet": "/static/a8f050b44bf84f23c4b3dbf0b7d6cca5/ef6ff/119_sm.webp 32w,\n/static/a8f050b44bf84f23c4b3dbf0b7d6cca5/8257c/119_sm.webp 64w,\n/static/a8f050b44bf84f23c4b3dbf0b7d6cca5/6766a/119_sm.webp 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "4",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "March 27th, 2024",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "0",
+            "value_level_max": "952"
+        },
+        "atk": {
+            "value_level_1": "0",
+            "value_level_max": "370"
+        },
+        "def": {
+            "value_level_1": "0",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "Inspire",
+    "skillDescription": {
+        "formatted": "Increases the wearer's DEF by 16/20/24/28/32%. For every on-field character that has a Shield, the DMG dealt by the wearer increases by 4/5/6/7/8%."
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "coneId": 24,
+    "name": "Moment of Victory",
+    "slug": "moment-of-victory",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/2961fbc55b328b28a927ae3afb1b4033/bf8e1/24_sm.png",
+                            "srcSet": "/static/2961fbc55b328b28a927ae3afb1b4033/914ee/24_sm.png 32w,\n/static/2961fbc55b328b28a927ae3afb1b4033/1c9ce/24_sm.png 64w,\n/static/2961fbc55b328b28a927ae3afb1b4033/bf8e1/24_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/2961fbc55b328b28a927ae3afb1b4033/ef6ff/24_sm.webp 32w,\n/static/2961fbc55b328b28a927ae3afb1b4033/8257c/24_sm.webp 64w,\n/static/2961fbc55b328b28a927ae3afb1b4033/6766a/24_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Stellar Warp"
+    ],
+    "releaseDate": "April 26th, 2023",
+    "path": "Preservation",
+    "stats": {
+        "hp": {
+            "value_level_1": "",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "",
+            "value_level_max": "476"
+        },
+        "def": {
+            "value_level_1": "",
+            "value_level_max": "595"
+        }
+    },
+    "skillName": "Verdict",
+    "skillDescription": {
+        "formatted": "Increases the wearer's DEF by 24/28/32/36/40% and Effect Hit Rate by 24/28/32/36/40%. Increases the chance for the wearer to be attacked by enemies. When the wearer is attacked, increase their DEF by an additional 24/28/32/36/40% until the end of the wearer's turn.\n"
+    }
+}

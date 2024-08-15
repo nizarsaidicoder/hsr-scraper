@@ -1,0 +1,52 @@
+{
+    "relicId": "1",
+    "name": "Passerby of Wandering Cloud",
+    "type": "Relic Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "Increases Outgoing Healing by 10%."
+    },
+    "bonus4": {
+        "formatted": "At the beginning of the battle, immediately recovers 1 Skill Point."
+    },
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/ad5de9248c33cde45510e03832494826/15e42/set_1.png",
+                            "srcSet": "/static/ad5de9248c33cde45510e03832494826/88208/set_1.png 25w,\n/static/ad5de9248c33cde45510e03832494826/e9fba/set_1.png 50w,\n/static/ad5de9248c33cde45510e03832494826/15e42/set_1.png 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/ad5de9248c33cde45510e03832494826/2fa99/set_1.webp 25w,\n/static/ad5de9248c33cde45510e03832494826/dbc4a/set_1.webp 50w,\n/static/ad5de9248c33cde45510e03832494826/d8057/set_1.webp 100w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 100px) 100px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": {
+        "relicSet2pc": {
+            "stat": "outgoingHealing",
+            "value": 10
+        },
+        "relicSet4pc": {
+            "stat": "",
+            "value": 0
+        },
+        "relicSet4pcSecondEffect": {
+            "stat": "",
+            "value": 0
+        }
+    }
+}

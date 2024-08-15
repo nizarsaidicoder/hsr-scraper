@@ -1,0 +1,31 @@
+{
+    "relicId": "36",
+    "name": "Forge of the Kalpagni Lantern",
+    "type": "Planetary Ornament Set",
+    "element": null,
+    "bonus2": {
+        "formatted": "Increase the wearer's SPD by 6%. When the wearer hits enemy targets with Fire Weakness, the wearer's Break Effect increases by 40%, lasting for 1 turn(s)."
+    },
+    "bonus4": null,
+    "image": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/07b6adee98daa73bb7364ad33cc0b23f/d8057/set_36.webp",
+                            "srcSet": "/static/07b6adee98daa73bb7364ad33cc0b23f/2fa99/set_36.webp 25w,\n/static/07b6adee98daa73bb7364ad33cc0b23f/dbc4a/set_36.webp 50w,\n/static/07b6adee98daa73bb7364ad33cc0b23f/d8057/set_36.webp 100w",
+                            "sizes": "(min-width: 100px) 100px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 100,
+                    "height": 100
+                }
+            }
+        }
+    },
+    "stats": null
+}

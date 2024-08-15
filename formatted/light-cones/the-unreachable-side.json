@@ -1,0 +1,55 @@
+{
+    "coneId": 79,
+    "name": "The Unreachable Side",
+    "slug": "the-unreachable-side",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#080808",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/0a05052c5b425c80a4327a2515410d28/bf8e1/79_sm.png",
+                            "srcSet": "/static/0a05052c5b425c80a4327a2515410d28/914ee/79_sm.png 32w,\n/static/0a05052c5b425c80a4327a2515410d28/1c9ce/79_sm.png 64w,\n/static/0a05052c5b425c80a4327a2515410d28/bf8e1/79_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/0a05052c5b425c80a4327a2515410d28/ef6ff/79_sm.webp 32w,\n/static/0a05052c5b425c80a4327a2515410d28/8257c/79_sm.webp 64w,\n/static/0a05052c5b425c80a4327a2515410d28/6766a/79_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "July 18th, 2023",
+    "path": "Destruction",
+    "stats": {
+        "hp": {
+            "value_level_1": "57",
+            "value_level_max": "1270"
+        },
+        "atk": {
+            "value_level_1": "26",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "15",
+            "value_level_max": "330"
+        }
+    },
+    "skillName": "Unfulfilled Yearning",
+    "skillDescription": {
+        "formatted": "Increases the wearer's CRIT rate by 18/21/24/27/30% and increases their Max HP by 18/21/24/27/30%. When the wearer is attacked or consumes their own HP, their DMG increases by 24/28/32/36/40%. This effect is removed after the wearer uses an attack."
+    }
+}

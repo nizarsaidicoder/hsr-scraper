@@ -1,0 +1,55 @@
+{
+    "coneId": 104,
+    "name": "An Instant Before A Gaze",
+    "slug": "an-instant-before-a-gaze",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/f8ca9a8ca3790049ffdf5d57be3dec76/bf8e1/87_sm.png",
+                            "srcSet": "/static/f8ca9a8ca3790049ffdf5d57be3dec76/914ee/87_sm.png 32w,\n/static/f8ca9a8ca3790049ffdf5d57be3dec76/1c9ce/87_sm.png 64w,\n/static/f8ca9a8ca3790049ffdf5d57be3dec76/bf8e1/87_sm.png 128w",
+                            "sizes": "(min-width: 128px) 128px, 100vw"
+                        },
+                        "sources": [
+                            {
+                                "srcSet": "/static/f8ca9a8ca3790049ffdf5d57be3dec76/ef6ff/87_sm.webp 32w,\n/static/f8ca9a8ca3790049ffdf5d57be3dec76/8257c/87_sm.webp 64w,\n/static/f8ca9a8ca3790049ffdf5d57be3dec76/6766a/87_sm.webp 128w",
+                                "type": "image/webp",
+                                "sizes": "(min-width: 128px) 128px, 100vw"
+                            }
+                        ]
+                    },
+                    "width": 128,
+                    "height": 128
+                }
+            }
+        }
+    },
+    "rarity": "5",
+    "source": [
+        "Event Warp (limited)"
+    ],
+    "releaseDate": "December 6th, 2023",
+    "path": "Erudition",
+    "stats": {
+        "hp": {
+            "value_level_1": "48",
+            "value_level_max": "1058"
+        },
+        "atk": {
+            "value_level_1": "26",
+            "value_level_max": "582"
+        },
+        "def": {
+            "value_level_1": "21",
+            "value_level_max": "463"
+        }
+    },
+    "skillName": "A Knight's Pilgrimage",
+    "skillDescription": {
+        "formatted": "Increases the wearer's CRIT DMG by 36/42/48/54/60%. When the wearer uses their Ultimate, the wearer's Ultimate DMG increases based on their Max Energy; Ultimate DMG increases by 0.36/0.42/0.48/0.54/0.6% per point of Energy, up to 180 Energy."
+    }
+}

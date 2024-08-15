@@ -1,0 +1,404 @@
+{
+    "unitId": 55,
+    "name": "Jade",
+    "slug": "jade",
+    "smallImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8e8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/725a17892b5b1c7803f5a3d4b16004d5/60b4d/jade_sm.webp",
+                            "srcSet": "/static/725a17892b5b1c7803f5a3d4b16004d5/e73fe/jade_sm.webp 40w,\n/static/725a17892b5b1c7803f5a3d4b16004d5/61ca6/jade_sm.webp 80w,\n/static/725a17892b5b1c7803f5a3d4b16004d5/60b4d/jade_sm.webp 160w",
+                            "sizes": "(min-width: 160px) 160px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 160,
+                    "height": 160
+                }
+            }
+        }
+    },
+    "cardImage": {
+        "localFile": {
+            "childImageSharp": {
+                "gatsbyImageData": {
+                    "layout": "constrained",
+                    "backgroundColor": "#f8f8f8",
+                    "images": {
+                        "fallback": {
+                            "src": "/static/2a1a9cf9f0d12bff34d99c5aa05ee79a/b26e2/jade_card.webp",
+                            "srcSet": "/static/2a1a9cf9f0d12bff34d99c5aa05ee79a/84550/jade_card.webp 94w,\n/static/2a1a9cf9f0d12bff34d99c5aa05ee79a/34f80/jade_card.webp 187w,\n/static/2a1a9cf9f0d12bff34d99c5aa05ee79a/b26e2/jade_card.webp 374w",
+                            "sizes": "(min-width: 374px) 374px, 100vw"
+                        },
+                        "sources": []
+                    },
+                    "width": 374,
+                    "height": 512
+                }
+            }
+        }
+    },
+    "fullImage": null,
+    "description": {
+        "formatted": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts. Her Cornerstone is \"Jade of Credit.\" A cold and elegant moneylender, she is skilled at understanding the human heart, with a personal hobby called \"Bonajade Exchange.\" She's willing to wait patiently for high-value acquisitions and adept at extracting value from seemingly destitute clients. "
+    },
+    "statsComments": {
+        "formatted": "Relic Main statsBody - CRIT RATE >= CRIT DMG Pick one that gives you a better Crit Rate / Crit DMG ratio.Feet - ATK%Best in Slot.Planar Sphere - Quantum DMG%Best in Slot.Link Rope - ATK%Best in Slot.Additional notes for sub-statsCRIT Rate & CRIT DMG: Due to Jade's enormous CRIT DMG boost from her Talent, her CRIT Ratio can get a little messed up when only viewing the character page. To account for this ensure your CRIT Rate is as high as possible even if it seems your CRIT DMG is a little low outside of combat. A CRIT Ratio of 100% Crit Ratio to 100% Crit DMG is an acceptable ratio on Jade as it will quickly become 100:220%. Speed: Jade isn't overly reliant on her Speed as she deals most of her damage through her Follow-Up attacks which are fueled largely by the target of her Debt Collection. For this reason, Speed is optional on her - you can still invest into it allowing her to execute more Basic Attacks of her own, but it's also just as viable if not more so to pursue higher damage through more offensive stats such as ATK, CRIT Rate, and CRIT DMG. "
+    },
+    "relicsComments": null,
+    "skillsNew": {
+        "basic": {
+            "id": "131401",
+            "energy_gen": "20",
+            "break_primary": "30",
+            "break_secondary": "15"
+        },
+        "basic_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh2": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "basic_enh3": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill": {
+            "id": "131402",
+            "energy_gen": "30",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "skill_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult": {
+            "id": "131403",
+            "energy_gen": "5",
+            "break_primary": "60",
+            "break_secondary": ""
+        },
+        "ult_enh": {
+            "id": "",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        },
+        "ult_enh2": null,
+        "talent": {
+            "id": "131404",
+            "energy_gen": "10",
+            "break_primary": "30",
+            "break_secondary": ""
+        },
+        "technique": {
+            "id": "131407",
+            "energy_gen": "",
+            "break_primary": "",
+            "break_secondary": ""
+        }
+    },
+    "defaultRole": "Sub DPS",
+    "affiliation": "IPC",
+    "rarity": "5",
+    "element": "Quantum",
+    "path": "Erudition",
+    "stats": {
+        "hp_base": 147.84,
+        "def_base": 69.3,
+        "atk_base": 89.76,
+        "speed_base": 103
+    },
+    "ascensionMaterials": {
+        "mats_1": "dream-collection-component",
+        "mats_2": "dream-flow-valve",
+        "mats_3": "dream-flamer",
+        "mats_4": "dream-making-engine"
+    },
+    "eidolon": [
+        {
+            "eidolonId": "55",
+            "name": "Jade",
+            "upgrade1Name": "Altruism? Nevertheless Tradable",
+            "upgrade1Desc": {
+                "formatted": "The follow-up attack DMG from Jade's Talent increases by 32%. After the character with Debt Collector state uses an attack and hits 2/1 enemy targets, Jade additionally gains 1/2 point(s) of Charge. "
+            },
+            "upgrade2Name": "Morality? Herein Authenticated",
+            "upgrade2Desc": {
+                "formatted": "When there are 15 stacks of Pawned Asset, Jade's CRIT Rate increases by 18%. "
+            },
+            "upgrade3Name": "Honesty? Soon Mortgaged",
+            "upgrade3Desc": {
+                "formatted": "Skill Lv. +2, up to a maximum of Lv. 15. Talent Lv. +2, up to a maximum of Lv. 15. "
+            },
+            "upgrade4Name": "Sincerity? Put Option Only",
+            "upgrade4Desc": {
+                "formatted": "When using Ultimate, the DMG Jade deals ignores 12% of enemy targets' DEF, lasting for 3 turn(s). "
+            },
+            "upgrade5Name": "Hope? Hitherto Forfeited",
+            "upgrade5Desc": {
+                "formatted": "Ultimate Lv. +2, up to a maximum of Lv. 15. Basic ATK Lv. +1, up to a maximum of Lv. 10. "
+            },
+            "upgrade6Name": "Equity? Pending Sponsorship",
+            "upgrade6Desc": {
+                "formatted": "When there are Debt Collector allies on the field, Jade's Quantum RES PEN increases by 20%, and Jade gains the Debt Collector state. "
+            }
+        }
+    ],
+    "synergy": null,
+    "traces": [
+        {
+            "req": "A2",
+            "desc": "When enemy targets enter combat, Jade gains <b>1</b> stack(s) of Pawned Asset. When a Debt Collector ally's turn starts, Jade additionally gains <b>3</b> stack(s) of Pawned Asset.",
+            "name": "Reverse Repo"
+        },
+        {
+            "req": "A4",
+            "desc": "When the battle starts, Jade's action is advanced forward by <b>50%</b>.",
+            "name": "Collateral Ticket"
+        },
+        {
+            "req": "A6",
+            "desc": "Each stack of the Talent's Pawned Asset additionally increases Jade's ATK by <b>0.5%</b>. ",
+            "name": "Asset Forfeiture"
+        }
+    ],
+    "review": {
+        "formatted": "Jade is a competent Erudition damage dealer with some buffing capabilities and a focus on follow-up damage. Her Debt Collector buff will increase a single ally's SPD and let them deal additional Quantum DMG based on Jade's ATK. This status also drains a small bit of health from the buffed ally. She can deal large amounts of AoE damage and has a ramping self-buff that increases her CRIT DMG and ATK%. She relies very heavily on there being many enemies on the field to get stacks for her own follow-up, making her a powerful pick in those scenarios but unimpressive elsewhere.Our first actual Quantum Erudition unit. As the IPC executive who goes around offering Faustian deals left and right, it should come as no surprise that Jade also takes her dues when buffing an ally. She's a follow-up unit with a big focus on AoE, to the point where she is also the first-ever character to have a Blast AoE on an non-Enhanced Basic ATK.Jade's Skill will select a single ally to become a Debt Collector. This buff lasts for 3 of Jade's turns. While it's active, the Debt Collector gets a flat increase in SPD of 30 and all of their attacks deal a single additional instance of Quantum DMG based on Jade's ATK, up to 25%. The Debt Collector will also lose 2% Max HP each time they attack. Jade can use this buff on herself but it will not provide the SPD boost or HP drain. Jade also cannot recast this while it's active, meaning you will need to wait for it to drop fully before being able to reapply it.This is actually a pretty potent boost to a single character, especially that SPD boost. As the duration only goes down on Jade's turns and not the affected ally\u2019s, it heavily favours already fast-acting characters to make the most out of the buff before Jade needs to reapply it \u2014 and one of the best examples of this is follow-up attackers, since they\u2019re constantly acting out of turn.The HP drain is largely insignificant and the extra damage provided by the buff allows Jade to contribute a great deal in AoE scenarios against multiple foes. It won\u2019t be that great against single-target or even Blast AoE scenarios, so it really is catering towards Pure Fiction style content. This AoE focus is also why Jade's Basic ATK is a Blast AoE, being the first of its kind and also letting Jade act as an SP generator for the team while still playing into her gameplan, especially since she doesn\u2019t technically have a Skill.Jade's Talent is a Charge-based follow-up; when Jade or the Debt Collector attack enemies, Jade gains 1 point of Charge for every enemy hit. This only counts once for each enemy per attack, meaning if say Herta Debt Collector spins 5 times against 5 enemies, Jade will still only receive 5 Charge stacks. When Jade has at least 8 points of Charge, she will consume 8 points to launch a follow-up attack against all enemies, dealing up to 120% ATK. This follow-up can't grant stacks of Charge, so you are further incentivised to make someone other than Jade the Debt Collector, as ally follow-ups will grant Charge. It's also one of the highest Energy generating follow-ups in the game, giving Jade 10 points per follow-up, allowing for rather quick Ultimates.This Talent also has a secondary portion where each time she launches a follow-up attack, she gains stacks on a ramping self-buff called Pawned Asset, with each stack granting up to 2.4% Crit DMG, stacking up to 50 times. Each one of Jade's Talent follow-up attacks will grant her 5 stacks of Pawned Asset. This buff has no duration and will last for the remainder of the fight, providing a great deal of free offensive stats.Her Ultimate deals up to 240% ATK to all enemies and will provide an increase to Jade's follow-up multiplier of up to 80%, making the follow-up go from 120% ATK to 200% ATK, which is very strong for a non-Ultimate AoE attack. This Enhancement affects 2 of Jade's follow-ups before disappearing. This Ultimate has a fairly hefty cost of 140 Energy, but again because of the aforementioned Energy coming from her Talent's follow-up, as long as enemies are constantly getting hit and Jade is constantly using her follow-up, this Ultimate is going to be up fairly often.Jade's Bonus Ability Traces are also fairly simple. A2 will grant Jade 1 stack of Pawned Asset whenever an enemy target enters combat for the first time (including summons), and an additional 3 stacks of Pawned Asset whenever the Debt Collector's turn starts, again placing emphasis on speedy characters. A4 gives a 50% Action Advance to Jade at the start of combat, making it almost guaranteed that she will be the first person to act in a fight and allowing her to activate the Debt Collector buff before anyone else has a chance to act first. A6 will allow Pawned Asset to also provide an ATK boost, 0.5% ATK per stack.It should be clear that Jade is expertly tailored to handling AoE content where enemies are plentiful and are constantly reappearing \u2014 or in other words, Pure Fiction. She's got exceptional synergy with the usual PF destroyers, Herta and Himeko, as their follow-ups are frequent and fully AoE, letting them generate lots of Charge for Jade resulting in even more follow-ups. She doesn\u2019t really want to be paired with both at the same time as it\u2019s just unnecessary overkill, but by pairing Jade with either Herta or Himeko will allow the other to be sent to the other side without worry.She also has surprisingly impressive synergy with Blade, as he wants to be losing HP to get more frequent follow-ups of his own, and Jade's HP syphoning Debt Collector buff is exactly what the mara-struck ordered. With the Debt Collector buff, Blade will be able to gain 2 stacks towards his follow-up with every offensive action taken, greatly increasing the frequency of said follow-up. Since this follow-up heals Blade, it increases his ease of use beyond his usual, and more importantly, because the follow-up is also fully AoE, it feeds right back into Jade\u2019s kit perfectly. It\u2019s an astonishingly powerful combination.As such, Jade has plenty of team options when it comes to handling Pure Fiction, and is essentially a very easy way to clear the content with only some basic team planning; Herta, Himeko, Argenti, heck even Clara can work. As long as the assigned Debt Collector can hit multiple foes simultaneously and frequently, Jade's going to be getting and providing value.Here's where things get tricky, though. Jade is not a particularly complicated character in terms of her actual gameplay design, which is definitely a nice breath of fresh air after the mechanical maniacs we've been getting the past little while. It's definitely a good thing for players trying to just understand what she seeks to accomplish in combat, but it creates a dilemma for people who have been around for a while.This simplicity is a blessing and a curse, as it makes it easier to understand what Jade\u2019s after, but it comes with the caveat of being far more inflexible; what you see is what you get, and if you can\u2019t play into what she wants to be doing, then You\u2019re gonna have a bad time\u2122, and the crux of this is that all of Jade\u2019s power is locked behind what your allies are doing \u2014 how often are they attacking, what is their method of dealing damage, how fast are they, are they incapacitated or under Crowd Control right now, even what specific enemies you\u2019re facing.All of this culminates in a character whose damage output is so extremely inconsistent and variable that it\u2019s not always possible to predict how she\u2019ll perform, even in different runs of the same encounter. It can be quite a frustrating experience, and it\u2019s ironic that characters with entire dissertations for Ability descriptions are so significantly simpler to make full use of.Jade is a goddess in Pure Fiction, make no mistake about that, but her performance elsewhere is unimpressive at best. Memory of Chaos does not feature the types of enemy situations that allow Jade to thrive fully, and this is exacerbated by the fact that almost all of her preferred Debt Collector targets are similarly not used inside of Memory of Chaos, or if they are, they're being used in a completely different and highly specialised setup that does not have room for Jade (with the notable exception of Blade).The only real option she's got if she's being brought into Memory of Chaos is to be paired with Blade, and this is actually an incredibly potent setup, but it runs into the same problem that Blade teams have always had, which is that single-target damage ends up being comparatively very low. If the encounter has a lot of summoning of enemies or naturally starts with a high enemy count, it can be mitigated some, but if you're staring down the classic Boss-plus-one\u2122 then it's going to be quite a painful endeavour.Naturally, this downside means that Jade struggles too in Apocalyptic Shadow, as the AoE-focused nature of her kit means her Toughness damage is virtually non-existent against Big Bosses, and she simply doesn't provide anywhere near enough benefits to be able to handle the absurd HP bars present in that game mode that's run by Hunt, Super Break, and DoT. There is a very fringe case where Jade could be brought into a mono-Quantum type setup, or more specifically paired with Seele to masterfully play around the Resurgence buff, but this is incredibly high concept and is tremendously unlikely to be viable for the majority of the player base.Thus we come to the most important question: 'Why should I pull for Jade?'. It is very challenging to try and convince people to pull for a character whose only true claim to fame is in a game mode that is already dominated by plenty of other characters, many of whom are either completely free 4-stars or Standard 5-stars; Herta, Himeko, and Clara are all very accessible and very powerful all on their own. They already have dedicated setups that work extremely well and can make Pure Fiction a breeze, and that is without Jade, so unless someone is struggling immensely and doesn't have access to the aforementioned characters (You have Herta, she came free with your Stellaron), it's a bit tough to sell Jade.You may have wondered where the Eidolon section was, and I left it to last to illustrate the point a bit more. If it's difficult to recommend Jade in the mode she was designed to dominate, then what hope is there if she's also sandbagging in the other endgame modes? Well, for the low cost of a second copy of Jade, you can rectify these downsides. Jade's E1 increases the DMG% of her follow-up by 32%, and makes it so that she gains additional points of Charge if the Debt Collector character attacks fewer than 3 enemies, 1 extra if 2 enemies were hit, and 2 extra if 1 enemy was hit. Functionally this makes it so that Jade will always gain no fewer than 3 points of Charge per Debt Collector attack. Suddenly it's a lot more compelling to take her into low-target encounters.She doesn't need this Eidolon to do well in her designed space of Pure Fiction, she'll trivialise that for no additional cost. It's just a little unfortunate that if you really adamantly want to use her elsewhere in the endgame, it's going to cost you \u2014 either your Stellar Jades or your sanity, so choose wisely.Jade's E2 grants an additional 18% CRIT Rate when Pawned Asset reaches at least 15 stacks. E4 will give Jade a buff upon using her Ultimate where for the next 3 turns, Jade's DMG dealt will ignore 12% of enemy DEF, and E6 will allow Jade to gain a permanent 20% Quantum RES PEN while a Debt Collector is on field, and will also duplicate the Debt Collector status for herself as well.Obviously, if you are not a meta-chaser or are someone who is just a character collector, you should have no troubles justifying going for Jade. Similarly, if you are someone who does care about the endgame and struggle inside of Pure Fiction, Jade is also a pretty easy pickup. However, if you care about the endgame as a whole and are looking for overall account value from characters, then you may need to consider your options carefully before pulling for Jade, especially if you might end up going for her rather impactful E1.This is ultimately a choice for the individual player. Consider your options carefully before accepting the Faustian deal. Or maybe you're a Blade enjoyer, I don't know\u2014"
+    },
+    "pros": {
+        "formatted": "Excellent performance in Pure Fiction, Synergises very well with existing AoE and AoE follow-up characters, Provides a very strong single-target flat SPD boost, Slots into existing AoE teams very easily, Excellent teammate for Blade. "
+    },
+    "cons": {
+        "formatted": "Miserable performance outside of Pure Fiction for a limited 5-star, Is not a significant upgrade over existing strong PF setups, Highly variable damage output, Highly reliant on her E1 to be taken into non-AoE content, Doesn't have much specific synergy beyond generalised AoE or Blade. "
+    },
+    "endgameStats": {
+        "formatted": "HP: 2800+ DEF: 900+ ATK: 2700-3000+ CRIT RATE: 75% - 100% CRIT DMG: 100% - 120%+ SPD: 103 (Base Speed) / 134 "
+    },
+    "voiceActors": {
+        "en": "Faye Mata",
+        "kr": "\uae40\uc21c\ubbf8 (Kim Soon-mi)",
+        "jpn": "\u4e09\u77f3\u7434\u4e43 (Kotono Mitsuishi)",
+        "cn": "\u5f20\u82e5\u745c (Zhang Ruoyu)"
+    },
+    "ratings": {
+        "moc": "6",
+        "moc_special": "6",
+        "pure": "11",
+        "pure_special": "11",
+        "apo": "7",
+        "apo_special": "7"
+    },
+    "energyUltimate": "140",
+    "conesNew": [
+        {
+            "cone": "yet-hope-is-priceless",
+            "super": "1",
+            "percent": "122.85%",
+            "notes": "Best Cone for Jade by a significant margin, thanks to offering CRIT RATE - a stat Jade absolutely loves - a ton of additional DMG% for her Follow-Ups which Jade has limited access to in her base kit, and 20% DEF SHRED which is an incredible multiplier, especially with the Quantum set."
+        },
+        {
+            "cone": "night-on-the-milky-way",
+            "super": "1",
+            "percent": "112.65%",
+            "notes": "Assumes full uptime on the break damage buff which is incredibly difficult to achieve outside of Pure Fiction. This result is also calculated as if there were 3 targets present for the duration of the fight. A reduction in either of these factors will sharply lower this Cone's performance."
+        },
+        {
+            "cone": "today-is-another-peaceful-day",
+            "super": "5",
+            "percent": "109.47%",
+            "notes": "A surprisingly powerful option for Jade due to the fact she gains far less value from CRIT DMG (as she gains a lot of it from her kit) and she's lacking DMG% more. Because of her high Ultimate cost (140), she gains 56% DMG% from the Cone. Still, if you will pair Jade with supports that provide a lot of DMG%, the value of this Cone will drop."
+        },
+        {
+            "cone": "geniuses-repose",
+            "super": "5",
+            "percent": "103.51%",
+            "notes": "Assumes full uptime on the on-kill CRIT DMG% boost at all times. Failing to keep this buff active will lower this Cone's performance."
+        },
+        {
+            "cone": "eternal-calculus",
+            "super": "5",
+            "percent": "100.91%",
+            "notes": "A F2P option that provides great ATK% and SPD bonuses as long as you're hitting 3 targets consistently (which you always will in PF)."
+        },
+        {
+            "cone": "the-seriousness-of-breakfast",
+            "super": "5",
+            "percent": "100%",
+            "notes": "Assumes immediate uptime on the on-kill ATK% boost. Not having access to easily defeatable enemies at the start of the fight or being slow to slay enemies will lower this Cone's performance."
+        },
+        {
+            "cone": "the-day-the-cosmos-fell",
+            "super": "5",
+            "percent": "98.62%",
+            "notes": "Assumes constant uptime of the CRIT DMG% buff granted by attacking 2 or more enemies at once with an element they are weak to. Failing to keep this buff active will lower this Cone's performance."
+        },
+        {
+            "cone": "night-on-the-milky-way",
+            "super": "1",
+            "percent": "96.72%",
+            "notes": "Assumes no uptime of the break damage buff which can occur against fights in which you have no elemental advantage. This result is also calculated as if there were 3 targets present for the duration of the fight. When facing fewer than 3 enemies this Cone's performance will reduce."
+        }
+    ],
+    "buildData": [
+        {
+            "relics": [
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "",
+                    "value": "100%",
+                    "comment": "QUA Weak",
+                    "notes": "The best option for Jade but only as long as you're fighting Quantum weak enemies - if you will often use Jade against non-Qua weak enemies, this set's performance will drop. Also, if you use Jade's Signature Cone, the set becomes even more valuable due to how the DEF Shred stacking works."
+                },
+                {
+                    "relic": "The Ashblazing Grand Duke",
+                    "relic_2": "",
+                    "value": "98.90%",
+                    "comment": "",
+                    "notes": "A more generic option that is slightly worse than Genius against Quantum weak enemies, but much better against other elements. Due to how Jade's Follow-Up works, it's very easy to stack the 4-pc buff and allow her attacks to mostly benefit from the ATK% bonus."
+                },
+                {
+                    "relic": "Genius of Brilliant Stars",
+                    "relic_2": "",
+                    "value": "94.47%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "The Ashblazing Grand Duke",
+                    "relic_2": "Genius of Brilliant Stars",
+                    "value": "94.37%",
+                    "comment": "",
+                    "notes": null
+                },
+                {
+                    "relic": "The Ashblazing Grand Duke",
+                    "relic_2": "Musketeer of Wild Wheat",
+                    "value": "93.83%",
+                    "comment": "",
+                    "notes": null
+                }
+            ],
+            "planars": [
+                {
+                    "planar": "Duran, Dynasty of Running Wolves",
+                    "value": "101.91%",
+                    "comment": "",
+                    "notes": "Best all-around option as long as you will pair Jade with another FUA character - thankfully most of her best teams pair her with characters from this archetype. "
+                },
+                {
+                    "planar": "Sigonia, the Unclaimed Desolation",
+                    "value": "101.75%",
+                    "comment": "",
+                    "notes": "Great option for Pure Fiction as it's very easy to stack the set there, but in other modes, it will perform much worse."
+                },
+                {
+                    "planar": "Izumo Gensei and Takama Divine Realm",
+                    "value": "101.73%",
+                    "comment": "",
+                    "notes": "Another good option when you're pairing Jade with another Erudition character which you will do anyway in Pure Fiction (unless you plan to play her with Blade). The CRIT Rate is massive for Jade as she's severely lacking this stat in her kit."
+                },
+                {
+                    "planar": "Inert Salsotto",
+                    "value": "100%",
+                    "comment": "",
+                    "notes": "More generic option that doesn't force you in any specific teams or modes - it simply works."
+                }
+            ],
+            "cones": [
+                {
+                    "cone": "before-dawn",
+                    "super": "1"
+                }
+            ],
+            "body": [
+                {
+                    "stat": "CRIT Rate"
+                },
+                {
+                    "stat": "CRIT DMG"
+                }
+            ],
+            "feet": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "rope": [
+                {
+                    "stat": "ATK%"
+                }
+            ],
+            "sphere": [
+                {
+                    "stat": "Quantum DMG"
+                }
+            ],
+            "comments": "This is your typical DPS build that focuses on the holy trifecta - ATK, Crit Rate, and Crit DMG. For every 1% of Crit try to have 2% of Crit DMG.",
+            "substats": "CRIT RATE >= CRIT DMG > ATK% > SPD",
+            "skill_priority": "Talent > Ult > Skill = Basic",
+            "traces_priority": "Collateral Ticket (A4) > Reverse Repo (A2) > Asset Forfeiture (A4)",
+            "name": "General DPS"
+        }
+    ],
+    "videos": [
+        {
+            "video": "yzegoS8Mjqw"
+        }
+    ],
+    "teams": null,
+    "characterBuilderInfo": {
+        "traceStat1": {
+            "stat": "atk",
+            "value": 18
+        },
+        "traceStat2": {
+            "stat": "Quantum DMG",
+            "value": 22.4
+        },
+        "traceStat3": {
+            "stat": "Effect RES",
+            "value": 10
+        },
+        "traceStatMajor1": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor2": {
+            "stat": "",
+            "value": 0
+        },
+        "traceStatMajor3": {
+            "stat": "",
+            "value": 0
+        }
+    },
+    "tierCategory": "Specialist",
+    "releaseDate": "July 10th, 2024",
+    "isReleased": true,
+    "isNew": false,
+    "hideSkills": false,
+    "isReviewPending": false,
+    "availableInCbt3": false,
+    "showBuild": true,
+    "tierListNew": false,
+    "tierListTags": [
+        "FuA",
+        "SP+"
+    ]
+}
