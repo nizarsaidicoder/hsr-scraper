@@ -111,4 +111,106 @@ def format_json_files():
                 json.dump(output, jsonFile, indent=4)
 
 
-format_json_files()
+def merge_files():
+    folders = ["characters", "light-cones", "relics"]
+    for folder in folders:
+        merged = []
+        for file in os.listdir("./formatted/" + folder):
+            path = "./formatted/" + folder + "/" + file
+            with open(path, "r") as jsonFile:
+                data = json.load(jsonFile)
+                merged.append(data)
+        with open("./merged/" + folder + ".json", "w") as jsonFile:
+            json.dump(merged, jsonFile, indent=4)
+
+# "smallImage": {
+#     "localFile": {
+#         "childImageSharp": {
+#             "gatsbyImageData": {
+#                 "layout": "constrained",
+#                 "backgroundColor": "#080808",
+#                 "images": {
+#                     "fallback": {
+#                         "src": "/static/9c7de7c12904b5458ab5181b264bb33d/bf8e1/1_sm.png",
+#                         "srcSet": "/static/9c7de7c12904b5458ab5181b264bb33d/914ee/1_sm.png 32w,\n/static/9c7de7c12904b5458ab5181b264bb33d/1c9ce/1_sm.png 64w,\n/static/9c7de7c12904b5458ab5181b264bb33d/bf8e1/1_sm.png 128w",
+#                         "sizes": "(min-width: 128px) 128px, 100vw"
+#                     },
+#                     "sources": [
+#                         {
+#                             "srcSet": "/static/9c7de7c12904b5458ab5181b264bb33d/ef6ff/1_sm.webp 32w,\n/static/9c7de7c12904b5458ab5181b264bb33d/8257c/1_sm.webp 64w,\n/static/9c7de7c12904b5458ab5181b264bb33d/6766a/1_sm.webp 128w",
+#                             "type": "image/webp",
+#                             "sizes": "(min-width: 128px) 128px, 100vw"
+#                         }
+#                     ]
+#                 },
+#                 "width": 128,
+#                 "height": 128
+#             }
+#         }
+#     }
+# },
+
+# extact images and put them in the following format
+#{  "images": 
+    # {
+    #   "src": [ https://www.prydwen.gg/static/9c7de7c12904b5458ab5181b264bb33d/ef6ff/1_sm.webp, https://www.prydwen.gg/static/9c7de7c12904b5458ab5181b264bb33d/8257c/1_sm.webp, https://www.prydwen.gg/static/9c7de7c12904b5458ab5181b264bb33d/6766a/1_sm.webp],
+    #   "type": "image/webp",
+    # }
+# }
+
+def extract_images_light_cones():
+    with open("./merged/light-cones.json", "r") as jsonFile:
+        data = json.load(jsonFile)
+        for light_cone in data:
+            if "smallImage" in light_cone:
+                image = light_cone["smallImage"]["localFile"]["childImageSharp"]["gatsbyImageData"]["images"]["fallback"]["src"]
+                image_url = "https://www.prydwen.gg" + image
+                light_cone["image"] = image_url
+                light_cone.pop("smallImage", None)
+    with open("./merged/light-cones.json", "w") as jsonFile:
+        json.dump(data, jsonFile, indent=4)
+
+
+def extract_images_relics():
+    with open("./merged/relics.json", "r") as jsonFile:
+        data = json.load(jsonFile)
+        for relic in data:
+            if "image" in relic:
+                image = relic["image"]["localFile"]["childImageSharp"]["gatsbyImageData"]["images"]["fallback"]["src"]
+                image_url = "https://www.prydwen.gg" + image
+                relic["image"] = image_url
+    with open("./merged/relics.json", "w") as jsonFile:
+        json.dump(data, jsonFile, indent=4)
+
+def extract_images_characters():
+    with open("./merged/characters.json", "r") as jsonFile:
+        data = json.load(jsonFile)
+        for character in data:
+            if "smallImage" in character:
+                try:
+                    image = character["smallImage"]["localFile"]["childImageSharp"]["gatsbyImageData"]["images"]["fallback"]["src"]
+                    image_url = "https://www.prydwen.gg" + image
+                    character["smallImage"] = image_url
+                except:
+                    character.pop("smallImage", None)
+                    character["smallImage"] = ""
+            if "cardImage" in character:
+                try:
+                    image = character["cardImage"]["localFile"]["childImageSharp"]["gatsbyImageData"]["images"]["fallback"]["src"]
+                    image_url = "https://www.prydwen.gg" + image
+                    character["cardImage"] = image_url
+                except:
+                    character.pop("cardImage", None)
+                    character["cardImage"] = ""
+            if "fullImage" in character:
+                try:
+                    image = character["fullImage"]["localFile"]["childImageSharp"]["gatsbyImageData"]["images"]["fallback"]["src"]
+                    image_url = "https://www.prydwen.gg" + image
+                    character["fullImage"] = image_url
+                except:
+                    character.pop("fullImage", None)
+                    character["fullImage"] = ""
+    with open("./merged/characters.json", "w") as jsonFile:
+        json.dump(data, jsonFile, indent=4)
+
+extract_images_characters()

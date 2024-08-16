@@ -1,0 +1,3222 @@
+[
+    {
+        "coneId": 1,
+        "name": "A Secret Vow",
+        "slug": "a-secret-vow",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Spare No Effort",
+        "skillDescription": {
+            "formatted": "Increases DMG dealt by the wearer by 20/25/30/35/40%. The wearer also deals an extra 20/25/30/35/40% of DMG to enemies with a higher HP percentage than the wearer.\n\n"
+        },
+        "image": "https://www.prydwen.gg/static/9c7de7c12904b5458ab5181b264bb33d/bf8e1/1_sm.png"
+    },
+    {
+        "coneId": 56,
+        "name": "Adversarial",
+        "slug": "adversarial",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "33",
+                "value_level_max": "740"
+            },
+            "atk": {
+                "value_level_1": "16",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Alliance",
+        "skillDescription": {
+            "formatted": "When the wearer defeats an enemy, increases SPD by 10/12/14/16/18% for 2 turn(s)"
+        },
+        "image": "https://www.prydwen.gg/static/9ec08f6e107a980509cb756dc0631781/bf8e1/56_sm.png"
+    },
+    {
+        "coneId": 127,
+        "name": "After the Charmony Fall",
+        "slug": "after-the-charmony-fall",
+        "rarity": "4",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "June 20th, 2024",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "847"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "397"
+            }
+        },
+        "skillName": "Unknown",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Break Effect by 28/35/42/49/56%. After the wearer uses Ultimate, increases SPD by 8/10/12/14/16, lasting for 2 turn(s). "
+        },
+        "image": "https://www.prydwen.gg/static/a88e7f516907da59849735079e870832/6766a/127_sm.webp"
+    },
+    {
+        "coneId": 117,
+        "name": "Along the Passing Shore",
+        "slug": "along-the-passing-shore",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "March 27th, 2024",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "635"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Steerer",
+        "skillDescription": {
+            "formatted": "Increases the wearer's CRIT DMG by 36/42/48/54/60%. When the wearer hits an enemy target, inflicts Mirage Fizzle on the enemy, lasting for 1 turn. Each time the wearer attacks, this effect can only trigger 1 time on each target. The wearer deals 24/28/32/36/40% increased DMG to targets afflicted with Mirage Fizzle, and the DMG dealt by the wearer's Ultimate additionally increases by 24/28/32/36/40%. "
+        },
+        "image": "https://www.prydwen.gg/static/2c0f5d935adf8f84a77b2f97476544dc/6766a/117_sm.webp"
+    },
+    {
+        "coneId": 2,
+        "name": "Amber",
+        "slug": "amber",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Stasis",
+        "skillDescription": {
+            "formatted": "Increases the wearer's DEF by 16/20/24/28/32%. If the wearer's current HP is lower than 50%, increases their DEF by a further 16/20/24/28/32%."
+        },
+        "image": "https://www.prydwen.gg/static/59d25f3f6b31c075dd2b61bc6fae02c2/bf8e1/2_sm.png"
+    },
+    {
+        "coneId": 104,
+        "name": "An Instant Before A Gaze",
+        "slug": "an-instant-before-a-gaze",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "December 6th, 2023",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "48",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "26",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "21",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "A Knight's Pilgrimage",
+        "skillDescription": {
+            "formatted": "Increases the wearer's CRIT DMG by 36/42/48/54/60%. When the wearer uses their Ultimate, the wearer's Ultimate DMG increases based on their Max Energy; Ultimate DMG increases by 0.36/0.42/0.48/0.54/0.6% per point of Energy, up to 180 Energy."
+        },
+        "image": "https://www.prydwen.gg/static/f8ca9a8ca3790049ffdf5d57be3dec76/bf8e1/87_sm.png"
+    },
+    {
+        "coneId": 4,
+        "name": "Arrows",
+        "slug": "arrows",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "14",
+                "value_level_max": "317"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Crisis",
+        "skillDescription": {
+            "formatted": "At the beginning of the battle, increases the wearer's CRIT Rate by 12/15/18/21/24% for 3 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/fe4aae6f7bd99e3e09ef18a732e22af5/bf8e1/4_sm.png"
+    },
+    {
+        "coneId": 106,
+        "name": "Baptism of Pure Thought",
+        "slug": "baptism-of-pure-thought",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "January 17th, 2024",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "26",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "24",
+                "value_level_max": "529"
+            }
+        },
+        "skillName": "Mental Training",
+        "skillDescription": {
+            "formatted": "Increases the wearer's CRIT DMG by 20/23/26/29/32%. For every debuff on the enemy target, the wearer's CRIT DMG dealt against this target increases by 8/9/10/11/12%, stacking up to 3 times. When using Ultimate to attack the enemy target, the wearer receives the Disputation effect, which increases DMG dealt by 36/42/48/54/60% and enables their follow-up attacks to ignore 24/28/32/36/40% of the target's DEF. This effect lasts for 2 turns."
+        },
+        "image": "https://www.prydwen.gg/static/d1ff5de85790132ea41a15dc5abe5408/bf8e1/106_sm.png"
+    },
+    {
+        "coneId": 5,
+        "name": "Before Dawn",
+        "slug": "before-dawn",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "48",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "28",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Long Night",
+        "skillDescription": {
+            "formatted": "Increases the wearer's CRIT DMG by 36/42/48/54/60%. Increases the wearer's Skill and Ultimate DMG by 18/21/24/27/30%. After the wearer uses their Skill or Ultimate, they gain Somnus Corpus. Upon triggering a follow-up attack, Somnus Corpus will be consumed and the follow-up attack DMG increases by 48/56/64/72/80%.\n\n\n"
+        },
+        "image": "https://www.prydwen.gg/static/ed10a998d72942e18a1bef873c7e8f77/bf8e1/5_sm.png"
+    },
+    {
+        "coneId": 77,
+        "name": "Before the Tutorial Mission Starts",
+        "slug": "before-the-tutorial-mission-starts",
+        "rarity": "4",
+        "source": [
+            "Mission Reward"
+        ],
+        "releaseDate": "June 9th, 2023",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Quick on the Draw",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Effect Hit Rate by 20/25/30/35/40%. When the wearer attacks enemies that have reduced DEF, regenerates 4/5/6/7/8 Energy."
+        },
+        "image": "https://www.prydwen.gg/static/75fea1b409c81d80db1912623b1c697b/bf8e1/77_sm.png"
+    },
+    {
+        "coneId": 120,
+        "name": "Boundless Choreo",
+        "slug": "boundless-choreo",
+        "rarity": "4",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "May 8th, 2024",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "953"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "331"
+            }
+        },
+        "skillName": "Scrutinize",
+        "skillDescription": {
+            "formatted": "Increase the wearer's CRIT Rate by 8/10/12/14/16%. The wearer deals 24/30/36/42/48% more CRIT DMG to enemies that are currently DEF reduced or Slowed. "
+        },
+        "image": "https://www.prydwen.gg/static/58f7688ca7c7f512bec5991123315f9c/6766a/120_sm.webp"
+    },
+    {
+        "coneId": 90,
+        "name": "Brighter Than the Sun",
+        "slug": "brighter-than-the-sun",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "August 30th, 2023",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "48",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "28",
+                "value_level_max": "635"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Defiant Till Death",
+        "skillDescription": {
+            "formatted": "Increases the wearer's CRIT Rate by 18/21/24/27/30%. When the wearer uses their Basic ATK, they will gain 1 stack of Dragon's Call for 2 turns. Each stack of Dragon's Call increases the wearer's ATK by 18/21/24/27/30% and Energy Regeneration Rate by 6/7/8/9/10%. Dragon's Call can be stacked up to 2 times."
+        },
+        "image": "https://www.prydwen.gg/static/24606ed585e2102ab53c83ab85e850f0/bf8e1/81_sm.png"
+    },
+    {
+        "coneId": 34,
+        "name": "But the Battle Isn't Over",
+        "slug": "but-the-battle-isnt-over",
+        "rarity": "5",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1164"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "529"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Heir",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Energy Regeneration Rate by 10/12/14/16/18% and regenerates 1 Skill Point when the wearer uses their Ultimate on an ally. This effect can be triggered after every 2 uses of the wearer's  Ultimate. When the wearer uses their Skill, the next ally taking action (except the wearer) deals 30/35/40/45/50% more DMG for 1 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/931875d55a673889750eebabbace080c/bf8e1/34_sm.png"
+    },
+    {
+        "coneId": 52,
+        "name": "Carve the Moon, Weave the Clouds",
+        "slug": "carve-the-moon-weave-the-clouds",
+        "rarity": "4",
+        "source": [
+            "Nameless Glory"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Secret",
+        "skillDescription": {
+            "formatted": "At the start of the battle and whenever the wearer's turn begins, one of the following effects is applied randomly: All allies' ATK increases by 10/12.5/15/17.5/20%, all allies' CRIT DMG increases by 12/15/18/21/24%, or all allies' Energy Regeneration Rate increases by 6/7.5/9/10.5/12%. The applied effect cannot be identical to the last effect applied, and will replace the previous effect. The applied effect will be removed when the wearer has been knocked down. Effects of the similar type cannot be stacked.\n\n\n\n"
+        },
+        "image": "https://www.prydwen.gg/static/3a56d3253b7fa6a34b8a47ef83dc75d0/bf8e1/52_sm.png"
+    },
+    {
+        "coneId": 6,
+        "name": "Chorus",
+        "slug": "chorus",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "14",
+                "value_level_max": "317"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Concerted",
+        "skillDescription": {
+            "formatted": "After entering battle, increases the ATK of all allies by 8/9/10/11/12%. Effects of the same type cannot stack."
+        },
+        "image": "https://www.prydwen.gg/static/93782c5e3eda4ca14e5b7a6248e5b9ad/bf8e1/6_sm.png"
+    },
+    {
+        "coneId": 7,
+        "name": "Collapsing Sky",
+        "slug": "collapsing-sky",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "16",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "9",
+                "value_level_max": "198"
+            }
+        },
+        "skillName": "Havoc",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Basic ATK and Skill DMG by 20/25/30/35/40%."
+        },
+        "image": "https://www.prydwen.gg/static/7c396fbe543b48b7b00fd581ccd32474/bf8e1/7_sm.png"
+    },
+    {
+        "coneId": 119,
+        "name": "Concert for Two",
+        "slug": "concert-for-two",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "March 27th, 2024",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Inspire",
+        "skillDescription": {
+            "formatted": "Increases the wearer's DEF by 16/20/24/28/32%. For every on-field character that has a Shield, the DMG dealt by the wearer increases by 4/5/6/7/8%."
+        },
+        "image": "https://www.prydwen.gg/static/a8f050b44bf84f23c4b3dbf0b7d6cca5/6766a/119_sm.webp"
+    },
+    {
+        "coneId": 8,
+        "name": "Cornucopia",
+        "slug": "cornucopia",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Abundance",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Prosperity",
+        "skillDescription": {
+            "formatted": "When the wearer uses their Skill or Ultimate, their Outgoing Healing increases by 12/15/18/21/24%."
+        },
+        "image": "https://www.prydwen.gg/static/c617ed5818a7acba50045bdee38bb2f3/bf8e1/8_sm.png"
+    },
+    {
+        "coneId": 43,
+        "name": "Cruising in the Stellar Sea",
+        "slug": "cruising-in-the-stellar-sea",
+        "rarity": "5",
+        "source": [
+            "Herta's Store"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "529"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Chase",
+        "skillDescription": {
+            "formatted": "Increases the wearer's CRIT rate by 8/10/12/14/16%, and increases their CRIT rate against enemies with HP less than or equal to 50% by an extra 8/10/12/14/16%. When the wearer defeats an enemy, their ATK is increased by 20/25/30/35/40% for 2 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/95481a09fa414883db6b50ee37757320/bf8e1/43_sm.png"
+    },
+    {
+        "coneId": 128,
+        "name": "Dance at Sunset",
+        "slug": "dance-at-sunset",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "July 31st, 2024",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Unknown",
+        "skillDescription": {
+            "formatted": "Greatly increases the odds that the wearer will be attacked and increases the wearer's CRIT DMG by 36/42/48/54/60%. After the wearer uses their Ultimate, they receive 1 stack of Firedance, lasting for 2 turns and up to 2 stacks. Each stack of Firedance increases the DMG dealt by the wearer's follow-up attack by 36/42/48/54/60%."
+        },
+        "image": "https://www.prydwen.gg/static/f99e8d2137626e4953e13a8c439fdab1/6766a/126_sm.webp"
+    },
+    {
+        "coneId": 75,
+        "name": "Dance! Dance! Dance!",
+        "slug": "dance-dance-dance",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "19",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Cannot Stop It!",
+        "skillDescription": {
+            "formatted": "When the wearer uses their Ultimate, all allies' actions are Advanced Forward by 16/18/20/22/24%"
+        },
+        "image": "https://www.prydwen.gg/static/413d6d1f46849761f0b088b9d486a5d9/bf8e1/75.png"
+    },
+    {
+        "coneId": 9,
+        "name": "Darting Arrow",
+        "slug": "darting-arrow",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "33",
+                "value_level_max": "740"
+            },
+            "atk": {
+                "value_level_1": "16",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "War Cry",
+        "skillDescription": {
+            "formatted": "When the wearer defeats an enemy, increase ATK by 24/30/36/42/48% for 3 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/79929e7bed1376496e774d32422d108f/bf8e1/9_sm.png"
+    },
+    {
+        "coneId": 55,
+        "name": "Data Bank",
+        "slug": "data-bank",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "3",
+                "value_level_max": "740"
+            },
+            "atk": {
+                "value_level_1": "16",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Learned",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Ultimate DMG by 28/35/42/49/56%."
+        },
+        "image": "https://www.prydwen.gg/static/8af2d3130d2f0b18a28cafdd51dc8ee5/bf8e1/55_sm.png"
+    },
+    {
+        "coneId": 10,
+        "name": "Day One of My New Life",
+        "slug": "day-one-of-my-new-life",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "16",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "21",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "At This Very Moment",
+        "skillDescription": {
+            "formatted": "Increases the wearer's DEF by 16/18/20/22/24%. After entering battle, increases DMG RES of all allies by 8/9/10/11/12%. Effects of the same type cannot stack."
+        },
+        "image": "https://www.prydwen.gg/static/0d224a47f84785e4a325d27b74facaa8/bf8e1/10_sm.png"
+    },
+    {
+        "coneId": 11,
+        "name": "Defense",
+        "slug": "defense",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Revitalization",
+        "skillDescription": {
+            "formatted": "When the wearer unleashes their Ultimate, they restore HP by 18/21/24/27/30% of their Max HP."
+        },
+        "image": "https://www.prydwen.gg/static/6d4c1c107ec46a6b53078cd866e0bea2/bf8e1/11_sm.png"
+    },
+    {
+        "coneId": 114,
+        "name": "Destiny's Threads Forewoven",
+        "slug": "destinys-threads-forewoven",
+        "rarity": "4",
+        "source": [
+            "Forgotten Hall Store"
+        ],
+        "releaseDate": "February 29th, 2024",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Insight",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Effect RES by 12/14/16/18/20%. For every 100 of DEF the wearer has, increases the DMG dealt by 0.8/0.9/1/1.1/1.2% to a max increase of 32/36/40/44/48%."
+        },
+        "image": "https://www.prydwen.gg/static/f1513fc5ee4ef2d2e192c9f817c51665/bf8e1/114_sm.png"
+    },
+    {
+        "coneId": 111,
+        "name": "Dreamville Adventure",
+        "slug": "dreamville-adventure",
+        "rarity": "4",
+        "source": [
+            "Forgotten Hall Store"
+        ],
+        "releaseDate": "February 29th, 2024",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "953"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "397"
+            }
+        },
+        "skillName": "Solidarity",
+        "skillDescription": {
+            "formatted": "After the wearer uses a Basic ATK, Skill, or Ultimate, all allies gain Childishness, which increases the DMG dealt by the corresponding ability they used by 12/14/16/18/20%. Childishness only takes effect with the most recent ability used by the wearer and cannot be stacked."
+        },
+        "image": "https://www.prydwen.gg/static/b597df9999e6ae4ee581534115f69581/bf8e1/111_sm.png"
+    },
+    {
+        "coneId": 108,
+        "name": "Earthly Escapade",
+        "slug": "earthly-escapade",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "February 29th, 2024",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "1164"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "529"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Capriciousness",
+        "skillDescription": {
+            "formatted": "Increases the wearer's CRIT DMG by 32/39/46/52/60%. At the start of the battle, the wearer gains Mask, lasting for 3 turn(s). While the wearer has Mask, the wearer's allies have their CRIT Rate increased by 10/11/12/13/14% and their CRIT DMG increased by 28/35/42/49/56%. For every 1 Skill Point the wearer recovers (including Skill Points that exceed the limit), they gain 1 stack of Radiant Flame. And when the wearer has 4 stacks of Radiant Flame, all the stacks are removed, and they gain Mask, lasting for 4 turn(s). "
+        },
+        "image": "https://www.prydwen.gg/static/e0b8583d9a35e3f134d964523c4b7633/bf8e1/108_sm.png"
+    },
+    {
+        "coneId": 12,
+        "name": "Echoes of the Coffin",
+        "slug": "echoes-of-the-coffin",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "June 28th, 2023",
+        "path": "Abundance",
+        "stats": {
+            "hp": {
+                "value_level_1": "52",
+                "value_level_max": "1164"
+            },
+            "atk": {
+                "value_level_1": "26",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Thorns",
+        "skillDescription": {
+            "formatted": "Increases the wearer's ATK by 24/28/32/36/40%. After the wearer uses an attack, for each different enemy target the wearer hits, regenerates 3/3.5/4/4.5/5 Energy. Each attack can regenerate Energy up to 3 time(s) this way. After the wearer uses their Ultimate, all allies gain 12/14/16/18/20 SPD for 1 turn."
+        },
+        "image": "https://www.prydwen.gg/static/ce01cdcfb5f932237ec38b6e16723b78/bf8e1/12_sm.png"
+    },
+    {
+        "coneId": 126,
+        "name": "Eternal Calculus",
+        "slug": "eternal-calculus",
+        "rarity": "5",
+        "source": [
+            "Herta's Store"
+        ],
+        "releaseDate": "June 19th, 2024",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "529"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Unknown",
+        "skillDescription": {
+            "formatted": "Increases the wearer's ATK by 8/9/10/11/12%. After using an attack, for each enemy target hit, additionally increases ATK by 4/5/6/7/8%. This effect can stack 5 times and lasts until the next attack. If there are 3 or more enemy targets hit, this unit's SPD increases by 8/10/12/14/16%, lasting for 1 turn(s). "
+        },
+        "image": "https://www.prydwen.gg/static/154a933463e8e236742a6a4cf3a93727/6766a/126_sm.webp"
+    },
+    {
+        "coneId": 13,
+        "name": "Eyes of the Prey",
+        "slug": "eyes-of-the-prey",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Self-Confidence",
+        "skillDescription": {
+            "formatted": "Increases Effect Hit Rate of its wearer by 20/25/30/35/40% and increases DoT by 24/30/36/42/48%.\n\n"
+        },
+        "image": "https://www.prydwen.gg/static/261313a036e9b1d49d1b54957a7526c0/bf8e1/13_sm.png"
+    },
+    {
+        "coneId": 74,
+        "name": "Fermata",
+        "slug": "fermata",
+        "rarity": "4",
+        "source": [
+            "Forgotten Hall Store",
+            "Echo of War"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Semibreve Rest",
+        "skillDescription": {
+            "formatted": "Increases the Break Effect dealt by the wearer by 16/20/24/28/32%, and increases their DMG to enemies afflicted with Shock or Wind Shear by 16/20/24/28/32%. This also applies to DoT."
+        },
+        "image": "https://www.prydwen.gg/static/b38cf8ad2ac154feda9c2f67a011924a/bf8e1/74.png"
+    },
+    {
+        "coneId": 112,
+        "name": "Final Victor",
+        "slug": "final-victor",
+        "rarity": "4",
+        "source": [
+            "Forgotten Hall Store"
+        ],
+        "releaseDate": "February 29th, 2024",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "All In",
+        "skillDescription": {
+            "formatted": "Increases the wearer's ATK by 12/14/16/18/20%. When the wearer lands a CRIT hit on enemies, they will gain a stack of Good Fortune. This effect can be stacked 4 time(s). Every stack of Good Fortune the wearer has will increase their CRIT DMG by 8/9/10/11/12%. Good Fortune will be removed at the end of the wearer's turn."
+        },
+        "image": "https://www.prydwen.gg/static/8e43be18dc1b548063c37c957e09a683/bf8e1/112_sm.png"
+    },
+    {
+        "coneId": 14,
+        "name": "Fine Fruit",
+        "slug": "fine-fruit",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Abundance",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "14",
+                "value_level_max": "317"
+            },
+            "def": {
+                "value_level_1": "9",
+                "value_level_max": "198"
+            }
+        },
+        "skillName": "Savor",
+        "skillDescription": {
+            "formatted": "At the beginning of battle, immediately regenerates 6/8/9/11/12 Energy for all allies."
+        },
+        "image": "https://www.prydwen.gg/static/050612a4ace4566f197cbe37e74c09a6/bf8e1/14_sm.png"
+    },
+    {
+        "coneId": 113,
+        "name": "Flames Afar",
+        "slug": "flames-afar",
+        "rarity": "4",
+        "source": [
+            "Forgotten Hall Store"
+        ],
+        "releaseDate": "February 29th, 2024",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "265"
+            }
+        },
+        "skillName": "Deflagration",
+        "skillDescription": {
+            "formatted": "When the HP lost by the wearer during a single attack exceeds 25% of their Max HP, or if the HP they consume is greater than 25% of their Max HP, then immediately heals them for 15% of their Max HP while also increasing the DMG they deal by 25/31/38/44/50% for 2 turn(s). This effect can only be triggered once every 3 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/80c79616db32bf82d564c99e9c781432/bf8e1/113_sm.png"
+    },
+    {
+        "coneId": 122,
+        "name": "Flowing Nightglow",
+        "slug": "flowing-nightglow",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "May 8th, 2024",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "953"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "635"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Pacify",
+        "skillDescription": {
+            "formatted": "Every time any ally attacks, the wearer gains 1 stack of Cantillation. Each stack of Cantillation increases the wearer's Energy Regeneration Rate by 3/3.5/4/4.5/5%, stacking up to 5 times. When the wearer uses their Ultimate, removes Cantillation and gains Cadenza. Cadenza increases the Wearer's ATK by 48/60/72/84/96% and all allies' DMG dealt by 24/28/32/36/40%, lasting for 1 turn(s). "
+        },
+        "image": "https://www.prydwen.gg/static/cc1b3246bf6ab0fad222d7f7387b202e/6766a/122_sm.webp"
+    },
+    {
+        "coneId": 121,
+        "name": "For Tomorrow's Journey",
+        "slug": "for-tomorrows-journey",
+        "rarity": "4",
+        "source": [
+            "Mission Reward"
+        ],
+        "releaseDate": "May 8th, 2024",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "953"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "331"
+            }
+        },
+        "skillName": "Bonds",
+        "skillDescription": {
+            "formatted": "Increases the wearer's ATK by 16/20/24/28/32%. After the wearer uses their Ultimate, increases their DMG dealt by 18/21/24/27/30%, lasting for 1 turn. "
+        },
+        "image": "https://www.prydwen.gg/static/f2a3ae86473dc27596b5c2f485c8e03a/6766a/121_sm.webp"
+    },
+    {
+        "coneId": 64,
+        "name": "Geniuses' Repose",
+        "slug": "geniuses-repose",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Each Now Has a Role to Play",
+        "skillDescription": {
+            "formatted": "Increases the wearer's ATK by 16/20/24/28/32%. When the wearer defeats an enemy, the wearer's CRIT DMG increases by 24/30/36/42/48% for 3 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/792a8fee5e0d6aac4e776b08da5fcb55/bf8e1/64_1_.png"
+    },
+    {
+        "coneId": 15,
+        "name": "Good Night and Sleep Well",
+        "slug": "good-night-and-sleep-well",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Toiler",
+        "skillDescription": {
+            "formatted": "For every debuff the target enemy has, the DMG dealt by the wearer increases by 12/15/18/21/24%, stacking up to 3 time(s). This effect also applies to DoT."
+        },
+        "image": "https://www.prydwen.gg/static/49e01383ee891e54e310cab9f266ae97/bf8e1/15_sm.png"
+    },
+    {
+        "coneId": 102,
+        "name": "Hey, Over Here",
+        "slug": "hey-over-here",
+        "rarity": "4",
+        "source": [
+            "Mission Reward"
+        ],
+        "releaseDate": "November 15th, 2023",
+        "path": "Abundance",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "19",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "I'm Not Afraid!",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Max HP by 8/9/10/11/12%. When the wearer uses Skill, increases Outgoing Healing by 16/19/22/25/28%, lasting for 2 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/40a0831c3dc37bdd9e4760dafb29c99b/bf8e1/85_sm.png"
+    },
+    {
+        "coneId": 84,
+        "name": "Hidden Shadow",
+        "slug": "hidden-shadow",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "14",
+                "value_level_max": "317"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Mechanism",
+        "skillDescription": {
+            "formatted": "After using Skill, the wearer's next Basic ATK deals Additional DMG equal to 60/75/90/105/120% of ATK to the target enemy."
+        },
+        "image": "https://www.prydwen.gg/static/8befee6e0ff72ee3138fbcb714ca3d47/bf8e1/84.png"
+    },
+    {
+        "coneId": 100,
+        "name": "I Shall Be My Own Sword",
+        "slug": "i-shall-be-my-own-sword",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "October 11th, 2023",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "52",
+                "value_level_max": "1164"
+            },
+            "atk": {
+                "value_level_1": "26",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "With This Evening Jade",
+        "skillDescription": {
+            "formatted": "Increases the wearer's CRIT DMG by 20/23/26/29/32%. When an ally gets attacked or loses HP, the wearer gains 1 stack of Eclipse, up to a max of 3 stack(s). Each stack of Eclipse increases the DMG of the wearer's next attack by 14/16.5/19/21.5/24%. When 3 stack(s) are reached, additionally enables the attack to ignore 12/14/16/18/20% of the enemy's DEF. This effect will be removed after the wearer uses an attack."
+        },
+        "image": "https://www.prydwen.gg/static/e63f53f91b03c784c9b8c05a2e0f8b64/bf8e1/83_sm.png"
+    },
+    {
+        "coneId": 16,
+        "name": "In the Name of the World",
+        "slug": "in-the-name-of-the-world",
+        "rarity": "5",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Inheritor",
+        "skillDescription": {
+            "formatted": "Increases the wearer's DMG to debuffed enemies by 24/28/32/36/40%. When the wearer uses their Skill, the Effect Hit Rate for this attack increases by 18/21/24/27/30%, and ATK increases by 24/28/32/36/40%."
+        },
+        "image": "https://www.prydwen.gg/static/3428c825460dd5399f4efb9da9b0e83d/bf8e1/16_sm.png"
+    },
+    {
+        "coneId": 17,
+        "name": "In the Night",
+        "slug": "in-the-night",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Flowers and Butterflies",
+        "skillDescription": {
+            "formatted": "Increases the wearer's CRIT Rate by 18/21/24/27/30%. While the wearer is in battle, for every 10 SPD that exceeds 100, the DMG of the wearer's Basic ATK and Skill is increased by 6/7/8/9/10% and the CRIT DMG of their Ultimate is increased by 12/14/16/18/20%. This effect can stack up to 6 time(s)."
+        },
+        "image": "https://www.prydwen.gg/static/af94d389d11987a11fa26addddb9a6c1/bf8e1/17_sm.png"
+    },
+    {
+        "coneId": 18,
+        "name": "Incessant Rain",
+        "slug": "incessant-rain",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "June 7th, 2023",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "48",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "26",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "21",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Mirage of Reality",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Effect Hit Rate by 24/28/32/36/40%. When the wearer deals DMG to an enemy with 3 or more debuffs, increases CRIT Rate by 12/14/16/18/20%. After the wearer uses their Basic ATK, Skill, or Ultimate, there is a 100% base chance to implant Aether Code on a random target that does not have it yet. Targets with Aether Code receive 12/14/16/18/20% increased DMG for 1 turn."
+        },
+        "image": "https://www.prydwen.gg/static/1c446bb409f3a23b07ff8176f3a14d79/bf8e1/18_sm.png"
+    },
+    {
+        "coneId": 109,
+        "name": "Indelible Promise",
+        "slug": "indelible-promise",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "February 29th, 2024",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "953"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "331"
+            }
+        },
+        "skillName": "Inheritance",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Break Effect by 28/35/42/49/56%. When the wearer uses their Ultimate, increases CRIT Rate by 15/18.75/22.5/26.25/30%, lasting for 2 turns."
+        },
+        "image": "https://www.prydwen.gg/static/142c5e8fd4bd668baeaae0e00c70c0d8/bf8e1/109_sm.png"
+    },
+    {
+        "coneId": 118,
+        "name": "Inherently Unjust Destiny",
+        "slug": "inherently-unjust-destiny",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "April 17th, 2024",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "661"
+            }
+        },
+        "skillName": "All-In",
+        "skillDescription": {
+            "formatted": "Increases the wearer's DEF by 40/46/52/58/64%. When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by 40/46/52/58/64%, lasting for 2 turn(s). When the wearer's follow-up attack hits an enemy target, there is a 100/115/130/145/160% base chance to increase the DMG taken by the attacked enemy target by 10/11.5/13/14.5/16%, lasting for 2 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/7d2aacdb7e13518f6ee7e393ba9d701d/6766a/118_sm.webp"
+    },
+    {
+        "coneId": 115,
+        "name": "It's Showtime",
+        "slug": "its-showtime",
+        "rarity": "4",
+        "source": [
+            "Forgotten Hall Store"
+        ],
+        "releaseDate": "February 29th, 2024",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "265"
+            }
+        },
+        "skillName": "Self-Amusement",
+        "skillDescription": {
+            "formatted": "When the wearer inflicts a debuff on an enemy, they gain a stack of Trick. Every stack of Trick increases the wearer's DMG dealt by 6/7/8/9/10% for a max of 3 stack(s). This effect lasts for 1 turn(s). When the wearer's Effect Hit Rate is greater than or equal to 80%, increases ATK by 20/24/28/32/36%."
+        },
+        "image": "https://www.prydwen.gg/static/29bec25b188bd9fa16b84d85eebb78dc/bf8e1/115_sm.png"
+    },
+    {
+        "coneId": 19,
+        "name": "Landau's Choice",
+        "slug": "landaus-choice",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Time Fleets Away",
+        "skillDescription": {
+            "formatted": "The wearer is more likely to be attacked, but DMG taken is reduced by 16/18/20/22/24%."
+        },
+        "image": "https://www.prydwen.gg/static/225f6cceff0407a12cf8eac0bcbae900/bf8e1/19_sm.png"
+    },
+    {
+        "coneId": 20,
+        "name": "Loop",
+        "slug": "loop",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "14",
+                "value_level_max": "317"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Pursuit",
+        "skillDescription": {
+            "formatted": "Increases DMG dealt from its wearer to Slowed enemies by 24/30/36/42/48%"
+        },
+        "image": "https://www.prydwen.gg/static/12359f7c1d6c23d7e6548d9bd1d3c26b/bf8e1/20_sm.png"
+    },
+    {
+        "coneId": 21,
+        "name": "Make the World Clamor",
+        "slug": "make-the-world-clamor",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "The Power of Sound",
+        "skillDescription": {
+            "formatted": "The wearer regenerates 20/23/26/29/32 Energy immediately upon entering battle, and increases Ultimate DMG by 32/40/48/56/64%."
+        },
+        "image": "https://www.prydwen.gg/static/2961f284c0bd1aeeacba2cbc54422907/bf8e1/21_sm.png"
+    },
+    {
+        "coneId": 85,
+        "name": "Mediation",
+        "slug": "mediation",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "14",
+                "value_level_max": "317"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Family",
+        "skillDescription": {
+            "formatted": "Upon battle entry, all allies receive 12/14/16/18/20 increased SPD for 1 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/9c38eb9c3de403a0826ecab8f8e7dfbc/bf8e1/85.png"
+    },
+    {
+        "coneId": 22,
+        "name": "Memories of the Past",
+        "slug": "memories-of-the-past",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Old Photo",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Break Effect by 28/35/42/49/56%. When the wearer attacks, additionally regenerates 4/5/6/7/8 Energy. This effect can only be triggered 1 time per turn.\n\n"
+        },
+        "image": "https://www.prydwen.gg/static/72ae0c1d1c7399b609b7138f5d9a801e/bf8e1/22_sm.png"
+    },
+    {
+        "coneId": 23,
+        "name": "Meshing Cogs",
+        "slug": "meshing-cogs",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "14",
+                "value_level_max": "317"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Fleet Triumph",
+        "skillDescription": {
+            "formatted": "After the wearer uses attacks or gets hit, additionally regenerates 4/5/6/7/8 Energy. This effect can only be triggered 1 time per turn."
+        },
+        "image": "https://www.prydwen.gg/static/c42a7c279683214a89ea28fac49be8b5/bf8e1/23_sm.png"
+    },
+    {
+        "coneId": 24,
+        "name": "Moment of Victory",
+        "slug": "moment-of-victory",
+        "rarity": "5",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "595"
+            }
+        },
+        "skillName": "Verdict",
+        "skillDescription": {
+            "formatted": "Increases the wearer's DEF by 24/28/32/36/40% and Effect Hit Rate by 24/28/32/36/40%. Increases the chance for the wearer to be attacked by enemies. When the wearer is attacked, increase their DEF by an additional 24/28/32/36/40% until the end of the wearer's turn.\n"
+        },
+        "image": "https://www.prydwen.gg/static/2961fbc55b328b28a927ae3afb1b4033/bf8e1/24_sm.png"
+    },
+    {
+        "coneId": 81,
+        "name": "Multiplication",
+        "slug": "multiplication",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Abundance",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "14",
+                "value_level_max": "317"
+            },
+            "def": {
+                "value_level_1": "9",
+                "value_level_max": "198"
+            }
+        },
+        "skillName": "Denizens of Abundance",
+        "skillDescription": {
+            "formatted": "After the wearer uses their Basic ATK, their next action will be Advanced Forward by 12/14/16/18/20%."
+        },
+        "image": "https://www.prydwen.gg/static/5743cab33aad12bca45a7ad245f0f615/bf8e1/81.png"
+    },
+    {
+        "coneId": 82,
+        "name": "Mutual Demise",
+        "slug": "mutual-demise",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "16",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "9",
+                "value_level_max": "198"
+            }
+        },
+        "skillName": "Legion",
+        "skillDescription": {
+            "formatted": "If the wearer's current HP is lower than 80%, CRIT Rate increases by 12/15/18/21/24%."
+        },
+        "image": "https://www.prydwen.gg/static/e650dad6cc6a2ce5876709a3ab66a7fd/bf8e1/82.png"
+    },
+    {
+        "coneId": 103,
+        "name": "Night of Fright",
+        "slug": "night-of-fright",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "November 15th, 2023",
+        "path": "Abundance",
+        "stats": {
+            "hp": {
+                "value_level_1": "52",
+                "value_level_max": "1164"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "24",
+                "value_level_max": "529"
+            }
+        },
+        "skillName": "Deep, Deep Breaths",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Energy Regeneration Rate by 12/14/16/18/20%. When any ally uses their Ultimate, the wearer restores HP for the ally currently with the lowest HP percentage by an amount equal to 10/11/12/13/14% of the healed ally's Max HP. When the wearer provides healing for an ally, increases the healed ally's ATK by 2.4/2.8/3.2/3.6/4%. This effect can stack up to 5 times and lasts for 2 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/ab8bc07509a5c5d06c93d624ef9c6578/bf8e1/86_sm.png"
+    },
+    {
+        "coneId": 25,
+        "name": "Night on the Milky Way",
+        "slug": "night-on-the-milky-way",
+        "rarity": "5",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1164"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Meteor Swarm",
+        "skillDescription": {
+            "formatted": "For every enemy on the field, increases the wearer's ATK by 9/10.5/12/13.5/15%, up to 5 stacks. When an enemy is inflicted with Weakness Break, the DMG dealt by the wearer increases by 30/35/40/45/50% for 1 turn."
+        },
+        "image": "https://www.prydwen.gg/static/e0407cd91e9c6a95d0ade9340902ddab/bf8e1/25_sm.png"
+    },
+    {
+        "coneId": 53,
+        "name": "Nowhere to Run",
+        "slug": "nowhere-to-run",
+        "rarity": "4",
+        "source": [
+            "Nameless Glory"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "529"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Crisis",
+        "skillDescription": {
+            "formatted": "Increases the wearer's ATK by 24/30/36/42/48%. Whenever the wearer defeats an enemy, they restore HP equal to 12/15/18/21/24% of their ATK.\n"
+        },
+        "image": "https://www.prydwen.gg/static/b5da36b50458401dae3775810fe242ca/bf8e1/53_sm.png"
+    },
+    {
+        "coneId": 42,
+        "name": "On the Fall of an Aeon",
+        "slug": "on-the-fall-of-an-aeon",
+        "rarity": "5",
+        "source": [
+            "Herta's Store"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "529"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Moth To Flames",
+        "skillDescription": {
+            "formatted": "Whenever the wearer attacks, their ATK is increased by 8/10/12/14/16% in this battle, up to 4 time(s). When the wearer inflicts Weakness Break on enemies, the wearer's DMG increases by 12/15/18/21/24% for 2 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/e84b9100419cf4d6984d7243afe16ce7/bf8e1/42_sm.png"
+    },
+    {
+        "coneId": 26,
+        "name": "Only Silence Remains",
+        "slug": "only-silence-remains",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Record",
+        "skillDescription": {
+            "formatted": "Increases ATK of its wearer by 16/20/24/28/32%. If there are 2 or fewer enemies on the field, increases wearer's CRIT Rate by 12/15/18/21/24%."
+        },
+        "image": "https://www.prydwen.gg/static/c7e89e126089a44187b1a69794b255ba/bf8e1/26_sm.png"
+    },
+    {
+        "coneId": 27,
+        "name": "Passkey",
+        "slug": "passkey",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "33",
+                "value_level_max": "740"
+            },
+            "atk": {
+                "value_level_1": "16",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Epiphany",
+        "skillDescription": {
+            "formatted": "After the wearer uses their Skill, additionally regenerates 8/9/10/11/12 Energy. This effect can only be triggered 1 time per turn."
+        },
+        "image": "https://www.prydwen.gg/static/8f6c733c02d32be5562688947d036213/bf8e1/27_sm.png"
+    },
+    {
+        "coneId": 76,
+        "name": "Past and Future",
+        "slug": "past-and-future",
+        "rarity": "4",
+        "source": [
+            "Echo of War",
+            "Forgotten Hall Store",
+            "Mission Reward"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "19",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Kites From the Past",
+        "skillDescription": {
+            "formatted": "When the wearer uses their Skill, then the next ally taking action (except the wearer) deals 16/20/24/28/32% increased DMG for 1 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/e6bd252bade4a9c2fc8553009fbc22a5/bf8e1/76_1_.png"
+    },
+    {
+        "coneId": 105,
+        "name": "Past Self in Mirror",
+        "slug": "past-self-in-mirror",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "December 27th, 2023",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "529"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "529"
+            }
+        },
+        "skillName": "The Plum Fragrance In My Bones",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Break Effect by 60/70/80/90/100%. After the wearer uses their Ultimate, increases all allies' DMG by 24/28/32/36/40%, lasting for 3 turns. Should the wearer's Break Effect exceed or equal 150%, 1 Skill Point will be recovered. At the start of each wave, immediately regenerates 10/12.5/15/17.5/20 Energy for all allies. Effects of the same type cannot stack."
+        },
+        "image": "https://www.prydwen.gg/static/62f4090b7816ffdf7dfdeea61df642f3/bf8e1/105_sm.png"
+    },
+    {
+        "coneId": 78,
+        "name": "Patience Is All You Need",
+        "slug": "patience-is-all-you-need",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "August 8th, 2023",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "48",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "26",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "21",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Spider Web",
+        "skillDescription": {
+            "formatted": "Increases DMG dealt by the wearer by 24/28/32/36/40%. After every attack launched by wearer, their SPD increases by 4.8/5.6/6.4/7.2/8%, stacking up to 3 times. If the wearer hits an enemy target that is not afflicted by Erode, there is a 100% base chance to inflict Erode to the target. Enemies afflicted with Erode are also considered to be Shocked and will receive Lightning DoT at the start of each turn equal to 60/70/80/90/100% of the wearer's ATK, lasting for 1 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/8f3f24adc70cd9c88a46df3d60e074ee/bf8e1/48_sm.png"
+    },
+    {
+        "coneId": 59,
+        "name": "Perfect Timing",
+        "slug": "perfect-timing",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Abundance",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "19",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Refraction of Sightline",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Effect RES by 16/20/24/28/32% and increases Outgoing Healing by an amount that is equal to 33/36/39/42/45% of Effect RES. Outgoing Healing can be increased this way by up to 15/18/21/24/27%."
+        },
+        "image": "https://www.prydwen.gg/static/24d2334b04dc4ef92805e7886b70dece/bf8e1/59.png"
+    },
+    {
+        "coneId": 83,
+        "name": "Pioneering",
+        "slug": "pioneering",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "IPC",
+        "skillDescription": {
+            "formatted": "When the wearer Breaks an enemy's Weakness, the wearer restores HP by 12/14/16/18/20% of their Max HP."
+        },
+        "image": "https://www.prydwen.gg/static/1d225828468ec1c60b9f24811a050ff7/bf8e1/83.png"
+    },
+    {
+        "coneId": 29,
+        "name": "Planetary Rendezvous",
+        "slug": "planetary-rendezvous",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Departure",
+        "skillDescription": {
+            "formatted": "Upon battle entry, if an ally deals the same DMG Type as the wearer, DMG dealt increases by 12/15/18/21/24%."
+        },
+        "image": "https://www.prydwen.gg/static/b951f68b04b49c5ad8df6592fd4fdc6f/bf8e1/29_sm.png"
+    },
+    {
+        "coneId": 130,
+        "name": "Poised to Bloom",
+        "slug": "poised-to-bloom",
+        "rarity": "4",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "August 21st, 2024",
+        "path": "Harmony",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Unknown",
+        "skillDescription": {
+            "formatted": "Increases the wearer's ATK by 16%. Upon entering battle, if two or more characters follow the same Path, then these characters' CRIT DMG increases by 16%. Abilities of the same type cannot stack. "
+        },
+        "image": "https://www.prydwen.gg/static/d95f0d0d4460d494cfa9e05e73491737/6766a/130_sm.webp"
+    },
+    {
+        "coneId": 30,
+        "name": "Post-Op Conversation",
+        "slug": "post-op-conversation",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Abundance",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Mutual Healing",
+        "skillDescription": {
+            "formatted": "Increases Energy Regeneration Rate of its wearer by 8/10/12/14/16% and increases Outgoing Healing when they use their Ultimate by 12/15/18/21/24%."
+        },
+        "image": "https://www.prydwen.gg/static/980d0fe4dd4c0510ab19595b1939d984/bf8e1/30_sm.png"
+    },
+    {
+        "coneId": 62,
+        "name": "Quid Pro Quo",
+        "slug": "quid-pro-quo",
+        "rarity": "4",
+        "source": [
+            "Forgotten Hall Store",
+            "Echo of War"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Abundance",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "19",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Enjoy With Rapture",
+        "skillDescription": {
+            "formatted": "At the start of the wearer's turn, regenerates 8/10/12/14/16 Energy for a randomly chosen ally (excluding the wearer) whose current Energy is lower than 50%."
+        },
+        "image": "https://www.prydwen.gg/static/373e5fe59648f1d8ed873494912e3ccf/bf8e1/62.png"
+    },
+    {
+        "coneId": 107,
+        "name": "Reforged Remembrance",
+        "slug": "reforged-remembrance",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "February 6th, 2024",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Crystallize",
+        "skillDescription": {
+            "formatted": "Increases wearer's Effect Hit Rate by 40/45/50/55/60%. When the wearer deals DMG to an enemy inflicted with Wind Shear, Burn, Shock, or Bleed, they will individually gain 1 stack of Prophet. This effect can stack up to 4 times. In a single battle, each type of DoT can only generate 1 stack of Prophet. Every stack of Prophet increases wearer's ATK by 5/6/7/8/9% and the DoT dealt will ignore 7.2/7.9/8.6/9.3/10% of the target's DEF."
+        },
+        "image": "https://www.prydwen.gg/static/602cb061205a31d6fda10bbcfb1c2f06/bf8e1/107_sm.png"
+    },
+    {
+        "coneId": 58,
+        "name": "Resolution Shines As Pearls of Sweat",
+        "slug": "resolution-shines-as-pearls-of-sweat",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Glance Back",
+        "skillDescription": {
+            "formatted": "When the wearer hits an enemy and if the hit enemy is not already Ensnared, then there is a 60/70/80/90/100% base chance to Ensnare the hit enemy. Ensnared enemies' DEF decreases by 12/13/14/15/16% for 1 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/1e31ed68f3897ad7be84f972f48cf243/bf8e1/58.png"
+    },
+    {
+        "coneId": 51,
+        "name": "Return to Darkness",
+        "slug": "return-to-darkness",
+        "rarity": "4",
+        "source": [
+            "Nameless Glory"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "529"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Raging Waves",
+        "skillDescription": {
+            "formatted": "Increases the wearer's CRIT Rate by 12/15/18/21/24%. After a CRIT Hit, there is a 16/20/24/28/32% fixed chance to dispel 1 buff on the target enemy. This effect can only trigger once per attack."
+        },
+        "image": "https://www.prydwen.gg/static/94bb0e0f33690532c70d54dfb1335794/bf8e1/51_sm.png"
+    },
+    {
+        "coneId": 66,
+        "name": "River Flows in Spring",
+        "slug": "river-flows-in-spring",
+        "rarity": "4",
+        "source": [
+            "Forgotten Hall Store",
+            "Echo of War"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Stave Off the Lingering Cold",
+        "skillDescription": {
+            "formatted": "After entering battle, increases the wearer's SPD by 8/9/10/11/12% and DMG by 12/15/18/21/24%. When the wearer takes DMG, this effect will disappear. This effect will resume after the end of the wearer's next turn."
+        },
+        "image": "https://www.prydwen.gg/static/430e6fdb82d955253b27d8406d9fd71a/bf8e1/66_s.png"
+    },
+    {
+        "coneId": 86,
+        "name": "Sagacity",
+        "slug": "sagacity",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "33",
+                "value_level_max": "740"
+            },
+            "atk": {
+                "value_level_1": "16",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Genius",
+        "skillDescription": {
+            "formatted": "When the wearer uses their Ultimate, increases ATK by 24/30/36/42/48% for 2 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/093ac77f3c7b056fb9a397469f99e702/bf8e1/86.png"
+    },
+    {
+        "coneId": 123,
+        "name": "Sailing Towards A Second Life",
+        "slug": "sailing-towards-a-second-life",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "May 29th, 2024",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Rough Water",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Break Effect by 60/70/80/90/100%. The Break DMG dealt by the wearer ignores 20/23/26/29/32% of the target's DEF. When the wearer's Break Effect in battle is at 150% or greater, increases their SPD by 12/14/16/18/20%. "
+        },
+        "image": "https://www.prydwen.gg/static/ad44dc9eafa7d2150b91f0be582c970a/6766a/123_sm.webp"
+    },
+    {
+        "coneId": 45,
+        "name": "Shared Feeling",
+        "slug": "shared-feeling",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Abundance",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Cure and Repair",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Outgoing Healing by 10/12.5/15/17.5/20%. When using Skill, regenerates 2/2/3/3/4 Energy for all allies."
+        },
+        "image": "https://www.prydwen.gg/static/d1b3b003412c188406381141971021f2/bf8e1/45_sm.png"
+    },
+    {
+        "coneId": 31,
+        "name": "Shattered Home",
+        "slug": "shattered-home",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "16",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "9",
+                "value_level_max": "198"
+            }
+        },
+        "skillName": "Eradication",
+        "skillDescription": {
+            "formatted": "Deals 20/25/30/35/40% increased DMG to any enemies whose HP is above 50%."
+        },
+        "image": "https://www.prydwen.gg/static/35ea9a876859ef0f9a7e159c613c28af/bf8e1/31_sm.png"
+    },
+    {
+        "coneId": 91,
+        "name": "She Already Shut Her Eyes",
+        "slug": "she-already-shut-her-eyes",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "September 20th, 2023",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "57",
+                "value_level_max": "1270"
+            },
+            "atk": {
+                "value_level_1": "19",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "24",
+                "value_level_max": "529"
+            }
+        },
+        "skillName": "Visioscape",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Max HP by 24/28/32/36/40% and Energy Regeneration Rate by 12/14/16/18/20%. When the wearer's HP is decreased, increases the DMG of all allies by  9/10.5/12/13.5/15% for 2 turns. At the beginning of each wave, restores HP equal to 80/85/90/95/100% of HP already lost by the character themselves for team."
+        },
+        "image": "https://www.prydwen.gg/static/1b4a8facf974b2d21a064e62b51a770f/bf8e1/91_sm.png"
+    },
+    {
+        "coneId": 40,
+        "name": "Sleep Like the Dead",
+        "slug": "sleep-like-the-dead",
+        "rarity": "5",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Sweet Dreams",
+        "skillDescription": {
+            "formatted": "Increases the wearer's CRIT DMG by 30/35/40/45/50%. When the wearer's Basic ATK or Skill does not result in a CRIT Hit, increases their CRIT Rate by 36/42/48/54/60% for 1 turn(s). This effect can only trigger once every 3 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/1d3ff86f1d5fbdc16c3a3b65b630338b/bf8e1/40_sm.png"
+    },
+    {
+        "coneId": 80,
+        "name": "Solitary Healing",
+        "slug": "solitary-healing",
+        "rarity": "5",
+        "source": [
+            "Herta's Store"
+        ],
+        "releaseDate": "August 30th, 2023",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "48",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "24",
+                "value_level_max": "529"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Chaos Elixir",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Break Effect by 20/25/30/35/40%. When the wearer unleashes their Ultimate, increases DoT dealt by the wearer by 24/30/36/42/48% for 2 turn(s). Defeating the target suffering from the wearer's DoT allows the wearer to regenerate 4/4.5/5/5.5/6 Energy."
+        },
+        "image": "https://www.prydwen.gg/static/58a82d543b9c11f215bac9b440e78390/bf8e1/80_sm.png"
+    },
+    {
+        "coneId": 32,
+        "name": "Something Irreplaceable",
+        "slug": "something-irreplaceable",
+        "rarity": "5",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1164"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Kinship",
+        "skillDescription": {
+            "formatted": "Increases the wearer's ATK by 24/28/32/36/40%. When the wearer defeats an enemy or is hit, immediately restores HP equal to 8/9/10/11/12% of the wearer's ATK. At the same time, the wearer's DMG is increased by 24/28/32/36/40% until the end of their next turn. This effect cannot stack and can only trigger 1 time per turn."
+        },
+        "image": "https://www.prydwen.gg/static/234a1966d56fa7c386a0fd9bc5969cef/bf8e1/32_sm.png"
+    },
+    {
+        "coneId": 61,
+        "name": "Subscribe for More!",
+        "slug": "subscribe-for-more",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Like Before You Leave!",
+        "skillDescription": {
+            "formatted": "Increases the DMG of the wearer's Basic ATK and Skill by 24/30/36/42/48%. This effect increases by an extra 24/30/36/42/48% when the wearer's current Energy reaches its max level."
+        },
+        "image": "https://www.prydwen.gg/static/28775441fb27705eed9cc1b657b3d6a2/bf8e1/61.png"
+    },
+    {
+        "coneId": 33,
+        "name": "Swordplay",
+        "slug": "swordplay",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Answers of Their Own",
+        "skillDescription": {
+            "formatted": "For each time the wearer hits the same target, DMG dealt increases by 8/10/12/14/16%, stacking up to 5 time(s). This effect will be dispelled when the wearer changes targets."
+        },
+        "image": "https://www.prydwen.gg/static/68ff0c5fe7ed671b1ce0191f0109e4c4/bf8e1/33_sm.png"
+    },
+    {
+        "coneId": 44,
+        "name": "Texture of Memories",
+        "slug": "texture-of-memories",
+        "rarity": "5",
+        "source": [
+            "Herta's Store"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "529"
+            }
+        },
+        "skillName": "Treasure",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Effect RES by 8/10/12/14/16%. If the wearer is attacked and has no Shield, they gain a Shield equal to 16/20/24/28/32% of their Max HP for 2 turn(s). This effect can only be triggered once every 3 turn(s). If the wearer has a Shield when attacked, the DMG they receive decreases by 12/15/18/21/24%."
+        },
+        "image": "https://www.prydwen.gg/static/f1fa087c18398e206f64b293828e570c/bf8e1/44_sm.png"
+    },
+    {
+        "coneId": 35,
+        "name": "The Birth of the Self",
+        "slug": "the-birth-of-the-self",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "The Maiden in the Painting",
+        "skillDescription": {
+            "formatted": "Increases DMG dealt by the wearer's follow-up attacks by 24/30/36/42/48%. If the current HP of the target enemy is below 50% of their Max HP, increases DMG dealt by follow-up attacks by an extra 24/30/36/42/48%."
+        },
+        "image": "https://www.prydwen.gg/static/a2317fe2cad2b22fd1066b449efabafe/bf8e1/35_sm_1_.png"
+    },
+    {
+        "coneId": 116,
+        "name": "The Day The Cosmos Fell",
+        "slug": "the-day-the-cosmos-fell",
+        "rarity": "4",
+        "source": [
+            "Forgotten Hall Store"
+        ],
+        "releaseDate": "February 29th, 2024",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "953"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "331"
+            }
+        },
+        "skillName": "Stratagem",
+        "skillDescription": {
+            "formatted": "Increases the wearer's ATK by 16/18/20/22/24%. When the wearer uses an attack and affects no fewer than 2 attacked enemies with a corresponding Weakness, the wearer's CRIT DMG increases by 20/25/30/35/40% for 2 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/81864d061aafa6716a543a1d33a4b39e/bf8e1/116_sm.png"
+    },
+    {
+        "coneId": 36,
+        "name": "The Moles Welcome You",
+        "slug": "the-moles-welcome-you",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Fantastic Adventure",
+        "skillDescription": {
+            "formatted": "When the wearer uses Basic ATK, Skill, or Ultimate to attack enemies, the wearer gains one stack of Mischievous. Each stack increases the wearer's ATK by 12/15/18/21/24%.\n\n"
+        },
+        "image": "https://www.prydwen.gg/static/d5312a17d479f54bbdaeead55e017dc9/bf8e1/36_sm.png"
+    },
+    {
+        "coneId": 47,
+        "name": "The Seriousness of Breakfast",
+        "slug": "the-seriousness-of-breakfast",
+        "rarity": "4",
+        "source": [
+            "Mission Reward",
+            "Forgotten Hall Store",
+            "Echo of War"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Get Ready",
+        "skillDescription": {
+            "formatted": "Increases the wearer's DMG by 12/15/18/21/24%. For every defeated enemy, the wearer's ATK increases by 4/5/6/7/8%, stacking up to 3 time(s).\n\n"
+        },
+        "image": "https://www.prydwen.gg/static/1a13f10fd98d3bc272a30bf3488c32a7/bf8e1/47_sm.png"
+    },
+    {
+        "coneId": 79,
+        "name": "The Unreachable Side",
+        "slug": "the-unreachable-side",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "July 18th, 2023",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "57",
+                "value_level_max": "1270"
+            },
+            "atk": {
+                "value_level_1": "26",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Unfulfilled Yearning",
+        "skillDescription": {
+            "formatted": "Increases the wearer's CRIT rate by 18/21/24/27/30% and increases their Max HP by 18/21/24/27/30%. When the wearer is attacked or consumes their own HP, their DMG increases by 24/28/32/36/40%. This effect is removed after the wearer uses an attack."
+        },
+        "image": "https://www.prydwen.gg/static/0a05052c5b425c80a4327a2515410d28/bf8e1/79_sm.png"
+    },
+    {
+        "coneId": 50,
+        "name": "This Is Me!",
+        "slug": "this-is-me",
+        "rarity": "4",
+        "source": [
+            "Nameless Glory"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "529"
+            }
+        },
+        "skillName": "New Chapter",
+        "skillDescription": {
+            "formatted": "Increases the wearer's DEF by 16/20/24/28/32%. Increases the DMG of the wearer when they use their Ultimate by 60/75/90/105/120% of the wearer's DEF. This effect only apply 1 time per enemy target."
+        },
+        "image": "https://www.prydwen.gg/static/a1dc853200a37a6c0d2cb90edb432af4/bf8e1/50_sm.png"
+    },
+    {
+        "coneId": 129,
+        "name": "Those Many Springs",
+        "slug": "those-many-springs",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "August 21st, 2024",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "529"
+            }
+        },
+        "skillName": "Unknown",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Effect Hit Rate by 60%. After the wearer uses Basic ATK, Skill, or Ultimate to attack an enemy target, there is a 60% base chance to inflict \"Unarmored\" on the target. While in the Unarmored state, the enemy target receives 10% increased DMG, lasting for 2 turn(s). If the target is under a DoT state inflicted by the wearer, there is a 60% base chance to upgrade the \"Unarmored\" state inflicted by the wearer to the \"Cornered\" state, which additionally increases the DMG the target enemy receives by 14%, lasting for 2 turn(s). During this period, the wearer cannot inflict \"Unarmored\" on the target. "
+        },
+        "image": "https://www.prydwen.gg/static/b82ade90b52bfd9dc6fb704bde219e09/6766a/129_sm.webp"
+    },
+    {
+        "coneId": 41,
+        "name": "Time Waits for No One",
+        "slug": "time-waits-for-no-one",
+        "rarity": "5",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Abundance",
+        "stats": {
+            "hp": {
+                "value_level_1": "",
+                "value_level_max": "1270"
+            },
+            "atk": {
+                "value_level_1": "",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Morn, Noon, Dusk, and Night",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Max HP by 18/21/24/27/30% and Outgoing Healing by 12/14/16/18/20%. When the wearer heals allies, record the amount of Outgoing Healing. When any ally launches an attack, a random attacked enemy takes Additional DMG equal to 36/42/48/54/60% of the recorded Outgoing Healing value. This Additional DMG is of the same Type as the wearer's, is not affected by other buffs, and can only occur 1 time per turn\n\n\n"
+        },
+        "image": "https://www.prydwen.gg/static/22ccbc514e15621686ddfb9a7bdb24ef/bf8e1/41_sm.png"
+    },
+    {
+        "coneId": 54,
+        "name": "Today Is Another Peaceful Day",
+        "slug": "today-is-another-peaceful-day",
+        "rarity": "4",
+        "source": [
+            "Nameless Glory"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "529"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "A Storm Is Coming",
+        "skillDescription": {
+            "formatted": "After entering battle, increases the wearer's DMG based on their Max Energy. DMG increases by 0.2/0.25/0.3/0.35/0.4% per point of Energy, up to 160 Energy."
+        },
+        "image": "https://www.prydwen.gg/static/dfc5c1637e6749d7db6b56fa8e96a5aa/bf8e1/54_sm.png"
+    },
+    {
+        "coneId": 60,
+        "name": "Trend of the Universal Market",
+        "slug": "trend-of-the-universal-market",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "16",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "A New Round of Shuffling",
+        "skillDescription": {
+            "formatted": "Increases the wearer's DEF by 16/20/24/28/32%. When the wearer is attacked, there is a 100/105/110/115/120% base chance to Burn the enemy. For each turn, the wearer deals DoT that is equal to 40/50/60/70/80% of the wearer's DEF for 2 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/5fde1224150bb187a40fdd0fe8d4e8f6/bf8e1/60.png"
+    },
+    {
+        "coneId": 63,
+        "name": "Under the Blue Sky",
+        "slug": "under-the-blue-sky",
+        "rarity": "4",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Rye Under the Sun",
+        "skillDescription": {
+            "formatted": "Increases the wearer's ATK by 16/20/24/28/32%. When the wearer defeats an enemy, the wearer's CRIT Rate increases by 12/15/18/21/24% for 3 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/3e985b4d44bc0d986bfba9746a2cf344/bf8e1/63_1_.png"
+    },
+    {
+        "coneId": 38,
+        "name": "Void",
+        "slug": "void",
+        "rarity": "3",
+        "source": [
+            "Stellar Warp"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "38",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "14",
+                "value_level_max": "317"
+            },
+            "def": {
+                "value_level_1": "12",
+                "value_level_max": "264"
+            }
+        },
+        "skillName": "Fallen",
+        "skillDescription": {
+            "formatted": "At the start of battle, increases the wearer's Effect Hit Rate by 20/25/30/35/40% for 3 turn(s)."
+        },
+        "image": "https://www.prydwen.gg/static/6d3ecc47acc472655beedc55024ac91c/bf8e1/38_sm.png"
+    },
+    {
+        "coneId": 48,
+        "name": "Warmth Shortens Cold Nights",
+        "slug": "warmth-shortens-cold-nights",
+        "rarity": "4",
+        "source": [
+            "Nameless Glory"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Abundance",
+        "stats": {
+            "hp": {
+                "value_level_1": "48",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "16",
+                "value_level_max": "370"
+            },
+            "def": {
+                "value_level_1": "18",
+                "value_level_max": "396"
+            }
+        },
+        "skillName": "Tiny Light",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Max HP by 16/20/24/28/32%. When using Basic ATK or Skill, restores all allies' HP by an amount equal to 2/2.5/3/3.5/4% of their respective Max HP."
+        },
+        "image": "https://www.prydwen.gg/static/20204a5c4751d8a8348c87d2cea362cf/bf8e1/48_sm.png"
+    },
+    {
+        "coneId": 65,
+        "name": "We Are Wildfire",
+        "slug": "we-are-wildfire",
+        "rarity": "4",
+        "source": [
+            "Echo of War",
+            "Forgotten Hall Store"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Preservation",
+        "stats": {
+            "hp": {
+                "value_level_1": "33",
+                "value_level_max": "740"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "21",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "Teary-Eyed",
+        "skillDescription": {
+            "formatted": "At the start of the battle, the DMG dealt to all allies decreases by 8/10/12/14/16% for 5 turn(s). At the same time, immediately restores HP to all allies equal to 30/35/40/45/50% of the respective HP difference between the characters' Max HP and current HP."
+        },
+        "image": "https://www.prydwen.gg/static/8230bfde3f38e2ac2adb0e201dff9257/bf8e1/65.png"
+    },
+    {
+        "coneId": 49,
+        "name": "We Will Meet Again",
+        "slug": "we-will-meet-again",
+        "rarity": "4",
+        "source": [
+            "Nameless Glory"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Nihility",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "846"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "529"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "A Discourse in Arms",
+        "skillDescription": {
+            "formatted": "After the wearer uses Basic ATK or Skill, the wearer deals 48/60/72/84/96% of ATK as additional DMG to a random enemy that is attacked by abilities."
+        },
+        "image": "https://www.prydwen.gg/static/6b122a8cf4dc3762323edfa3bda10ef1/bf8e1/49_sm.png"
+    },
+    {
+        "coneId": 110,
+        "name": "What Is Real?",
+        "slug": "what-is-real",
+        "rarity": "4",
+        "source": [
+            "Forgotten Hall Store"
+        ],
+        "releaseDate": "February 29th, 2024",
+        "path": "Abundance",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "423"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "331"
+            }
+        },
+        "skillName": "Hypothesis",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Break Effect by 24/30/36/42/48%. Wearer's Basic ATKs restore an amount equal to 2/2.5/3/3.5/4% of Max HP plus 800 for themselves."
+        },
+        "image": "https://www.prydwen.gg/static/846fb4733efeff65735367c762636f3c/bf8e1/110_sm.png"
+    },
+    {
+        "coneId": 124,
+        "name": "Whereabouts Should Dreams Rest",
+        "slug": "whereabouts-should-dreams-rest",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "June 19th, 2024",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "1164"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "529"
+            }
+        },
+        "skillName": "Metamorphosis",
+        "skillDescription": {
+            "formatted": "Increases the wearer's Break Effect by 60/70/80/90/100%. When the wearer deals Break DMG to an enemy target, inflicts Routed on the enemy, lasting for 2 turn(s). Targets afflicted with Routed receive 24/28/32/36/40% increased Break DMG from the wearer, and their SPD is lowered by 20%. Effects of the similar type cannot be stacked."
+        },
+        "image": "https://www.prydwen.gg/static/f3811cb24876b4a84122236d19c613a6/6766a/124_sm.webp"
+    },
+    {
+        "coneId": 46,
+        "name": "Woof! Walk Time!",
+        "slug": "woof-walk-time",
+        "rarity": "4",
+        "source": [
+            "Mission Reward",
+            "Forgotten Hall Store",
+            "Echo of War"
+        ],
+        "releaseDate": "April 26th, 2023",
+        "path": "Destruction",
+        "stats": {
+            "hp": {
+                "value_level_1": "43",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "21",
+                "value_level_max": "476"
+            },
+            "def": {
+                "value_level_1": "15",
+                "value_level_max": "330"
+            }
+        },
+        "skillName": "Run!",
+        "skillDescription": {
+            "formatted": "Increases the wearer's ATK by 10/12.5/15/17.5/20%, and increases their DMG to enemies afflicted with Burn or Bleed by 16/20/24/28/32%. This also applies to DoT."
+        },
+        "image": "https://www.prydwen.gg/static/bd52ad176b64a86ae3286585483c4a74/bf8e1/46_sm.png"
+    },
+    {
+        "coneId": 101,
+        "name": "Worrisome, Blissful",
+        "slug": "worrisome-blissful",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "October 27th, 2023",
+        "path": "Hunt",
+        "stats": {
+            "hp": {
+                "value_level_1": "48",
+                "value_level_max": "1058"
+            },
+            "atk": {
+                "value_level_1": "26",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "21",
+                "value_level_max": "463"
+            }
+        },
+        "skillName": "One At A Time",
+        "skillDescription": {
+            "formatted": "Increase the wearer's CRIT Rate by 18/21/24/27/30% and their follow-up attacks' DMG by 30/35/40/45/50%. After the wearer uses a follow-up attack, apply the Tame state to the target, stacking up to 2 stacks. When allies hit enemy targets under the Tame state, every Tame stack increases the CRIT DMG dealt by 12/14/16/18/20%."
+        },
+        "image": "https://www.prydwen.gg/static/7b92426ebc38dcfcccf1167c7e7bb1f7/bf8e1/84_sm.png"
+    },
+    {
+        "coneId": 125,
+        "name": "Yet Hope Is Priceless",
+        "slug": "yet-hope-is-priceless",
+        "rarity": "5",
+        "source": [
+            "Event Warp (limited)"
+        ],
+        "releaseDate": "July 10th, 2024",
+        "path": "Erudition",
+        "stats": {
+            "hp": {
+                "value_level_1": "0",
+                "value_level_max": "952"
+            },
+            "atk": {
+                "value_level_1": "0",
+                "value_level_max": "582"
+            },
+            "def": {
+                "value_level_1": "0",
+                "value_level_max": "529"
+            }
+        },
+        "skillName": "Promise",
+        "skillDescription": {
+            "formatted": "Increases the wearer's CRIT Rate by 16/19/22/25/28%. While the wearer is in battle, for every 20% CRIT DMG that exceeds 120%, the DMG dealt by follow-up attack increases by 12/14/16/18/20%. This effect can stack up to 4 time(s). When the battle starts or after the wearer uses their Basic ATK, enables Ultimate or the DMG dealt by follow-up attack to ignore 20/24/28/32/36% of the target's DEF, lasting for 2 turn(s). "
+        },
+        "image": "https://www.prydwen.gg/static/b246573361b6e806b92a28c3af275a0a/6766a/125_sm.webp"
+    }
+]
